@@ -1,0 +1,155 @@
+{
+ "STA07-SS": {
+  "v_url": "https://www.abbalightingusa.com/wp-content/uploads/2022/03/STA07-02-DLSR.png",
+  "why": "Visual review: official variant image shows a BLACK unit; replaced by official stainless STA07-02-DLSR photo"
+ },
+ "DM53-Bk 5K": {
+  "v_url": "https://www.abbalightingusa.com/wp-content/uploads/2021/06/DM53-003-TEMPLATE-JPG-3.22.2025.jpg",
+  "why": "Visual review: official variant image shows a stainless trim; replaced by official black-trim DM53-003 photo"
+ },
+ "DM53-Bk 3K": {
+  "v_url": "https://www.abbalightingusa.com/wp-content/uploads/2021/06/DM53-003-TEMPLATE-JPG-3.22.2025.jpg",
+  "why": "Visual review: official variant image shows a stainless trim; replaced by official black-trim DM53-003 photo"
+ },
+ "STBCC17-NB": {
+  "v_url": "https://www.abbalightingusa.com/wp-content/uploads/2022/11/STBCC17-TEMPLATE-006-NB-JPG-FILE-2.13.2026-10.19-AM.jpg",
+  "why": "Visual review: official variant image shows a black unit; replaced by official Natural Brass STBCC17-TEMPLATE-006-NB photo"
+ },
+ "BA15D-3.5W 5K": {
+  "v_url": "https://www.abbalightingusa.com/wp-content/uploads/2022/11/B15D-3.5W-TEMPLATE-JPG-FILE-001-2.4.2025.jpg",
+  "why": "Visual review: official variant image file is the BA15S bulb; replaced by official BA15D product photo"
+ },
+ "BA15D-3.5W 3K": {
+  "v_url": "https://www.abbalightingusa.com/wp-content/uploads/2022/11/B15D-3.5W-TEMPLATE-JPG-FILE-001-2.4.2025.jpg",
+  "why": "Visual review: official variant image file is the BA15S bulb; replaced by official BA15D product photo"
+ },
+ "STS300-2 ZONE": {
+  "v_url": "https://www.abbalightingusa.com/wp-content/uploads/2024/09/STS300-2-ZONE.jpg",
+  "why": "Visual review: official 2-zone STS300 transformer photo (STS300-2-ZONE.jpg)"
+ },
+ "STS600-2 ZONE": {
+  "v_url": "https://www.abbalightingusa.com/wp-content/uploads/2024/09/RGBcW-44.jpg",
+  "why": "Visual review: official photo of the 2-zone STS600 transformer"
+ },
+ "TM02": {
+  "v_url": "https://www.abbalightingusa.com/wp-content/uploads/2026/01/IMG-4745.webp",
+  "why": "Visual review: official TM02 product photo (main image was a dimension drawing)"
+ },
+ "STB15-DB": {
+  "v": "withhold",
+  "why": "Visual review: both official finish variants use the same image; Natural vs Dark Brass cannot be told apart"
+ },
+ "STB15-NB": {
+  "v": "withhold",
+  "why": "Visual review: both official finish variants use the same image; Natural vs Dark Brass cannot be told apart"
+ },
+ "PS6-Bk": {
+  "v": "withhold",
+  "why": "Visual review: Black and Brown variants share one image; finish cannot be confirmed"
+ },
+ "PS6-Br": {
+  "v": "withhold",
+  "why": "Visual review: Black and Brown variants share one image; finish cannot be confirmed"
+ },
+ "BPE24-DB": {
+  "v": "withhold",
+  "why": "Visual review: Dark and Natural Brass variants share one image; finish cannot be confirmed"
+ },
+ "BPE24-NB": {
+  "v": "withhold",
+  "why": "Visual review: Dark and Natural Brass variants share one image; finish cannot be confirmed"
+ },
+ "BR2-DB": {
+  "v": "withhold",
+  "why": "Visual review: official variant image (file BP2-2) shows both finishes side by side; no single-finish image"
+ },
+ "BR2-NB": {
+  "v": "withhold",
+  "why": "Visual review: official variant image (file BP2-2) shows both finishes side by side; no single-finish image"
+ },
+ "PL15 RGBW 150F": {
+  "v": "withhold",
+  "why": "Visual review: official PL15 page only has a dimension drawing / wiring diagram named PL15; product photos are named PL54 (different model), so no verified PL15 photo; main images 43.jpg/46.jpg not used in gallery (46.jpg is also the PL54 RGB main image)",
+  "drop_g": [
+   "https://www.abbalightingusa.com/wp-content/uploads/2022/11/43.jpg"
+  ]
+ },
+ "PL15 RGBW 100F": {
+  "v": "withhold",
+  "why": "Visual review: official PL15 page only has a dimension drawing / wiring diagram named PL15; product photos are named PL54 (different model), so no verified PL15 photo; main images 43.jpg/46.jpg not used in gallery (46.jpg is also the PL54 RGB main image)",
+  "drop_g": [
+   "https://www.abbalightingusa.com/wp-content/uploads/2022/11/43.jpg"
+  ]
+ },
+ "PL15 RGBW 50F": {
+  "v": "withhold",
+  "why": "Visual review: official PL15 page only has a dimension drawing / wiring diagram named PL15; product photos are named PL54 (different model), so no verified PL15 photo; main images 43.jpg/46.jpg not used in gallery (46.jpg is also the PL54 RGB main image)",
+  "drop_g": [
+   "https://www.abbalightingusa.com/wp-content/uploads/2022/11/43.jpg"
+  ]
+ },
+ "PL15 RGB 150F": {
+  "v": "withhold",
+  "why": "Visual review: official PL15 page only has a dimension drawing / wiring diagram named PL15; product photos are named PL54 (different model), so no verified PL15 photo; main images 43.jpg/46.jpg not used in gallery (46.jpg is also the PL54 RGB main image)",
+  "drop_g": [
+   "https://www.abbalightingusa.com/wp-content/uploads/2022/11/46.jpg"
+  ]
+ },
+ "PL15 RGB 100F": {
+  "v": "withhold",
+  "why": "Visual review: official PL15 page only has a dimension drawing / wiring diagram named PL15; product photos are named PL54 (different model), so no verified PL15 photo; main images 43.jpg/46.jpg not used in gallery (46.jpg is also the PL54 RGB main image)",
+  "drop_g": [
+   "https://www.abbalightingusa.com/wp-content/uploads/2022/11/46.jpg"
+  ]
+ },
+ "PL15 RGB 50F": {
+  "v": "withhold",
+  "why": "Visual review: official PL15 page only has a dimension drawing / wiring diagram named PL15; product photos are named PL54 (different model), so no verified PL15 photo; main images 43.jpg/46.jpg not used in gallery (46.jpg is also the PL54 RGB main image)",
+  "drop_g": [
+   "https://www.abbalightingusa.com/wp-content/uploads/2022/11/46.jpg"
+  ]
+ },
+ "PL15 RGB 5F": {
+  "v": "withhold",
+  "why": "Visual review: official PL15 page only has a dimension drawing / wiring diagram named PL15; product photos are named PL54 (different model), so no verified PL15 photo; main images 43.jpg/46.jpg not used in gallery (46.jpg is also the PL54 RGB main image)",
+  "drop_g": [
+   "https://www.abbalightingusa.com/wp-content/uploads/2022/11/46.jpg"
+  ]
+ },
+ "SLGC111": {
+  "v": "withhold",
+  "why": "Only official image is a dimension drawing; no product photo"
+ },
+ "UNB06-Bk": {
+  "v": "withhold",
+  "why": "Official UNB06 images labelled DB/NB show black and brass units inconsistently; a Black variant image cannot be confirmed"
+ },
+ "HC02": {
+  "v_url": "https://www.abbalightingusa.com/wp-content/uploads/2023/12/Honeycomb-MR16.webp",
+  "why": "Visual review: official HC02 main image (honeycomb louver) used; the replacement was only a dimension drawing"
+ },
+ "CDPA65-Br": {
+  "v_url": "https://www.abbalightingusa.com/wp-content/uploads/2021/06/CDPA65-BRWN-scaled.jpg",
+  "why": "Visual review: official Brown variant image (CDPA65-BR-2) looks dark grey/black; official main image CDPA65-BRWN shows the brown unit"
+ },
+ "DL01-Bk": {
+  "v_url": "https://www.abbalightingusa.com/wp-content/uploads/2021/06/DL01-TEMPLATE-001-JPG-FILE-1.30.2025.jpg",
+  "why": "Visual review: official Black variant image (DL01BK-1) shows a dark-brown unit; replaced by an official clearly black DL01 photo"
+ },
+ "DL02-Bk": {
+  "v_url": "https://www.abbalightingusa.com/wp-content/uploads/2021/06/DL02-TEMPLATE-JPG-FILE-005-2.1.2025.jpg",
+  "why": "Visual review: official Black variant image (DL02BK-1) shows a dark-brown unit; replaced by an official clearly black DL02 photo"
+ },
+ "FPBCC04-DB": {
+  "v_url": "https://www.abbalightingusa.com/wp-content/uploads/2022/11/FPBCC04-TEMPLATE-007-JPG-FILE-4.2.2026-12.41-PM.jpg",
+  "why": "Official Dark Brass variant image is only 150x150 px; replaced by an official full-size photo of the dark-finish FPBCC04"
+ },
+ "BRL2-DB": {
+  "v": "withhold",
+  "why": "Visual review: official BRL2 Dark/Natural Brass variant images do not clearly match their finishes (NB variant file is named BLK); finish cannot be confirmed"
+ },
+ "BRL2-NB": {
+  "v": "withhold",
+  "why": "Visual review: official BRL2 Dark/Natural Brass variant images do not clearly match their finishes (NB variant file is named BLK); finish cannot be confirmed"
+ }
+}

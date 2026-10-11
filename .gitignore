@@ -1,0 +1,4 @@
+work/abba/cache/
+__pycache__/
+work/abba/store_p*.json
+work/abba/pages/
