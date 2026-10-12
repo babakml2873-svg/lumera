@@ -31,10 +31,21 @@ overrides = json.load(open(W / "overrides.json")) if (W / "overrides.json").exis
 config = json.load(open(W / "config.json")) if (W / "config.json").exists() else {}
 
 # ---------------------------------------------------------------- index
+BAD_NAME = re.compile(config.get("bad_name_regex", r"placeholder|coming[-_ ]?soon|no[-_]?image|noimage|image[-_]not|"
+                                               r"_ph[_.]|[-_]ph\.|award|badge|logo|text_?image|image_?with_?text|infographic"), re.I)
+EXTRA_BAD = re.compile(config["extra_bad_name_regex"], re.I) if config.get("extra_bad_name_regex") else None
+
+
+def bad_name(u):  # non-product graphics: placeholders, badges, infographics, brand marketing images
+    n = u.split("/")[-1].split("?")[0]
+    return bool(BAD_NAME.search(n) or (EXTRA_BAD and EXTRA_BAD.search(n)))
+
+
 products = []
 for prio, c in enumerate(cats):
     for p in json.load(open(c)):
         p["_prio"] = prio
+        p["images"] = [im for im in p["images"] if not bad_name(im["url"])]  # before any main-image choice
         products.append(p)
 idx = defaultdict(list)
 for p in products:
@@ -176,14 +187,12 @@ for r in rows:
 print(brand, "rows", len(plan), Counter(bool(r["v"]) for r in plan), "matched", sum(1 for r in plan if r["resolution"]))
 
 # ---------------------------------------------------------------- placeholders / non-product graphics
-BAD_NAME = re.compile(config.get("bad_name_regex", r"placeholder|coming[-_ ]?soon|no[-_]?image|noimage|image[-_]not|"
-                                               r"_ph[_.]|[-_]ph\.|award|badge|logo|text_?image|image_?with_?text|infographic"), re.I)
 PLACEHOLDERS = {imagehash.hex_to_hash(h) for h in json.load(open(WORK / "_all" / "placeholders.json"))}
 for rec in plan:
-    if rec["v"] and BAD_NAME.search(rec["v"]["url"].split("/")[-1]):
+    if rec["v"] and bad_name(rec["v"]["url"]):
         rec["v_withheld"] = "source image is a placeholder/non-product graphic (" + rec["v"]["url"].split("/")[-1] + ")"
         rec["v"] = None
-    rec["g"] = [g for g in rec["g"] if not BAD_NAME.search(g["url"].split("/")[-1])]
+    rec["g"] = [g for g in rec["g"] if not bad_name(g["url"])]
 
 # ---------------------------------------------------------------- download
 urls = [r["v"]["url"] for r in plan if r["v"]] + [g["url"] for r in plan for g in r["g"]]
