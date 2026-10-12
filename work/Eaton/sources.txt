@@ -1,0 +1,1 @@
+eaton.com (official; Cutler-Hammer is an Eaton brand): product page skuPage.<SKU>.html per SKU, JSON-LD sku must equal the list SKU; images = the page's product image assets, downloaded full size from Eaton's image server dynamicmedia.eaton.com. Pages fetched at robots.txt Crawl-delay (20 s).
