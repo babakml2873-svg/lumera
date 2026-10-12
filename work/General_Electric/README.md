@@ -1,17 +1,17 @@
 # General Electric — product images
 
-Brand General Electric: 160 SKUs in the product lists. Variant images were delivered for **150 SKUs (93.8%)**, plus **316 gallery images** (max 4 per SKU).
+Brand General Electric: 160 SKUs in the product lists. Variant images were delivered for **142 SKUs (88.8%)**, plus **310 gallery images** (max 4 per SKU).
 
 | List | SKUs | Variant images | Gallery images |
 |---|---|---|---|
 | List_1 | 0 | 0 | 0 |
-| List_2 | 160 | 150 | 316 |
+| List_2 | 160 | 142 | 310 |
 | List_3 | 0 | 0 | 0 |
 | List_4 | 0 | 0 | 0 |
 
-* 111 of the variant images are Medium confidence (`OK-REVIEW-RECOMMENDED`), see `Reports/review_queue.csv`.
+* 101 of the variant images are Medium confidence (`OK-REVIEW-RECOMMENDED`), see `Reports/review_queue.csv`.
 * Every file was checked by script: 800×800 px JPG, ≤ 100,000 bytes, `SKU-V.jpg` / `SKU-G-NN.jpg`.
-* Image sources (files): superbreakers.com (464), breakeroutlet.com (2). No Lumera Electric source was used.
+* Image sources (files): superbreakers.com (450), breakeroutlet.com (2). No Lumera Electric source was used.
 
 ## Sources searched
 
@@ -30,6 +30,14 @@ geindustrial.com fails (certificate error); the official ABB eCatalog (empower.a
 |---|---|
 | Source product has no images | 6 |
 | No exact SKU match in the harvested source catalog(s) | 4 |
+| source photo is of THQB1120 (re-used by the source for this SKU) - not used | 1 |
+| source photo is of THQB32015 (re-used by the source for this SKU) - not used | 1 |
+| source photo is of THQB32025 (re-used by the source for this SKU) - not used | 1 |
+| source photo is of THQB32020 (re-used by the source for this SKU) - not used | 1 |
+| source photo is of THQB32100 (re-used by the source for this SKU) - not used | 1 |
+| source photo is of THQB32050 (re-used by the source for this SKU) - not used | 1 |
+| source photo is of THQB32060 (re-used by the source for this SKU) - not used | 1 |
+| source photo is of THQB32030 (re-used by the source for this SKU) - not used | 1 |
 
 ## Brand-specific notes
 

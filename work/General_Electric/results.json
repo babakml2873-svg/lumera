@@ -424,12 +424,12 @@
   "sku": "THHQB1120",
   "nsku": "THHQB1120",
   "type": "V",
-  "file": "THHQB1120-V.jpg",
+  "file": "",
   "url": "https://cdn.shopify.com/s/files/1/0733/6978/0537/files/THQB1120-1-Pole-Circuit-Breaker_GE-1_8a144f0d-6fae-42a1-986f-70362cf68bb1.jpg",
   "page": "https://superbreakers.com/products/general-electric-thhqb1120-20-amp",
   "origin": "superbreakers.com",
   "info": {
-   "status": "OK",
+   "status": "WITHHELD",
    "cls": 1,
    "phash": "b0cccecccf319931",
    "q": 88,
@@ -438,73 +438,8 @@
     3840
    ],
    "scale": 0.20833333333333334,
-   "notes": []
-  }
- },
- {
-  "list": "List_2",
-  "sku": "THHQB1120",
-  "nsku": "THHQB1120",
-  "type": "G",
-  "file": "THHQB1120-G-01.jpg",
-  "url": "https://cdn.shopify.com/s/files/1/0733/6978/0537/files/THQB1120-1-Pole-Circuit-Breaker_GE-2_928a29b6-e287-487b-b201-c2da2a28e7af.jpg",
-  "page": "https://superbreakers.com/products/general-electric-thhqb1120-20-amp",
-  "origin": "superbreakers.com",
-  "info": {
-   "status": "OK",
-   "cls": 1,
-   "phash": "e4999bcd8a668c66",
-   "q": 88,
-   "src_px": [
-    3840,
-    3840
-   ],
-   "scale": 0.20833333333333334,
-   "notes": []
-  }
- },
- {
-  "list": "List_2",
-  "sku": "THHQB1120",
-  "nsku": "THHQB1120",
-  "type": "G",
-  "file": "THHQB1120-G-02.jpg",
-  "url": "https://cdn.shopify.com/s/files/1/0733/6978/0537/files/THQB1120-1-Pole-Circuit-Breaker_GE-3_7fdef59d-689a-4539-bbb5-1306bef0e52c.jpg",
-  "page": "https://superbreakers.com/products/general-electric-thhqb1120-20-amp",
-  "origin": "superbreakers.com",
-  "info": {
-   "status": "OK",
-   "cls": 2,
-   "phash": "b602db028b33cc7f",
-   "q": 88,
-   "src_px": [
-    3840,
-    3840
-   ],
-   "scale": 0.20833333333333334,
-   "notes": []
-  }
- },
- {
-  "list": "List_2",
-  "sku": "THHQB1120",
-  "nsku": "THHQB1120",
-  "type": "G",
-  "file": "THHQB1120-G-03.jpg",
-  "url": "https://cdn.shopify.com/s/files/1/0733/6978/0537/files/THQB1120-1-Pole-Circuit-Breaker_GE-4_d7095891-9faf-4230-890e-6f5cd699ebb3.jpg",
-  "page": "https://superbreakers.com/products/general-electric-thhqb1120-20-amp",
-  "origin": "superbreakers.com",
-  "info": {
-   "status": "OK",
-   "cls": 2,
-   "phash": "abd2850c7db0a1b7",
-   "q": 88,
-   "src_px": [
-    3840,
-    3840
-   ],
-   "scale": 0.20833333333333334,
-   "notes": []
+   "notes": [],
+   "why": "source photo is of THQB1120 (re-used by the source for this SKU) - not used"
   }
  },
  {
@@ -800,12 +735,12 @@
   "sku": "THHQB32015",
   "nsku": "THHQB32015",
   "type": "V",
-  "file": "THHQB32015-V.jpg",
+  "file": "",
   "url": "https://cdn.shopify.com/s/files/1/0733/6978/0537/files/THQB32015-3-Pole-Circuit-Breaker_General-Electric_1_8f7c3e57-a43d-4051-8186-4fd268556bd8.jpg",
   "page": "https://superbreakers.com/products/general-electric-thhqb32015-15-amp",
   "origin": "superbreakers.com",
   "info": {
-   "status": "OK",
+   "status": "WITHHELD",
    "cls": 1,
    "phash": "bdc3c0d2d23d872c",
    "q": 88,
@@ -814,7 +749,8 @@
     3840
    ],
    "scale": 0.20833333333333334,
-   "notes": []
+   "notes": [],
+   "why": "source photo is of THQB32015 (re-used by the source for this SKU) - not used"
   }
  },
  {
@@ -888,12 +824,12 @@
   "sku": "THHQB32025",
   "nsku": "THHQB32025",
   "type": "V",
-  "file": "THHQB32025-V.jpg",
+  "file": "",
   "url": "https://cdn.shopify.com/s/files/1/0733/6978/0537/files/THQB32025-3-Pole-Circuit-Breaker_General-Electric_1_3546f1a0-5f40-4c58-a496-59457644b243.jpg",
   "page": "https://superbreakers.com/products/general-electric-thhqb32025-25-amp",
   "origin": "superbreakers.com",
   "info": {
-   "status": "OK",
+   "status": "WITHHELD",
    "cls": 1,
    "phash": "bdc3c0d2d23d872c",
    "q": 88,
@@ -902,7 +838,8 @@
     3840
    ],
    "scale": 0.20833333333333334,
-   "notes": []
+   "notes": [],
+   "why": "source photo is of THQB32025 (re-used by the source for this SKU) - not used"
   }
  },
  {
@@ -1676,12 +1613,12 @@
   "sku": "THHQB32020",
   "nsku": "THHQB32020",
   "type": "V",
-  "file": "THHQB32020-V.jpg",
+  "file": "",
   "url": "https://cdn.shopify.com/s/files/1/0733/6978/0537/files/THQB32020-3-Pole-Circuit-Breaker_General-Electric_1_b3a0fb89-df55-49d5-9a4f-8d5ae719deea.jpg",
   "page": "https://superbreakers.com/products/general-electric-thhqb32020-20-amp",
   "origin": "superbreakers.com",
   "info": {
-   "status": "OK",
+   "status": "WITHHELD",
    "cls": 1,
    "phash": "bdc3c0d2c23d872d",
    "q": 88,
@@ -1690,73 +1627,8 @@
     3840
    ],
    "scale": 0.20833333333333334,
-   "notes": []
-  }
- },
- {
-  "list": "List_2",
-  "sku": "THHQB32020",
-  "nsku": "THHQB32020",
-  "type": "G",
-  "file": "THHQB32020-G-01.jpg",
-  "url": "https://cdn.shopify.com/s/files/1/0733/6978/0537/files/THQB320203PoleCircuitBreaker_GeneralElectric_2_5da92965-6ff0-48d1-977b-99aa3cd964ce.jpg",
-  "page": "https://superbreakers.com/products/general-electric-thhqb32020-20-amp",
-  "origin": "superbreakers.com",
-  "info": {
-   "status": "OK",
-   "cls": 1,
-   "phash": "eb8795689668ca39",
-   "q": 88,
-   "src_px": [
-    3840,
-    3840
-   ],
-   "scale": 0.20833333333333334,
-   "notes": []
-  }
- },
- {
-  "list": "List_2",
-  "sku": "THHQB32020",
-  "nsku": "THHQB32020",
-  "type": "G",
-  "file": "THHQB32020-G-02.jpg",
-  "url": "https://cdn.shopify.com/s/files/1/0733/6978/0537/files/THQB320203PoleCircuitBreaker_GeneralElectric_3_b1c44d5d-f804-4092-846c-ffcff78cd3cb.jpg",
-  "page": "https://superbreakers.com/products/general-electric-thhqb32020-20-amp",
-  "origin": "superbreakers.com",
-  "info": {
-   "status": "OK",
-   "cls": 2,
-   "phash": "aad4ed5bf132a405",
-   "q": 82,
-   "src_px": [
-    3840,
-    3840
-   ],
-   "scale": 0.20833333333333334,
-   "notes": []
-  }
- },
- {
-  "list": "List_2",
-  "sku": "THHQB32020",
-  "nsku": "THHQB32020",
-  "type": "G",
-  "file": "THHQB32020-G-03.jpg",
-  "url": "https://cdn.shopify.com/s/files/1/0733/6978/0537/files/THQB320203PoleCircuitBreaker_GeneralElectric_4_b914cb1c-5fab-48e8-ac04-f2170f2a8c58.jpg",
-  "page": "https://superbreakers.com/products/general-electric-thhqb32020-20-amp",
-  "origin": "superbreakers.com",
-  "info": {
-   "status": "OK",
-   "cls": 2,
-   "phash": "d6bc383ce34bc1c4",
-   "q": 80,
-   "src_px": [
-    3840,
-    3840
-   ],
-   "scale": 0.20833333333333334,
-   "notes": []
+   "notes": [],
+   "why": "source photo is of THQB32020 (re-used by the source for this SKU) - not used"
   }
  },
  {
@@ -3431,12 +3303,12 @@
   "sku": "THHQB32100",
   "nsku": "THHQB32100",
   "type": "V",
-  "file": "THHQB32100-V.jpg",
+  "file": "",
   "url": "https://cdn.shopify.com/s/files/1/0733/6978/0537/files/THQB32100-3-Pole-Circuit-Breaker_General-Electric_1_8196cf59-60fa-4545-8b92-b1d2e211e34b.jpg",
   "page": "https://superbreakers.com/products/general-electric-thhqb32100-100-amp",
   "origin": "superbreakers.com",
   "info": {
-   "status": "OK",
+   "status": "WITHHELD",
    "cls": 1,
    "phash": "bdc3c0d2c23d872d",
    "q": 88,
@@ -3445,7 +3317,8 @@
     3840
    ],
    "scale": 0.20833333333333334,
-   "notes": []
+   "notes": [],
+   "why": "source photo is of THQB32100 (re-used by the source for this SKU) - not used"
   }
  },
  {
@@ -3607,12 +3480,12 @@
   "sku": "THHQB32050",
   "nsku": "THHQB32050",
   "type": "V",
-  "file": "THHQB32050-V.jpg",
+  "file": "",
   "url": "https://cdn.shopify.com/s/files/1/0733/6978/0537/files/THQB32050-3-Pole-Circuit-Breaker_General-Electric_1_95bf397e-6a21-440c-b530-f5d578d730fc.jpg",
   "page": "https://superbreakers.com/products/general-electric-thhqb32050-50-amp",
   "origin": "superbreakers.com",
   "info": {
-   "status": "OK",
+   "status": "WITHHELD",
    "cls": 1,
    "phash": "bdc3c0d2c23d872d",
    "q": 88,
@@ -3621,7 +3494,8 @@
     3840
    ],
    "scale": 0.20833333333333334,
-   "notes": []
+   "notes": [],
+   "why": "source photo is of THQB32050 (re-used by the source for this SKU) - not used"
   }
  },
  {
@@ -5099,12 +4973,12 @@
   "sku": "THHQB32060",
   "nsku": "THHQB32060",
   "type": "V",
-  "file": "THHQB32060-V.jpg",
+  "file": "",
   "url": "https://cdn.shopify.com/s/files/1/0733/6978/0537/files/THQB32060-3-Pole-Circuit-Breaker_General-Electric_1_a8e449ae-c574-470e-9163-e06025b5f6bf.jpg",
   "page": "https://superbreakers.com/products/general-electric-thhqb32060-60-amp",
   "origin": "superbreakers.com",
   "info": {
-   "status": "OK",
+   "status": "WITHHELD",
    "cls": 1,
    "phash": "bdc3c0d2c23d872d",
    "q": 88,
@@ -5113,7 +4987,8 @@
     3840
    ],
    "scale": 0.20833333333333334,
-   "notes": []
+   "notes": [],
+   "why": "source photo is of THQB32060 (re-used by the source for this SKU) - not used"
   }
  },
  {
@@ -6497,12 +6372,12 @@
   "sku": "THHQB32030",
   "nsku": "THHQB32030",
   "type": "V",
-  "file": "THHQB32030-V.jpg",
+  "file": "",
   "url": "https://cdn.shopify.com/s/files/1/0733/6978/0537/files/THQB32030-3-Pole-Circuit-Breaker_General-Electric_1_fa947065-08a3-4e09-8603-bc9c477b968b.jpg",
   "page": "https://superbreakers.com/products/general-electric-thhqb32030-30-amp",
   "origin": "superbreakers.com",
   "info": {
-   "status": "OK",
+   "status": "WITHHELD",
    "cls": 1,
    "phash": "bdc3c0d2d23d872c",
    "q": 88,
@@ -6511,7 +6386,8 @@
     3840
    ],
    "scale": 0.20833333333333334,
-   "notes": []
+   "notes": [],
+   "why": "source photo is of THQB32030 (re-used by the source for this SKU) - not used"
   }
  },
  {

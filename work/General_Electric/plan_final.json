@@ -190,8 +190,8 @@
   "nsku": "THHQB1120",
   "product": "ABB / General Electric THHQB1120 - 20A 1 Pole Miniature Circuit Breaker",
   "page": "https://superbreakers.com/products/general-electric-thhqb1120-20-amp",
-  "conf": "Medium",
-  "note": "Exact source SKU 'THHQB1120' [New]; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (THQB1115, THQB1120, THQB1125, THQB1130, THQB1150) - series/family photo, printed ratings or details may differ",
+  "conf": "High",
+  "note": "Exact source SKU 'THHQB1120' [New]; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@superbreakers.com",
   "v": {
@@ -216,7 +216,8 @@
     "page": "https://superbreakers.com/products/general-electric-thhqb1120-20-amp",
     "origin": "superbreakers.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of THQB1120 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -295,8 +296,8 @@
   "nsku": "THQC32020WL",
   "product": "ABB / General Electric THQC32020WL - 20A 3 Pole Molded Case Circuit Breaker",
   "page": "https://superbreakers.com/products/general-electric-thqc32020wl-20-amp",
-  "conf": "Medium",
-  "note": "Exact source SKU 'THQC32020WL' [New]; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (THQC32080WL) - series/family photo, printed ratings or details may differ",
+  "conf": "High",
+  "note": "Exact source SKU 'THQC32020WL' [New]; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@superbreakers.com",
   "v": {
@@ -349,8 +350,8 @@
   "nsku": "THHQB32015",
   "product": "ABB / General Electric THHQB32015 - 15A 3 Pole Miniature Circuit Breaker",
   "page": "https://superbreakers.com/products/general-electric-thhqb32015-15-amp",
-  "conf": "Medium",
-  "note": "Exact source SKU 'THHQB32015' [New]; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (THHQB32020, THHQB32025, THHQB32030, THHQB32050, THHQB32060 +13 more) - series/family photo, printed ratings or details may differ",
+  "conf": "High",
+  "note": "Exact source SKU 'THHQB32015' [New]; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@superbreakers.com",
   "v": {
@@ -375,7 +376,8 @@
     "page": "https://superbreakers.com/products/general-electric-thhqb32015-15-amp",
     "origin": "superbreakers.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of THQB32015 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -384,8 +386,8 @@
   "nsku": "THHQB32025",
   "product": "ABB / General Electric THHQB32025 - 25A 3 Pole Miniature Circuit Breaker",
   "page": "https://superbreakers.com/products/general-electric-thhqb32025-25-amp",
-  "conf": "Medium",
-  "note": "Exact source SKU 'THHQB32025' [New]; source uses this same photo for other products (THHQB32015, THHQB32020, THHQB32030, THHQB32050, THHQB32060 +13 more) - series/family photo, printed ratings or details may differ",
+  "conf": "High",
+  "note": "Exact source SKU 'THHQB32025' [New]",
   "review": "",
   "resolution": "exact-SKU@superbreakers.com",
   "v": {
@@ -410,7 +412,8 @@
     "page": "https://superbreakers.com/products/general-electric-thhqb32025-25-amp",
     "origin": "superbreakers.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of THQB32025 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -849,8 +852,8 @@
   "nsku": "THHQB32020",
   "product": "ABB / General Electric THHQB32020 - 20A 3 Pole Miniature Circuit Breaker",
   "page": "https://superbreakers.com/products/general-electric-thhqb32020-20-amp",
-  "conf": "Medium",
-  "note": "Exact source SKU 'THHQB32020' [New]; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (THHQB32015, THHQB32025, THHQB32030, THHQB32050, THHQB32060 +13 more) - series/family photo, printed ratings or details may differ",
+  "conf": "High",
+  "note": "Exact source SKU 'THHQB32020' [New]; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@superbreakers.com",
   "v": {
@@ -875,7 +878,8 @@
     "page": "https://superbreakers.com/products/general-electric-thhqb32020-20-amp",
     "origin": "superbreakers.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of THQB32020 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -1670,8 +1674,8 @@
   "nsku": "THHQB32100",
   "product": "ABB / General Electric THHQB32100 - 100A 3 Pole Miniature Circuit Breaker",
   "page": "https://superbreakers.com/products/general-electric-thhqb32100-100-amp",
-  "conf": "Medium",
-  "note": "Exact source SKU 'THHQB32100' [New]; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (THHQB32015, THHQB32020, THHQB32025, THHQB32030, THHQB32050 +13 more) - series/family photo, printed ratings or details may differ",
+  "conf": "High",
+  "note": "Exact source SKU 'THHQB32100' [New]; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@superbreakers.com",
   "v": {
@@ -1696,7 +1700,8 @@
     "page": "https://superbreakers.com/products/general-electric-thhqb32100-100-amp",
     "origin": "superbreakers.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of THQB32100 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -1740,8 +1745,8 @@
   "nsku": "THHQB32050",
   "product": "ABB / General Electric THHQB32050 - 50A 3 Pole Miniature Circuit Breaker",
   "page": "https://superbreakers.com/products/general-electric-thhqb32050-50-amp",
-  "conf": "Medium",
-  "note": "Exact source SKU 'THHQB32050' [New]; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (THHQB32015, THHQB32020, THHQB32025, THHQB32030, THHQB32060 +13 more) - series/family photo, printed ratings or details may differ",
+  "conf": "High",
+  "note": "Exact source SKU 'THHQB32050' [New]; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@superbreakers.com",
   "v": {
@@ -1766,7 +1771,8 @@
     "page": "https://superbreakers.com/products/general-electric-thhqb32050-50-amp",
     "origin": "superbreakers.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of THQB32050 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -2470,8 +2476,8 @@
   "nsku": "THHQB32060",
   "product": "ABB / General Electric THHQB32060 - 60A 3 Pole Miniature Circuit Breaker",
   "page": "https://superbreakers.com/products/general-electric-thhqb32060-60-amp",
-  "conf": "Medium",
-  "note": "Exact source SKU 'THHQB32060' [New]; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (THHQB32015, THHQB32020, THHQB32025, THHQB32030, THHQB32050 +13 more) - series/family photo, printed ratings or details may differ",
+  "conf": "High",
+  "note": "Exact source SKU 'THHQB32060' [New]; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@superbreakers.com",
   "v": {
@@ -2496,7 +2502,8 @@
     "page": "https://superbreakers.com/products/general-electric-thhqb32060-60-amp",
     "origin": "superbreakers.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of THQB32060 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -3080,8 +3087,8 @@
   "nsku": "THHQB32030",
   "product": "ABB / General Electric THHQB32030 - 30A 3 Pole Miniature Circuit Breaker",
   "page": "https://superbreakers.com/products/general-electric-thhqb32030-30-amp",
-  "conf": "Medium",
-  "note": "Exact source SKU 'THHQB32030' [New]; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (THHQB32015, THHQB32020, THHQB32025, THHQB32050, THHQB32060 +13 more) - series/family photo, printed ratings or details may differ",
+  "conf": "High",
+  "note": "Exact source SKU 'THHQB32030' [New]; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@superbreakers.com",
   "v": {
@@ -3106,7 +3113,8 @@
     "page": "https://superbreakers.com/products/general-electric-thhqb32030-30-amp",
     "origin": "superbreakers.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of THQB32030 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -3606,8 +3614,8 @@
   "nsku": "SELA36AT0100",
   "product": "General Electric SELA36AT0100 Frame",
   "page": "https://superbreakers.com/products/general-electric-sela36at0100-frame",
-  "conf": "Medium",
-  "note": "Exact source SKU 'SELA36AT0100' [New]; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (SELA36AT0030) - series/family photo, printed ratings or details may differ",
+  "conf": "High",
+  "note": "Exact source SKU 'SELA36AT0100' [New]; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@superbreakers.com",
   "v": {
