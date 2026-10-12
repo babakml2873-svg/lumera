@@ -1,0 +1,4 @@
+Westgate rows 5115 Counter({True: 3787, False: 1328}) matched 4602
+downloaded 5765 of 5765
+images Counter({('V', 'OK'): 3747, ('G', 'OK'): 1764, ('V', 'FAILED'): 40})
+QA sheet /tmp/claude-0/-home-user-lumera/fce5ed22-7126-5cd2-b6fe-945da1cbcd6a/scratchpad/qa/Westgate_V_sample.jpg

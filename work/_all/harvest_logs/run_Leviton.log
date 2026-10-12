@@ -1,2 +1,4 @@
 Leviton rows 4113 Counter({True: 4101, False: 12}) matched 4101
 downloaded 4086 of 4089
+images Counter({('V', 'OK'): 4081, ('V', 'FAILED'): 19})
+QA sheet /tmp/claude-0/-home-user-lumera/fce5ed22-7126-5cd2-b6fe-945da1cbcd6a/scratchpad/qa/Leviton_V_sample.jpg

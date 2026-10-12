@@ -1,0 +1,5 @@
+Cutler Hammer rows 218 Counter({True: 211, False: 7}) matched 216
+downloaded 399 of 399
+shared series photos flagged 149
+images Counter({('G', 'OK'): 305, ('V', 'OK'): 174, ('V', 'WITHHELD'): 37})
+QA sheet /tmp/claude-0/-home-user-lumera/fce5ed22-7126-5cd2-b6fe-945da1cbcd6a/scratchpad/qa/Cutler_Hammer_V_sample.jpg

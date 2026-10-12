@@ -1,0 +1,4 @@
+UMAGE rows 646 Counter({True: 626, False: 20}) matched 626
+downloaded 199 of 199
+images Counter({('V', 'OK'): 626, ('G', 'OK'): 15})
+QA sheet /tmp/claude-0/-home-user-lumera/fce5ed22-7126-5cd2-b6fe-945da1cbcd6a/scratchpad/qa/UMAGE_V_sample.jpg

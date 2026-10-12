@@ -20,6 +20,24 @@ from common import OUT, WORK, brand_dir, match_key, slug
 NOTE = "source uses this same photo for other products"
 
 
+def drop_other_gallery(results, v, other_key, bdir, delete):
+    """Gallery images of a SKU whose file name is the other SKU's are that variant's photos too: remove them and
+    renumber the remaining G files of the SKU (SKU-G-01, -02 ...)."""
+    gs = [r for r in results if r["type"] == "G" and r["file"] and (r["list"], r["sku"]) == (v["list"], v["sku"])]
+    for r in gs:
+        if other_key in match_key(r["url"].split("?")[0].split("/")[-1]):
+            if delete:
+                (OUT / r["list"] / bdir / r["file"]).unlink(missing_ok=True)
+            results.remove(r)
+    keep = sorted((r for r in gs if r in results), key=lambda r: r["file"])
+    for k, r in enumerate(keep, 1):
+        fn = f"{r['nsku']}-G-{k:02d}.jpg"
+        if fn != r["file"]:
+            if delete:
+                (OUT / r["list"] / bdir / r["file"]).rename(OUT / r["list"] / bdir / fn)
+            r["file"] = fn
+
+
 def flag_shared(plan, results, bdir, max_dist=2, delete=True):
     v = [r for r in results if r["type"] == "V" and r["file"]]
     sig = {}
@@ -61,6 +79,7 @@ def flag_shared(plan, results, bdir, max_dist=2, delete=True):
                     (OUT / r["list"] / bdir / r["file"]).unlink(missing_ok=True)
                 r["file"] = ""; r["info"] = dict(r["info"], status="WITHHELD", why=why)
                 rec["v_withheld"] = why
+                drop_other_gallery(results, r, match_key(named[0]), bdir, delete)
             else:
                 shown = ", ".join(others[:5]) + (f" +{len(others) - 5} more" if len(others) > 5 else "")
                 rec["note"] += f"; {NOTE} ({shown}) - series/family photo, printed ratings or details may differ"
