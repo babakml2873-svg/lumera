@@ -1,1 +1,4 @@
 General Electric rows 160 Counter({True: 150, False: 10}) matched 156
+downloaded 466 of 466
+images Counter({('G', 'OK'): 316, ('V', 'OK'): 150})
+QA sheet /tmp/claude-0/-home-user-lumera/fce5ed22-7126-5cd2-b6fe-945da1cbcd6a/scratchpad/qa/General_Electric_V_sample.jpg
