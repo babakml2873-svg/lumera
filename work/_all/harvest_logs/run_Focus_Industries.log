@@ -1,2 +1,4 @@
 Focus Industries rows 2663 Counter({False: 2540, True: 123}) matched 2342
 downloaded 776 of 792
+images Counter({('G', 'OK'): 4300, ('V', 'OK'): 120, ('V', 'FAILED'): 3})
+QA sheet /tmp/claude-0/-home-user-lumera/fce5ed22-7126-5cd2-b6fe-945da1cbcd6a/scratchpad/qa/Focus_Industries_V_sample.jpg
