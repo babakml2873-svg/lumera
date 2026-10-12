@@ -7,7 +7,7 @@
   "product": "CHF120ST | Eaton CH thermal magnetic circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.CHF120ST.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'CHF120ST'; the source shows a product-family image on this SKU's page (asset CHF120_R, CH120GF_R), not one named for this exact SKU; source uses this same photo for other products (CHF120) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'CHF120ST'; the source shows a product-family image on this SKU's page (asset CHF120_R, CH120GF_R), not one named for this exact SKU",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -22,7 +22,8 @@
     "page": "https://www.eaton.com/us/en-us/skuPage.CHF120ST.html",
     "origin": "eaton.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of CHF120 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -131,7 +132,7 @@
   "product": "BRN240GF | Eaton BR GFCI circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.BRN240GF.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'BRN240GF'; the source shows a product-family image on this SKU's page (asset BRN220GF_C), not one named for this exact SKU; source uses this same photo for other products (BRN215GF, BRN220GF, BRN230GF, BRN250GF) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'BRN240GF'; the source shows a product-family image on this SKU's page (asset BRN220GF_C), not one named for this exact SKU",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -140,7 +141,8 @@
    "origin": "eaton.com",
    "kind": "product main image"
   },
-  "g": []
+  "g": [],
+  "v_withheld": "source photo is of BRN220GF (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -234,7 +236,7 @@
   "product": "BRN215GF | Eaton BR GFCI circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.BRN215GF.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'BRN215GF'; the source shows a product-family image on this SKU's page (asset BRN220GF_C), not one named for this exact SKU; source uses this same photo for other products (BRN220GF, BRN230GF, BRN240GF, BRN250GF) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'BRN215GF'; the source shows a product-family image on this SKU's page (asset BRN220GF_C), not one named for this exact SKU",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -243,7 +245,8 @@
    "origin": "eaton.com",
    "kind": "product main image"
   },
-  "g": []
+  "g": [],
+  "v_withheld": "source photo is of BRN220GF (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -252,8 +255,8 @@
   "nsku": "BRN220GF",
   "product": "BRN220GF | Eaton BR GFCI circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.BRN220GF.html",
-  "conf": "Medium",
-  "note": "Exact source SKU 'BRN220GF'; source uses this same photo for other products (BRN215GF, BRN230GF, BRN240GF, BRN250GF) - series/family photo, printed ratings or details may differ",
+  "conf": "High",
+  "note": "Exact source SKU 'BRN220GF'",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -419,7 +422,7 @@
   "product": "BRN230GF | Eaton BR GFCI circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.BRN230GF.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'BRN230GF'; the source shows a product-family image on this SKU's page (asset BRN220GF_C), not one named for this exact SKU; source uses this same photo for other products (BRN215GF, BRN220GF, BRN240GF, BRN250GF) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'BRN230GF'; the source shows a product-family image on this SKU's page (asset BRN220GF_C), not one named for this exact SKU",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -428,7 +431,8 @@
    "origin": "eaton.com",
    "kind": "product main image"
   },
-  "g": []
+  "g": [],
+  "v_withheld": "source photo is of BRN220GF (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -707,7 +711,7 @@
   "product": "BRN250GF | Eaton BR GFCI circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.BRN250GF.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'BRN250GF'; the source shows a product-family image on this SKU's page (asset BRN220GF_C), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (BRN215GF, BRN220GF, BRN230GF, BRN240GF) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'BRN250GF'; the source shows a product-family image on this SKU's page (asset BRN220GF_C), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -716,7 +720,8 @@
    "origin": "eaton.com",
    "kind": "product main image"
   },
-  "g": []
+  "g": [],
+  "v_withheld": "source photo is of BRN220GF (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -725,8 +730,8 @@
   "nsku": "CHF120",
   "product": "CHF120 | Eaton CH thermal magnetic circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.CHF120.html",
-  "conf": "Medium",
-  "note": "Exact source SKU 'CHF120'; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (CHF120ST) - series/family photo, printed ratings or details may differ",
+  "conf": "High",
+  "note": "Exact source SKU 'CHF120'; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {

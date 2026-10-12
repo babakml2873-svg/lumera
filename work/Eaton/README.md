@@ -1,17 +1,17 @@
 # Eaton — product images
 
-Brand Eaton: 65 SKUs in the product lists. Variant images were delivered for **58 SKUs (89.2%)**, plus **68 gallery images** (max 4 per SKU).
+Brand Eaton: 65 SKUs in the product lists. Variant images were delivered for **53 SKUs (81.5%)**, plus **68 gallery images** (max 4 per SKU).
 
 | List | SKUs | Variant images | Gallery images |
 |---|---|---|---|
 | List_1 | 0 | 0 | 0 |
-| List_2 | 65 | 58 | 68 |
+| List_2 | 65 | 53 | 68 |
 | List_3 | 0 | 0 | 0 |
 | List_4 | 0 | 0 | 0 |
 
-* 31 of the variant images are Medium confidence (`OK-REVIEW-RECOMMENDED`), see `Reports/review_queue.csv`.
+* 24 of the variant images are Medium confidence (`OK-REVIEW-RECOMMENDED`), see `Reports/review_queue.csv`.
 * Every file was checked by script: 800×800 px JPG, ≤ 100,000 bytes, `SKU-V.jpg` / `SKU-G-NN.jpg`.
-* Image sources (files): eaton.com (124), breakeroutlet.com (2). No Lumera Electric source was used.
+* Image sources (files): eaton.com (119), breakeroutlet.com (2). No Lumera Electric source was used.
 
 ## Sources searched
 
@@ -29,7 +29,9 @@ eaton.com (official; Cutler-Hammer is an Eaton brand): product page skuPage.<SKU
 | Reason | SKUs |
 |---|---|
 | Source product has no images | 5 |
+| source photo is of BRN220GF (re-used by the source for this SKU) - not used | 4 |
 | No exact SKU match in the harvested source catalog(s) | 2 |
+| source photo is of CHF120 (re-used by the source for this SKU) - not used | 1 |
 
 ## Brand-specific notes
 

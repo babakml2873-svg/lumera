@@ -4,12 +4,12 @@
   "sku": "CHF120ST",
   "nsku": "CHF120ST",
   "type": "V",
-  "file": "CHF120ST-V.jpg",
+  "file": "",
   "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHF120_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
   "page": "https://www.eaton.com/us/en-us/skuPage.CHF120ST.html",
   "origin": "eaton.com",
   "info": {
-   "status": "OK",
+   "status": "WITHHELD",
    "cls": 1,
    "phash": "e39b8e0c9b26cc66",
    "q": 88,
@@ -18,7 +18,8 @@
     1000
    ],
    "scale": 0.8,
-   "notes": []
+   "notes": [],
+   "why": "source photo is of CHF120 (re-used by the source for this SKU) - not used"
   }
  },
  {
@@ -224,12 +225,12 @@
   "sku": "BRN240GF",
   "nsku": "BRN240GF",
   "type": "V",
-  "file": "BRN240GF-V.jpg",
+  "file": "",
   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN220GF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
   "page": "https://www.eaton.com/us/en-us/skuPage.BRN240GF.html",
   "origin": "eaton.com",
   "info": {
-   "status": "OK",
+   "status": "WITHHELD",
    "cls": 1,
    "phash": "b36699c64499cecc",
    "q": 88,
@@ -238,7 +239,8 @@
     1000
    ],
    "scale": 0.8,
-   "notes": []
+   "notes": [],
+   "why": "source photo is of BRN220GF (re-used by the source for this SKU) - not used"
   }
  },
  {
@@ -422,12 +424,12 @@
   "sku": "BRN215GF",
   "nsku": "BRN215GF",
   "type": "V",
-  "file": "BRN215GF-V.jpg",
+  "file": "",
   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN220GF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
   "page": "https://www.eaton.com/us/en-us/skuPage.BRN215GF.html",
   "origin": "eaton.com",
   "info": {
-   "status": "OK",
+   "status": "WITHHELD",
    "cls": 1,
    "phash": "b36699c64499cecc",
    "q": 88,
@@ -436,7 +438,8 @@
     1000
    ],
    "scale": 0.8,
-   "notes": []
+   "notes": [],
+   "why": "source photo is of BRN220GF (re-used by the source for this SKU) - not used"
   }
  },
  {
@@ -730,12 +733,12 @@
   "sku": "BRN230GF",
   "nsku": "BRN230GF",
   "type": "V",
-  "file": "BRN230GF-V.jpg",
+  "file": "",
   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN220GF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
   "page": "https://www.eaton.com/us/en-us/skuPage.BRN230GF.html",
   "origin": "eaton.com",
   "info": {
-   "status": "OK",
+   "status": "WITHHELD",
    "cls": 1,
    "phash": "b36699c64499cecc",
    "q": 88,
@@ -744,7 +747,8 @@
     1000
    ],
    "scale": 0.8,
-   "notes": []
+   "notes": [],
+   "why": "source photo is of BRN220GF (re-used by the source for this SKU) - not used"
   }
  },
  {
@@ -1170,12 +1174,12 @@
   "sku": "BRN250GF",
   "nsku": "BRN250GF",
   "type": "V",
-  "file": "BRN250GF-V.jpg",
+  "file": "",
   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN220GF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
   "page": "https://www.eaton.com/us/en-us/skuPage.BRN250GF.html",
   "origin": "eaton.com",
   "info": {
-   "status": "OK",
+   "status": "WITHHELD",
    "cls": 1,
    "phash": "b36699c64499cecc",
    "q": 88,
@@ -1184,7 +1188,8 @@
     1000
    ],
    "scale": 0.8,
-   "notes": []
+   "notes": [],
+   "why": "source photo is of BRN220GF (re-used by the source for this SKU) - not used"
   }
  },
  {
