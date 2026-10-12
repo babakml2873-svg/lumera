@@ -1,1 +1,6 @@
 MW Lighting rows 394 Counter({True: 240, False: 154}) matched 240
+downloaded 213 of 213
+/usr/local/lib/python3.13/dist-packages/PIL/Image.py:3578: DecompressionBombWarning: Image size (103245921 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  warnings.warn(
+images Counter({('V', 'OK'): 240, ('G', 'OK'): 1})
+QA sheet /tmp/claude-0/-home-user-lumera/fce5ed22-7126-5cd2-b6fe-945da1cbcd6a/scratchpad/qa/MW_Lighting_V_sample.jpg
