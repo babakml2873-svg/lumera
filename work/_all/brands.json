@@ -1,0 +1,1005 @@
+[
+ {
+  "order": 1,
+  "brand": "ABBA Lighting",
+  "count": 356,
+  "lists": {
+   "List1": 173,
+   "List4": 183
+  },
+  "sample_skus": [
+   "CB06-Wh 3K",
+   "CDPA61",
+   "E26 4W-3K",
+   "DL05-Br",
+   "CB15-Bk 3K",
+   "PLB23",
+   "MX24150",
+   "CDR85",
+   "STA09",
+   "PL54 RGBW 100F",
+   "CDPA52-Bk",
+   "DM52-Bk 3K"
+  ]
+ },
+ {
+  "order": 2,
+  "brand": "Abra Lighting",
+  "count": 529,
+  "lists": {
+   "List1": 2,
+   "List2": 527
+  },
+  "sample_skus": [
+   "10023PN-BA",
+   "50111ODW-SL",
+   "20021WV-BA",
+   "10166PN-MB",
+   "50148ODW-MB",
+   "10131PN-MB",
+   "20180WV-MB",
+   "30018FM-BN",
+   "50019ODW-MB",
+   "20132WV-BN",
+   "50109ODW-SL",
+   "50117ODW-MB"
+  ]
+ },
+ {
+  "order": 3,
+  "brand": "AirZone Fans",
+  "count": 47,
+  "lists": {
+   "List4": 47
+  },
+  "sample_skus": [
+   "SNPD100MHL2",
+   "SE90PL2",
+   "SE110XL",
+   "RDF2",
+   "SEPD300",
+   "SNP80H",
+   "SES-LED-LK",
+   "SE90P",
+   "SQ-LED-LK",
+   "SNP100",
+   "SES80HLED",
+   "SES80"
+  ]
+ },
+ {
+  "order": 4,
+  "brand": "Alora",
+  "count": 578,
+  "lists": {
+   "List1": 578
+  },
+  "sample_skus": [
+   "PD317120UB",
+   "WV327019VBAR",
+   "WV338902UBAR",
+   "WV327015UBAR",
+   "WV348218PNPG",
+   "PL355232VB",
+   "WV346214UBAR",
+   "PD321736CH-UNV-010",
+   "WV330216UB",
+   "CH332421VBCR",
+   "PD311025UBBG",
+   "FM348010VBPG"
+  ]
+ },
+ {
+  "order": 5,
+  "brand": "Alora Mood",
+  "count": 940,
+  "lists": {
+   "List1": 940
+  },
+  "sample_skus": [
+   "WV464002MB",
+   "SF515712BGCL",
+   "VL648431MB",
+   "PD406418MBWC",
+   "PD524110AGOP",
+   "LP421437MBOP",
+   "PD411814MBCL",
+   "PD525216BGOP",
+   "PD515408MBCL",
+   "TL567218MBWL",
+   "SF607003AG",
+   "FM503611AG"
+  ]
+ },
+ {
+  "order": 6,
+  "brand": "Alteck",
+  "count": 186,
+  "lists": {
+   "List1": 42,
+   "List2": 144
+  },
+  "sample_skus": [
+   "AW0052-3CCT-W-BK",
+   "AP0073-5CCT-W-BK",
+   "AW0168-5CCT-W-PAB",
+   "AW0131-3CCT-W-BK",
+   "AW0136-3CCT-W-BK",
+   "AW0028-3CCT-W-BA",
+   "AW0054-30-W-BK",
+   "AW0105-3CCT-W-BK",
+   "AW0120-3CCT-W-WH",
+   "AW0059-3CCT-W-BK",
+   "AW0146-3CCT-W-BK",
+   "AW0102-3CCT-W-BK"
+  ]
+ },
+ {
+  "order": 7,
+  "brand": "American Lighting",
+  "count": 811,
+  "lists": {
+   "List1": 811
+  },
+  "sample_skus": [
+   "MLINK-END",
+   "PE-UNVMINI-2M-BNDLACC-BG5",
+   "HTLHD-WH-16",
+   "PE-INLINE-CON",
+   "5LCS-24-5CCT-DB",
+   "PE-DYAD-2M",
+   "CGLS-SHADE-DLX-6",
+   "PE-STEP-2M",
+   "NFPROL-FLEXICHAN-1M",
+   "PE-GT-2M-BNDLACC-BG5",
+   "NAVI-CCT-96-24-BK",
+   "LS-TT"
+  ]
+ },
+ {
+  "order": 8,
+  "brand": "Arabela Lighting",
+  "count": 170,
+  "lists": {
+   "List1": 82,
+   "List2": 88
+  },
+  "sample_skus": [
+   "'65000",
+   "85222-1",
+   "85221-1",
+   "'65031",
+   "85211-1",
+   "85395-1",
+   "85425-5",
+   "85235-4",
+   "85350-16",
+   "85241-4",
+   "85415-2",
+   "85130-7"
+  ]
+ },
+ {
+  "order": 9,
+  "brand": "Arlington Industries",
+  "count": 1838,
+  "lists": {
+   "List1": 30,
+   "List2": 1808
+  },
+  "sample_skus": [
+   "NM3105",
+   "SC200SS",
+   "L15AST",
+   "GPBK35B",
+   "GFC150",
+   "DWYH0820",
+   "LT9038",
+   "8081DBL",
+   "8161TR",
+   "FLBC5570BR",
+   "'840",
+   "CEH1"
+  ]
+ },
+ {
+  "order": 10,
+  "brand": "Corona Lighting",
+  "count": 244,
+  "lists": {
+   "List1": 92,
+   "List2": 152
+  },
+  "sample_skus": [
+   "CL-752B-SI",
+   "CL-135B-AB",
+   "CL-206-AB",
+   "L-EDBA-2.5W",
+   "CL-550B-AB",
+   "CL-204-AB",
+   "CL-717B-AB",
+   "CL-372B-AB",
+   "CL-336",
+   "CL-377-BK",
+   "L-ED16-5W-BT",
+   "CL-539-BZ"
+  ]
+ },
+ {
+  "order": 11,
+  "brand": "Cutler Hammer",
+  "count": 218,
+  "lists": {
+   "List2": 218
+  },
+  "sample_skus": [
+   "QC2060",
+   "GHB3035",
+   "CSR2200N",
+   "ED3125",
+   "CSR2175N",
+   "QC2050",
+   "BAB2040",
+   "QBGFT2050",
+   "HMCP150T4C",
+   "QB1020CAF",
+   "BR220",
+   "BAB3080H"
+  ]
+ },
+ {
+  "order": 12,
+  "brand": "Damar",
+  "count": 746,
+  "lists": {
+   "List2": 746
+  },
+  "sample_skus": [
+   "38592D",
+   "33845A",
+   "33873B",
+   "'38610",
+   "26158G",
+   "33779B",
+   "38669K",
+   "38674C",
+   "34720B",
+   "37636A",
+   "36819A",
+   "29811O"
+  ]
+ },
+ {
+  "order": 13,
+  "brand": "Diode LED",
+  "count": 1899,
+  "lists": {
+   "List1": 904,
+   "List2": 995
+  },
+  "sample_skus": [
+   "DI-MNT0202",
+   "DI-CPEC-45PD-1",
+   "DI-CPCHB-45REC-96AL",
+   "DI-CKT-3BX10-5",
+   "DI-24V-TE-NBL1-GN-65",
+   "DI-CPEC-45PDW-1",
+   "DI-24V-TE-NBL2-BL-32",
+   "DI-PVC2464-DL39-EXT-M-M-W",
+   "DI-LIN-3D-MTCH-39",
+   "DI-24V-BLBSC2-50-W016",
+   "DI-CPCHB-SLR-96",
+   "DI-RGBW-WEXT"
+  ]
+ },
+ {
+  "order": 14,
+  "brand": "Dottie",
+  "count": 2966,
+  "lists": {
+   "List1": 93,
+   "List2": 7,
+   "List3": 2866
+  },
+  "sample_skus": [
+   "DDSMSS10112",
+   "PHSMSS834",
+   "KWDD10112",
+   "DU609",
+   "ZA100",
+   "SDS381214",
+   "D100S",
+   "SPN8",
+   "HN1032",
+   "FENW516114",
+   "SPD12",
+   "TEKHW812TP1KHH"
+  ]
+ },
+ {
+  "order": 15,
+  "brand": "Eaton",
+  "count": 65,
+  "lists": {
+   "List2": 65
+  },
+  "sample_skus": [
+   "CHN230GF",
+   "BRPSURGE",
+   "BRP115AF",
+   "BR2125",
+   "BRPSF225",
+   "CH2125",
+   "BRN240GF",
+   "BRN120GF",
+   "CHPSURGE",
+   "BR215",
+   "CHF120ST",
+   "BR230"
+  ]
+ },
+ {
+  "order": 16,
+  "brand": "ELCO Lighting",
+  "count": 7780,
+  "lists": {
+   "List1": 2888,
+   "List2": 7,
+   "List3": 4730,
+   "List4": 155
+  },
+  "sample_skus": [
+   "EUDPH1",
+   "ELST27CT3W",
+   "EL610CT5W",
+   "ELK4172B",
+   "E25AB03T-03T27",
+   "ELK4721WW",
+   "E36PB-0730",
+   "E1L12WF35BB",
+   "ELK2588BZ",
+   "ELST8440BZ",
+   "ELK4179W",
+   "E1AK12F35B"
+  ]
+ },
+ {
+  "order": 17,
+  "brand": "EMCOD Lighting Group",
+  "count": 161,
+  "lists": {
+   "List1": 10,
+   "List4": 151
+  },
+  "sample_skus": [
+   "ML20S24AC",
+   "EM150S24DC",
+   "MLE80-24DC-UD",
+   "EMT600SS-22E",
+   "ML75S24DC",
+   "ML50S24DC",
+   "MLE30-12DC",
+   "ML20S12DC",
+   "MLE200-24DC-UD",
+   "MLE180C2-12UD",
+   "ML75S12AC",
+   "EDD120-12DC-CCT"
+  ]
+ },
+ {
+  "order": 18,
+  "brand": "Enerlites",
+  "count": 1182,
+  "lists": {
+   "List1": 726,
+   "List4": 456
+  },
+  "sample_skus": [
+   "8824M-GY",
+   "HET06-J-W",
+   "91200-GY",
+   "961501-S",
+   "62040-W",
+   "881121-I",
+   "61501-TR2USB-1A1C-W",
+   "8802O-BK",
+   "66220-BK",
+   "6501-W",
+   "91150A-BK",
+   "SI8833-I"
+  ]
+ },
+ {
+  "order": 19,
+  "brand": "EnVision",
+  "count": 1497,
+  "lists": {
+   "List1": 589,
+   "List2": 908
+  },
+  "sample_skus": [
+   "TS3-SM-FLX-WH",
+   "LED-DLJBX-ADJ-3-8W-5CCT-BLK-R",
+   "CV-12V-DC-150W-DIM",
+   "LED-WPFC-ADJ-3P30W-22K-BZ",
+   "RHB-100/150-SM-BLK",
+   "LED-WPROT2-80WD-50K-BZ",
+   "LED-ARL3-3B-5P150-TRI-GRY-HV",
+   "LED-CRN-3M36-TRI-E26",
+   "LED-XSL2R-2P25-TRI-BL-PIR",
+   "LED-SL-PNL-4R-9W-RGB+W-WH",
+   "ARL3-T-IV-240-300",
+   "LED-BR30-8.5W-5CCT"
+  ]
+ },
+ {
+  "order": 20,
+  "brand": "Euri Lighting",
+  "count": 103,
+  "lists": {
+   "List1": 17,
+   "List2": 86
+  },
+  "sample_skus": [
+   "EFL-240W-MD",
+   "EUD4-50W103sw-S-EM",
+   "EOL-WL01BK-2100e",
+   "EPL-2100H",
+   "DLC8C-24W203swej",
+   "EOL-WL16FR-3100se",
+   "EIN-VL19FR-3000e",
+   "EOL-WL14WH-3100se",
+   "ECS-150W1050",
+   "EIN-HL5OB-1100",
+   "EIN-PC3002WW-EM",
+   "DLC4G-9W105se"
+  ]
+ },
+ {
+  "order": 21,
+  "brand": "Focus Industries",
+  "count": 2663,
+  "lists": {
+   "List3": 2663
+  },
+  "sample_skus": [
+   "CFA26TMS2BRS",
+   "RXP03TACL24BAT",
+   "AL05L12BAV",
+   "PL01L12BLT",
+   "SL09ABNLCAR",
+   "SL02ALLEDPBAR",
+   "DL15LEDP412VBRT",
+   "SL20SMMSMLEDPWBR",
+   "SL16DPAR20NLBRS",
+   "SL01NLBRT",
+   "SL04NLRST",
+   "RXS11NLBLT"
+  ]
+ },
+ {
+  "order": 22,
+  "brand": "General Electric",
+  "count": 160,
+  "lists": {
+   "List2": 160
+  },
+  "sample_skus": [
+   "THQL2120",
+   "SRPG600A600",
+   "THQLT2020",
+   "THQL2120GFT",
+   "THQB2120",
+   "SRPE150A125",
+   "TQD32200WL",
+   "THQL1140",
+   "THQB2120GFT",
+   "THQC32020WL",
+   "THQL21125",
+   "THQB32025"
+  ]
+ },
+ {
+  "order": 23,
+  "brand": "Infratech",
+  "count": 117,
+  "lists": {
+   "List2": 117
+  },
+  "sample_skus": [
+   "21-1025",
+   "21-3030",
+   "21-4010",
+   "30-4056",
+   "21-1097",
+   "21-1050",
+   "21-1115",
+   "21-2100",
+   "21-2330",
+   "21-3220",
+   "14-4710",
+   "21-4280"
+  ]
+ },
+ {
+  "order": 24,
+  "brand": "Intermatic",
+  "count": 738,
+  "lists": {
+   "List3": 71,
+   "List4": 667
+  },
+  "sample_skus": [
+   "T1472BR",
+   "T103R",
+   "L5F13D1DG2",
+   "T10101R",
+   "FD60MAC",
+   "NF10KL",
+   "UWZ48E-240U",
+   "EK4135S",
+   "P40000RT1",
+   "EI220W-1",
+   "L5F13Y3DG1",
+   "WP1030C"
+  ]
+ },
+ {
+  "order": 25,
+  "brand": "Kuzco",
+  "count": 2662,
+  "lists": {
+   "List1": 2662
+  },
+  "sample_skus": [
+   "ADP002BK",
+   "AT67010-BN-UNV",
+   "WS24324-WH",
+   "VL27523-CH",
+   "PD70610-SM/BN",
+   "PD88148-BG-UNV-010",
+   "PD51612-BK/LG",
+   "WS8324-BN",
+   "FM43423-WH/GD-5CCT",
+   "MP42502WH-16",
+   "494216-GY",
+   "PD22339-BK-UNV-010"
+  ]
+ },
+ {
+  "order": 26,
+  "brand": "Kuzco Architectural",
+  "count": 138,
+  "lists": {
+   "List1": 138
+  },
+  "sample_skus": [
+   "LD3-WS12W18-3036-WH-UNV-010",
+   "LD4-CC12W24-3036-BK-UNV-010",
+   "LD4-WS12W24-3036-BK-UNV-010",
+   "EP265104-BK",
+   "LD3-PD08W14-3036-BK-UNV-010",
+   "LD2-UD16W24-3036-BK-UNV-010",
+   "LD2-CC12W12-3036-BK-UNV-010",
+   "EC265104-BK",
+   "EC262103-WH",
+   "EW265212-WH",
+   "EW264207-WH",
+   "LD4-PD08W20-3036-BK-UNV-010"
+  ]
+ },
+ {
+  "order": 27,
+  "brand": "Leviton",
+  "count": 4113,
+  "lists": {
+   "List1": 2648,
+   "List2": 1465
+  },
+  "sample_skus": [
+   "16A24-UY",
+   "RKAA1-GC",
+   "16R21-UO",
+   "8200-SGI",
+   "M5362-2SE",
+   "M5262-2SI",
+   "54521-2W",
+   "5480-GY",
+   "T5834-W",
+   "49FSL-GY",
+   "LDS30-ACS",
+   "SBK00-4PW"
+  ]
+ },
+ {
+  "order": 28,
+  "brand": "Lew Electric",
+  "count": 391,
+  "lists": {
+   "List1": 96,
+   "List2": 295
+  },
+  "sample_skus": [
+   "332-DA",
+   "RRP-4-DBP",
+   "1103-PB",
+   "6213-DB",
+   "PUFP-SQ-DB-USB",
+   "OB-1-SP",
+   "RRP-2-DB-T",
+   "6213-BP",
+   "PUR20GACBTQD-BK",
+   "PUR2-DB-SF",
+   "PUR2-NS-SF",
+   "812-DA"
+  ]
+ },
+ {
+  "order": 29,
+  "brand": "Lighting Spot 26",
+  "count": 886,
+  "lists": {
+   "List1": 196,
+   "List2": 107,
+   "List4": 583
+  },
+  "sample_skus": [
+   "LSJ-2-D202-5K",
+   "LSH-FL300W-5K",
+   "LS2-WMB-301-3K",
+   "LS26-GU10-COB-7W",
+   "LSL-2-240-27K",
+   "LS-CS-6SQTL-S-24W-5CCT-BL",
+   "LS26-COMBO1",
+   "LS-SMC-5-C29-11W-5CCT-BL",
+   "LS-SC-KIT-4-BL",
+   "LS-SUPD-RP24-40WT-4CCT-WH",
+   "LS26-GLTR36W1X4CCT3",
+   "LS26-DL4-10W-4K"
+  ]
+ },
+ {
+  "order": 30,
+  "brand": "Lumera Electric",
+  "count": 15,
+  "lists": {
+   "List1": 15
+  },
+  "sample_skus": [
+   "CH347646MWVB",
+   "CH346046VBAR-UNV",
+   "CH336830UB",
+   "CH348038UBFR",
+   "CH348038VBFR",
+   "CH336830UB-UNV",
+   "CH347646MBVB-UNV",
+   "CH346046VBAR",
+   "CH336830VB-UNV",
+   "CH347646MBVB",
+   "CH346046UBAR-UNV",
+   "CH336830VB"
+  ]
+ },
+ {
+  "order": 31,
+  "brand": "Lutron",
+  "count": 4858,
+  "lists": {
+   "List1": 3283,
+   "List2": 1575
+  },
+  "sample_skus": [
+   "LTR-15-ACTR-BE",
+   "CW-4-LA",
+   "MS-A102-V-TP",
+   "WMS-A202-IV",
+   "AY-103PH-WH",
+   "PJ2-3B-GIV-L01",
+   "PJL-2B-GWH-L01",
+   "RRD-W3S-GR",
+   "PD-REP-WH",
+   "MS-PPS6-DDV-HT",
+   "SFSQ-LF-GR",
+   "SCRS-20-TR-CY"
+  ]
+ },
+ {
+  "order": 32,
+  "brand": "Morris",
+  "count": 1760,
+  "lists": {
+   "List2": 1760
+  },
+  "sample_skus": [
+   "'89757",
+   "'14917",
+   "'15396",
+   "'91822",
+   "'94093",
+   "'93087",
+   "'97692",
+   "'94361",
+   "'14267",
+   "'20451",
+   "'94734",
+   "T200CBPK"
+  ]
+ },
+ {
+  "order": 33,
+  "brand": "MW Lighting",
+  "count": 394,
+  "lists": {
+   "List1": 42,
+   "List2": 352
+  },
+  "sample_skus": [
+   "MTFE22-20/30/40W-3CCT",
+   "MBF-20W-80",
+   "MJ-7G-2",
+   "MRFM2040-5CCT",
+   "MOB-4G-60",
+   "MSFM918-3CCT",
+   "MLS-TP-3/7/12W-3CCT",
+   "MRFR615W-SM-5CCT",
+   "MHCD-15/20/30W-5CCT",
+   "MSC-03",
+   "MTFS24-30/40/50W-3CCT",
+   "MT-100W-BK"
+  ]
+ },
+ {
+  "order": 34,
+  "brand": "Nora Lighting",
+  "count": 6280,
+  "lists": {
+   "List1": 3253,
+   "List2": 218,
+   "List3": 2809
+  },
+  "sample_skus": [
+   "NYLM-3STCDXBBLE4/24",
+   "NELOCAC-16STW/60",
+   "NTLE-865927SB/4H",
+   "NUTP13-W122-12-940/HW",
+   "NUTP13-W64-12-930/HWSP",
+   "NLCBC2-65327WW/A",
+   "NHAPIC-3S20L33525DP",
+   "NLCBC2-65230WW/ALE4EM",
+   "NLCBC-487040XBZ",
+   "NIO-1AS19BLU",
+   "NTLE-875927B",
+   "NLCBC2-55135BB/A"
+  ]
+ },
+ {
+  "order": 35,
+  "brand": "Orbit",
+  "count": 4507,
+  "lists": {
+   "List1": 422,
+   "List2": 18,
+   "List3": 3200,
+   "List4": 867
+  },
+  "sample_skus": [
+   "LB200AS",
+   "S221BK",
+   "RS31",
+   "OF685",
+   "EC-300L",
+   "FLBDDSS",
+   "RW25075",
+   "SSLN50",
+   "1BC4",
+   "CBS-75",
+   "MLT350",
+   "RN500C"
+  ]
+ },
+ {
+  "order": 36,
+  "brand": "Panasonic",
+  "count": 97,
+  "lists": {
+   "List2": 97
+  },
+  "sample_skus": [
+   "FV-0511VH1",
+   "VTX-DEDPV",
+   "WP100PBA",
+   "FV-1115VKL3",
+   "FV-CMVK3",
+   "FV-15VE1S",
+   "FV-1115VK2",
+   "FV-0510VSC1",
+   "FV-SC16VEC1",
+   "FV-0510VSL1",
+   "FV-0810VSSB1",
+   "FV-06VE1"
+  ]
+ },
+ {
+  "order": 37,
+  "brand": "Premium Lighting",
+  "count": 142,
+  "lists": {
+   "List2": 142
+  },
+  "sample_skus": [
+   "EDI-T84F18-AB-50K G1",
+   "EDI-LHB4FT-400W-xxK G3",
+   "EDI-VP-4FT60W-xxK G4",
+   "EDI-LHB2FT-255W-CCT G1",
+   "EDI-AL-TM G8 (TRUNNIONMOUNT)",
+   "US002",
+   "EDI-UFO-320W-xxK G2",
+   "SU-DK4IN-10W5C-G1",
+   "EDI-AL-300W-xxK G8",
+   "SU-SB-SF-G1",
+   "SU-WP-120W-40/50/57K-G6 BRONZE",
+   "SU-UFO-150W-40/50/57K-G1-Sensor"
+  ]
+ },
+ {
+  "order": 38,
+  "brand": "Satco",
+  "count": 1252,
+  "lists": {
+   "List1": 436,
+   "List2": 816
+  },
+  "sample_skus": [
+   "60-8734",
+   "60-6125",
+   "60-5036",
+   "60-356",
+   "60-8664",
+   "65-842-5",
+   "65-869-5",
+   "60-5263",
+   "65-843-4",
+   "60-8033",
+   "60-8053",
+   "65-698"
+  ]
+ },
+ {
+  "order": 39,
+  "brand": "Siemens",
+  "count": 184,
+  "lists": {
+   "List2": 184
+  },
+  "sample_skus": [
+   "BQD340",
+   "B210",
+   "B125",
+   "BQ3B050",
+   "BQ2B020",
+   "Q2030",
+   "B130",
+   "QN2200",
+   "B240",
+   "BF120A",
+   "BQ3B040",
+   "QE260"
+  ]
+ },
+ {
+  "order": 40,
+  "brand": "Square D",
+  "count": 362,
+  "lists": {
+   "List2": 362
+  },
+  "sample_skus": [
+   "EDB34125",
+   "QOB370",
+   "BDA36125",
+   "QO3030",
+   "HOM2125",
+   "QOB340VH",
+   "QOB350VH",
+   "QOUQ230",
+   "QDL22125",
+   "QOU290",
+   "EDB34035",
+   "QO612L100RB"
+  ]
+ },
+ {
+  "order": 41,
+  "brand": "UMAGE",
+  "count": 646,
+  "lists": {
+   "List1": 566,
+   "List2": 80
+  },
+  "sample_skus": [
+   "2251_2251-1_4008",
+   "2096_4010",
+   "3014_4008",
+   "'3025",
+   "2243_4012",
+   "2009_4012",
+   "2251_2251-3_4010",
+   "'3047",
+   "3007_4037",
+   "'2572",
+   "'2197",
+   "2243_4007"
+  ]
+ },
+ {
+  "order": 42,
+  "brand": "Utopia Lighting",
+  "count": 286,
+  "lists": {
+   "List2": 224,
+   "List3": 62
+  },
+  "sample_skus": [
+   "Cube 4-TW Athena Suspended",
+   "Wiop LED",
+   "ALW-R",
+   "LAD8A",
+   "SS-FW LED",
+   "CLFP",
+   "SIOP LED",
+   "Cube 4-Amber",
+   "COVE-RGBW",
+   "LPT-12",
+   "DWP2-5G",
+   "LAD-2G"
+  ]
+ },
+ {
+  "order": 43,
+  "brand": "Westgate",
+  "count": 5115,
+  "lists": {
+   "List1": 1037,
+   "List2": 956,
+   "List3": 2797,
+   "List4": 325
+  },
+  "sample_skus": [
+   "LF4MAX-XL-300W-MCTPB-TR-P-480V",
+   "W1DB100-5X",
+   "LVS-48-MCT5-BB",
+   "W2CL-PO50",
+   "WMC2-12V-UDL-MCT-BN",
+   "CRL8-54W-50K",
+   "CMC4-DL32",
+   "WMXMAX-40-60W-MCTPB",
+   "EXPR-150W-50K-480V",
+   "DLST6-MCT5",
+   "CRLC6-15W-50K-S-D",
+   "CRE-08-50K-BR"
+  ]
+ },
+ {
+  "order": 44,
+  "brand": "Westinghouse Lighting",
+  "count": 690,
+  "lists": {
+   "List1": 2,
+   "List2": 688
+  },
+  "sample_skus": [
+   "'0373400",
+   "'6362100",
+   "'3516600",
+   "'7861400",
+   "'7221600",
+   "'6783500",
+   "'0624300",
+   "'5316500",
+   "'0483500",
+   "'5334000",
+   "'4369700",
+   "'0410000"
+  ]
+ }
+]

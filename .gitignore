@@ -2,3 +2,6 @@ work/abba/cache/
 __pycache__/
 work/abba/store_p*.json
 work/abba/pages/
+work/*/cache/
+work/*/zip_reports/
+work/*/raw/
