@@ -1,0 +1,1 @@
+leviton.com (official): product sitemap (18,598 product pages, page path = SKU) -> each needed product page's og:image (main product image from Leviton's DAM).
