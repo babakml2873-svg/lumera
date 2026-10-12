@@ -1,0 +1,1 @@
+americanlighting.com (official, Magento 2): public GraphQL products(filter:{sku:{in:[...]}}) queried for every list SKU; main image + media gallery; placeholder/generic accessory images excluded.

@@ -128,6 +128,16 @@ for r in rows:
 
 print(brand, "rows", len(plan), Counter(bool(r["v"]) for r in plan), "matched", sum(1 for r in plan if r["resolution"]))
 
+# ---------------------------------------------------------------- placeholders / non-product graphics
+BAD_NAME = re.compile(config.get("bad_name_regex", r"placeholder|coming[-_ ]?soon|no[-_]?image|noimage|image[-_]not|"
+                                               r"_ph[_.]|[-_]ph\.|award|badge|logo"), re.I)
+PLACEHOLDERS = {imagehash.hex_to_hash(h) for h in json.load(open(WORK / "_all" / "placeholders.json"))}
+for rec in plan:
+    if rec["v"] and BAD_NAME.search(rec["v"]["url"].split("/")[-1]):
+        rec["v_withheld"] = "source image is a placeholder/non-product graphic (" + rec["v"]["url"].split("/")[-1] + ")"
+        rec["v"] = None
+    rec["g"] = [g for g in rec["g"] if not BAD_NAME.search(g["url"].split("/")[-1])]
+
 # ---------------------------------------------------------------- download
 urls = [r["v"]["url"] for r in plan if r["v"]] + [g["url"] for r in plan for g in r["g"]]
 paths = download_all(urls, W / "cache", workers=config.get("workers", 6), headers=config.get("download_headers"),
@@ -159,6 +169,8 @@ for rec in plan:
     hashes = []
     if rec["v"]:
         data, info = proc(rec["v"]["url"])
+        if data and any(imagehash.hex_to_hash(info["phash"]) - x <= 4 for x in PLACEHOLDERS):
+            data, info = None, dict(status="FAILED", why="source image is a 'photo coming soon' placeholder")
         fn = f"{rec['nsku']}-V.jpg"
         if data:
             (d / fn).write_bytes(data); hashes.append(imagehash.hex_to_hash(info["phash"]))
@@ -174,7 +186,7 @@ for rec in plan:
         if not data:
             continue
         h = imagehash.hex_to_hash(info["phash"])
-        if any(h - x <= 6 for x in hashes):
+        if any(h - x <= 4 for x in PLACEHOLDERS) or any(h - x <= 6 for x in hashes):
             continue
         hashes.append(h)
         scored.append((info["cls"], order, g, data, info))
