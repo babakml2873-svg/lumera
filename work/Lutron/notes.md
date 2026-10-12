@@ -1,0 +1,1 @@
+* LightingSupply.com product galleries include text infographics (file names '*textimage*' / '*imagewithtext*'), often showing a different product of the kit or series; these were excluded (641 images).

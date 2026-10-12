@@ -1,0 +1,4 @@
+Lutron rows 4858 Counter({True: 4646, False: 212}) matched 4779
+downloaded 6231 of 6231
+images Counter({('V', 'OK'): 4598, ('G', 'OK'): 1312, ('V', 'FAILED'): 48})
+QA sheet /tmp/claude-0/-home-user-lumera/fce5ed22-7126-5cd2-b6fe-945da1cbcd6a/scratchpad/qa/Lutron_V_sample.jpg
