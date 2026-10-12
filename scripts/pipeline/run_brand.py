@@ -177,7 +177,7 @@ print(brand, "rows", len(plan), Counter(bool(r["v"]) for r in plan), "matched", 
 
 # ---------------------------------------------------------------- placeholders / non-product graphics
 BAD_NAME = re.compile(config.get("bad_name_regex", r"placeholder|coming[-_ ]?soon|no[-_]?image|noimage|image[-_]not|"
-                                               r"_ph[_.]|[-_]ph\.|award|badge|logo"), re.I)
+                                               r"_ph[_.]|[-_]ph\.|award|badge|logo|text_?image|image_?with_?text|infographic"), re.I)
 PLACEHOLDERS = {imagehash.hex_to_hash(h) for h in json.load(open(WORK / "_all" / "placeholders.json"))}
 for rec in plan:
     if rec["v"] and BAD_NAME.search(rec["v"]["url"].split("/")[-1]):
