@@ -1,1 +1,4 @@
 Intermatic rows 738 Counter({True: 725, False: 13}) matched 725
+downloaded 1995 of 2105
+images Counter({('G', 'OK'): 1667, ('V', 'OK'): 693, ('V', 'FAILED'): 17})
+QA sheet /tmp/claude-0/-home-user-lumera/fce5ed22-7126-5cd2-b6fe-945da1cbcd6a/scratchpad/qa/Intermatic_V_sample.jpg
