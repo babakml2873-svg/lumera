@@ -11,9 +11,10 @@ if [[ "${1:-}" != "--skip-process" ]]; then
   python3 run_brand.py "$BRAND"
 fi
 python3 make_readme.py "$BRAND" > /dev/null
+touch "$ROOT/work/$SLUG/DONE"
 python3 reports.py --zip "$BRAND" | tail -3
 cd "$ROOT"
-git add .gitignore .gitattributes scripts Output "work/$SLUG" work/_all
+git add .gitignore .gitattributes scripts Output/Reports Output/Archives Output/List_*/"$SLUG" "work/$SLUG" work/_all
 git commit -q -m "Add product images for brand: $BRAND
 
 Images, consolidated reports and verified ZIP (Git LFS) for $BRAND.

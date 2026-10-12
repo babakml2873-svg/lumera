@@ -34,7 +34,8 @@ img_rows, miss_rows, map_rows, prog_rows, problems = [], [], [], [], []
 per_brand_rows = defaultdict(lambda: defaultdict(list))
 for b in order:
     W = wdir(b)
-    if not (W / "results.json").exists():
+    zipb = sys.argv[sys.argv.index("--zip") + 1] if "--zip" in sys.argv else None
+    if not (W / "results.json").exists() or not ((W / "DONE").exists() or b == zipb):
         continue
     plan = json.load(open(W / "plan_final.json")); res = json.load(open(W / "results.json"))
     bd = brand_dir(b)

@@ -195,10 +195,11 @@ print("downloaded", sum(1 for u in set(urls) if paths.get(u)), "of", len(set(url
 cache = {}
 
 
-def proc(u):
-    if u not in cache:
-        cache[u] = process_file(paths[u], u) if paths.get(u) else (None, dict(status="FAILED", why="download failed"))
-    return cache[u]
+def proc(u, min_side=400):
+    k_ = (u, min_side)
+    if k_ not in cache:
+        cache[k_] = process_file(paths[u], u, min_side) if paths.get(u) else (None, dict(status="FAILED", why="download failed"))
+    return cache[k_]
 
 
 bdir = brand_dir(brand)
@@ -215,7 +216,10 @@ for rec in plan:
     written[(rec["list"], rec["nsku"])] = rec["sku"]
     hashes = []
     if rec["v"]:
-        data, info = proc(rec["v"]["url"])
+        data, info = proc(rec["v"]["url"], config.get("v_min_side", 300))
+        if data and info.get("scale", 1) > 1.6:
+            rec["conf"] = "Medium" if rec["conf"] == "High" else rec["conf"]
+            rec["note"] += "; low-resolution source image (upscaled, flagged)"
         if data and any(imagehash.hex_to_hash(info["phash"]) - x <= 4 for x in PLACEHOLDERS):
             data, info = None, dict(status="FAILED", why="source image is a 'photo coming soon' placeholder")
         fn = f"{rec['nsku']}-V.jpg"

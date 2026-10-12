@@ -169,7 +169,7 @@ def encode(im):
     return None, None
 
 
-def process_file(path, src_url=""):
+def process_file(path, src_url="", min_side=400):
     """Returns (jpeg_bytes or None, info dict)."""
     try:
         im = Image.open(path); im.seek(0); im.load()
@@ -177,7 +177,7 @@ def process_file(path, src_url=""):
         return None, dict(status="FAILED", why=f"unreadable image ({e.__class__.__name__})")
     src_px = im.size
     im, tnote = flatten(im)
-    if max(src_px) < 400:
+    if max(src_px) < min_side:
         return None, dict(status="FAILED", why=f"source only {src_px[0]}x{src_px[1]} px (too small)", src_px=src_px)
     cls = classify(im)
     ph = str(imagehash.phash(im))
@@ -186,7 +186,9 @@ def process_file(path, src_url=""):
     if data is None:
         return None, dict(status="FAILED", why="cannot reach <=100 KB at JPEG quality >=40", src_px=src_px)
     notes = [n for n in (tnote,) if n]
-    if scale > 1.0:
+    if scale > 1.6:
+        notes.append(f"LOW-RESOLUTION SOURCE upscaled x{scale:.2f} from {src_px[0]}x{src_px[1]} (no better verified source available)")
+    elif scale > 1.0:
         notes.append(f"upscaled x{scale:.2f} from {src_px[0]}x{src_px[1]} (best verified source available)")
     if src_px[0] != src_px[1]:
         notes.append(f"padded from {src_px[0]}x{src_px[1]} aspect")
