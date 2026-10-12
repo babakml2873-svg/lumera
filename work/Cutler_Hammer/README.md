@@ -9,7 +9,7 @@ Brand Cutler Hammer: 218 SKUs in the product lists. Variant images were delivere
 | List_3 | 0 | 0 | 0 |
 | List_4 | 0 | 0 | 0 |
 
-* 59 of the variant images are Medium confidence (`OK-REVIEW-RECOMMENDED`), see `Reports/review_queue.csv`.
+* 173 of the variant images are Medium confidence (`OK-REVIEW-RECOMMENDED`), see `Reports/review_queue.csv`.
 * Every file was checked by script: 800×800 px JPG, ≤ 100,000 bytes, `SKU-V.jpg` / `SKU-G-NN.jpg`.
 * Image sources (files): eaton.com (522), breakeroutlet.com (3). No Lumera Electric source was used.
 
@@ -29,6 +29,11 @@ eaton.com (official; Cutler-Hammer is an Eaton brand): product page skuPage.<SKU
 | Reason | SKUs |
 |---|---|
 | No exact SKU match in the harvested source catalog(s) | 2 |
+
+## Brand-specific notes
+
+* Circuit breakers: the reseller often re-uses one series photo for several ampere ratings/poles. Variant images whose identical photo is also used for a different product are marked Medium (OK-REVIEW-RECOMMENDED) with the other SKUs named in Notes - the rating printed on the handle in the photo may differ from the SKU.
+* Some Breaker Outlet photos carry a faint 'BREAKEROUTLET' watermark; they were kept (no image editing was allowed) and should be replaced if watermark-free images are required.
 
 ## Folder structure
 
