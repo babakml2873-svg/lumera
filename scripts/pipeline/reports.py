@@ -60,6 +60,8 @@ for b in order:
             i = r["info"]; st = i["status"]
             if st == "OK" and conf == "Medium":
                 st = "OK-REVIEW-RECOMMENDED"
+            if st == "OK" and conf == "Low":
+                st = "REVIEW-FAMILY-IMAGE"
             notes = ([rec.get("note", "")] if r["type"] == "V" else [f"Gallery image of {rec.get('product', '')}"]) + i.get("notes", [])
             if i.get("why"):
                 notes.append(i["why"])

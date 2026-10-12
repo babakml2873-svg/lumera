@@ -1,0 +1,1 @@
+euricompany.com (official Euri Lighting; eurilighting.com redirects there, Webflow site): product listing cards (each lists up to 5 SKUs) and site search; product page og:image. SKUs sharing one product page (colour-temperature variants) share its image and are marked Medium.

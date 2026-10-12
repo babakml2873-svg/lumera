@@ -56,6 +56,24 @@ def suffix_hits(k):
     return c[0] if len(c) == 1 else None
 
 
+# Family mode (sources that only list product families, e.g. "NTLE-865" for configured SKUs "NTLE-865927SB/4H"):
+families = []
+if config.get("family_mode"):
+    for p in products:
+        codes = {match_key(v["sku"]) for v in p["variants"] if v.get("sku")} | {match_key(re.split(r"[\s,]", p["title"].strip())[0])}
+        for c in codes:
+            if len(c) >= 4:
+                families.append((c, p))
+    families.sort(key=lambda t: -len(t[0]))
+
+
+def family_hit(key):
+    for c, p in families:
+        if key.startswith(c) and key != c:
+            return c, p
+    return None
+
+
 def visual_variants(p):
     if len(p["variants"]) <= 1:
         return False
@@ -71,12 +89,38 @@ for r in rows:
                review="", resolution="", v=None, g=[])
     o = overrides.get(s, {})
     hits = idx.get(match_key(s), [])
+    alias = o.get("alias")
+    if not hits and alias:
+        hits = idx.get(match_key(alias), [])
     suffix_key = None
     if not hits and not o.get("review"):
         suffix_key = suffix_hits(match_key(s))
         hits = idx.get(suffix_key, []) if suffix_key else []
+    fam = family_hit(match_key(s)) if (not hits and not o.get("review") and config.get("family_mode")) else None
     if o.get("review"):
         rec["review"] = o["review"]
+    elif fam:
+        c, p = fam
+        main = re.split(r"[/]", s.strip().lstrip("'"))[0]
+        fin = re.search(r"([A-Z]+)$", match_key(main))
+        fin = fin.group(1) if fin else ""
+        rec.update(product=html.unescape(p["title"]), page=p["url"], resolution=f"family@{p['source']}", conf="Low",
+                   note=f"Source lists only the product family '{c}' for this configured SKU")
+        best = None
+        for im in p["images"]:
+            stem = match_key(Path(im["url"].split("?")[0]).stem)
+            if stem.startswith(c):
+                suf = re.sub(r"\d+$", "", stem[len(c):])
+                suf = re.sub(r"^\d+", "", suf)
+                if fin and suf == fin:
+                    best = im["url"]; break
+        if best:
+            rec["v"] = dict(url=best, page=p["url"], origin=p["source"], kind="official family image named with this SKU's finish code")
+            rec["conf"] = "Medium"
+            rec["note"] += f"; image file is named with the SKU's finish code '{fin}' (family + finish match; non-visual options not verified)"
+        else:
+            rec["v_withheld"] = (f"Only family-level images exist for family '{c}'" + (f"; none named with finish code '{fin}'" if fin else ""))
+        rec["g"] = [dict(url=im["url"], page=p["url"], origin=p["source"]) for im in p["images"] if not best or im["url"] != best]
     elif not hits:
         rec["review"] = "No exact SKU match in the harvested source catalog(s)"
     else:
@@ -85,6 +129,9 @@ for r in rows:
         others = len({id(h[0]) for h in hits}) - 1
         rec.update(product=html.unescape(p["title"]), page=p["url"], resolution=f"exact-SKU@{p['source']}",
                    conf="High", note=f"Exact source SKU '{v['sku']}'" + (f" [{v['title']}]" if v.get("title") else ""))
+        if alias and match_key(v["sku"]) == match_key(alias) and match_key(alias) != match_key(s):
+            rec["conf"] = o.get("alias_conf", "Medium")
+            rec["note"] = f"Matched via '{alias}': " + o.get("alias_note", "") + f" (source SKU '{v['sku']}')"
         if suffix_key:
             rec["conf"] = "Medium"
             rec["note"] = (f"Source lists this item only as '{v['sku']}' (same fixture with an electrical/CCT ordering suffix)"

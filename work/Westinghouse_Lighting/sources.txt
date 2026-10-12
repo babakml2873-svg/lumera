@@ -1,0 +1,1 @@
+westinghouselighting.com (official): the site's product-list web service (GetProductPackage, all product categories) - ItemNumber must equal the list SKU; primary product image in large size (-lg.jpg).

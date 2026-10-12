@@ -1,0 +1,1 @@
+satco.com / nuvolighting.com return HTTP 429 (bot check) from this environment. Used BulbAmerica (bulbamerica.com, Shopify retailer) collections nuvo-lighting (2,637 products) and satco (2,099 products); exact variant SKU match (60-/65- item numbers are Nuvo/Satco).

@@ -1,0 +1,1 @@
+enerlites.com (official): /products page data (all 584 products) - image files are named <colour SKU>_<colour>_<n>, so each list SKU is matched to the images named with exactly that SKU (2400x2400 originals).

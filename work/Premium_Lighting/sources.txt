@@ -1,0 +1,1 @@
+premiumlightinginc.com (official, Shopify, 51 products): the store has no SKU field - model codes (EDI-/SU-/SMA-) are taken from each product description and the generation (G1-G5) from the title; matched exactly to the list SKU. Area lights, T8 tubes and most SU- items have no source listing.

@@ -1,0 +1,2967 @@
+[
+ {
+  "list": "List1",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EDD60-12DC-CCT",
+  "nsku": "EDD60-12DC-CCT",
+  "product": "",
+  "page": "",
+  "conf": "",
+  "note": "",
+  "review": "No exact SKU match in the harvested source catalog(s)",
+  "resolution": "",
+  "v": null,
+  "g": []
+ },
+ {
+  "list": "List1",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EDD60-12DC",
+  "nsku": "EDD60-12DC",
+  "product": "EDD60-12DC",
+  "page": "https://www.emcod.com/products/info?id=575",
+  "conf": "High",
+  "note": "Exact source SKU 'EDD60-12DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": null,
+  "g": [],
+  "v_withheld": "Source product has no images"
+ },
+ {
+  "list": "List1",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EDD60-24DC-CCT",
+  "nsku": "EDD60-24DC-CCT",
+  "product": "EDD60-24DC-CCT",
+  "page": "https://www.emcod.com/products/info?id=578",
+  "conf": "High",
+  "note": "Exact source SKU 'EDD60-24DC-CCT'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/3634e9df183b722de358febfe01cca10.png",
+   "page": "https://www.emcod.com/products/info?id=578",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List1",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EDD60-24DC",
+  "nsku": "EDD60-24DC",
+  "product": "EDD60-24DC",
+  "page": "https://www.emcod.com/products/info?id=570",
+  "conf": "High",
+  "note": "Exact source SKU 'EDD60-24DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": null,
+  "g": [],
+  "v_withheld": "Source product has no images"
+ },
+ {
+  "list": "List1",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EDD96-24DC-CCT",
+  "nsku": "EDD96-24DC-CCT",
+  "product": "EDD96-24DC-CCT",
+  "page": "https://www.emcod.com/products/info?id=573",
+  "conf": "High",
+  "note": "Exact source SKU 'EDD96-24DC-CCT'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": null,
+  "g": [],
+  "v_withheld": "Source product has no images"
+ },
+ {
+  "list": "List1",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EDD96-24DC",
+  "nsku": "EDD96-24DC",
+  "product": "EDD96-24DC",
+  "page": "https://www.emcod.com/products/info?id=569",
+  "conf": "High",
+  "note": "Exact source SKU 'EDD96-24DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": null,
+  "g": [],
+  "v_withheld": "Source product has no images"
+ },
+ {
+  "list": "List1",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EDD120-12DC-CCT",
+  "nsku": "EDD120-12DC-CCT",
+  "product": "",
+  "page": "",
+  "conf": "",
+  "note": "",
+  "review": "No exact SKU match in the harvested source catalog(s)",
+  "resolution": "",
+  "v": null,
+  "g": []
+ },
+ {
+  "list": "List1",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EDD120-12DC",
+  "nsku": "EDD120-12DC",
+  "product": "EDD120-12DC",
+  "page": "https://www.emcod.com/products/info?id=577",
+  "conf": "High",
+  "note": "Exact source SKU 'EDD120-12DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/3634e9df183b722de358febfe01cca10.png",
+   "page": "https://www.emcod.com/products/info?id=577",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List1",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EDD160-24DC-CCT",
+  "nsku": "EDD160-24DC-CCT",
+  "product": "EDD160-24DC-CCT",
+  "page": "https://www.emcod.com/products/info?id=579",
+  "conf": "High",
+  "note": "Exact source SKU 'EDD160-24DC-CCT'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/3634e9df183b722de358febfe01cca10.png",
+   "page": "https://www.emcod.com/products/info?id=579",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List1",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EDD160-24DC",
+  "nsku": "EDD160-24DC",
+  "product": "EDD160-24DC",
+  "page": "https://www.emcod.com/products/info?id=571",
+  "conf": "High",
+  "note": "Exact source SKU 'EDD160-24DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": null,
+  "g": [],
+  "v_withheld": "Source product has no images"
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EGP750P",
+  "nsku": "EGP750P",
+  "product": "",
+  "page": "",
+  "conf": "",
+  "note": "",
+  "review": "No exact SKU match in the harvested source catalog(s)",
+  "resolution": "",
+  "v": null,
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EGP600P",
+  "nsku": "EGP600P",
+  "product": "",
+  "page": "",
+  "conf": "",
+  "note": "",
+  "review": "No exact SKU match in the harvested source catalog(s)",
+  "resolution": "",
+  "v": null,
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EGP500P",
+  "nsku": "EGP500P",
+  "product": "",
+  "page": "",
+  "conf": "",
+  "note": "",
+  "review": "No exact SKU match in the harvested source catalog(s)",
+  "resolution": "",
+  "v": null,
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EGP300P",
+  "nsku": "EGP300P",
+  "product": "",
+  "page": "",
+  "conf": "",
+  "note": "",
+  "review": "No exact SKU match in the harvested source catalog(s)",
+  "resolution": "",
+  "v": null,
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EGP250P",
+  "nsku": "EGP250P",
+  "product": "",
+  "page": "",
+  "conf": "",
+  "note": "",
+  "review": "No exact SKU match in the harvested source catalog(s)",
+  "resolution": "",
+  "v": null,
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EGP200P",
+  "nsku": "EGP200P",
+  "product": "",
+  "page": "",
+  "conf": "",
+  "note": "",
+  "review": "No exact SKU match in the harvested source catalog(s)",
+  "resolution": "",
+  "v": null,
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EGP150P",
+  "nsku": "EGP150P",
+  "product": "",
+  "page": "",
+  "conf": "",
+  "note": "",
+  "review": "No exact SKU match in the harvested source catalog(s)",
+  "resolution": "",
+  "v": null,
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EGP100P",
+  "nsku": "EGP100P",
+  "product": "",
+  "page": "",
+  "conf": "",
+  "note": "",
+  "review": "No exact SKU match in the harvested source catalog(s)",
+  "resolution": "",
+  "v": null,
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EM600S12AC",
+  "nsku": "EM600S12AC",
+  "product": "EM600S12AC",
+  "page": "https://www.emcod.com/products/info?id=282",
+  "conf": "High",
+  "note": "Exact source SKU 'EM600S12AC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0cfa8a338b53174c1e5088f590ed8768.png",
+   "page": "https://www.emcod.com/products/info?id=282",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EM500S12AC",
+  "nsku": "EM500S12AC",
+  "product": "EM500S12AC",
+  "page": "https://www.emcod.com/products/info?id=281",
+  "conf": "High",
+  "note": "Exact source SKU 'EM500S12AC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0cfa8a338b53174c1e5088f590ed8768.png",
+   "page": "https://www.emcod.com/products/info?id=281",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EM300S12AC",
+  "nsku": "EM300S12AC",
+  "product": "EM300S12AC",
+  "page": "https://www.emcod.com/products/info?id=216",
+  "conf": "High",
+  "note": "Exact source SKU 'EM300S12AC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0cfa8a338b53174c1e5088f590ed8768.png",
+   "page": "https://www.emcod.com/products/info?id=216",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EM250S12AC",
+  "nsku": "EM250S12AC",
+  "product": "EM250S12AC",
+  "page": "https://www.emcod.com/products/info?id=303",
+  "conf": "High",
+  "note": "Exact source SKU 'EM250S12AC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0cfa8a338b53174c1e5088f590ed8768.png",
+   "page": "https://www.emcod.com/products/info?id=303",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EM200S24AC",
+  "nsku": "EM200S24AC",
+  "product": "",
+  "page": "",
+  "conf": "",
+  "note": "",
+  "review": "No exact SKU match in the harvested source catalog(s)",
+  "resolution": "",
+  "v": null,
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EM200S12AC",
+  "nsku": "EM200S12AC",
+  "product": "",
+  "page": "",
+  "conf": "",
+  "note": "",
+  "review": "No exact SKU match in the harvested source catalog(s)",
+  "resolution": "",
+  "v": null,
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EM150S24AC",
+  "nsku": "EM150S24AC",
+  "product": "",
+  "page": "",
+  "conf": "",
+  "note": "",
+  "review": "No exact SKU match in the harvested source catalog(s)",
+  "resolution": "",
+  "v": null,
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EM150S12AC",
+  "nsku": "EM150S12AC",
+  "product": "",
+  "page": "",
+  "conf": "",
+  "note": "",
+  "review": "No exact SKU match in the harvested source catalog(s)",
+  "resolution": "",
+  "v": null,
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML96S24AC",
+  "nsku": "ML96S24AC",
+  "product": "ML96S24AC",
+  "page": "https://www.emcod.com/products/info?id=340",
+  "conf": "High",
+  "note": "Exact source SKU 'ML96S24AC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/11548355a32182791c6723f71e00aca9.png",
+   "page": "https://www.emcod.com/products/info?id=340",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML100S12AC",
+  "nsku": "ML100S12AC",
+  "product": "ML100S12AC",
+  "page": "https://www.emcod.com/products/info?id=258",
+  "conf": "High",
+  "note": "Exact source SKU 'ML100S12AC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/11548355a32182791c6723f71e00aca9.png",
+   "page": "https://www.emcod.com/products/info?id=258",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML75S24AC",
+  "nsku": "ML75S24AC",
+  "product": "ML75S24AC",
+  "page": "https://www.emcod.com/products/info?id=505",
+  "conf": "High",
+  "note": "Exact source SKU 'ML75S24AC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/11548355a32182791c6723f71e00aca9.png",
+   "page": "https://www.emcod.com/products/info?id=505",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML75S12AC",
+  "nsku": "ML75S12AC",
+  "product": "ML75S12AC",
+  "page": "https://www.emcod.com/products/info?id=199",
+  "conf": "High",
+  "note": "Exact source SKU 'ML75S12AC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/11548355a32182791c6723f71e00aca9.png",
+   "page": "https://www.emcod.com/products/info?id=199",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML60S24AC",
+  "nsku": "ML60S24AC",
+  "product": "ML60S24AC",
+  "page": "https://www.emcod.com/products/info?id=484",
+  "conf": "High",
+  "note": "Exact source SKU 'ML60S24AC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/11548355a32182791c6723f71e00aca9.png",
+   "page": "https://www.emcod.com/products/info?id=484",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML60S12AC",
+  "nsku": "ML60S12AC",
+  "product": "ML60S12AC",
+  "page": "https://www.emcod.com/products/info?id=182",
+  "conf": "High",
+  "note": "Exact source SKU 'ML60S12AC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/11548355a32182791c6723f71e00aca9.png",
+   "page": "https://www.emcod.com/products/info?id=182",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML60S24AC-B",
+  "nsku": "ML60S24AC-B",
+  "product": "ML60S24AC b",
+  "page": "https://www.emcod.com/products/info?id=483",
+  "conf": "High",
+  "note": "Exact source SKU 'ML60S24AC-B'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+   "page": "https://www.emcod.com/products/info?id=483",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML60S12AC-B",
+  "nsku": "ML60S12AC-B",
+  "product": "ML60S12AC b",
+  "page": "https://www.emcod.com/products/info?id=324",
+  "conf": "High",
+  "note": "Exact source SKU 'ML60S12AC-B'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+   "page": "https://www.emcod.com/products/info?id=324",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML50S24AC",
+  "nsku": "ML50S24AC",
+  "product": "ML50S24AC",
+  "page": "https://www.emcod.com/products/info?id=242",
+  "conf": "High",
+  "note": "Exact source SKU 'ML50S24AC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+   "page": "https://www.emcod.com/products/info?id=242",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML50S12AC",
+  "nsku": "ML50S12AC",
+  "product": "ML50S12AC",
+  "page": "https://www.emcod.com/products/info?id=467",
+  "conf": "High",
+  "note": "Exact source SKU 'ML50S12AC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+   "page": "https://www.emcod.com/products/info?id=467",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML40S24AC",
+  "nsku": "ML40S24AC",
+  "product": "ML40S24AC",
+  "page": "https://www.emcod.com/products/info?id=280",
+  "conf": "High",
+  "note": "Exact source SKU 'ML40S24AC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+   "page": "https://www.emcod.com/products/info?id=280",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML40S12AC",
+  "nsku": "ML40S12AC",
+  "product": "ML40S12AC",
+  "page": "https://www.emcod.com/products/info?id=220",
+  "conf": "High",
+  "note": "Exact source SKU 'ML40S12AC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+   "page": "https://www.emcod.com/products/info?id=220",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML35S24AC",
+  "nsku": "ML35S24AC",
+  "product": "ML35S24AC",
+  "page": "https://www.emcod.com/products/info?id=240",
+  "conf": "High",
+  "note": "Exact source SKU 'ML35S24AC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+   "page": "https://www.emcod.com/products/info?id=240",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML35S12AC",
+  "nsku": "ML35S12AC",
+  "product": "ML35S12AC",
+  "page": "https://www.emcod.com/products/info?id=181",
+  "conf": "High",
+  "note": "Exact source SKU 'ML35S12AC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+   "page": "https://www.emcod.com/products/info?id=181",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML20S24AC",
+  "nsku": "ML20S24AC",
+  "product": "ML20S24AC",
+  "page": "https://www.emcod.com/products/info?id=279",
+  "conf": "High",
+  "note": "Exact source SKU 'ML20S24AC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+   "page": "https://www.emcod.com/products/info?id=279",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML20S12AC",
+  "nsku": "ML20S12AC",
+  "product": "ML20S12AC",
+  "page": "https://www.emcod.com/products/info?id=180",
+  "conf": "High",
+  "note": "Exact source SKU 'ML20S12AC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+   "page": "https://www.emcod.com/products/info?id=180",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "SMT300W",
+  "nsku": "SMT300W",
+  "product": "SMT300W",
+  "page": "https://www.emcod.com/products/info?id=543",
+  "conf": "High",
+  "note": "Exact source SKU 'SMT300W'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e2a2d863a5222e884a1a13c2baf8d5a8.png",
+   "page": "https://www.emcod.com/products/info?id=543",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EMT600SS-22E",
+  "nsku": "EMT600SS-22E",
+  "product": "EMT600SS-22E",
+  "page": "https://www.emcod.com/products/info?id=42",
+  "conf": "High",
+  "note": "Exact source SKU 'EMT600SS-22E'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/40cb04e6b9b1defe1b15898ae1f6d033.png",
+   "page": "https://www.emcod.com/products/info?id=42",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EMT300SS-22E",
+  "nsku": "EMT300SS-22E",
+  "product": "EMT-300SS-22E",
+  "page": "https://www.emcod.com/products/info?id=40",
+  "conf": "High",
+  "note": "Exact source SKU 'EMT300SS-22E'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/f0bdb92ccdcdeead4624f86f5e7fb712.png",
+   "page": "https://www.emcod.com/products/info?id=40",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EMT900SS-E",
+  "nsku": "EMT900SS-E",
+  "product": "EMT900SS-E",
+  "page": "https://www.emcod.com/products/info?id=353",
+  "conf": "High",
+  "note": "Exact source SKU 'EMT900SS-E'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/8499126b5cbade9edbf89e32bcedf3f0.png",
+   "page": "https://www.emcod.com/products/info?id=353",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EMT600SS-E",
+  "nsku": "EMT600SS-E",
+  "product": "EMT600SS-E",
+  "page": "https://www.emcod.com/products/info?id=352",
+  "conf": "High",
+  "note": "Exact source SKU 'EMT600SS-E'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/8499126b5cbade9edbf89e32bcedf3f0.png",
+   "page": "https://www.emcod.com/products/info?id=352",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EMT300SS-E",
+  "nsku": "EMT300SS-E",
+  "product": "EMT300SS-E",
+  "page": "https://www.emcod.com/products/info?id=349",
+  "conf": "High",
+  "note": "Exact source SKU 'EMT300SS-E'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/816d0310767d87141676fb118624038c.png",
+   "page": "https://www.emcod.com/products/info?id=349",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EMT150SS-E",
+  "nsku": "EMT150SS-E",
+  "product": "EMT150SS-E",
+  "page": "https://www.emcod.com/products/info?id=348",
+  "conf": "High",
+  "note": "Exact source SKU 'EMT150SS-E'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/816d0310767d87141676fb118624038c.png",
+   "page": "https://www.emcod.com/products/info?id=348",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "SS300W",
+  "nsku": "SS300W",
+  "product": "SS300W",
+  "page": "https://www.emcod.com/products/info?id=547",
+  "conf": "High",
+  "note": "Exact source SKU 'SS300W'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/336fddb801528a11fdc6a3e249b4c284.png",
+   "page": "https://www.emcod.com/products/info?id=547",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "SS200W",
+  "nsku": "SS200W",
+  "product": "SS200W",
+  "page": "https://www.emcod.com/products/info?id=545",
+  "conf": "High",
+  "note": "Exact source SKU 'SS200W'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/336fddb801528a11fdc6a3e249b4c284.png",
+   "page": "https://www.emcod.com/products/info?id=545",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "SS120W",
+  "nsku": "SS120W",
+  "product": "SS120W",
+  "page": "https://www.emcod.com/products/info?id=546",
+  "conf": "High",
+  "note": "Exact source SKU 'SS120W'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/336fddb801528a11fdc6a3e249b4c284.png",
+   "page": "https://www.emcod.com/products/info?id=546",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ESL300W",
+  "nsku": "ESL300W",
+  "product": "ESL300W",
+  "page": "https://www.emcod.com/products/info?id=360",
+  "conf": "High",
+  "note": "Exact source SKU 'ESL300W'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0361c59c334742c22e84a9c09f7c961f.png",
+   "page": "https://www.emcod.com/products/info?id=360",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ESL200W",
+  "nsku": "ESL200W",
+  "product": "ESL200W",
+  "page": "https://www.emcod.com/products/info?id=452",
+  "conf": "High",
+  "note": "Exact source SKU 'ESL200W'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/d363b9e25ed8109c186e43aac8c915c1.png",
+   "page": "https://www.emcod.com/products/info?id=452",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ESL100W",
+  "nsku": "ESL100W",
+  "product": "ESL100W",
+  "page": "https://www.emcod.com/products/info?id=358",
+  "conf": "High",
+  "note": "Exact source SKU 'ESL100W'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/d363b9e25ed8109c186e43aac8c915c1.png",
+   "page": "https://www.emcod.com/products/info?id=358",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ESL75W",
+  "nsku": "ESL75W",
+  "product": "ESL75W",
+  "page": "https://www.emcod.com/products/info?id=357",
+  "conf": "High",
+  "note": "Exact source SKU 'ESL75W'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/19aa5b84c2c2d7518caf30ffeda3fc41.png",
+   "page": "https://www.emcod.com/products/info?id=357",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ESL40W",
+  "nsku": "ESL40W",
+  "product": "ESL40W",
+  "page": "https://www.emcod.com/products/info?id=356",
+  "conf": "High",
+  "note": "Exact source SKU 'ESL40W'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/19aa5b84c2c2d7518caf30ffeda3fc41.png",
+   "page": "https://www.emcod.com/products/info?id=356",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EM600S24DC",
+  "nsku": "EM600S24DC",
+  "product": "EM600S24DC",
+  "page": "https://www.emcod.com/products/info?id=313",
+  "conf": "High",
+  "note": "Exact source SKU 'EM600S24DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/cd4a037ed122e49ddd2e95e98d3783b0.png",
+   "page": "https://www.emcod.com/products/info?id=313",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EM600S12DC",
+  "nsku": "EM600S12DC",
+  "product": "EM600S12DC",
+  "page": "https://www.emcod.com/products/info?id=311",
+  "conf": "High",
+  "note": "Exact source SKU 'EM600S12DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/cd4a037ed122e49ddd2e95e98d3783b0.png",
+   "page": "https://www.emcod.com/products/info?id=311",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EM300S24DC",
+  "nsku": "EM300S24DC",
+  "product": "EM300S24DC",
+  "page": "https://www.emcod.com/products/info?id=170",
+  "conf": "High",
+  "note": "Exact source SKU 'EM300S24DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0cfa8a338b53174c1e5088f590ed8768.png",
+   "page": "https://www.emcod.com/products/info?id=170",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EM300S12DC",
+  "nsku": "EM300S12DC",
+  "product": "EM300S12DC",
+  "page": "https://www.emcod.com/products/info?id=347",
+  "conf": "High",
+  "note": "Exact source SKU 'EM300S12DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0cfa8a338b53174c1e5088f590ed8768.png",
+   "page": "https://www.emcod.com/products/info?id=347",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EM250S24DC",
+  "nsku": "EM250S24DC",
+  "product": "EM250S24DC",
+  "page": "https://www.emcod.com/products/info?id=203",
+  "conf": "High",
+  "note": "Exact source SKU 'EM250S24DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0cfa8a338b53174c1e5088f590ed8768.png",
+   "page": "https://www.emcod.com/products/info?id=203",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EM250S12DC",
+  "nsku": "EM250S12DC",
+  "product": "EM250S12DC",
+  "page": "https://www.emcod.com/products/info?id=209",
+  "conf": "High",
+  "note": "Exact source SKU 'EM250S12DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0cfa8a338b53174c1e5088f590ed8768.png",
+   "page": "https://www.emcod.com/products/info?id=209",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EM200S24DC",
+  "nsku": "EM200S24DC",
+  "product": "EM200S24DC",
+  "page": "https://www.emcod.com/products/info?id=166",
+  "conf": "High",
+  "note": "Exact source SKU 'EM200S24DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0cfa8a338b53174c1e5088f590ed8768.png",
+   "page": "https://www.emcod.com/products/info?id=166",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EM200S12DC",
+  "nsku": "EM200S12DC",
+  "product": "EM200S12DC",
+  "page": "https://www.emcod.com/products/info?id=316",
+  "conf": "High",
+  "note": "Exact source SKU 'EM200S12DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0cfa8a338b53174c1e5088f590ed8768.png",
+   "page": "https://www.emcod.com/products/info?id=316",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EM150S24DC",
+  "nsku": "EM150S24DC",
+  "product": "EM150S24DC",
+  "page": "https://www.emcod.com/products/info?id=167",
+  "conf": "High",
+  "note": "Exact source SKU 'EM150S24DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0cfa8a338b53174c1e5088f590ed8768.png",
+   "page": "https://www.emcod.com/products/info?id=167",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EM150S12DC",
+  "nsku": "EM150S12DC",
+  "product": "EM150S12DC",
+  "page": "https://www.emcod.com/products/info?id=375",
+  "conf": "High",
+  "note": "Exact source SKU 'EM150S12DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0cfa8a338b53174c1e5088f590ed8768.png",
+   "page": "https://www.emcod.com/products/info?id=375",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML100S24DC",
+  "nsku": "ML100S24DC",
+  "product": "",
+  "page": "",
+  "conf": "",
+  "note": "",
+  "review": "No exact SKU match in the harvested source catalog(s)",
+  "resolution": "",
+  "v": null,
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML100S12DC",
+  "nsku": "ML100S12DC",
+  "product": "ML100S12DC",
+  "page": "https://www.emcod.com/products/info?id=308",
+  "conf": "High",
+  "note": "Exact source SKU 'ML100S12DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/11548355a32182791c6723f71e00aca9.png",
+   "page": "https://www.emcod.com/products/info?id=308",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML75S24DC",
+  "nsku": "ML75S24DC",
+  "product": "ML75S24DC",
+  "page": "https://www.emcod.com/products/info?id=409",
+  "conf": "High",
+  "note": "Exact source SKU 'ML75S24DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/11548355a32182791c6723f71e00aca9.png",
+   "page": "https://www.emcod.com/products/info?id=409",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML75S12DC",
+  "nsku": "ML75S12DC",
+  "product": "ML75S12DC",
+  "page": "https://www.emcod.com/products/info?id=192",
+  "conf": "High",
+  "note": "Exact source SKU 'ML75S12DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/11548355a32182791c6723f71e00aca9.png",
+   "page": "https://www.emcod.com/products/info?id=192",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML60S24DC",
+  "nsku": "ML60S24DC",
+  "product": "ML60S24DC",
+  "page": "https://www.emcod.com/products/info?id=194",
+  "conf": "High",
+  "note": "Exact source SKU 'ML60S24DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/11548355a32182791c6723f71e00aca9.png",
+   "page": "https://www.emcod.com/products/info?id=194",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML60S12DC",
+  "nsku": "ML60S12DC",
+  "product": "ML60S12DC",
+  "page": "https://www.emcod.com/products/info?id=309",
+  "conf": "High",
+  "note": "Exact source SKU 'ML60S12DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/11548355a32182791c6723f71e00aca9.png",
+   "page": "https://www.emcod.com/products/info?id=309",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML60S24DC-B",
+  "nsku": "ML60S24DC-B",
+  "product": "ML60S24DC b",
+  "page": "https://www.emcod.com/products/info?id=305",
+  "conf": "High",
+  "note": "Exact source SKU 'ML60S24DC-B'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+   "page": "https://www.emcod.com/products/info?id=305",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML60S12DC-B",
+  "nsku": "ML60S12DC-B",
+  "product": "ML60S12DC b",
+  "page": "https://www.emcod.com/products/info?id=304",
+  "conf": "High",
+  "note": "Exact source SKU 'ML60S12DC-B'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+   "page": "https://www.emcod.com/products/info?id=304",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML50S24DC",
+  "nsku": "ML50S24DC",
+  "product": "ML50S24DC",
+  "page": "https://www.emcod.com/products/info?id=227",
+  "conf": "High",
+  "note": "Exact source SKU 'ML50S24DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+   "page": "https://www.emcod.com/products/info?id=227",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML50S12DC",
+  "nsku": "ML50S12DC",
+  "product": "ML50S12DC",
+  "page": "https://www.emcod.com/products/info?id=10",
+  "conf": "High",
+  "note": "Exact source SKU 'ML50S12DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+   "page": "https://www.emcod.com/products/info?id=10",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML40S24DC",
+  "nsku": "ML40S24DC",
+  "product": "ML40S24DC",
+  "page": "https://www.emcod.com/products/info?id=190",
+  "conf": "High",
+  "note": "Exact source SKU 'ML40S24DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+   "page": "https://www.emcod.com/products/info?id=190",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML40S12DC",
+  "nsku": "ML40S12DC",
+  "product": "ML40S12DC",
+  "page": "https://www.emcod.com/products/info?id=86",
+  "conf": "High",
+  "note": "Exact source SKU 'ML40S12DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+   "page": "https://www.emcod.com/products/info?id=86",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML35S24DC",
+  "nsku": "ML35S24DC",
+  "product": "ML35S24DC",
+  "page": "https://www.emcod.com/products/info?id=218",
+  "conf": "High",
+  "note": "Exact source SKU 'ML35S24DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+   "page": "https://www.emcod.com/products/info?id=218",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML35S12DC",
+  "nsku": "ML35S12DC",
+  "product": "ML35S12DC",
+  "page": "https://www.emcod.com/products/info?id=6",
+  "conf": "High",
+  "note": "Exact source SKU 'ML35S12DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+   "page": "https://www.emcod.com/products/info?id=6",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML20S24DC",
+  "nsku": "ML20S24DC",
+  "product": "ML20S24DC",
+  "page": "https://www.emcod.com/products/info?id=8",
+  "conf": "High",
+  "note": "Exact source SKU 'ML20S24DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+   "page": "https://www.emcod.com/products/info?id=8",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML20S12DC",
+  "nsku": "ML20S12DC",
+  "product": "ML20S12DC",
+  "page": "https://www.emcod.com/products/info?id=315",
+  "conf": "High",
+  "note": "Exact source SKU 'ML20S12DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+   "page": "https://www.emcod.com/products/info?id=315",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML10S24DC",
+  "nsku": "ML10S24DC",
+  "product": "ML10S24DC",
+  "page": "https://www.emcod.com/products/info?id=3",
+  "conf": "High",
+  "note": "Exact source SKU 'ML10S24DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+   "page": "https://www.emcod.com/products/info?id=3",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ML10S12DC",
+  "nsku": "ML10S12DC",
+  "product": "ML10S12DC",
+  "page": "https://www.emcod.com/products/info?id=4",
+  "conf": "High",
+  "note": "Exact source SKU 'ML10S12DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+   "page": "https://www.emcod.com/products/info?id=4",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ECV300-24DC-UD",
+  "nsku": "ECV300-24DC-UD",
+  "product": "ECV300-24DC-UD",
+  "page": "https://www.emcod.com/products/info?id=530",
+  "conf": "High",
+  "note": "Exact source SKU 'ECV300-24DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+   "page": "https://www.emcod.com/products/info?id=530",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ECV300-12DC-UD",
+  "nsku": "ECV300-12DC-UD",
+  "product": "ECV300-12DC-UD",
+  "page": "https://www.emcod.com/products/info?id=529",
+  "conf": "High",
+  "note": "Exact source SKU 'ECV300-12DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+   "page": "https://www.emcod.com/products/info?id=529",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ECV200-24DC-UD",
+  "nsku": "ECV200-24DC-UD",
+  "product": "ECV200-24DC-UD",
+  "page": "https://www.emcod.com/products/info?id=528",
+  "conf": "High",
+  "note": "Exact source SKU 'ECV200-24DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+   "page": "https://www.emcod.com/products/info?id=528",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ECV200-12DC-UD",
+  "nsku": "ECV200-12DC-UD",
+  "product": "ECV200-12DC-UD",
+  "page": "https://www.emcod.com/products/info?id=527",
+  "conf": "High",
+  "note": "Exact source SKU 'ECV200-12DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+   "page": "https://www.emcod.com/products/info?id=527",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ECV150-24DC-UD",
+  "nsku": "ECV150-24DC-UD",
+  "product": "ECV150-24DC-UD",
+  "page": "https://www.emcod.com/products/info?id=526",
+  "conf": "High",
+  "note": "Exact source SKU 'ECV150-24DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+   "page": "https://www.emcod.com/products/info?id=526",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ECV150-12DC-UD",
+  "nsku": "ECV150-12DC-UD",
+  "product": "ECV150-12DC-UD",
+  "page": "https://www.emcod.com/products/info?id=525",
+  "conf": "High",
+  "note": "Exact source SKU 'ECV150-12DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+   "page": "https://www.emcod.com/products/info?id=525",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ECV120-24DC-UD",
+  "nsku": "ECV120-24DC-UD",
+  "product": "ECV120-24DC-UD",
+  "page": "https://www.emcod.com/products/info?id=524",
+  "conf": "High",
+  "note": "Exact source SKU 'ECV120-24DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+   "page": "https://www.emcod.com/products/info?id=524",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ECV120-12DC-UD",
+  "nsku": "ECV120-12DC-UD",
+  "product": "ECV120-12DC-UD",
+  "page": "https://www.emcod.com/products/info?id=523",
+  "conf": "High",
+  "note": "Exact source SKU 'ECV120-12DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+   "page": "https://www.emcod.com/products/info?id=523",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ECV100-12DC-UD",
+  "nsku": "ECV100-12DC-UD",
+  "product": "ECV100-12DC-UD",
+  "page": "https://www.emcod.com/products/info?id=522",
+  "conf": "High",
+  "note": "Exact source SKU 'ECV100-12DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+   "page": "https://www.emcod.com/products/info?id=522",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ECV96-24DC-UD",
+  "nsku": "ECV96-24DC-UD",
+  "product": "ECV96-24DC-UD",
+  "page": "https://www.emcod.com/products/info?id=517",
+  "conf": "High",
+  "note": "Exact source SKU 'ECV96-24DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+   "page": "https://www.emcod.com/products/info?id=517",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ECV80-24DC-UD",
+  "nsku": "ECV80-24DC-UD",
+  "product": "ECV80-24DC-UD",
+  "page": "https://www.emcod.com/products/info?id=521",
+  "conf": "High",
+  "note": "Exact source SKU 'ECV80-24DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+   "page": "https://www.emcod.com/products/info?id=521",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ECV80-12DC-UD",
+  "nsku": "ECV80-12DC-UD",
+  "product": "ECV80-12DC-UD",
+  "page": "https://www.emcod.com/products/info?id=520",
+  "conf": "High",
+  "note": "Exact source SKU 'ECV80-12DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+   "page": "https://www.emcod.com/products/info?id=520",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ECV60-24DC-UD",
+  "nsku": "ECV60-24DC-UD",
+  "product": "ECV60-24DC-UD",
+  "page": "https://www.emcod.com/products/info?id=472",
+  "conf": "High",
+  "note": "Exact source SKU 'ECV60-24DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+   "page": "https://www.emcod.com/products/info?id=472",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ECV60-12DC-UD",
+  "nsku": "ECV60-12DC-UD",
+  "product": "ECV60-12DC-UD",
+  "page": "https://www.emcod.com/products/info?id=501",
+  "conf": "High",
+  "note": "Exact source SKU 'ECV60-12DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+   "page": "https://www.emcod.com/products/info?id=501",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ECV30-24DC-UD",
+  "nsku": "ECV30-24DC-UD",
+  "product": "ECV30-24DC-UD",
+  "page": "https://www.emcod.com/products/info?id=519",
+  "conf": "High",
+  "note": "Exact source SKU 'ECV30-24DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+   "page": "https://www.emcod.com/products/info?id=519",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ECV30-12DC-UD",
+  "nsku": "ECV30-12DC-UD",
+  "product": "ECV30-12DC-UD",
+  "page": "https://www.emcod.com/products/info?id=518",
+  "conf": "High",
+  "note": "Exact source SKU 'ECV30-12DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+   "page": "https://www.emcod.com/products/info?id=518",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE300-24DC",
+  "nsku": "MLE300-24DC",
+  "product": "MLE300-24DC",
+  "page": "https://www.emcod.com/products/info?id=423",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE300-24DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+   "page": "https://www.emcod.com/products/info?id=423",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE300-12DC",
+  "nsku": "MLE300-12DC",
+  "product": "MLE300-12DC",
+  "page": "https://www.emcod.com/products/info?id=456",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE300-12DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+   "page": "https://www.emcod.com/products/info?id=456",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE200-24DC",
+  "nsku": "MLE200-24DC",
+  "product": "MLE200-24DC",
+  "page": "https://www.emcod.com/products/info?id=419",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE200-24DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+   "page": "https://www.emcod.com/products/info?id=419",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE200-12DC",
+  "nsku": "MLE200-12DC",
+  "product": "MLE200-12DC",
+  "page": "https://www.emcod.com/products/info?id=428",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE200-12DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+   "page": "https://www.emcod.com/products/info?id=428",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE150-24DC",
+  "nsku": "MLE150-24DC",
+  "product": "MLE150-24DC",
+  "page": "https://www.emcod.com/products/info?id=418",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE150-24DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+   "page": "https://www.emcod.com/products/info?id=418",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE150-12DC",
+  "nsku": "MLE150-12DC",
+  "product": "MLE150-12DC",
+  "page": "https://www.emcod.com/products/info?id=427",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE150-12DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+   "page": "https://www.emcod.com/products/info?id=427",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE120-24DC",
+  "nsku": "MLE120-24DC",
+  "product": "MLE120-24DC",
+  "page": "https://www.emcod.com/products/info?id=417",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE120-24DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+   "page": "https://www.emcod.com/products/info?id=417",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE120-12DC",
+  "nsku": "MLE120-12DC",
+  "product": "MLE120-12DC",
+  "page": "https://www.emcod.com/products/info?id=426",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE120-12DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+   "page": "https://www.emcod.com/products/info?id=426",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE96-24DC",
+  "nsku": "MLE96-24DC",
+  "product": "MLE96-24DC",
+  "page": "https://www.emcod.com/products/info?id=420",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE96-24DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+   "page": "https://www.emcod.com/products/info?id=420",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE100-12DC",
+  "nsku": "MLE100-12DC",
+  "product": "MLE100-12DC",
+  "page": "https://www.emcod.com/products/info?id=425",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE100-12DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+   "page": "https://www.emcod.com/products/info?id=425",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE80-24DC",
+  "nsku": "MLE80-24DC",
+  "product": "MLE80-24DC",
+  "page": "https://www.emcod.com/products/info?id=410",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE80-24DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+   "page": "https://www.emcod.com/products/info?id=410",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE80-12DC",
+  "nsku": "MLE80-12DC",
+  "product": "MLE80-12DC",
+  "page": "https://www.emcod.com/products/info?id=424",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE80-12DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+   "page": "https://www.emcod.com/products/info?id=424",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE60-24DC",
+  "nsku": "MLE60-24DC",
+  "product": "MLE60-24DC",
+  "page": "https://www.emcod.com/products/info?id=421",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE60-24DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+   "page": "https://www.emcod.com/products/info?id=421",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE60-12DC",
+  "nsku": "MLE60-12DC",
+  "product": "MLE60-12DC",
+  "page": "https://www.emcod.com/products/info?id=430",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE60-12DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+   "page": "https://www.emcod.com/products/info?id=430",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE30-24DC",
+  "nsku": "MLE30-24DC",
+  "product": "MLE30-24DC",
+  "page": "https://www.emcod.com/products/info?id=422",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE30-24DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+   "page": "https://www.emcod.com/products/info?id=422",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE30-12DC",
+  "nsku": "MLE30-12DC",
+  "product": "MLE30-12DC",
+  "page": "https://www.emcod.com/products/info?id=431",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE30-12DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+   "page": "https://www.emcod.com/products/info?id=431",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE384C2-24UD",
+  "nsku": "MLE384C2-24UD",
+  "product": "MLE384C2-24UD T24",
+  "page": "https://www.emcod.com/products/info?id=554",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE384C2-24UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/76ecd7a556d80d0a52b1ed1855f55a8a.png",
+   "page": "https://www.emcod.com/products/info?id=554",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE288C2-24UD",
+  "nsku": "MLE288C2-24UD",
+  "product": "MLE288C2-24UD T24",
+  "page": "https://www.emcod.com/products/info?id=478",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE288C2-24UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+   "page": "https://www.emcod.com/products/info?id=478",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE300C2-12UD",
+  "nsku": "MLE300C2-12UD",
+  "product": "MLE300C2-12UD T24",
+  "page": "https://www.emcod.com/products/info?id=495",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE300C2-12UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+   "page": "https://www.emcod.com/products/info?id=495",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE192C2-24UD",
+  "nsku": "MLE192C2-24UD",
+  "product": "MLE192C2-24UD T24",
+  "page": "https://www.emcod.com/products/info?id=462",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE192C2-24UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+   "page": "https://www.emcod.com/products/info?id=462",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE180C2-12UD",
+  "nsku": "MLE180C2-12UD",
+  "product": "MLE180C2-12UD T24",
+  "page": "https://www.emcod.com/products/info?id=496",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE180C2-12UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+   "page": "https://www.emcod.com/products/info?id=496",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE600-24DC-UD",
+  "nsku": "MLE600-24DC-UD",
+  "product": "MLE600-24DC-UD T24",
+  "page": "https://www.emcod.com/products/info?id=557",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE600-24DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/4d0c7285bc9e04e51aff88b6aeec65bf.png",
+   "page": "https://www.emcod.com/products/info?id=557",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE500-24DC-UD",
+  "nsku": "MLE500-24DC-UD",
+  "product": "MLE500-24DC-UD T24",
+  "page": "https://www.emcod.com/products/info?id=556",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE500-24DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/dd03a9b17a9c93665c2dce7759c27982.png",
+   "page": "https://www.emcod.com/products/info?id=556",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE500-12DC-UD",
+  "nsku": "MLE500-12DC-UD",
+  "product": "MLE500-12DC-UD T24",
+  "page": "https://www.emcod.com/products/info?id=555",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE500-12DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/70685b67900f5953ef26e8b36390799d.png",
+   "page": "https://www.emcod.com/products/info?id=555",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE300-24DC-UD",
+  "nsku": "MLE300-24DC-UD",
+  "product": "MLE300-24DC-UD T24",
+  "page": "https://www.emcod.com/products/info?id=550",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE300-24DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+   "page": "https://www.emcod.com/products/info?id=550",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE300-12DC-UD",
+  "nsku": "MLE300-12DC-UD",
+  "product": "MLE300-12DC-UD T24",
+  "page": "https://www.emcod.com/products/info?id=475",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE300-12DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+   "page": "https://www.emcod.com/products/info?id=475",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE200-24DC-UD",
+  "nsku": "MLE200-24DC-UD",
+  "product": "MLE200-24DC-UD T24",
+  "page": "https://www.emcod.com/products/info?id=499",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE200-24DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+   "page": "https://www.emcod.com/products/info?id=499",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE200-12DC-UD",
+  "nsku": "MLE200-12DC-UD",
+  "product": "MLE200-12DC-UD T24",
+  "page": "https://www.emcod.com/products/info?id=498",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE200-12DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+   "page": "https://www.emcod.com/products/info?id=498",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE150-24DC-UD",
+  "nsku": "MLE150-24DC-UD",
+  "product": "MLE150-24DC-UD T24",
+  "page": "https://www.emcod.com/products/info?id=500",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE150-24DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+   "page": "https://www.emcod.com/products/info?id=500",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE150-12DC-UD",
+  "nsku": "MLE150-12DC-UD",
+  "product": "MLE150-12DC-UD T24",
+  "page": "https://www.emcod.com/products/info?id=497",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE150-12DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+   "page": "https://www.emcod.com/products/info?id=497",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE120-24DC-UD",
+  "nsku": "MLE120-24DC-UD",
+  "product": "MLE120-24DC-UD T24",
+  "page": "https://www.emcod.com/products/info?id=473",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE120-24DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+   "page": "https://www.emcod.com/products/info?id=473",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE120-12DC-UD",
+  "nsku": "MLE120-12DC-UD",
+  "product": "MLE120-12DC-UD T24",
+  "page": "https://www.emcod.com/products/info?id=474",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE120-12DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+   "page": "https://www.emcod.com/products/info?id=474",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE96-24DC-UD",
+  "nsku": "MLE96-24DC-UD",
+  "product": "MLE96-24DC-UD T24",
+  "page": "https://www.emcod.com/products/info?id=463",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE96-24DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+   "page": "https://www.emcod.com/products/info?id=463",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE100-12DC-UD",
+  "nsku": "MLE100-12DC-UD",
+  "product": "MLE100-12DC-UD T24",
+  "page": "https://www.emcod.com/products/info?id=488",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE100-12DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+   "page": "https://www.emcod.com/products/info?id=488",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE80-24DC-UD",
+  "nsku": "MLE80-24DC-UD",
+  "product": "MLE80-24DC-UD T24",
+  "page": "https://www.emcod.com/products/info?id=493",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE80-24DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+   "page": "https://www.emcod.com/products/info?id=493",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE80-12DC-UD",
+  "nsku": "MLE80-12DC-UD",
+  "product": "MLE80-12DC-UD T24",
+  "page": "https://www.emcod.com/products/info?id=494",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE80-12DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+   "page": "https://www.emcod.com/products/info?id=494",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE60-24DC-UD",
+  "nsku": "MLE60-24DC-UD",
+  "product": "MLE60-24DC-UD T24",
+  "page": "https://www.emcod.com/products/info?id=466",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE60-24DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+   "page": "https://www.emcod.com/products/info?id=466",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE60-12DC-UD",
+  "nsku": "MLE60-12DC-UD",
+  "product": "MLE60-12DC-UD T24",
+  "page": "https://www.emcod.com/products/info?id=506",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE60-12DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+   "page": "https://www.emcod.com/products/info?id=506",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE30-24DC-UD",
+  "nsku": "MLE30-24DC-UD",
+  "product": "MLE30-24DC-UD T24",
+  "page": "https://www.emcod.com/products/info?id=481",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE30-24DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+   "page": "https://www.emcod.com/products/info?id=481",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE30-12DC-UD",
+  "nsku": "MLE30-12DC-UD",
+  "product": "MLE30-12DC-UD T24",
+  "page": "https://www.emcod.com/products/info?id=563",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE30-12DC-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+   "page": "https://www.emcod.com/products/info?id=563",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ES150-24UD",
+  "nsku": "ES150-24UD",
+  "product": "ES150-24UD",
+  "page": "https://www.emcod.com/products/info?id=542",
+  "conf": "High",
+  "note": "Exact source SKU 'ES150-24UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/59270d2bdd2c6dcf86ab944179ffaa74.png",
+   "page": "https://www.emcod.com/products/info?id=542",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ES150-12UD",
+  "nsku": "ES150-12UD",
+  "product": "ES150-12UD",
+  "page": "https://www.emcod.com/products/info?id=541",
+  "conf": "High",
+  "note": "Exact source SKU 'ES150-12UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/59270d2bdd2c6dcf86ab944179ffaa74.png",
+   "page": "https://www.emcod.com/products/info?id=541",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ES100-12UD",
+  "nsku": "ES100-12UD",
+  "product": "ES100-12UD",
+  "page": "https://www.emcod.com/products/info?id=540",
+  "conf": "High",
+  "note": "Exact source SKU 'ES100-12UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/59270d2bdd2c6dcf86ab944179ffaa74.png",
+   "page": "https://www.emcod.com/products/info?id=540",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ES96-24UD",
+  "nsku": "ES96-24UD",
+  "product": "ES96-24UD",
+  "page": "https://www.emcod.com/products/info?id=538",
+  "conf": "High",
+  "note": "Exact source SKU 'ES96-24UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/59270d2bdd2c6dcf86ab944179ffaa74.png",
+   "page": "https://www.emcod.com/products/info?id=538",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ES60-24UD",
+  "nsku": "ES60-24UD",
+  "product": "ES60-24UD",
+  "page": "https://www.emcod.com/products/info?id=537",
+  "conf": "High",
+  "note": "Exact source SKU 'ES60-24UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/59270d2bdd2c6dcf86ab944179ffaa74.png",
+   "page": "https://www.emcod.com/products/info?id=537",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ES60-12UD",
+  "nsku": "ES60-12UD",
+  "product": "ES60-12UD",
+  "page": "https://www.emcod.com/products/info?id=536",
+  "conf": "High",
+  "note": "Exact source SKU 'ES60-12UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/59270d2bdd2c6dcf86ab944179ffaa74.png",
+   "page": "https://www.emcod.com/products/info?id=536",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ES30-24UD",
+  "nsku": "ES30-24UD",
+  "product": "ES30-24UD",
+  "page": "https://www.emcod.com/products/info?id=531",
+  "conf": "High",
+  "note": "Exact source SKU 'ES30-24UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/59270d2bdd2c6dcf86ab944179ffaa74.png",
+   "page": "https://www.emcod.com/products/info?id=531",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ES30-12UD",
+  "nsku": "ES30-12UD",
+  "product": "ES30-12UD",
+  "page": "https://www.emcod.com/products/info?id=480",
+  "conf": "High",
+  "note": "Exact source SKU 'ES30-12UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/59270d2bdd2c6dcf86ab944179ffaa74.png",
+   "page": "https://www.emcod.com/products/info?id=480",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EDR96-24DC",
+  "nsku": "EDR96-24DC",
+  "product": "EDR96-24DC",
+  "page": "https://www.emcod.com/products/info?id=510",
+  "conf": "High",
+  "note": "Exact source SKU 'EDR96-24DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/a93f5dc54c779aa8a19825ac15ae0983.png",
+   "page": "https://www.emcod.com/products/info?id=510",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EDR100-12DC",
+  "nsku": "EDR100-12DC",
+  "product": "EDR100-12DC",
+  "page": "https://www.emcod.com/products/info?id=509",
+  "conf": "High",
+  "note": "Exact source SKU 'EDR100-12DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/6e48343f0963acc2017a17da7ff3ca15.png",
+   "page": "https://www.emcod.com/products/info?id=509",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EDR60-24DC",
+  "nsku": "EDR60-24DC",
+  "product": "EDR60-24DC",
+  "page": "https://www.emcod.com/products/info?id=508",
+  "conf": "High",
+  "note": "Exact source SKU 'EDR60-24DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/ef128230331252e24732b6a04406db3e.png",
+   "page": "https://www.emcod.com/products/info?id=508",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EDR60-12DC",
+  "nsku": "EDR60-12DC",
+  "product": "EDR60-12DC",
+  "page": "https://www.emcod.com/products/info?id=507",
+  "conf": "High",
+  "note": "Exact source SKU 'EDR60-12DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/ef128230331252e24732b6a04406db3e.png",
+   "page": "https://www.emcod.com/products/info?id=507",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ECC-060-UD",
+  "nsku": "ECC-060-UD",
+  "product": "ECC-060-UD",
+  "page": "https://www.emcod.com/products/info?id=513",
+  "conf": "High",
+  "note": "Exact source SKU 'ECC-060-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e2821c754db437df378a45137c808523.png",
+   "page": "https://www.emcod.com/products/info?id=513",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ECC-040-UD",
+  "nsku": "ECC-040-UD",
+  "product": "ECC-040-UD",
+  "page": "https://www.emcod.com/products/info?id=516",
+  "conf": "High",
+  "note": "Exact source SKU 'ECC-040-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e2821c754db437df378a45137c808523.png",
+   "page": "https://www.emcod.com/products/info?id=516",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ECC-020-UD",
+  "nsku": "ECC-020-UD",
+  "product": "ECC-020-UD",
+  "page": "https://www.emcod.com/products/info?id=515",
+  "conf": "High",
+  "note": "Exact source SKU 'ECC-020-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e2821c754db437df378a45137c808523.png",
+   "page": "https://www.emcod.com/products/info?id=515",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "ECC-010-UD",
+  "nsku": "ECC-010-UD",
+  "product": "ECC-010-UD",
+  "page": "https://www.emcod.com/products/info?id=514",
+  "conf": "High",
+  "note": "Exact source SKU 'ECC-010-UD'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/cc3d240ad5fa54b2a96079584f91ea55.png",
+   "page": "https://www.emcod.com/products/info?id=514",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE96-24DC-P",
+  "nsku": "MLE96-24DC-P",
+  "product": "MLE96-24DC-P",
+  "page": "https://www.emcod.com/products/info?id=503",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE96-24DC-P'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/a3f0870e5a2e07b441fcecf29bbb6b10.png",
+   "page": "https://www.emcod.com/products/info?id=503",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": [],
+  "v_withheld": "V image failed processing: source only 333x149 px (too small)"
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE60-24DC-P",
+  "nsku": "MLE60-24DC-P",
+  "product": "MLE60-24DC-P",
+  "page": "https://www.emcod.com/products/info?id=465",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE60-24DC-P'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/22330276a3278b4cff4caeed2044ae69.png",
+   "page": "https://www.emcod.com/products/info?id=465",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "MLE60-12DC-P",
+  "nsku": "MLE60-12DC-P",
+  "product": "MLE60-12DC-P",
+  "page": "https://www.emcod.com/products/info?id=464",
+  "conf": "High",
+  "note": "Exact source SKU 'MLE60-12DC-P'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/22330276a3278b4cff4caeed2044ae69.png",
+   "page": "https://www.emcod.com/products/info?id=464",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List4",
+  "brand": "EMCOD Lighting Group",
+  "sku": "EDD160C2-24DC",
+  "nsku": "EDD160C2-24DC",
+  "product": "EDD160C2-24DC",
+  "page": "https://www.emcod.com/products/info?id=572",
+  "conf": "High",
+  "note": "Exact source SKU 'EDD160C2-24DC'",
+  "review": "",
+  "resolution": "exact-SKU@emcod.com",
+  "v": {
+   "url": "https://www.emcod.com/adm_dop_files/upload_files_object/3634e9df183b722de358febfe01cca10.png",
+   "page": "https://www.emcod.com/products/info?id=572",
+   "origin": "emcod.com",
+   "kind": "product main image"
+  },
+  "g": []
+ }
+]

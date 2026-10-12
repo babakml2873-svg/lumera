@@ -1,0 +1,3508 @@
+[
+ {
+  "list": "List_1",
+  "sku": "EDD60-24DC-CCT",
+  "nsku": "EDD60-24DC-CCT",
+  "type": "V",
+  "file": "EDD60-24DC-CCT-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/3634e9df183b722de358febfe01cca10.png",
+  "page": "https://www.emcod.com/products/info?id=578",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "f2b3ad16e01cb469",
+   "q": 88,
+   "src_px": [
+    403,
+    424
+   ],
+   "scale": 1.8867924528301887,
+   "notes": [
+    "upscaled x1.89 from 403x424 (best verified source available)",
+    "padded from 403x424 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "EDD120-12DC",
+  "nsku": "EDD120-12DC",
+  "type": "V",
+  "file": "EDD120-12DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/3634e9df183b722de358febfe01cca10.png",
+  "page": "https://www.emcod.com/products/info?id=577",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "f2b3ad16e01cb469",
+   "q": 88,
+   "src_px": [
+    403,
+    424
+   ],
+   "scale": 1.8867924528301887,
+   "notes": [
+    "upscaled x1.89 from 403x424 (best verified source available)",
+    "padded from 403x424 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "EDD160-24DC-CCT",
+  "nsku": "EDD160-24DC-CCT",
+  "type": "V",
+  "file": "EDD160-24DC-CCT-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/3634e9df183b722de358febfe01cca10.png",
+  "page": "https://www.emcod.com/products/info?id=579",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "f2b3ad16e01cb469",
+   "q": 88,
+   "src_px": [
+    403,
+    424
+   ],
+   "scale": 1.8867924528301887,
+   "notes": [
+    "upscaled x1.89 from 403x424 (best verified source available)",
+    "padded from 403x424 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "EM600S12AC",
+  "nsku": "EM600S12AC",
+  "type": "V",
+  "file": "EM600S12AC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0cfa8a338b53174c1e5088f590ed8768.png",
+  "page": "https://www.emcod.com/products/info?id=282",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf91a84ab09fa11b",
+   "q": 88,
+   "src_px": [
+    742,
+    1350
+   ],
+   "scale": 0.5925925925925926,
+   "notes": [
+    "transparent source flattened on white",
+    "padded from 742x1350 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "EM500S12AC",
+  "nsku": "EM500S12AC",
+  "type": "V",
+  "file": "EM500S12AC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0cfa8a338b53174c1e5088f590ed8768.png",
+  "page": "https://www.emcod.com/products/info?id=281",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf91a84ab09fa11b",
+   "q": 88,
+   "src_px": [
+    742,
+    1350
+   ],
+   "scale": 0.5925925925925926,
+   "notes": [
+    "transparent source flattened on white",
+    "padded from 742x1350 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "EM300S12AC",
+  "nsku": "EM300S12AC",
+  "type": "V",
+  "file": "EM300S12AC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0cfa8a338b53174c1e5088f590ed8768.png",
+  "page": "https://www.emcod.com/products/info?id=216",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf91a84ab09fa11b",
+   "q": 88,
+   "src_px": [
+    742,
+    1350
+   ],
+   "scale": 0.5925925925925926,
+   "notes": [
+    "transparent source flattened on white",
+    "padded from 742x1350 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "EM250S12AC",
+  "nsku": "EM250S12AC",
+  "type": "V",
+  "file": "EM250S12AC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0cfa8a338b53174c1e5088f590ed8768.png",
+  "page": "https://www.emcod.com/products/info?id=303",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf91a84ab09fa11b",
+   "q": 88,
+   "src_px": [
+    742,
+    1350
+   ],
+   "scale": 0.5925925925925926,
+   "notes": [
+    "transparent source flattened on white",
+    "padded from 742x1350 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML96S24AC",
+  "nsku": "ML96S24AC",
+  "type": "V",
+  "file": "ML96S24AC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/11548355a32182791c6723f71e00aca9.png",
+  "page": "https://www.emcod.com/products/info?id=340",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf80a266b297b04f",
+   "q": 88,
+   "src_px": [
+    240,
+    600
+   ],
+   "scale": 1.3333333333333333,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.33 from 240x600 (best verified source available)",
+    "padded from 240x600 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML100S12AC",
+  "nsku": "ML100S12AC",
+  "type": "V",
+  "file": "ML100S12AC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/11548355a32182791c6723f71e00aca9.png",
+  "page": "https://www.emcod.com/products/info?id=258",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf80a266b297b04f",
+   "q": 88,
+   "src_px": [
+    240,
+    600
+   ],
+   "scale": 1.3333333333333333,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.33 from 240x600 (best verified source available)",
+    "padded from 240x600 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML75S24AC",
+  "nsku": "ML75S24AC",
+  "type": "V",
+  "file": "ML75S24AC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/11548355a32182791c6723f71e00aca9.png",
+  "page": "https://www.emcod.com/products/info?id=505",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf80a266b297b04f",
+   "q": 88,
+   "src_px": [
+    240,
+    600
+   ],
+   "scale": 1.3333333333333333,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.33 from 240x600 (best verified source available)",
+    "padded from 240x600 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML75S12AC",
+  "nsku": "ML75S12AC",
+  "type": "V",
+  "file": "ML75S12AC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/11548355a32182791c6723f71e00aca9.png",
+  "page": "https://www.emcod.com/products/info?id=199",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf80a266b297b04f",
+   "q": 88,
+   "src_px": [
+    240,
+    600
+   ],
+   "scale": 1.3333333333333333,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.33 from 240x600 (best verified source available)",
+    "padded from 240x600 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML60S24AC",
+  "nsku": "ML60S24AC",
+  "type": "V",
+  "file": "ML60S24AC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/11548355a32182791c6723f71e00aca9.png",
+  "page": "https://www.emcod.com/products/info?id=484",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf80a266b297b04f",
+   "q": 88,
+   "src_px": [
+    240,
+    600
+   ],
+   "scale": 1.3333333333333333,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.33 from 240x600 (best verified source available)",
+    "padded from 240x600 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML60S12AC",
+  "nsku": "ML60S12AC",
+  "type": "V",
+  "file": "ML60S12AC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/11548355a32182791c6723f71e00aca9.png",
+  "page": "https://www.emcod.com/products/info?id=182",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf80a266b297b04f",
+   "q": 88,
+   "src_px": [
+    240,
+    600
+   ],
+   "scale": 1.3333333333333333,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.33 from 240x600 (best verified source available)",
+    "padded from 240x600 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML60S24AC-B",
+  "nsku": "ML60S24AC-B",
+  "type": "V",
+  "file": "ML60S24AC-B-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+  "page": "https://www.emcod.com/products/info?id=483",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf9788589191a1db",
+   "q": 88,
+   "src_px": [
+    166,
+    504
+   ],
+   "scale": 1.5873015873015872,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.59 from 166x504 (best verified source available)",
+    "padded from 166x504 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML60S12AC-B",
+  "nsku": "ML60S12AC-B",
+  "type": "V",
+  "file": "ML60S12AC-B-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+  "page": "https://www.emcod.com/products/info?id=324",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf9788589191a1db",
+   "q": 88,
+   "src_px": [
+    166,
+    504
+   ],
+   "scale": 1.5873015873015872,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.59 from 166x504 (best verified source available)",
+    "padded from 166x504 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML50S24AC",
+  "nsku": "ML50S24AC",
+  "type": "V",
+  "file": "ML50S24AC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+  "page": "https://www.emcod.com/products/info?id=242",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf9788589191a1db",
+   "q": 88,
+   "src_px": [
+    166,
+    504
+   ],
+   "scale": 1.5873015873015872,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.59 from 166x504 (best verified source available)",
+    "padded from 166x504 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML50S12AC",
+  "nsku": "ML50S12AC",
+  "type": "V",
+  "file": "ML50S12AC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+  "page": "https://www.emcod.com/products/info?id=467",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf9788589191a1db",
+   "q": 88,
+   "src_px": [
+    166,
+    504
+   ],
+   "scale": 1.5873015873015872,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.59 from 166x504 (best verified source available)",
+    "padded from 166x504 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML40S24AC",
+  "nsku": "ML40S24AC",
+  "type": "V",
+  "file": "ML40S24AC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+  "page": "https://www.emcod.com/products/info?id=280",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf9788589191a1db",
+   "q": 88,
+   "src_px": [
+    166,
+    504
+   ],
+   "scale": 1.5873015873015872,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.59 from 166x504 (best verified source available)",
+    "padded from 166x504 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML40S12AC",
+  "nsku": "ML40S12AC",
+  "type": "V",
+  "file": "ML40S12AC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+  "page": "https://www.emcod.com/products/info?id=220",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf9788589191a1db",
+   "q": 88,
+   "src_px": [
+    166,
+    504
+   ],
+   "scale": 1.5873015873015872,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.59 from 166x504 (best verified source available)",
+    "padded from 166x504 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML35S24AC",
+  "nsku": "ML35S24AC",
+  "type": "V",
+  "file": "ML35S24AC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+  "page": "https://www.emcod.com/products/info?id=240",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf9788589191a1db",
+   "q": 88,
+   "src_px": [
+    166,
+    504
+   ],
+   "scale": 1.5873015873015872,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.59 from 166x504 (best verified source available)",
+    "padded from 166x504 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML35S12AC",
+  "nsku": "ML35S12AC",
+  "type": "V",
+  "file": "ML35S12AC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+  "page": "https://www.emcod.com/products/info?id=181",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf9788589191a1db",
+   "q": 88,
+   "src_px": [
+    166,
+    504
+   ],
+   "scale": 1.5873015873015872,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.59 from 166x504 (best verified source available)",
+    "padded from 166x504 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML20S24AC",
+  "nsku": "ML20S24AC",
+  "type": "V",
+  "file": "ML20S24AC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+  "page": "https://www.emcod.com/products/info?id=279",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf9788589191a1db",
+   "q": 88,
+   "src_px": [
+    166,
+    504
+   ],
+   "scale": 1.5873015873015872,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.59 from 166x504 (best verified source available)",
+    "padded from 166x504 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML20S12AC",
+  "nsku": "ML20S12AC",
+  "type": "V",
+  "file": "ML20S12AC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+  "page": "https://www.emcod.com/products/info?id=180",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf9788589191a1db",
+   "q": 88,
+   "src_px": [
+    166,
+    504
+   ],
+   "scale": 1.5873015873015872,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.59 from 166x504 (best verified source available)",
+    "padded from 166x504 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SMT300W",
+  "nsku": "SMT300W",
+  "type": "V",
+  "file": "SMT300W-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e2a2d863a5222e884a1a13c2baf8d5a8.png",
+  "page": "https://www.emcod.com/products/info?id=543",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af989067e298176b",
+   "q": 88,
+   "src_px": [
+    819,
+    1024
+   ],
+   "scale": 0.78125,
+   "notes": [
+    "padded from 819x1024 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "EMT600SS-22E",
+  "nsku": "EMT600SS-22E",
+  "type": "V",
+  "file": "EMT600SS-22E-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/40cb04e6b9b1defe1b15898ae1f6d033.png",
+  "page": "https://www.emcod.com/products/info?id=42",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "a6c2389fa0e05b7e",
+   "q": 88,
+   "src_px": [
+    327,
+    659
+   ],
+   "scale": 1.2139605462822458,
+   "notes": [
+    "upscaled x1.21 from 327x659 (best verified source available)",
+    "padded from 327x659 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "EMT300SS-22E",
+  "nsku": "EMT300SS-22E",
+  "type": "V",
+  "file": "EMT300SS-22E-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/f0bdb92ccdcdeead4624f86f5e7fb712.png",
+  "page": "https://www.emcod.com/products/info?id=40",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "aa7e2dcab58818f1",
+   "q": 88,
+   "src_px": [
+    365,
+    735
+   ],
+   "scale": 1.08843537414966,
+   "notes": [
+    "upscaled x1.09 from 365x735 (best verified source available)",
+    "padded from 365x735 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "EMT900SS-E",
+  "nsku": "EMT900SS-E",
+  "type": "V",
+  "file": "EMT900SS-E-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/8499126b5cbade9edbf89e32bcedf3f0.png",
+  "page": "https://www.emcod.com/products/info?id=353",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "afacd0e0c5c8f09b",
+   "q": 88,
+   "src_px": [
+    577,
+    857
+   ],
+   "scale": 0.9334889148191365,
+   "notes": [
+    "padded from 577x857 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "EMT600SS-E",
+  "nsku": "EMT600SS-E",
+  "type": "V",
+  "file": "EMT600SS-E-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/8499126b5cbade9edbf89e32bcedf3f0.png",
+  "page": "https://www.emcod.com/products/info?id=352",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "afacd0e0c5c8f09b",
+   "q": 88,
+   "src_px": [
+    577,
+    857
+   ],
+   "scale": 0.9334889148191365,
+   "notes": [
+    "padded from 577x857 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "EMT300SS-E",
+  "nsku": "EMT300SS-E",
+  "type": "V",
+  "file": "EMT300SS-E-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/816d0310767d87141676fb118624038c.png",
+  "page": "https://www.emcod.com/products/info?id=349",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "add09660d32fe187",
+   "q": 88,
+   "src_px": [
+    3142,
+    3736
+   ],
+   "scale": 0.21413276231263384,
+   "notes": [
+    "transparent source flattened on white",
+    "padded from 3142x3736 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "EMT150SS-E",
+  "nsku": "EMT150SS-E",
+  "type": "V",
+  "file": "EMT150SS-E-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/816d0310767d87141676fb118624038c.png",
+  "page": "https://www.emcod.com/products/info?id=348",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "add09660d32fe187",
+   "q": 88,
+   "src_px": [
+    3142,
+    3736
+   ],
+   "scale": 0.21413276231263384,
+   "notes": [
+    "transparent source flattened on white",
+    "padded from 3142x3736 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SS300W",
+  "nsku": "SS300W",
+  "type": "V",
+  "file": "SS300W-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/336fddb801528a11fdc6a3e249b4c284.png",
+  "page": "https://www.emcod.com/products/info?id=547",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "aa83db34cb857c83",
+   "q": 88,
+   "src_px": [
+    325,
+    536
+   ],
+   "scale": 1.492537313432836,
+   "notes": [
+    "upscaled x1.49 from 325x536 (best verified source available)",
+    "padded from 325x536 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SS200W",
+  "nsku": "SS200W",
+  "type": "V",
+  "file": "SS200W-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/336fddb801528a11fdc6a3e249b4c284.png",
+  "page": "https://www.emcod.com/products/info?id=545",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "aa83db34cb857c83",
+   "q": 88,
+   "src_px": [
+    325,
+    536
+   ],
+   "scale": 1.492537313432836,
+   "notes": [
+    "upscaled x1.49 from 325x536 (best verified source available)",
+    "padded from 325x536 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SS120W",
+  "nsku": "SS120W",
+  "type": "V",
+  "file": "SS120W-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/336fddb801528a11fdc6a3e249b4c284.png",
+  "page": "https://www.emcod.com/products/info?id=546",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "aa83db34cb857c83",
+   "q": 88,
+   "src_px": [
+    325,
+    536
+   ],
+   "scale": 1.492537313432836,
+   "notes": [
+    "upscaled x1.49 from 325x536 (best verified source available)",
+    "padded from 325x536 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ESL300W",
+  "nsku": "ESL300W",
+  "type": "V",
+  "file": "ESL300W-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0361c59c334742c22e84a9c09f7c961f.png",
+  "page": "https://www.emcod.com/products/info?id=360",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "f986e3950770bc0b",
+   "q": 88,
+   "src_px": [
+    392,
+    541
+   ],
+   "scale": 1.478743068391867,
+   "notes": [
+    "upscaled x1.48 from 392x541 (best verified source available)",
+    "padded from 392x541 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ESL200W",
+  "nsku": "ESL200W",
+  "type": "V",
+  "file": "ESL200W-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/d363b9e25ed8109c186e43aac8c915c1.png",
+  "page": "https://www.emcod.com/products/info?id=452",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "aff06b8768e18788",
+   "q": 88,
+   "src_px": [
+    487,
+    1091
+   ],
+   "scale": 0.7332722273143905,
+   "notes": [
+    "padded from 487x1091 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ESL100W",
+  "nsku": "ESL100W",
+  "type": "V",
+  "file": "ESL100W-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/d363b9e25ed8109c186e43aac8c915c1.png",
+  "page": "https://www.emcod.com/products/info?id=358",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "aff06b8768e18788",
+   "q": 88,
+   "src_px": [
+    487,
+    1091
+   ],
+   "scale": 0.7332722273143905,
+   "notes": [
+    "padded from 487x1091 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ESL75W",
+  "nsku": "ESL75W",
+  "type": "V",
+  "file": "ESL75W-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/19aa5b84c2c2d7518caf30ffeda3fc41.png",
+  "page": "https://www.emcod.com/products/info?id=357",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bab4e1a5f1c81f60",
+   "q": 88,
+   "src_px": [
+    509,
+    915
+   ],
+   "scale": 0.8743169398907104,
+   "notes": [
+    "padded from 509x915 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ESL40W",
+  "nsku": "ESL40W",
+  "type": "V",
+  "file": "ESL40W-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/19aa5b84c2c2d7518caf30ffeda3fc41.png",
+  "page": "https://www.emcod.com/products/info?id=356",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bab4e1a5f1c81f60",
+   "q": 88,
+   "src_px": [
+    509,
+    915
+   ],
+   "scale": 0.8743169398907104,
+   "notes": [
+    "padded from 509x915 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "EM600S24DC",
+  "nsku": "EM600S24DC",
+  "type": "V",
+  "file": "EM600S24DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/cd4a037ed122e49ddd2e95e98d3783b0.png",
+  "page": "https://www.emcod.com/products/info?id=313",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "9a91fc64bc92bc49",
+   "q": 88,
+   "src_px": [
+    330,
+    473
+   ],
+   "scale": 1.6913319238900635,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.69 from 330x473 (best verified source available)",
+    "padded from 330x473 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "EM600S12DC",
+  "nsku": "EM600S12DC",
+  "type": "V",
+  "file": "EM600S12DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/cd4a037ed122e49ddd2e95e98d3783b0.png",
+  "page": "https://www.emcod.com/products/info?id=311",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "9a91fc64bc92bc49",
+   "q": 88,
+   "src_px": [
+    330,
+    473
+   ],
+   "scale": 1.6913319238900635,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.69 from 330x473 (best verified source available)",
+    "padded from 330x473 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "EM300S24DC",
+  "nsku": "EM300S24DC",
+  "type": "V",
+  "file": "EM300S24DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0cfa8a338b53174c1e5088f590ed8768.png",
+  "page": "https://www.emcod.com/products/info?id=170",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf91a84ab09fa11b",
+   "q": 88,
+   "src_px": [
+    742,
+    1350
+   ],
+   "scale": 0.5925925925925926,
+   "notes": [
+    "transparent source flattened on white",
+    "padded from 742x1350 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "EM300S12DC",
+  "nsku": "EM300S12DC",
+  "type": "V",
+  "file": "EM300S12DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0cfa8a338b53174c1e5088f590ed8768.png",
+  "page": "https://www.emcod.com/products/info?id=347",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf91a84ab09fa11b",
+   "q": 88,
+   "src_px": [
+    742,
+    1350
+   ],
+   "scale": 0.5925925925925926,
+   "notes": [
+    "transparent source flattened on white",
+    "padded from 742x1350 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "EM250S24DC",
+  "nsku": "EM250S24DC",
+  "type": "V",
+  "file": "EM250S24DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0cfa8a338b53174c1e5088f590ed8768.png",
+  "page": "https://www.emcod.com/products/info?id=203",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf91a84ab09fa11b",
+   "q": 88,
+   "src_px": [
+    742,
+    1350
+   ],
+   "scale": 0.5925925925925926,
+   "notes": [
+    "transparent source flattened on white",
+    "padded from 742x1350 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "EM250S12DC",
+  "nsku": "EM250S12DC",
+  "type": "V",
+  "file": "EM250S12DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0cfa8a338b53174c1e5088f590ed8768.png",
+  "page": "https://www.emcod.com/products/info?id=209",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf91a84ab09fa11b",
+   "q": 88,
+   "src_px": [
+    742,
+    1350
+   ],
+   "scale": 0.5925925925925926,
+   "notes": [
+    "transparent source flattened on white",
+    "padded from 742x1350 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "EM200S24DC",
+  "nsku": "EM200S24DC",
+  "type": "V",
+  "file": "EM200S24DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0cfa8a338b53174c1e5088f590ed8768.png",
+  "page": "https://www.emcod.com/products/info?id=166",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf91a84ab09fa11b",
+   "q": 88,
+   "src_px": [
+    742,
+    1350
+   ],
+   "scale": 0.5925925925925926,
+   "notes": [
+    "transparent source flattened on white",
+    "padded from 742x1350 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "EM200S12DC",
+  "nsku": "EM200S12DC",
+  "type": "V",
+  "file": "EM200S12DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0cfa8a338b53174c1e5088f590ed8768.png",
+  "page": "https://www.emcod.com/products/info?id=316",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf91a84ab09fa11b",
+   "q": 88,
+   "src_px": [
+    742,
+    1350
+   ],
+   "scale": 0.5925925925925926,
+   "notes": [
+    "transparent source flattened on white",
+    "padded from 742x1350 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "EM150S24DC",
+  "nsku": "EM150S24DC",
+  "type": "V",
+  "file": "EM150S24DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0cfa8a338b53174c1e5088f590ed8768.png",
+  "page": "https://www.emcod.com/products/info?id=167",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf91a84ab09fa11b",
+   "q": 88,
+   "src_px": [
+    742,
+    1350
+   ],
+   "scale": 0.5925925925925926,
+   "notes": [
+    "transparent source flattened on white",
+    "padded from 742x1350 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "EM150S12DC",
+  "nsku": "EM150S12DC",
+  "type": "V",
+  "file": "EM150S12DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0cfa8a338b53174c1e5088f590ed8768.png",
+  "page": "https://www.emcod.com/products/info?id=375",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf91a84ab09fa11b",
+   "q": 88,
+   "src_px": [
+    742,
+    1350
+   ],
+   "scale": 0.5925925925925926,
+   "notes": [
+    "transparent source flattened on white",
+    "padded from 742x1350 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML100S12DC",
+  "nsku": "ML100S12DC",
+  "type": "V",
+  "file": "ML100S12DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/11548355a32182791c6723f71e00aca9.png",
+  "page": "https://www.emcod.com/products/info?id=308",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf80a266b297b04f",
+   "q": 88,
+   "src_px": [
+    240,
+    600
+   ],
+   "scale": 1.3333333333333333,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.33 from 240x600 (best verified source available)",
+    "padded from 240x600 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML75S24DC",
+  "nsku": "ML75S24DC",
+  "type": "V",
+  "file": "ML75S24DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/11548355a32182791c6723f71e00aca9.png",
+  "page": "https://www.emcod.com/products/info?id=409",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf80a266b297b04f",
+   "q": 88,
+   "src_px": [
+    240,
+    600
+   ],
+   "scale": 1.3333333333333333,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.33 from 240x600 (best verified source available)",
+    "padded from 240x600 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML75S12DC",
+  "nsku": "ML75S12DC",
+  "type": "V",
+  "file": "ML75S12DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/11548355a32182791c6723f71e00aca9.png",
+  "page": "https://www.emcod.com/products/info?id=192",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf80a266b297b04f",
+   "q": 88,
+   "src_px": [
+    240,
+    600
+   ],
+   "scale": 1.3333333333333333,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.33 from 240x600 (best verified source available)",
+    "padded from 240x600 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML60S24DC",
+  "nsku": "ML60S24DC",
+  "type": "V",
+  "file": "ML60S24DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/11548355a32182791c6723f71e00aca9.png",
+  "page": "https://www.emcod.com/products/info?id=194",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf80a266b297b04f",
+   "q": 88,
+   "src_px": [
+    240,
+    600
+   ],
+   "scale": 1.3333333333333333,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.33 from 240x600 (best verified source available)",
+    "padded from 240x600 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML60S12DC",
+  "nsku": "ML60S12DC",
+  "type": "V",
+  "file": "ML60S12DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/11548355a32182791c6723f71e00aca9.png",
+  "page": "https://www.emcod.com/products/info?id=309",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf80a266b297b04f",
+   "q": 88,
+   "src_px": [
+    240,
+    600
+   ],
+   "scale": 1.3333333333333333,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.33 from 240x600 (best verified source available)",
+    "padded from 240x600 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML60S24DC-B",
+  "nsku": "ML60S24DC-B",
+  "type": "V",
+  "file": "ML60S24DC-B-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+  "page": "https://www.emcod.com/products/info?id=305",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf9788589191a1db",
+   "q": 88,
+   "src_px": [
+    166,
+    504
+   ],
+   "scale": 1.5873015873015872,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.59 from 166x504 (best verified source available)",
+    "padded from 166x504 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML60S12DC-B",
+  "nsku": "ML60S12DC-B",
+  "type": "V",
+  "file": "ML60S12DC-B-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+  "page": "https://www.emcod.com/products/info?id=304",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf9788589191a1db",
+   "q": 88,
+   "src_px": [
+    166,
+    504
+   ],
+   "scale": 1.5873015873015872,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.59 from 166x504 (best verified source available)",
+    "padded from 166x504 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML50S24DC",
+  "nsku": "ML50S24DC",
+  "type": "V",
+  "file": "ML50S24DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+  "page": "https://www.emcod.com/products/info?id=227",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf9788589191a1db",
+   "q": 88,
+   "src_px": [
+    166,
+    504
+   ],
+   "scale": 1.5873015873015872,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.59 from 166x504 (best verified source available)",
+    "padded from 166x504 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML50S12DC",
+  "nsku": "ML50S12DC",
+  "type": "V",
+  "file": "ML50S12DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+  "page": "https://www.emcod.com/products/info?id=10",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf9788589191a1db",
+   "q": 88,
+   "src_px": [
+    166,
+    504
+   ],
+   "scale": 1.5873015873015872,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.59 from 166x504 (best verified source available)",
+    "padded from 166x504 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML40S24DC",
+  "nsku": "ML40S24DC",
+  "type": "V",
+  "file": "ML40S24DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+  "page": "https://www.emcod.com/products/info?id=190",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf9788589191a1db",
+   "q": 88,
+   "src_px": [
+    166,
+    504
+   ],
+   "scale": 1.5873015873015872,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.59 from 166x504 (best verified source available)",
+    "padded from 166x504 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML40S12DC",
+  "nsku": "ML40S12DC",
+  "type": "V",
+  "file": "ML40S12DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+  "page": "https://www.emcod.com/products/info?id=86",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf9788589191a1db",
+   "q": 88,
+   "src_px": [
+    166,
+    504
+   ],
+   "scale": 1.5873015873015872,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.59 from 166x504 (best verified source available)",
+    "padded from 166x504 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML35S24DC",
+  "nsku": "ML35S24DC",
+  "type": "V",
+  "file": "ML35S24DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+  "page": "https://www.emcod.com/products/info?id=218",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf9788589191a1db",
+   "q": 88,
+   "src_px": [
+    166,
+    504
+   ],
+   "scale": 1.5873015873015872,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.59 from 166x504 (best verified source available)",
+    "padded from 166x504 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML35S12DC",
+  "nsku": "ML35S12DC",
+  "type": "V",
+  "file": "ML35S12DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+  "page": "https://www.emcod.com/products/info?id=6",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf9788589191a1db",
+   "q": 88,
+   "src_px": [
+    166,
+    504
+   ],
+   "scale": 1.5873015873015872,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.59 from 166x504 (best verified source available)",
+    "padded from 166x504 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML20S24DC",
+  "nsku": "ML20S24DC",
+  "type": "V",
+  "file": "ML20S24DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+  "page": "https://www.emcod.com/products/info?id=8",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf9788589191a1db",
+   "q": 88,
+   "src_px": [
+    166,
+    504
+   ],
+   "scale": 1.5873015873015872,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.59 from 166x504 (best verified source available)",
+    "padded from 166x504 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML20S12DC",
+  "nsku": "ML20S12DC",
+  "type": "V",
+  "file": "ML20S12DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+  "page": "https://www.emcod.com/products/info?id=315",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf9788589191a1db",
+   "q": 88,
+   "src_px": [
+    166,
+    504
+   ],
+   "scale": 1.5873015873015872,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.59 from 166x504 (best verified source available)",
+    "padded from 166x504 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML10S24DC",
+  "nsku": "ML10S24DC",
+  "type": "V",
+  "file": "ML10S24DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+  "page": "https://www.emcod.com/products/info?id=3",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf9788589191a1db",
+   "q": 88,
+   "src_px": [
+    166,
+    504
+   ],
+   "scale": 1.5873015873015872,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.59 from 166x504 (best verified source available)",
+    "padded from 166x504 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ML10S12DC",
+  "nsku": "ML10S12DC",
+  "type": "V",
+  "file": "ML10S12DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png",
+  "page": "https://www.emcod.com/products/info?id=4",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf9788589191a1db",
+   "q": 88,
+   "src_px": [
+    166,
+    504
+   ],
+   "scale": 1.5873015873015872,
+   "notes": [
+    "transparent source flattened on white",
+    "upscaled x1.59 from 166x504 (best verified source available)",
+    "padded from 166x504 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ECV300-24DC-UD",
+  "nsku": "ECV300-24DC-UD",
+  "type": "V",
+  "file": "ECV300-24DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+  "page": "https://www.emcod.com/products/info?id=530",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "adcf90969158ca73",
+   "q": 88,
+   "src_px": [
+    4000,
+    3000
+   ],
+   "scale": 0.2,
+   "notes": [
+    "padded from 4000x3000 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ECV300-12DC-UD",
+  "nsku": "ECV300-12DC-UD",
+  "type": "V",
+  "file": "ECV300-12DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+  "page": "https://www.emcod.com/products/info?id=529",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "adcf90969158ca73",
+   "q": 88,
+   "src_px": [
+    4000,
+    3000
+   ],
+   "scale": 0.2,
+   "notes": [
+    "padded from 4000x3000 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ECV200-24DC-UD",
+  "nsku": "ECV200-24DC-UD",
+  "type": "V",
+  "file": "ECV200-24DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+  "page": "https://www.emcod.com/products/info?id=528",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "adcf90969158ca73",
+   "q": 88,
+   "src_px": [
+    4000,
+    3000
+   ],
+   "scale": 0.2,
+   "notes": [
+    "padded from 4000x3000 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ECV200-12DC-UD",
+  "nsku": "ECV200-12DC-UD",
+  "type": "V",
+  "file": "ECV200-12DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+  "page": "https://www.emcod.com/products/info?id=527",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "adcf90969158ca73",
+   "q": 88,
+   "src_px": [
+    4000,
+    3000
+   ],
+   "scale": 0.2,
+   "notes": [
+    "padded from 4000x3000 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ECV150-24DC-UD",
+  "nsku": "ECV150-24DC-UD",
+  "type": "V",
+  "file": "ECV150-24DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+  "page": "https://www.emcod.com/products/info?id=526",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "adcf90969158ca73",
+   "q": 88,
+   "src_px": [
+    4000,
+    3000
+   ],
+   "scale": 0.2,
+   "notes": [
+    "padded from 4000x3000 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ECV150-12DC-UD",
+  "nsku": "ECV150-12DC-UD",
+  "type": "V",
+  "file": "ECV150-12DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+  "page": "https://www.emcod.com/products/info?id=525",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "adcf90969158ca73",
+   "q": 88,
+   "src_px": [
+    4000,
+    3000
+   ],
+   "scale": 0.2,
+   "notes": [
+    "padded from 4000x3000 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ECV120-24DC-UD",
+  "nsku": "ECV120-24DC-UD",
+  "type": "V",
+  "file": "ECV120-24DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+  "page": "https://www.emcod.com/products/info?id=524",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "adcf90969158ca73",
+   "q": 88,
+   "src_px": [
+    4000,
+    3000
+   ],
+   "scale": 0.2,
+   "notes": [
+    "padded from 4000x3000 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ECV120-12DC-UD",
+  "nsku": "ECV120-12DC-UD",
+  "type": "V",
+  "file": "ECV120-12DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+  "page": "https://www.emcod.com/products/info?id=523",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "adcf90969158ca73",
+   "q": 88,
+   "src_px": [
+    4000,
+    3000
+   ],
+   "scale": 0.2,
+   "notes": [
+    "padded from 4000x3000 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ECV100-12DC-UD",
+  "nsku": "ECV100-12DC-UD",
+  "type": "V",
+  "file": "ECV100-12DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+  "page": "https://www.emcod.com/products/info?id=522",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "adcf90969158ca73",
+   "q": 88,
+   "src_px": [
+    4000,
+    3000
+   ],
+   "scale": 0.2,
+   "notes": [
+    "padded from 4000x3000 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ECV96-24DC-UD",
+  "nsku": "ECV96-24DC-UD",
+  "type": "V",
+  "file": "ECV96-24DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+  "page": "https://www.emcod.com/products/info?id=517",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "adcf90969158ca73",
+   "q": 88,
+   "src_px": [
+    4000,
+    3000
+   ],
+   "scale": 0.2,
+   "notes": [
+    "padded from 4000x3000 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ECV80-24DC-UD",
+  "nsku": "ECV80-24DC-UD",
+  "type": "V",
+  "file": "ECV80-24DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+  "page": "https://www.emcod.com/products/info?id=521",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "adcf90969158ca73",
+   "q": 88,
+   "src_px": [
+    4000,
+    3000
+   ],
+   "scale": 0.2,
+   "notes": [
+    "padded from 4000x3000 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ECV80-12DC-UD",
+  "nsku": "ECV80-12DC-UD",
+  "type": "V",
+  "file": "ECV80-12DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+  "page": "https://www.emcod.com/products/info?id=520",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "adcf90969158ca73",
+   "q": 88,
+   "src_px": [
+    4000,
+    3000
+   ],
+   "scale": 0.2,
+   "notes": [
+    "padded from 4000x3000 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ECV60-24DC-UD",
+  "nsku": "ECV60-24DC-UD",
+  "type": "V",
+  "file": "ECV60-24DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+  "page": "https://www.emcod.com/products/info?id=472",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "adcf90969158ca73",
+   "q": 88,
+   "src_px": [
+    4000,
+    3000
+   ],
+   "scale": 0.2,
+   "notes": [
+    "padded from 4000x3000 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ECV60-12DC-UD",
+  "nsku": "ECV60-12DC-UD",
+  "type": "V",
+  "file": "ECV60-12DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+  "page": "https://www.emcod.com/products/info?id=501",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "adcf90969158ca73",
+   "q": 88,
+   "src_px": [
+    4000,
+    3000
+   ],
+   "scale": 0.2,
+   "notes": [
+    "padded from 4000x3000 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ECV30-24DC-UD",
+  "nsku": "ECV30-24DC-UD",
+  "type": "V",
+  "file": "ECV30-24DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+  "page": "https://www.emcod.com/products/info?id=519",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "adcf90969158ca73",
+   "q": 88,
+   "src_px": [
+    4000,
+    3000
+   ],
+   "scale": 0.2,
+   "notes": [
+    "padded from 4000x3000 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ECV30-12DC-UD",
+  "nsku": "ECV30-12DC-UD",
+  "type": "V",
+  "file": "ECV30-12DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/5d681b2c020f144e29b9e51314343395.jpg",
+  "page": "https://www.emcod.com/products/info?id=518",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "adcf90969158ca73",
+   "q": 88,
+   "src_px": [
+    4000,
+    3000
+   ],
+   "scale": 0.2,
+   "notes": [
+    "padded from 4000x3000 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE300-24DC",
+  "nsku": "MLE300-24DC",
+  "type": "V",
+  "file": "MLE300-24DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+  "page": "https://www.emcod.com/products/info?id=423",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "8b4af93960c5f5e0",
+   "q": 88,
+   "src_px": [
+    1115,
+    652
+   ],
+   "scale": 0.7174887892376681,
+   "notes": [
+    "padded from 1115x652 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE300-12DC",
+  "nsku": "MLE300-12DC",
+  "type": "V",
+  "file": "MLE300-12DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+  "page": "https://www.emcod.com/products/info?id=456",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "8b4af93960c5f5e0",
+   "q": 88,
+   "src_px": [
+    1115,
+    652
+   ],
+   "scale": 0.7174887892376681,
+   "notes": [
+    "padded from 1115x652 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE200-24DC",
+  "nsku": "MLE200-24DC",
+  "type": "V",
+  "file": "MLE200-24DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+  "page": "https://www.emcod.com/products/info?id=419",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "8b4af93960c5f5e0",
+   "q": 88,
+   "src_px": [
+    1115,
+    652
+   ],
+   "scale": 0.7174887892376681,
+   "notes": [
+    "padded from 1115x652 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE200-12DC",
+  "nsku": "MLE200-12DC",
+  "type": "V",
+  "file": "MLE200-12DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+  "page": "https://www.emcod.com/products/info?id=428",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "8b4af93960c5f5e0",
+   "q": 88,
+   "src_px": [
+    1115,
+    652
+   ],
+   "scale": 0.7174887892376681,
+   "notes": [
+    "padded from 1115x652 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE150-24DC",
+  "nsku": "MLE150-24DC",
+  "type": "V",
+  "file": "MLE150-24DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+  "page": "https://www.emcod.com/products/info?id=418",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "8b4af93960c5f5e0",
+   "q": 88,
+   "src_px": [
+    1115,
+    652
+   ],
+   "scale": 0.7174887892376681,
+   "notes": [
+    "padded from 1115x652 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE150-12DC",
+  "nsku": "MLE150-12DC",
+  "type": "V",
+  "file": "MLE150-12DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+  "page": "https://www.emcod.com/products/info?id=427",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "8b4af93960c5f5e0",
+   "q": 88,
+   "src_px": [
+    1115,
+    652
+   ],
+   "scale": 0.7174887892376681,
+   "notes": [
+    "padded from 1115x652 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE120-24DC",
+  "nsku": "MLE120-24DC",
+  "type": "V",
+  "file": "MLE120-24DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+  "page": "https://www.emcod.com/products/info?id=417",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "8b4af93960c5f5e0",
+   "q": 88,
+   "src_px": [
+    1115,
+    652
+   ],
+   "scale": 0.7174887892376681,
+   "notes": [
+    "padded from 1115x652 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE120-12DC",
+  "nsku": "MLE120-12DC",
+  "type": "V",
+  "file": "MLE120-12DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+  "page": "https://www.emcod.com/products/info?id=426",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "8b4af93960c5f5e0",
+   "q": 88,
+   "src_px": [
+    1115,
+    652
+   ],
+   "scale": 0.7174887892376681,
+   "notes": [
+    "padded from 1115x652 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE96-24DC",
+  "nsku": "MLE96-24DC",
+  "type": "V",
+  "file": "MLE96-24DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+  "page": "https://www.emcod.com/products/info?id=420",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "8b4af93960c5f5e0",
+   "q": 88,
+   "src_px": [
+    1115,
+    652
+   ],
+   "scale": 0.7174887892376681,
+   "notes": [
+    "padded from 1115x652 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE100-12DC",
+  "nsku": "MLE100-12DC",
+  "type": "V",
+  "file": "MLE100-12DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+  "page": "https://www.emcod.com/products/info?id=425",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "8b4af93960c5f5e0",
+   "q": 88,
+   "src_px": [
+    1115,
+    652
+   ],
+   "scale": 0.7174887892376681,
+   "notes": [
+    "padded from 1115x652 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE80-24DC",
+  "nsku": "MLE80-24DC",
+  "type": "V",
+  "file": "MLE80-24DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+  "page": "https://www.emcod.com/products/info?id=410",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "8b4af93960c5f5e0",
+   "q": 88,
+   "src_px": [
+    1115,
+    652
+   ],
+   "scale": 0.7174887892376681,
+   "notes": [
+    "padded from 1115x652 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE80-12DC",
+  "nsku": "MLE80-12DC",
+  "type": "V",
+  "file": "MLE80-12DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+  "page": "https://www.emcod.com/products/info?id=424",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "8b4af93960c5f5e0",
+   "q": 88,
+   "src_px": [
+    1115,
+    652
+   ],
+   "scale": 0.7174887892376681,
+   "notes": [
+    "padded from 1115x652 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE60-24DC",
+  "nsku": "MLE60-24DC",
+  "type": "V",
+  "file": "MLE60-24DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+  "page": "https://www.emcod.com/products/info?id=421",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "8b4af93960c5f5e0",
+   "q": 88,
+   "src_px": [
+    1115,
+    652
+   ],
+   "scale": 0.7174887892376681,
+   "notes": [
+    "padded from 1115x652 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE60-12DC",
+  "nsku": "MLE60-12DC",
+  "type": "V",
+  "file": "MLE60-12DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+  "page": "https://www.emcod.com/products/info?id=430",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "8b4af93960c5f5e0",
+   "q": 88,
+   "src_px": [
+    1115,
+    652
+   ],
+   "scale": 0.7174887892376681,
+   "notes": [
+    "padded from 1115x652 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE30-24DC",
+  "nsku": "MLE30-24DC",
+  "type": "V",
+  "file": "MLE30-24DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+  "page": "https://www.emcod.com/products/info?id=422",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "8b4af93960c5f5e0",
+   "q": 88,
+   "src_px": [
+    1115,
+    652
+   ],
+   "scale": 0.7174887892376681,
+   "notes": [
+    "padded from 1115x652 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE30-12DC",
+  "nsku": "MLE30-12DC",
+  "type": "V",
+  "file": "MLE30-12DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png",
+  "page": "https://www.emcod.com/products/info?id=431",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "8b4af93960c5f5e0",
+   "q": 88,
+   "src_px": [
+    1115,
+    652
+   ],
+   "scale": 0.7174887892376681,
+   "notes": [
+    "padded from 1115x652 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE384C2-24UD",
+  "nsku": "MLE384C2-24UD",
+  "type": "V",
+  "file": "MLE384C2-24UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/76ecd7a556d80d0a52b1ed1855f55a8a.png",
+  "page": "https://www.emcod.com/products/info?id=554",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "abca9f354515e518",
+   "q": 88,
+   "src_px": [
+    1225,
+    792
+   ],
+   "scale": 0.6530612244897959,
+   "notes": [
+    "padded from 1225x792 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE288C2-24UD",
+  "nsku": "MLE288C2-24UD",
+  "type": "V",
+  "file": "MLE288C2-24UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+  "page": "https://www.emcod.com/products/info?id=478",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "ead2a52eec0cd435",
+   "q": 88,
+   "src_px": [
+    503,
+    604
+   ],
+   "scale": 1.3245033112582782,
+   "notes": [
+    "upscaled x1.32 from 503x604 (best verified source available)",
+    "padded from 503x604 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE300C2-12UD",
+  "nsku": "MLE300C2-12UD",
+  "type": "V",
+  "file": "MLE300C2-12UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+  "page": "https://www.emcod.com/products/info?id=495",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "ead2a52eec0cd435",
+   "q": 88,
+   "src_px": [
+    503,
+    604
+   ],
+   "scale": 1.3245033112582782,
+   "notes": [
+    "upscaled x1.32 from 503x604 (best verified source available)",
+    "padded from 503x604 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE192C2-24UD",
+  "nsku": "MLE192C2-24UD",
+  "type": "V",
+  "file": "MLE192C2-24UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+  "page": "https://www.emcod.com/products/info?id=462",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "ead2a52eec0cd435",
+   "q": 88,
+   "src_px": [
+    503,
+    604
+   ],
+   "scale": 1.3245033112582782,
+   "notes": [
+    "upscaled x1.32 from 503x604 (best verified source available)",
+    "padded from 503x604 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE180C2-12UD",
+  "nsku": "MLE180C2-12UD",
+  "type": "V",
+  "file": "MLE180C2-12UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+  "page": "https://www.emcod.com/products/info?id=496",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "ead2a52eec0cd435",
+   "q": 88,
+   "src_px": [
+    503,
+    604
+   ],
+   "scale": 1.3245033112582782,
+   "notes": [
+    "upscaled x1.32 from 503x604 (best verified source available)",
+    "padded from 503x604 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE600-24DC-UD",
+  "nsku": "MLE600-24DC-UD",
+  "type": "V",
+  "file": "MLE600-24DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/4d0c7285bc9e04e51aff88b6aeec65bf.png",
+  "page": "https://www.emcod.com/products/info?id=557",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "afc89db1c417c60e",
+   "q": 88,
+   "src_px": [
+    1192,
+    791
+   ],
+   "scale": 0.6711409395973155,
+   "notes": [
+    "padded from 1192x791 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE500-24DC-UD",
+  "nsku": "MLE500-24DC-UD",
+  "type": "V",
+  "file": "MLE500-24DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/dd03a9b17a9c93665c2dce7759c27982.png",
+  "page": "https://www.emcod.com/products/info?id=556",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bf4980b1e517e70c",
+   "q": 88,
+   "src_px": [
+    932,
+    570
+   ],
+   "scale": 0.8583690987124464,
+   "notes": [
+    "padded from 932x570 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE500-12DC-UD",
+  "nsku": "MLE500-12DC-UD",
+  "type": "V",
+  "file": "MLE500-12DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/70685b67900f5953ef26e8b36390799d.png",
+  "page": "https://www.emcod.com/products/info?id=555",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bf4990a1c517e70e",
+   "q": 88,
+   "src_px": [
+    1241,
+    776
+   ],
+   "scale": 0.6446414182111201,
+   "notes": [
+    "padded from 1241x776 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE300-24DC-UD",
+  "nsku": "MLE300-24DC-UD",
+  "type": "V",
+  "file": "MLE300-24DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+  "page": "https://www.emcod.com/products/info?id=550",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "ead2a52eec0cd435",
+   "q": 88,
+   "src_px": [
+    503,
+    604
+   ],
+   "scale": 1.3245033112582782,
+   "notes": [
+    "upscaled x1.32 from 503x604 (best verified source available)",
+    "padded from 503x604 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE300-12DC-UD",
+  "nsku": "MLE300-12DC-UD",
+  "type": "V",
+  "file": "MLE300-12DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+  "page": "https://www.emcod.com/products/info?id=475",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "ead2a52eec0cd435",
+   "q": 88,
+   "src_px": [
+    503,
+    604
+   ],
+   "scale": 1.3245033112582782,
+   "notes": [
+    "upscaled x1.32 from 503x604 (best verified source available)",
+    "padded from 503x604 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE200-24DC-UD",
+  "nsku": "MLE200-24DC-UD",
+  "type": "V",
+  "file": "MLE200-24DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+  "page": "https://www.emcod.com/products/info?id=499",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "ead2a52eec0cd435",
+   "q": 88,
+   "src_px": [
+    503,
+    604
+   ],
+   "scale": 1.3245033112582782,
+   "notes": [
+    "upscaled x1.32 from 503x604 (best verified source available)",
+    "padded from 503x604 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE200-12DC-UD",
+  "nsku": "MLE200-12DC-UD",
+  "type": "V",
+  "file": "MLE200-12DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+  "page": "https://www.emcod.com/products/info?id=498",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "ead2a52eec0cd435",
+   "q": 88,
+   "src_px": [
+    503,
+    604
+   ],
+   "scale": 1.3245033112582782,
+   "notes": [
+    "upscaled x1.32 from 503x604 (best verified source available)",
+    "padded from 503x604 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE150-24DC-UD",
+  "nsku": "MLE150-24DC-UD",
+  "type": "V",
+  "file": "MLE150-24DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+  "page": "https://www.emcod.com/products/info?id=500",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "ead2a52eec0cd435",
+   "q": 88,
+   "src_px": [
+    503,
+    604
+   ],
+   "scale": 1.3245033112582782,
+   "notes": [
+    "upscaled x1.32 from 503x604 (best verified source available)",
+    "padded from 503x604 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE150-12DC-UD",
+  "nsku": "MLE150-12DC-UD",
+  "type": "V",
+  "file": "MLE150-12DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+  "page": "https://www.emcod.com/products/info?id=497",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "ead2a52eec0cd435",
+   "q": 88,
+   "src_px": [
+    503,
+    604
+   ],
+   "scale": 1.3245033112582782,
+   "notes": [
+    "upscaled x1.32 from 503x604 (best verified source available)",
+    "padded from 503x604 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE120-24DC-UD",
+  "nsku": "MLE120-24DC-UD",
+  "type": "V",
+  "file": "MLE120-24DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+  "page": "https://www.emcod.com/products/info?id=473",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "ead2a52eec0cd435",
+   "q": 88,
+   "src_px": [
+    503,
+    604
+   ],
+   "scale": 1.3245033112582782,
+   "notes": [
+    "upscaled x1.32 from 503x604 (best verified source available)",
+    "padded from 503x604 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE120-12DC-UD",
+  "nsku": "MLE120-12DC-UD",
+  "type": "V",
+  "file": "MLE120-12DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+  "page": "https://www.emcod.com/products/info?id=474",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "ead2a52eec0cd435",
+   "q": 88,
+   "src_px": [
+    503,
+    604
+   ],
+   "scale": 1.3245033112582782,
+   "notes": [
+    "upscaled x1.32 from 503x604 (best verified source available)",
+    "padded from 503x604 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE96-24DC-UD",
+  "nsku": "MLE96-24DC-UD",
+  "type": "V",
+  "file": "MLE96-24DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+  "page": "https://www.emcod.com/products/info?id=463",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "ead2a52eec0cd435",
+   "q": 88,
+   "src_px": [
+    503,
+    604
+   ],
+   "scale": 1.3245033112582782,
+   "notes": [
+    "upscaled x1.32 from 503x604 (best verified source available)",
+    "padded from 503x604 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE100-12DC-UD",
+  "nsku": "MLE100-12DC-UD",
+  "type": "V",
+  "file": "MLE100-12DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+  "page": "https://www.emcod.com/products/info?id=488",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "ead2a52eec0cd435",
+   "q": 88,
+   "src_px": [
+    503,
+    604
+   ],
+   "scale": 1.3245033112582782,
+   "notes": [
+    "upscaled x1.32 from 503x604 (best verified source available)",
+    "padded from 503x604 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE80-24DC-UD",
+  "nsku": "MLE80-24DC-UD",
+  "type": "V",
+  "file": "MLE80-24DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+  "page": "https://www.emcod.com/products/info?id=493",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "ead2a52eec0cd435",
+   "q": 88,
+   "src_px": [
+    503,
+    604
+   ],
+   "scale": 1.3245033112582782,
+   "notes": [
+    "upscaled x1.32 from 503x604 (best verified source available)",
+    "padded from 503x604 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE80-12DC-UD",
+  "nsku": "MLE80-12DC-UD",
+  "type": "V",
+  "file": "MLE80-12DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+  "page": "https://www.emcod.com/products/info?id=494",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "ead2a52eec0cd435",
+   "q": 88,
+   "src_px": [
+    503,
+    604
+   ],
+   "scale": 1.3245033112582782,
+   "notes": [
+    "upscaled x1.32 from 503x604 (best verified source available)",
+    "padded from 503x604 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE60-24DC-UD",
+  "nsku": "MLE60-24DC-UD",
+  "type": "V",
+  "file": "MLE60-24DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+  "page": "https://www.emcod.com/products/info?id=466",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "ead2a52eec0cd435",
+   "q": 88,
+   "src_px": [
+    503,
+    604
+   ],
+   "scale": 1.3245033112582782,
+   "notes": [
+    "upscaled x1.32 from 503x604 (best verified source available)",
+    "padded from 503x604 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE60-12DC-UD",
+  "nsku": "MLE60-12DC-UD",
+  "type": "V",
+  "file": "MLE60-12DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+  "page": "https://www.emcod.com/products/info?id=506",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "ead2a52eec0cd435",
+   "q": 88,
+   "src_px": [
+    503,
+    604
+   ],
+   "scale": 1.3245033112582782,
+   "notes": [
+    "upscaled x1.32 from 503x604 (best verified source available)",
+    "padded from 503x604 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE30-24DC-UD",
+  "nsku": "MLE30-24DC-UD",
+  "type": "V",
+  "file": "MLE30-24DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+  "page": "https://www.emcod.com/products/info?id=481",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "ead2a52eec0cd435",
+   "q": 88,
+   "src_px": [
+    503,
+    604
+   ],
+   "scale": 1.3245033112582782,
+   "notes": [
+    "upscaled x1.32 from 503x604 (best verified source available)",
+    "padded from 503x604 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE30-12DC-UD",
+  "nsku": "MLE30-12DC-UD",
+  "type": "V",
+  "file": "MLE30-12DC-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/0f6dce0b7dc3a8621fb3445aea5092d7.png",
+  "page": "https://www.emcod.com/products/info?id=563",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "ead2a52eec0cd435",
+   "q": 88,
+   "src_px": [
+    503,
+    604
+   ],
+   "scale": 1.3245033112582782,
+   "notes": [
+    "upscaled x1.32 from 503x604 (best verified source available)",
+    "padded from 503x604 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ES150-24UD",
+  "nsku": "ES150-24UD",
+  "type": "V",
+  "file": "ES150-24UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/59270d2bdd2c6dcf86ab944179ffaa74.png",
+  "page": "https://www.emcod.com/products/info?id=542",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bbe08fb0a70ce90b",
+   "q": 88,
+   "src_px": [
+    2490,
+    1651
+   ],
+   "scale": 0.321285140562249,
+   "notes": [
+    "transparent source flattened on white",
+    "padded from 2490x1651 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ES150-12UD",
+  "nsku": "ES150-12UD",
+  "type": "V",
+  "file": "ES150-12UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/59270d2bdd2c6dcf86ab944179ffaa74.png",
+  "page": "https://www.emcod.com/products/info?id=541",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bbe08fb0a70ce90b",
+   "q": 88,
+   "src_px": [
+    2490,
+    1651
+   ],
+   "scale": 0.321285140562249,
+   "notes": [
+    "transparent source flattened on white",
+    "padded from 2490x1651 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ES100-12UD",
+  "nsku": "ES100-12UD",
+  "type": "V",
+  "file": "ES100-12UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/59270d2bdd2c6dcf86ab944179ffaa74.png",
+  "page": "https://www.emcod.com/products/info?id=540",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bbe08fb0a70ce90b",
+   "q": 88,
+   "src_px": [
+    2490,
+    1651
+   ],
+   "scale": 0.321285140562249,
+   "notes": [
+    "transparent source flattened on white",
+    "padded from 2490x1651 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ES96-24UD",
+  "nsku": "ES96-24UD",
+  "type": "V",
+  "file": "ES96-24UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/59270d2bdd2c6dcf86ab944179ffaa74.png",
+  "page": "https://www.emcod.com/products/info?id=538",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bbe08fb0a70ce90b",
+   "q": 88,
+   "src_px": [
+    2490,
+    1651
+   ],
+   "scale": 0.321285140562249,
+   "notes": [
+    "transparent source flattened on white",
+    "padded from 2490x1651 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ES60-24UD",
+  "nsku": "ES60-24UD",
+  "type": "V",
+  "file": "ES60-24UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/59270d2bdd2c6dcf86ab944179ffaa74.png",
+  "page": "https://www.emcod.com/products/info?id=537",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bbe08fb0a70ce90b",
+   "q": 88,
+   "src_px": [
+    2490,
+    1651
+   ],
+   "scale": 0.321285140562249,
+   "notes": [
+    "transparent source flattened on white",
+    "padded from 2490x1651 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ES60-12UD",
+  "nsku": "ES60-12UD",
+  "type": "V",
+  "file": "ES60-12UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/59270d2bdd2c6dcf86ab944179ffaa74.png",
+  "page": "https://www.emcod.com/products/info?id=536",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bbe08fb0a70ce90b",
+   "q": 88,
+   "src_px": [
+    2490,
+    1651
+   ],
+   "scale": 0.321285140562249,
+   "notes": [
+    "transparent source flattened on white",
+    "padded from 2490x1651 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ES30-24UD",
+  "nsku": "ES30-24UD",
+  "type": "V",
+  "file": "ES30-24UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/59270d2bdd2c6dcf86ab944179ffaa74.png",
+  "page": "https://www.emcod.com/products/info?id=531",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bbe08fb0a70ce90b",
+   "q": 88,
+   "src_px": [
+    2490,
+    1651
+   ],
+   "scale": 0.321285140562249,
+   "notes": [
+    "transparent source flattened on white",
+    "padded from 2490x1651 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ES30-12UD",
+  "nsku": "ES30-12UD",
+  "type": "V",
+  "file": "ES30-12UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/59270d2bdd2c6dcf86ab944179ffaa74.png",
+  "page": "https://www.emcod.com/products/info?id=480",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bbe08fb0a70ce90b",
+   "q": 88,
+   "src_px": [
+    2490,
+    1651
+   ],
+   "scale": 0.321285140562249,
+   "notes": [
+    "transparent source flattened on white",
+    "padded from 2490x1651 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "EDR96-24DC",
+  "nsku": "EDR96-24DC",
+  "type": "V",
+  "file": "EDR96-24DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/a93f5dc54c779aa8a19825ac15ae0983.png",
+  "page": "https://www.emcod.com/products/info?id=510",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bf91a478dc0fe601",
+   "q": 88,
+   "src_px": [
+    419,
+    528
+   ],
+   "scale": 1.5151515151515151,
+   "notes": [
+    "upscaled x1.52 from 419x528 (best verified source available)",
+    "padded from 419x528 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "EDR100-12DC",
+  "nsku": "EDR100-12DC",
+  "type": "V",
+  "file": "EDR100-12DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/6e48343f0963acc2017a17da7ff3ca15.png",
+  "page": "https://www.emcod.com/products/info?id=509",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bf91e078df05e601",
+   "q": 88,
+   "src_px": [
+    410,
+    524
+   ],
+   "scale": 1.5267175572519085,
+   "notes": [
+    "upscaled x1.53 from 410x524 (best verified source available)",
+    "padded from 410x524 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "EDR60-24DC",
+  "nsku": "EDR60-24DC",
+  "type": "V",
+  "file": "EDR60-24DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/ef128230331252e24732b6a04406db3e.png",
+  "page": "https://www.emcod.com/products/info?id=508",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "be91e07adc0be603",
+   "q": 88,
+   "src_px": [
+    348,
+    493
+   ],
+   "scale": 1.6227180527383367,
+   "notes": [
+    "upscaled x1.62 from 348x493 (best verified source available)",
+    "padded from 348x493 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "EDR60-12DC",
+  "nsku": "EDR60-12DC",
+  "type": "V",
+  "file": "EDR60-12DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/ef128230331252e24732b6a04406db3e.png",
+  "page": "https://www.emcod.com/products/info?id=507",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "be91e07adc0be603",
+   "q": 88,
+   "src_px": [
+    348,
+    493
+   ],
+   "scale": 1.6227180527383367,
+   "notes": [
+    "upscaled x1.62 from 348x493 (best verified source available)",
+    "padded from 348x493 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ECC-060-UD",
+  "nsku": "ECC-060-UD",
+  "type": "V",
+  "file": "ECC-060-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e2821c754db437df378a45137c808523.png",
+  "page": "https://www.emcod.com/products/info?id=513",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "de1ea1a15e0e3a1e",
+   "q": 88,
+   "src_px": [
+    1997,
+    1561
+   ],
+   "scale": 0.400600901352028,
+   "notes": [
+    "padded from 1997x1561 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ECC-040-UD",
+  "nsku": "ECC-040-UD",
+  "type": "V",
+  "file": "ECC-040-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e2821c754db437df378a45137c808523.png",
+  "page": "https://www.emcod.com/products/info?id=516",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "de1ea1a15e0e3a1e",
+   "q": 88,
+   "src_px": [
+    1997,
+    1561
+   ],
+   "scale": 0.400600901352028,
+   "notes": [
+    "padded from 1997x1561 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ECC-020-UD",
+  "nsku": "ECC-020-UD",
+  "type": "V",
+  "file": "ECC-020-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/e2821c754db437df378a45137c808523.png",
+  "page": "https://www.emcod.com/products/info?id=515",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "de1ea1a15e0e3a1e",
+   "q": 88,
+   "src_px": [
+    1997,
+    1561
+   ],
+   "scale": 0.400600901352028,
+   "notes": [
+    "padded from 1997x1561 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "ECC-010-UD",
+  "nsku": "ECC-010-UD",
+  "type": "V",
+  "file": "ECC-010-UD-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/cc3d240ad5fa54b2a96079584f91ea55.png",
+  "page": "https://www.emcod.com/products/info?id=514",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "de1ea170a1e11f3c",
+   "q": 88,
+   "src_px": [
+    1393,
+    615
+   ],
+   "scale": 0.574300071787509,
+   "notes": [
+    "padded from 1393x615 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE96-24DC-P",
+  "nsku": "MLE96-24DC-P",
+  "type": "V",
+  "file": "",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/a3f0870e5a2e07b441fcecf29bbb6b10.png",
+  "page": "https://www.emcod.com/products/info?id=503",
+  "origin": "emcod.com",
+  "info": {
+   "status": "FAILED",
+   "why": "source only 333x149 px (too small)",
+   "src_px": [
+    333,
+    149
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE60-24DC-P",
+  "nsku": "MLE60-24DC-P",
+  "type": "V",
+  "file": "MLE60-24DC-P-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/22330276a3278b4cff4caeed2044ae69.png",
+  "page": "https://www.emcod.com/products/info?id=465",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "e7d0958dda34c135",
+   "q": 88,
+   "src_px": [
+    961,
+    1150
+   ],
+   "scale": 0.6956521739130435,
+   "notes": [
+    "transparent source flattened on white",
+    "padded from 961x1150 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "MLE60-12DC-P",
+  "nsku": "MLE60-12DC-P",
+  "type": "V",
+  "file": "MLE60-12DC-P-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/22330276a3278b4cff4caeed2044ae69.png",
+  "page": "https://www.emcod.com/products/info?id=464",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "e7d0958dda34c135",
+   "q": 88,
+   "src_px": [
+    961,
+    1150
+   ],
+   "scale": 0.6956521739130435,
+   "notes": [
+    "transparent source flattened on white",
+    "padded from 961x1150 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "EDD160C2-24DC",
+  "nsku": "EDD160C2-24DC",
+  "type": "V",
+  "file": "EDD160C2-24DC-V.jpg",
+  "url": "https://www.emcod.com/adm_dop_files/upload_files_object/3634e9df183b722de358febfe01cca10.png",
+  "page": "https://www.emcod.com/products/info?id=572",
+  "origin": "emcod.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "f2b3ad16e01cb469",
+   "q": 88,
+   "src_px": [
+    403,
+    424
+   ],
+   "scale": 1.8867924528301887,
+   "notes": [
+    "upscaled x1.89 from 403x424 (best verified source available)",
+    "padded from 403x424 aspect"
+   ]
+  }
+ }
+]

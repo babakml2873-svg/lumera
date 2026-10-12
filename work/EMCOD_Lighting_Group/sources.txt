@@ -1,0 +1,1 @@
+emcod.com (official): /products model list -> product page /products/info?id=N; main product image (div.product_img). Several models share one page/image; those are marked Medium.

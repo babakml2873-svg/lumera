@@ -1,0 +1,1 @@
+These 15 SKUs are listed under the brand 'Lumera Electric' in the product lists, but the matched items are Alora products sold by the manufacturer (Kuzco Group). Images come from the manufacturer's own store kuzcolighting.com - never from Lumera Electric.

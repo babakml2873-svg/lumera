@@ -1,0 +1,1 @@
+intermatic.com (official): the site's storefront API /api/v1/products?query=<SKU>&expand=images, erpNumber must equal the list SKU; product images as published (images named for a sibling model are marked Medium).

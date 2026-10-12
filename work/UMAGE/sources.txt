@@ -1,0 +1,1 @@
+umage.us (official US store, Shopify, 107 products/1,195 variants) and umage.com (official global store, 228 products) - exact variant SKU with the variant's own colour packshot. List bundle codes 'shade_component' are matched as UMAGE's combined code '<shade>C<component>' where it exists, otherwise to the shade alone (Medium: component colour not verified).

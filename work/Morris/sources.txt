@@ -1,0 +1,1 @@
+morrisproducts.com (official Morris Products): the site's own product-by-SKU JSON service; largePic image from Morris' image CDN (900x900). Child SKUs that only show the parent family image are marked Medium.

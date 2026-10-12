@@ -1,0 +1,1 @@
+utopialighting.com (official): the site's JSON search /search/ajax?q=<model>, model name must equal the list SKU (punctuation/case-insensitive); original-size product image.
