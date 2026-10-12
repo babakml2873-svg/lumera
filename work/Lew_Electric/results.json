@@ -1,0 +1,8128 @@
+[
+ {
+  "list": "List_1",
+  "sku": "PBR-FPB",
+  "nsku": "PBR-FPB",
+  "type": "V",
+  "file": "PBR-FPB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/PBR-FPB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pbr-fpb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bbe4f00ac47f0ee0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PBR-FPA",
+  "nsku": "PBR-FPA",
+  "type": "V",
+  "file": "PBR-FPA-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/PBR-FPA_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pbr-fpa/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bbc5d01ac5790fe0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUR20ACFCMRD-SS",
+  "nsku": "PUR20ACFCMRD-SS",
+  "type": "V",
+  "file": "PUR20ACFCMRD-SS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/PUR20ACFCMRD-SS-front-open-top_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20acfcmrd-ss/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b0cece64c3399b92",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUR20ACFCMRD-BK",
+  "nsku": "PUR20ACFCMRD-BK",
+  "type": "V",
+  "file": "PUR20ACFCMRD-BK-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/PUR20ACFCMRD-BK-front-open-top_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20acfcmrd-bk/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b1e4ce6ec3389293",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUR20DSFCMRD-SS",
+  "nsku": "PUR20DSFCMRD-SS",
+  "type": "V",
+  "file": "PUR20DSFCMRD-SS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/PUR20DSFCMRD-SS-front-open-top_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20dsfcmrd-ss/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b0cece64c3399b92",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUR20DSFCMRD-BK",
+  "nsku": "PUR20DSFCMRD-BK",
+  "type": "V",
+  "file": "PUR20DSFCMRD-BK-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/PUR20DSFCMRD-BK-front-open-top_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20dsfcmrd-bk/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b1e4ce0ec7389693",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUR20GFCMRD-SS",
+  "nsku": "PUR20GFCMRD-SS",
+  "type": "V",
+  "file": "PUR20GFCMRD-SS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/PUR20GFCMRD-SS-front-open-top_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20gfcmrd-ss/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b0cece64c33993b2",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUR20GFCMRD-BK",
+  "nsku": "PUR20GFCMRD-BK",
+  "type": "V",
+  "file": "PUR20GFCMRD-BK-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/PUR20GFCMRD-BK-front-open-top_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20gfcmrd-bk/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b1e4ce0ec3399693",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUR20GFIACFCMRD-SS",
+  "nsku": "PUR20GFIACFCMRD-SS",
+  "type": "V",
+  "file": "PUR20GFIACFCMRD-SS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/PUR20GFIACFCMRD-SS-front-open-top_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20gfiacfcmrd-ss/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b0cece64c33993b2",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUR20GFIACFCMRD-BK",
+  "nsku": "PUR20GFIACFCMRD-BK",
+  "type": "V",
+  "file": "PUR20GFIACFCMRD-BK-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/PUR20GFIACFCMRD-BK-front-open-top_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20gfiacfcmrd-bk/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b1e4ce2ec3389693",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "RB-ONS",
+  "nsku": "RB-ONS",
+  "type": "V",
+  "file": "RB-ONS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/03/RB-NS-side-view-open_5J9A1650_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rb-ons/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b1c6936cc365cc99",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "RB-OBK",
+  "nsku": "RB-OBK",
+  "type": "V",
+  "file": "RB-OBK-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/03/RB-BK-side-view-open_5J9A1644_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rb-obk/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b092936dce6dc591",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "RRP-1-BP",
+  "nsku": "RRP-1-BP",
+  "type": "V",
+  "file": "RRP-1-BP-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-1-BP_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-1-bp/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bfc2c03d7c468333",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "RRP-4-FPB",
+  "nsku": "RRP-4-FPB",
+  "type": "V",
+  "file": "RRP-4-FPB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-4-FPB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-4-fpb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "abf5d400c07f893b",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "RRP-4-FPA",
+  "nsku": "RRP-4-FPA",
+  "type": "V",
+  "file": "RRP-4-FPA-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-4-FPA_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-4-fpa/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "aaffd500c03f912b",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "RRP-4-SPB",
+  "nsku": "RRP-4-SPB",
+  "type": "V",
+  "file": "RRP-4-SPB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-4-SPB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-4-spb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "abd5d500c07fc72a",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "RRP-4-SPA",
+  "nsku": "RRP-4-SPA",
+  "type": "V",
+  "file": "RRP-4-SPA-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-4-SPA_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-4-spa/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bfd5d000c07e956b",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "RRP-6-BP",
+  "nsku": "RRP-6-BP",
+  "type": "V",
+  "file": "RRP-6-BP-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-6-BP_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-6-bp/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af40d0172fc8b573",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "RRP-6-AP",
+  "nsku": "RRP-6-AP",
+  "type": "V",
+  "file": "RRP-6-AP-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-6-AP_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-6-ap/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af40d0172fc8b573",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "RRP-6-BP-LR",
+  "nsku": "RRP-6-BP-LR",
+  "type": "V",
+  "file": "RRP-6-BP-LR-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-6-BP-LR_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-6-bp-lr/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ab3394944e8cad6b",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "RRP-6-AP-LR",
+  "nsku": "RRP-6-AP-LR",
+  "type": "V",
+  "file": "RRP-6-AP-LR-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-6-AP-LR_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-6-ap-lr/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ab3394944e8cad6b",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "RRP-6-FPB",
+  "nsku": "RRP-6-FPB",
+  "type": "V",
+  "file": "RRP-6-FPB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-6-FPB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-6-fpb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "afdfd000847f3f80",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "RRP-6-FPA",
+  "nsku": "RRP-6-FPA",
+  "type": "V",
+  "file": "RRP-6-FPA-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-6-FPA_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-6-fpa/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bfd5d002807f3fc0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "RRP-6-SPB",
+  "nsku": "RRP-6-SPB",
+  "type": "V",
+  "file": "RRP-6-SPB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-6-SPB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-6-spb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "afd7d500807f3f80",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "RRP-6-SPA",
+  "nsku": "RRP-6-SPA",
+  "type": "V",
+  "file": "RRP-6-SPA-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-6-SPA_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-6-spa/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "afffd000807f3f80",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "SCF-1-NS",
+  "nsku": "SCF-1-NS",
+  "type": "V",
+  "file": "SCF-1-NS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/SCF-1-NS_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/scf-1-ns/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be64e19b873d1a60",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "SCF-1-A",
+  "nsku": "SCF-1-A",
+  "type": "V",
+  "file": "SCF-1-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/SCF-1-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/scf-1-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be64e19bc33d2a60",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "SWB-1-NP",
+  "nsku": "SWB-1-NP",
+  "type": "V",
+  "file": "SWB-1-NP-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/SWB-1-NP_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/swb-1-np/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "bd6b8fc1d094d234",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "SWB-1-BP",
+  "nsku": "SWB-1-BP",
+  "type": "V",
+  "file": "SWB-1-BP-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/SWB-1-BP_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/swb-1-bp/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "bd6b8fc3d094d034",
+   "q": 85,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "SWB-2-NS",
+  "nsku": "SWB-2-NS",
+  "type": "V",
+  "file": "SWB-2-NS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/SWB-2-NS_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/swb-2-ns/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "bc6b8fc3f1c5c024",
+   "q": 85,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "SWB-2-A",
+  "nsku": "SWB-2-A",
+  "type": "V",
+  "file": "SWB-2-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/SWB-2-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/swb-2-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "bccb8fc3b1c5c124",
+   "q": 85,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "SWB-2-NS-T",
+  "nsku": "SWB-2-NS-T",
+  "type": "V",
+  "file": "SWB-2-NS-T-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/SWB-2-NS-T_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/swb-2-ns-t/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "bc6b8fc1f0c4c13c",
+   "q": 85,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "SWB-2-A-T",
+  "nsku": "SWB-2-A-T",
+  "type": "V",
+  "file": "SWB-2-A-T-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/SWB-2-A-T_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/swb-2-a-t/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "bccb8fc130c5c32e",
+   "q": 85,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "523-DP-NS",
+  "nsku": "523-DP-NS",
+  "type": "V",
+  "file": "523-DP-NS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/523-DP-NS_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/523-dp-ns/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bfe0c48f8a3a6ae0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "523-DP-A",
+  "nsku": "523-DP-A",
+  "type": "V",
+  "file": "523-DP-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/523-DP-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/523-dp-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "afe0d08f9a3c3b60",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "6212-NS",
+  "nsku": "6212-NS",
+  "type": "V",
+  "file": "6212-NS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6212-NS_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6212-ns/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bfc0d03e2fe030ce",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "6212-A",
+  "nsku": "6212-A",
+  "type": "V",
+  "file": "6212-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6212-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6212-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bfe1c01e0fe13c0e",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "6213-NS",
+  "nsku": "6213-NS",
+  "type": "V",
+  "file": "6213-NS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2023/04/6213-NS_350px.jpg",
+  "page": "https://lewelectric.com/catalog/6213-ns/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "afc0d01f0bf03dc5",
+   "q": 88,
+   "src_px": [
+    350,
+    350
+   ],
+   "scale": 2.2857142857142856,
+   "notes": [
+    "LOW-RESOLUTION SOURCE upscaled x2.29 from 350x350 (no better verified source available)"
+   ]
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "6213-A",
+  "nsku": "6213-A",
+  "type": "V",
+  "file": "6213-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6213-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6213-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "afe8d0174be03f81",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUR20AC2PD-WT",
+  "nsku": "PUR20AC2PD-WT",
+  "type": "V",
+  "file": "PUR20AC2PD-WT-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/01/PUR20AC2PD-WT_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20ac2pd-wt/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e699cc8c8e239b66",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUR20AC2PD-SS",
+  "nsku": "PUR20AC2PD-SS",
+  "type": "V",
+  "file": "PUR20AC2PD-SS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/01/PUR20AC2PD-SS_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20ac2pd-ss/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e699cc8ace339b24",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUR20AC2PD-BK",
+  "nsku": "PUR20AC2PD-BK",
+  "type": "V",
+  "file": "PUR20AC2PD-BK-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/01/PUR20AC2PD-BK_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20ac2pd-bk/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e6332c8b8e239b6c",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUR20DSD-WT",
+  "nsku": "PUR20DSD-WT",
+  "type": "V",
+  "file": "PUR20DSD-WT-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/10/PUR20DSD-WT_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20dsd-wt/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e49bce61922c9bc6",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUR20DSD-SS",
+  "nsku": "PUR20DSD-SS",
+  "type": "V",
+  "file": "PUR20DSD-SS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/10/PUR20DSD-SS_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20dsd-ss/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e48bce38933c9ae4",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUR20DSD-BK",
+  "nsku": "PUR20DSD-BK",
+  "type": "V",
+  "file": "PUR20DSD-BK-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/10/PUR20DSD-BK_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20dsd-bk/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "a4f3ce1b924e93c4",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUR20GACBTD-WT",
+  "nsku": "PUR20GACBTD-WT",
+  "type": "V",
+  "file": "PUR20GACBTD-WT-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/10/PUR20GACBTD-WT_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20gacbtd-wt/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b2c9cccb9b329334",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUR20GACBTD-SS",
+  "nsku": "PUR20GACBTD-SS",
+  "type": "V",
+  "file": "PUR20GACBTD-SS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/10/PUR20GACBTD-SS_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20gacbtd-ss/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b2cdcc93cb329b30",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUR20GACBTD-BK",
+  "nsku": "PUR20GACBTD-BK",
+  "type": "V",
+  "file": "PUR20GACBTD-BK-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/10/PUR20GACBTD-BK_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20gacbtd-bk/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b271cc939b389b2c",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUR20GACD-WT",
+  "nsku": "PUR20GACD-WT",
+  "type": "V",
+  "file": "PUR20GACD-WT-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/10/PUR20GACD-WT_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20gacd-wt/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e5998c6396659b2c",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUR20GACD-SS",
+  "nsku": "PUR20GACD-SS",
+  "type": "V",
+  "file": "PUR20GACD-SS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/10/PUR20GACD-SS_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20gacd-ss/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e4d9cc339730936c",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUR20GACD-BK",
+  "nsku": "PUR20GACD-BK",
+  "type": "V",
+  "file": "PUR20GACD-BK-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/10/PUR20GACD-BK_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20gacd-bk/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e493cc93927c936c",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUR2-WT-SF",
+  "nsku": "PUR2-WT-SF",
+  "type": "V",
+  "file": "PUR2-WT-SF-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/White-extended-flange_PUR2-WT-SF_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur2-wt-sf/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "8fc47ccaf01b8339",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUR2-NS-SF",
+  "nsku": "PUR2-NS-SF",
+  "type": "V",
+  "file": "PUR2-NS-SF-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/Nickel-Silver-extended-flange_PUR2-NS-SF_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur2-ns-sf/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "de8d2950a56b962d",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUR2-BK-SF",
+  "nsku": "PUR2-BK-SF",
+  "type": "V",
+  "file": "PUR2-BK-SF-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/Black-Metal-extended-flange_PUR2-BK-SF_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur2-bk-sf/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "c2ca2f81b48ff21e",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "RRFB-DBP",
+  "nsku": "RRFB-DBP",
+  "type": "V",
+  "file": "RRFB-DBP-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/RRFB-DBP_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrfb-dbp/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bfc5c03a2fe0b407",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "RRFB-BP",
+  "nsku": "RRFB-BP",
+  "type": "V",
+  "file": "RRFB-BP-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/RRFB-BP_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrfb-bp/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bfe4c0132fe8b407",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "RRFB-AP",
+  "nsku": "RRFB-AP",
+  "type": "V",
+  "file": "RRFB-AP-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/RRFB-AP_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrfb-ap/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bfecc0162fe8b007",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "RRP-4-DBP",
+  "nsku": "RRP-4-DBP",
+  "type": "V",
+  "file": "RRP-4-DBP-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-4-DBP_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-4-dbp/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "afe1d05e6aa13d60",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "RRP-4-BP",
+  "nsku": "RRP-4-BP",
+  "type": "V",
+  "file": "RRP-4-BP-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-4-BP_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-4-bp/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af61d0de2ba53560",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "RRP-4-AP",
+  "nsku": "RRP-4-AP",
+  "type": "V",
+  "file": "RRP-4-AP-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-4-AP_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-4-ap/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bfe1d05a2ba53560",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "RRP-4-DBP-LR",
+  "nsku": "RRP-4-DBP-LR",
+  "type": "V",
+  "file": "RRP-4-DBP-LR-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-4-DBP-LR_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-4-dbp-lr/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be34d4964bcbc960",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "RRP-4-BP-LR",
+  "nsku": "RRP-4-BP-LR",
+  "type": "V",
+  "file": "RRP-4-BP-LR-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-4-BP-LR_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-4-bp-lr/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be34d4964bcb8970",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "RRP-4-AP-LR",
+  "nsku": "RRP-4-AP-LR",
+  "type": "V",
+  "file": "RRP-4-AP-LR-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-4-AP-LR_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-4-ap-lr/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be34d0964bcbc970",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "UCB-WT",
+  "nsku": "UCB-WT",
+  "type": "V",
+  "file": "UCB-WT-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/03/UCB-WT-front_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/ucb-wt/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bbf0c58fc67030c9",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "UCB-SS",
+  "nsku": "UCB-SS",
+  "type": "V",
+  "file": "UCB-SS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/03/UCB-SS-front_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/ucb-ss/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "aa3e8585c06b3bdc",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "UCB-BK",
+  "nsku": "UCB-BK",
+  "type": "V",
+  "file": "UCB-BK-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/03/UCB-BK-front_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/ucb-bk/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ab9ed081c16b3ed4",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "6213-NP",
+  "nsku": "6213-NP",
+  "type": "V",
+  "file": "6213-NP-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6213-NP_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6213-np/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bfe4c01f0f603c8d",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "6213-DBP",
+  "nsku": "6213-DBP",
+  "type": "V",
+  "file": "6213-DBP-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6213-DBP_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6213-dbp/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bf68c0934f4a3d25",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "6213-BP",
+  "nsku": "6213-BP",
+  "type": "V",
+  "file": "6213-BP-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6213-BP_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6213-bp/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bfc4c01f4f603c8d",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PDAS-WT",
+  "nsku": "PDAS-WT",
+  "type": "V",
+  "file": "PDAS-WT-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/Air-Switch-WT-full-product_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pdas-wt/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be9dc16269911e99",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PDAS-SS",
+  "nsku": "PDAS-SS",
+  "type": "V",
+  "file": "PDAS-SS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/Air-Switch-SS-full-product_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pdas-ss/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be9dc16269b11e8c",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PDAS-NP",
+  "nsku": "PDAS-NP",
+  "type": "V",
+  "file": "PDAS-NP-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/Air-Switch-NP-full-product_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pdas-np/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be1dc16269b11e1d",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PDAS-BK",
+  "nsku": "PDAS-BK",
+  "type": "V",
+  "file": "PDAS-BK-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/Air-Switch-BK-full-product_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pdas-bk/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be9dc16a69b41619",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUFP-CT-WT-AC-PB",
+  "nsku": "PUFP-CT-WT-AC-PB",
+  "type": "V",
+  "file": "PUFP-CT-WT-AC-PB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/11/PUFP-CT-WT-AC-PB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-ct-wt-ac-pb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be96d06bc7989065",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUFP-CT-SS-AC-PB",
+  "nsku": "PUFP-CT-SS-AC-PB",
+  "type": "V",
+  "file": "PUFP-CT-SS-AC-PB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/11/PUFP-CT-SS-AC-PB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-ct-ss-ac-pb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be9ec161c3589365",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUFP-CT-NS-AC-PB",
+  "nsku": "PUFP-CT-NS-AC-PB",
+  "type": "V",
+  "file": "PUFP-CT-NS-AC-PB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/11/PUFP-CT-NS-AC-PB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-ct-ns-ac-pb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be9ec161c3589365",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUFP-CT-BK-AC-PB",
+  "nsku": "PUFP-CT-BK-AC-PB",
+  "type": "V",
+  "file": "PUFP-CT-BK-AC-PB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/11/PUFP-CT-BK-AC-PB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-ct-bk-ac-pb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be9ec161c34a9725",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUFP-CT-WT-DS-PB",
+  "nsku": "PUFP-CT-WT-DS-PB",
+  "type": "V",
+  "file": "PUFP-CT-WT-DS-PB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/08/PUFP-CT-WT-DS-PB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-ct-wt-ds-pb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bf96d06bc3d89061",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUFP-CT-SS-DS-PB",
+  "nsku": "PUFP-CT-SS-DS-PB",
+  "type": "V",
+  "file": "PUFP-CT-SS-DS-PB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/08/PUFP-CT-SS-DS-PB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-ct-ss-ds-pb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be9ec161c3589365",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUFP-CT-NS-DS-PB",
+  "nsku": "PUFP-CT-NS-DS-PB",
+  "type": "V",
+  "file": "PUFP-CT-NS-DS-PB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/08/PUFP-CT-NS-DS-PB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-ct-ns-ds-pb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be9ec161c3589365",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUFP-CT-BK-DS-PB",
+  "nsku": "PUFP-CT-BK-DS-PB",
+  "type": "V",
+  "file": "PUFP-CT-BK-DS-PB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/08/PUFP-CT-BK-DS-PB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-ct-bk-ds-pb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bf9fd161c24a8325",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUFP-CT-SS-PB",
+  "nsku": "PUFP-CT-SS-PB",
+  "type": "V",
+  "file": "PUFP-CT-SS-PB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/11/PUFP-CT-SS-PB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-ct-ss-pb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be9ec161c3589365",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUFP-CT-NS-PB",
+  "nsku": "PUFP-CT-NS-PB",
+  "type": "V",
+  "file": "PUFP-CT-NS-PB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/11/PUFP-CT-NS-PB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-ct-ns-pb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be9ec161c3589365",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUFP-CT-BK-PB",
+  "nsku": "PUFP-CT-BK-PB",
+  "type": "V",
+  "file": "PUFP-CT-BK-PB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/11/PUFP-CT-BK-PB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-ct-bk-pb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be9ec161c34a9725",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUR20ACD-WT",
+  "nsku": "PUR20ACD-WT",
+  "type": "V",
+  "file": "PUR20ACD-WT-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/10/PUR20ACD-WT_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20acd-wt/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e49bce61922c9bc6",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUR20ACD-SS",
+  "nsku": "PUR20ACD-SS",
+  "type": "V",
+  "file": "PUR20ACD-SS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/10/PUR20ACD-SS_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20acd-ss/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "a49bcf30933c9bc4",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUR20ACD-NS",
+  "nsku": "PUR20ACD-NS",
+  "type": "V",
+  "file": "PUR20ACD-NS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/10/PUR20ACD-NS_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20acd-ns/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "a49bcf30933c9bc4",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUR20ACD-BK",
+  "nsku": "PUR20ACD-BK",
+  "type": "V",
+  "file": "PUR20ACD-BK-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/10/PUR20ACD-BK_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20acd-bk/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b4b3ce0bd34c93c4",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUR20GD-WT",
+  "nsku": "PUR20GD-WT",
+  "type": "V",
+  "file": "PUR20GD-WT-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/01/PUR20GD-WT_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20gd-wt/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "a49bcf61923cc9c6",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUR20GD-SS",
+  "nsku": "PUR20GD-SS",
+  "type": "V",
+  "file": "PUR20GD-SS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/01/PUR20GD-SS_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20gd-ss/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "a4cbcf3093389ae3",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUR20GD-NS",
+  "nsku": "PUR20GD-NS",
+  "type": "V",
+  "file": "PUR20GD-NS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/01/PUR20GD-NS_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20gd-ns/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "a4cbcf3093389ae3",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "PUR20GD-BK",
+  "nsku": "PUR20GD-BK",
+  "type": "V",
+  "file": "PUR20GD-BK-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/01/PUR20GD-BK_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20gd-bk/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b493ce3b922cc3e4",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "812-DA-SP-NS",
+  "nsku": "812-DA-SP-NS",
+  "type": "V",
+  "file": "812-DA-SP-NS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/812-DA-SP-NS-open_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/812-da-sp-ns/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ec8784799399d334",
+   "q": 85,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_1",
+  "sku": "812-DA-SFP-B",
+  "nsku": "812-DA-SFP-B",
+  "type": "V",
+  "file": "812-DA-SFP-B-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/812-DA-SFP-B-open_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/812-da-sfp-b/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "f0cb93cccf30929a",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "6410-1",
+  "nsku": "6410-1",
+  "type": "V",
+  "file": "6410-1-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6410-1_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6410-1/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bfc0d50bc23c8fe0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "6304-S-1",
+  "nsku": "6304-S-1",
+  "type": "V",
+  "file": "6304-S-1-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6304-S-1_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6304-s-1/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "abc1d47e809d6fc0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "6304-S-A",
+  "nsku": "6304-S-A",
+  "type": "V",
+  "file": "6304-S-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6304-S-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6304-s-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "abc1947e429d6fc0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "6304-S",
+  "nsku": "6304-S",
+  "type": "V",
+  "file": "6304-S-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6304-S_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6304-s/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "abc1947ec09d6fc0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "6304-DFB-LR-A",
+  "nsku": "6304-DFB-LR-A",
+  "type": "V",
+  "file": "6304-DFB-LR-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6304-DFB-LR-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6304-dfb-lr-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ef65c49a931a5893",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "6304-DFB-LR",
+  "nsku": "6304-DFB-LR",
+  "type": "V",
+  "file": "6304-DFB-LR-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6304-DFB-LR_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6304-dfb-lr/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ef65c49a9318d893",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "6304-DFB-1-A",
+  "nsku": "6304-DFB-1-A",
+  "type": "V",
+  "file": "6304-DFB-1-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6304-DFB-1-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6304-dfb-1-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "abc0d55e903f6ae0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "6304-DFB-1",
+  "nsku": "6304-DFB-1",
+  "type": "V",
+  "file": "6304-DFB-1-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6304-DFB-1_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6304-dfb-1/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "abc0d55e903f6ae0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "6304-DFB-1-TEL-A",
+  "nsku": "6304-DFB-1-TEL-A",
+  "type": "V",
+  "file": "6304-DFB-1-TEL-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6304-DFB-1-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6304-dfb-1-tel-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "abc0d55e903f6ae0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "6304-DFB-1-TEL",
+  "nsku": "6304-DFB-1-TEL",
+  "type": "V",
+  "file": "6304-DFB-1-TEL-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6304-DFB-1_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6304-dfb-1-tel/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "abc0d55e903f6ae0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "6304-DFB-1-GFI-A",
+  "nsku": "6304-DFB-1-GFI-A",
+  "type": "V",
+  "file": "6304-DFB-1-GFI-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6304-DFB-1-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6304-dfb-1-gfi-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "abc0d55e903f6ae0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "6304-DFB-1-GFI",
+  "nsku": "6304-DFB-1-GFI",
+  "type": "V",
+  "file": "6304-DFB-1-GFI-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6304-DFB-1_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6304-dfb-1-gfi/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "abc0d55e903f6ae0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "6304-DP-A",
+  "nsku": "6304-DP-A",
+  "type": "V",
+  "file": "6304-DP-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6304-DP-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6304-dp-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "abe0d51ec03f6bc0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "6304-DP",
+  "nsku": "6304-DP",
+  "type": "V",
+  "file": "6304-DP-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6304-DP_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6304-dp/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "abe0d51ec03f6bc0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "6215-DB",
+  "nsku": "6215-DB",
+  "type": "V",
+  "file": "6215-DB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6215-DB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6215-db/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bfc0d02f0b70358f",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "6215-A",
+  "nsku": "6215-A",
+  "type": "V",
+  "file": "6215-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6215-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6215-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "afc0d03f4be03c87",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "'6215",
+  "nsku": "6215",
+  "type": "V",
+  "file": "6215-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6215_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6215/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bfc0c03f0be03c8f",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "6214-DB",
+  "nsku": "6214-DB",
+  "type": "V",
+  "file": "6214-DB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6214-DB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6214-db/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bf68c0976f4a3425",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "6214-A",
+  "nsku": "6214-A",
+  "type": "V",
+  "file": "6214-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6214-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6214-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bfc0c03e4fe0388f",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "'6214",
+  "nsku": "6214",
+  "type": "V",
+  "file": "6214-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6214_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6214/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bfc4c03f2fc0308f",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "6213-DB",
+  "nsku": "6213-DB",
+  "type": "V",
+  "file": "6213-DB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6213-DB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6213-db/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ba2cd4924ac72d3d",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "'6213",
+  "nsku": "6213",
+  "type": "V",
+  "file": "6213-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6213_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6213/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bae1d41e4a703f85",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "6212-DB",
+  "nsku": "6212-DB",
+  "type": "V",
+  "file": "6212-DB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6212-DB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6212-db/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bf84c03b2fe53492",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "'6212",
+  "nsku": "6212",
+  "type": "V",
+  "file": "6212-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6212_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6212/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bfc5c03a2fe1308e",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "'6211",
+  "nsku": "6211",
+  "type": "V",
+  "file": "6211-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6211_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6211/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b0cbc3306de330cf",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "'6210",
+  "nsku": "6210",
+  "type": "V",
+  "file": "6210-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6210_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6210/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b0cccf3238cf3398",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "6208-A",
+  "nsku": "6208-A",
+  "type": "V",
+  "file": "6208-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6208-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6208-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b2cdcd3330ccc339",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "'6208",
+  "nsku": "6208",
+  "type": "V",
+  "file": "6208-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6208_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6208/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b2cccd3330cccb33",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "'6207",
+  "nsku": "6207",
+  "type": "V",
+  "file": "6207-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/6207_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6207/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bfc8d01fcb702dc0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "12200-SS",
+  "nsku": "12200-SS",
+  "type": "V",
+  "file": "12200-SS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/12200-concrete-01_stainless-cover_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/12200-ss/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af69d496525e2b21",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "'12200",
+  "nsku": "12200",
+  "type": "V",
+  "file": "12200-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/12200-raised-floor-07_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/12200/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "aa80d5d0d45ecc7e",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "8200-SS",
+  "nsku": "8200-SS",
+  "type": "V",
+  "file": "8200-SS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/8200-concrete-01_stainless-cover_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/8200-ss/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bf25c4d0c0dac99d",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "'8200",
+  "nsku": "8200",
+  "type": "V",
+  "file": "8200-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/8200-raised-floor-02_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/8200/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b8339b6cc69361cc",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "6200-SS",
+  "nsku": "6200-SS",
+  "type": "V",
+  "file": "6200-SS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/6200-raised-floor-01_stainless-cover_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6200-ss/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af25c4d0d2cac99d",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "'6200",
+  "nsku": "6200",
+  "type": "V",
+  "file": "6200-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2024/03/6200-raised-floor-03_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/6200/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b032cb6c86d369ce",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "4200-SS",
+  "nsku": "4200-SS",
+  "type": "V",
+  "file": "4200-SS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/4200-raised-floor-01_stainless-cover_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/4200-ss/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bf25c0daca8b2d34",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "'4200",
+  "nsku": "4200",
+  "type": "V",
+  "file": "4200-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2024/03/4200-raised-floor-04_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/4200/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b81bcb6c86c3cd86",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "2200-SS",
+  "nsku": "2200-SS",
+  "type": "V",
+  "file": "2200-SS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/2200-concrete-01_stainless-cover_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/2200-ss/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af69c0d65a3a2b25",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "'2200",
+  "nsku": "2200",
+  "type": "V",
+  "file": "2200-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2024/03/2200-raised-floor-03_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/2200/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af69c0967a0bbd21",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "1103-SMB",
+  "nsku": "1103-SMB",
+  "type": "V",
+  "file": "1103-SMB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/1103-SMB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/1103-smb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af68c0971e7c69c1",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "1103-DBE-A",
+  "nsku": "1103-DBE-A",
+  "type": "V",
+  "file": "1103-DBE-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/1103-DBE-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/1103-dbe-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "aa6ad595d03e2b68",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "1103-DBE-B",
+  "nsku": "1103-DBE-B",
+  "type": "V",
+  "file": "1103-DBE-B-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/1103-DBE-B_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/1103-dbe-b/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "aa6ad595503e2b69",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "1102-SMB",
+  "nsku": "1102-SMB",
+  "type": "V",
+  "file": "1102-SMB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/1102-SMB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/1102-smb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af69c09792392d65",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "1102-DBE-A",
+  "nsku": "1102-DBE-A",
+  "type": "V",
+  "file": "1102-DBE-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/1102-DBE-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/1102-dbe-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ab6994d2d23d2d62",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "1102-DBE-B",
+  "nsku": "1102-DBE-B",
+  "type": "V",
+  "file": "1102-DBE-B-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/1102-DBE-B_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/1102-dbe-b/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ab6894d6d23d2d64",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "1102-58-A",
+  "nsku": "1102-58-A",
+  "type": "V",
+  "file": "1102-58-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/1102-58-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/1102-58-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "afe1d752803c780f",
+   "q": 85,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "1102-58",
+  "nsku": "1102-58",
+  "type": "V",
+  "file": "1102-58-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/1102-58_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/1102-58/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af69d5d2c094780f",
+   "q": 85,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "1103-PB",
+  "nsku": "1103-PB",
+  "type": "V",
+  "file": "1103-PB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2017/07/1103-PB-350px.jpg",
+  "page": "https://lewelectric.com/catalog/1103-pb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "fac38538d296439e",
+   "q": 88,
+   "src_px": [
+    350,
+    350
+   ],
+   "scale": 2.2857142857142856,
+   "notes": [
+    "LOW-RESOLUTION SOURCE upscaled x2.29 from 350x350 (no better verified source available)"
+   ]
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "1102-PB",
+  "nsku": "1102-PB",
+  "type": "V",
+  "file": "1102-PB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/1102-PB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/1102-pb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bac59563d4d0d2b2",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "1101-PB",
+  "nsku": "1101-PB",
+  "type": "V",
+  "file": "1101-PB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/1101-PB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/1101-pb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "aac1956bd536d216",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "1101-SMB",
+  "nsku": "1101-SMB",
+  "type": "V",
+  "file": "1101-SMB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/1101-SMB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/1101-smb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bf61c08edb1b0b31",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "1101-DBE-B",
+  "nsku": "1101-DBE-B",
+  "type": "V",
+  "file": "1101-DBE-B-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/1101-DBE-B_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/1101-dbe-b/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ab69b4d2c23c2a1f",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "1101-DBE-A",
+  "nsku": "1101-DBE-A",
+  "type": "V",
+  "file": "1101-DBE-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/1101-DBE-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/1101-dbe-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ab69b4d2c23c2a1f",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "1101-DA",
+  "nsku": "1101-DA",
+  "type": "V",
+  "file": "1101-DA-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/1101-DA-side-view_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/1101-da/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bd65d492839a6a2d",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "812-DA-SP-DB",
+  "nsku": "812-DA-SP-DB",
+  "type": "V",
+  "file": "812-DA-SP-DB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/812-DA-SP-DB-open_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/812-da-sp-db/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "fc0f94f0d438c396",
+   "q": 85,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "812-DA-SP-B",
+  "nsku": "812-DA-SP-B",
+  "type": "V",
+  "file": "812-DA-SP-B-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/812-DA-SP-B-open_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/812-da-sp-b/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b993846cc633f334",
+   "q": 85,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "812-DA-SP-A",
+  "nsku": "812-DA-SP-A",
+  "type": "V",
+  "file": "812-DA-SP-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/812-DA-SP-A-open_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/812-da-sp-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b993846cc639f334",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "812-DA-SFP-DB",
+  "nsku": "812-DA-SFP-DB",
+  "type": "V",
+  "file": "812-DA-SFP-DB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/812-DA-SFP-DB-open_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/812-da-sfp-db/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e1cfc7949c3c92b0",
+   "q": 82,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "812-DA-SFP-A",
+  "nsku": "812-DA-SFP-A",
+  "type": "V",
+  "file": "812-DA-SFP-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/812-DA-SFP-A-open_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/812-da-sfp-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "f0cb93cccf30929a",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "812-DA-DFP-DB",
+  "nsku": "812-DA-DFP-DB",
+  "type": "V",
+  "file": "812-DA-DFP-DB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/812-DA-DFP-DB-1open_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/812-da-dfp-db/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "f08793cdce3898b1",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "812-DA-DFP-B",
+  "nsku": "812-DA-DFP-B",
+  "type": "V",
+  "file": "812-DA-DFP-B-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/812-DA-DFP-B-1open_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/812-da-dfp-b/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b09bc66c8f31b2cc",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "812-DA-DFP-A",
+  "nsku": "812-DA-DFP-A",
+  "type": "V",
+  "file": "812-DA-DFP-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/812-DA-DFP-A-1open_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/812-da-dfp-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b09bc66c9f3192cc",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "812-DA",
+  "nsku": "812-DA",
+  "type": "V",
+  "file": "812-DA-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/812-DA-box_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/812-da/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "fc3f85e8c5b0c384",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "532-SMB-SB",
+  "nsku": "532-SMB-SB",
+  "type": "V",
+  "file": "532-SMB-SB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/532-SB-SMB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/532-smb-sb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af61d09a913f681d",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "532-SMB",
+  "nsku": "532-SMB",
+  "type": "V",
+  "file": "532-SMB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/532-SMB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/532-smb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "bf6dd0d2d082c28f",
+   "q": 85,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "532-DA-A",
+  "nsku": "532-DA-A",
+  "type": "V",
+  "file": "532-DA-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/532-DA-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/532-da-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bce5c00f975a8729",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "532-DA",
+  "nsku": "532-DA",
+  "type": "V",
+  "file": "532-DA-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/532-DA_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/532-da/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bce5c00f975a8729",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "'524",
+  "nsku": "524",
+  "type": "V",
+  "file": "524-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/524_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/524/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "afe0d00fd23c4bf0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "523-DP-DB",
+  "nsku": "523-DP-DB",
+  "type": "V",
+  "file": "523-DP-DB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/523-DP-DB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/523-dp-db/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "afe0d41f4a782de0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "523-DP",
+  "nsku": "523-DP",
+  "type": "V",
+  "file": "523-DP-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/523-DP_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/523-dp/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "afe0c08fda3c3b60",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "332-DA-A",
+  "nsku": "332-DA-A",
+  "type": "V",
+  "file": "332-DA-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/332-DA-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/332-da-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "ab65d4928178cb97",
+   "q": 85,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "332-DA",
+  "nsku": "332-DA",
+  "type": "V",
+  "file": "332-DA-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/332-DA_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/332-da/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "ab6df482807a8b37",
+   "q": 82,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "207-A",
+  "nsku": "207-A",
+  "type": "V",
+  "file": "207-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/207-GFI-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/207-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "8be8f4074a7a2dc5",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "206-A",
+  "nsku": "206-A",
+  "type": "V",
+  "file": "206-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/206-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/206-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "a1f0de0f28f227c9",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "204-A",
+  "nsku": "204-A",
+  "type": "V",
+  "file": "204-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/204-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/204-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ab68d49703786cc7",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "203-A",
+  "nsku": "203-A",
+  "type": "V",
+  "file": "203-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/203-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/203-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "aae0d517527a2be1",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "113-A",
+  "nsku": "113-A",
+  "type": "V",
+  "file": "113-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/113-GFI-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/113-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "abe1f456c2390f16",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "112-A",
+  "nsku": "112-A",
+  "type": "V",
+  "file": "112-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/112-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/112-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "afc1d45e81384fe1",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "110-A",
+  "nsku": "110-A",
+  "type": "V",
+  "file": "110-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/110-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/110-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "a96dd692d13d1638",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "15A-BK-GFI-IO",
+  "nsku": "15A-BK-GFI-IO",
+  "type": "V",
+  "file": "15A-BK-GFI-IO-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/15A-BK-GFI-IO-receptacle_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/15a-bk-gfi-io/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bcc8c3326ada3cc9",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "UCPDR20GD-SS",
+  "nsku": "UCPDR20GD-SS",
+  "type": "V",
+  "file": "UCPDR20GD-SS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2024/06/UCPDR20GD-SS_350px.jpg",
+  "page": "https://lewelectric.com/catalog/ucpdr20gd-ss/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b9249e38c6d2c3d3",
+   "q": 88,
+   "src_px": [
+    350,
+    350
+   ],
+   "scale": 2.2857142857142856,
+   "notes": [
+    "LOW-RESOLUTION SOURCE upscaled x2.29 from 350x350 (no better verified source available)"
+   ]
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "UCPDR20GACD-SS",
+  "nsku": "UCPDR20GACD-SS",
+  "type": "V",
+  "file": "UCPDR20GACD-SS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2024/06/UCPDR20GACD-SS_350px.jpg",
+  "page": "https://lewelectric.com/catalog/ucpdr20gacd-ss/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e1349865cec9c6cb",
+   "q": 88,
+   "src_px": [
+    350,
+    350
+   ],
+   "scale": 2.2857142857142856,
+   "notes": [
+    "LOW-RESOLUTION SOURCE upscaled x2.29 from 350x350 (no better verified source available)"
+   ]
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "UCB-BR",
+  "nsku": "UCB-BR",
+  "type": "V",
+  "file": "UCB-BR-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/03/UCB-BR-front_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/ucb-br/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ab3ed481c06b3ad6",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "TCP-2-LR-DB",
+  "nsku": "TCP-2-LR-DB",
+  "type": "V",
+  "file": "TCP-2-LR-DB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/TCP-2-LR-DB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/tcp-2-lr-db/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bbe4e40e933a4eb0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "TCP-2-LR-A",
+  "nsku": "TCP-2-LR-A",
+  "type": "V",
+  "file": "TCP-2-LR-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/TCP-2-LR-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/tcp-2-lr-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "eee4e41b933b0e90",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "TCP-2-LR",
+  "nsku": "TCP-2-LR",
+  "type": "V",
+  "file": "TCP-2-LR-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/TCP-2-LR_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/tcp-2-lr/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "eee4e41b933a4e90",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "TCP-2-DB",
+  "nsku": "TCP-2-DB",
+  "type": "V",
+  "file": "TCP-2-DB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/TCP-2-DB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/tcp-2-db/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "abd0940fd27c2bf0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "TCP-2-A",
+  "nsku": "TCP-2-A",
+  "type": "V",
+  "file": "TCP-2-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/TCP-2-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/tcp-2-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ebd0942fd27c0f90",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "TCP-2",
+  "nsku": "TCP-2",
+  "type": "V",
+  "file": "TCP-2-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/TCP-2_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/tcp-2/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ebd0942fd27c0f90",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "TCP-1",
+  "nsku": "TCP-1",
+  "type": "V",
+  "file": "TCP-1-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/TCP-1_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/tcp-1/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "abd0d42bc2dc3f90",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SWB-6-LR-A",
+  "nsku": "SWB-6-LR-A",
+  "type": "V",
+  "file": "SWB-6-LR-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/SWB-6-LR-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/swb-6-lr-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "abf1d094f40e056f",
+   "q": 82,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SWB-6-LR",
+  "nsku": "SWB-6-LR",
+  "type": "V",
+  "file": "SWB-6-LR-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/SWB-6-LR_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/swb-6-lr/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ab73d094fc0e056d",
+   "q": 84,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SWB-6-A",
+  "nsku": "SWB-6-A",
+  "type": "V",
+  "file": "SWB-6-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/SWB-6-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/swb-6-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af70d087dc7c1323",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SWB-6",
+  "nsku": "SWB-6",
+  "type": "V",
+  "file": "SWB-6-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/SWB-6_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/swb-6/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af78d083dc3e1323",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SWB-4-LR-DB",
+  "nsku": "SWB-4-LR-DB",
+  "type": "V",
+  "file": "SWB-4-LR-DB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/SWB-4-LR-DB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/swb-4-lr-db/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "f13092d3929acd6d",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SWB-4-LR-A",
+  "nsku": "SWB-4-LR-A",
+  "type": "V",
+  "file": "SWB-4-LR-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/SWB-4-LR-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/swb-4-lr-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "f1129ae362968b6d",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SWB-4-LR",
+  "nsku": "SWB-4-LR",
+  "type": "V",
+  "file": "SWB-4-LR-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/SWB-4-LR_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/swb-4-lr/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e13a9ac3229acb6d",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SWB-4-DB",
+  "nsku": "SWB-4-DB",
+  "type": "V",
+  "file": "SWB-4-DB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/SWB-4-DB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/swb-4-db/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e13c9ec7c78492ca",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SWB-4-A",
+  "nsku": "SWB-4-A",
+  "type": "V",
+  "file": "SWB-4-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/SWB-4-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/swb-4-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e13c9ecb616496ca",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SWB-4",
+  "nsku": "SWB-4",
+  "type": "V",
+  "file": "SWB-4-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/SWB-4_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/swb-4/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e13c9ec363e496c8",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SWB-2-T",
+  "nsku": "SWB-2-T",
+  "type": "V",
+  "file": "SWB-2-T-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/SWB-2-T_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/swb-2-t/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "bc6b8fc1f0c4c334",
+   "q": 85,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SWB-2-LR-T",
+  "nsku": "SWB-2-LR-T",
+  "type": "V",
+  "file": "SWB-2-LR-T-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/SWB-2-LR-T_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/swb-2-lr-t/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "b4c99bb1b18aca2e",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SWB-2-LR-DB-T",
+  "nsku": "SWB-2-LR-DB-T",
+  "type": "V",
+  "file": "SWB-2-LR-DB-T-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/SWB-2-LR-DB-T_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/swb-2-lr-db-t/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "b0799b91919a4e6e",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SWB-2-LR-DB",
+  "nsku": "SWB-2-LR-DB",
+  "type": "V",
+  "file": "SWB-2-LR-DB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/SWB-2-LR-DB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/swb-2-lr-db/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "b0799b9193924e6e",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SWB-2-LR-A-T",
+  "nsku": "SWB-2-LR-A-T",
+  "type": "V",
+  "file": "SWB-2-LR-A-T-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/SWB-2-LR-A-T_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/swb-2-lr-a-t/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "b4c99bf1308ecb26",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SWB-2-LR-A",
+  "nsku": "SWB-2-LR-A",
+  "type": "V",
+  "file": "SWB-2-LR-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/SWB-2-LR-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/swb-2-lr-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "b4c99fd1308eca2e",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SWB-2-LR",
+  "nsku": "SWB-2-LR",
+  "type": "V",
+  "file": "SWB-2-LR-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/SWB-2-LR_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/swb-2-lr/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "b4c99bd13196ca2e",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SWB-2-DB-T",
+  "nsku": "SWB-2-DB-T",
+  "type": "V",
+  "file": "SWB-2-DB-T-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/SWB-2-DB-T_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/swb-2-db-t/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bd6f0fc1c0c5d194",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SWB-2-DB",
+  "nsku": "SWB-2-DB",
+  "type": "V",
+  "file": "SWB-2-DB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/SWB-2-DB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/swb-2-db/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bc6f0fc3c1c5d034",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SWB-2",
+  "nsku": "SWB-2",
+  "type": "V",
+  "file": "SWB-2-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/SWB-2_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/swb-2/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "bc6b8fc3f1c5c024",
+   "q": 85,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SWB-1-DB",
+  "nsku": "SWB-1-DB",
+  "type": "V",
+  "file": "SWB-1-DB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/SWB-1-DBP_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/swb-1-db/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "bd6d8fc5c184d234",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SH-6263-DA",
+  "nsku": "SH-6263-DA",
+  "type": "V",
+  "file": "SH-6263-DA-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/07/SH-6263-DA-side-view-01_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/sh-6263-da/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af68c0953e6ac5c5",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SH-6262-DA",
+  "nsku": "SH-6262-DA",
+  "type": "V",
+  "file": "SH-6262-DA-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/07/SH-6262-DA-side-view-01_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/sh-6262-da/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bf69c0963a293de0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SH-1103-SMB",
+  "nsku": "SH-1103-SMB",
+  "type": "V",
+  "file": "SH-1103-SMB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/SH-1103-SMB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/sh-1103-smb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af68d0973e68e981",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SH-1102-SMB",
+  "nsku": "SH-1102-SMB",
+  "type": "V",
+  "file": "SH-1102-SMB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/SH-1102-SMB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/sh-1102-smb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ad69c0963a696dc6",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SH-1101-SMB",
+  "nsku": "SH-1101-SMB",
+  "type": "V",
+  "file": "SH-1101-SMB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/SH-1101-SMB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/sh-1101-smb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bf61c09e8b393564",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SH-1101-DA",
+  "nsku": "SH-1101-DA",
+  "type": "V",
+  "file": "SH-1101-DA-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/SH-1101-DA_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/sh-1101-da/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af69d0d280177ee1",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SCF-1-DB",
+  "nsku": "SCF-1-DB",
+  "type": "V",
+  "file": "SCF-1-DB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/SCF-1-DB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/scf-1-db/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ab64f48aca3d2de0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SCF-1",
+  "nsku": "SCF-1",
+  "type": "V",
+  "file": "SCF-1-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/SCF-1_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/scf-1/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "fa25a5dad23d2a60",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRP-2-T",
+  "nsku": "RRP-2-T",
+  "type": "V",
+  "file": "RRP-2-T-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-2-T_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-2-t/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "afcad025db1a2d89",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRP-2-SPB",
+  "nsku": "RRP-2-SPB",
+  "type": "V",
+  "file": "RRP-2-SPB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-2-SPB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-2-spb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "aad7d50a807f3f80",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRP-2-SPA",
+  "nsku": "RRP-2-SPA",
+  "type": "V",
+  "file": "RRP-2-SPA-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-2-SPA_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-2-spa/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "abd5d42a00ff3f80",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRP-2-NS-T",
+  "nsku": "RRP-2-NS-T",
+  "type": "V",
+  "file": "RRP-2-NS-T-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-2-NS-T_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-2-ns-t/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "afcac025db1e2d83",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRP-2-NSR",
+  "nsku": "RRP-2-NSR",
+  "type": "V",
+  "file": "RRP-2-NSR-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-2-NSR_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-2-nsr/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bfc0c01e3fe1c05e",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRP-2-NS",
+  "nsku": "RRP-2-NS",
+  "type": "V",
+  "file": "RRP-2-NS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-2-NS_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-2-ns/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "adcac225fc1e2b29",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRP-2-LR-T",
+  "nsku": "RRP-2-LR-T",
+  "type": "V",
+  "file": "RRP-2-LR-T-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-2-LR-T_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-2-lr-t/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "afda9035c2066de9",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRP-2-LRR",
+  "nsku": "RRP-2-LRR",
+  "type": "V",
+  "file": "RRP-2-LRR-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-2-LRR_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-2-lrr/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ab3990866f6b9196",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRP-2-LR-DBR",
+  "nsku": "RRP-2-LR-DBR",
+  "type": "V",
+  "file": "RRP-2-LR-DBR-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-2-LR-DBR_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-2-lr-dbr/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bb39d0c66e61b138",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRP-2-LR-DB-T",
+  "nsku": "RRP-2-LR-DB-T",
+  "type": "V",
+  "file": "RRP-2-LR-DB-T-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-2-LR-DB-T_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-2-lr-db-t/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bb7890b1c746c7a1",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRP-2-LR-DB",
+  "nsku": "RRP-2-LR-DB",
+  "type": "V",
+  "file": "RRP-2-LR-DB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-2-LR-DB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-2-lr-db/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bd7890b1c746c729",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRP-2-LR-A-T",
+  "nsku": "RRP-2-LR-A-T",
+  "type": "V",
+  "file": "RRP-2-LR-A-T-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-2-LR-A-T_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-2-lr-a-t/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "adda903dc2066d5b",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRP-2-LR-AR",
+  "nsku": "RRP-2-LR-AR",
+  "type": "V",
+  "file": "RRP-2-LR-AR-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-2-LR-AR_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-2-lr-ar/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ab39d0866f699196",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRP-2-LR-A",
+  "nsku": "RRP-2-LR-A",
+  "type": "V",
+  "file": "RRP-2-LR-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-2-LR-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-2-lr-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "add2923dc6862f68",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRP-2-LR",
+  "nsku": "RRP-2-LR",
+  "type": "V",
+  "file": "RRP-2-LR-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-2-LR_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-2-lr/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "adda9035c6066f69",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRP-2-FPB",
+  "nsku": "RRP-2-FPB",
+  "type": "V",
+  "file": "RRP-2-FPB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-2-FPB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-2-fpb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "abd5d52a00df3f80",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRP-2-FPA",
+  "nsku": "RRP-2-FPA",
+  "type": "V",
+  "file": "RRP-2-FPA-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-2-FPA_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-2-fpa/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "abd5d42a00df3fc0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRP-2-DBR",
+  "nsku": "RRP-2-DBR",
+  "type": "V",
+  "file": "RRP-2-DBR-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-2-DBR_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-2-dbr/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "afe0d0162be1d556",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRP-2-DB-T",
+  "nsku": "RRP-2-DB-T",
+  "type": "V",
+  "file": "RRP-2-DB-T-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-2-DB-T_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-2-db-t/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af6ac095d73e2889",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRP-2-DB",
+  "nsku": "RRP-2-DB",
+  "type": "V",
+  "file": "RRP-2-DB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-2-DB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-2-db/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af6bc095d41e2b29",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRP-2-BR",
+  "nsku": "RRP-2-BR",
+  "type": "V",
+  "file": "RRP-2-BR-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-2-BR_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-2-br/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bfe0c01e2fe0c45e",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRP-2-A-T",
+  "nsku": "RRP-2-A-T",
+  "type": "V",
+  "file": "RRP-2-A-T-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-2-A-T_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-2-a-t/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "adcad02dcb1a2d8b",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRP-2-AR",
+  "nsku": "RRP-2-AR",
+  "type": "V",
+  "file": "RRP-2-AR-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-2-AR_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-2-ar/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bfc0c03f3fc0d05a",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRP-2-A",
+  "nsku": "RRP-2-A",
+  "type": "V",
+  "file": "RRP-2-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-2-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-2-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "adc2d225ec961739",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRP-2",
+  "nsku": "RRP-2",
+  "type": "V",
+  "file": "RRP-2-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-2_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-2/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "adcbd234fc1e0b28",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRP-1-NPR",
+  "nsku": "RRP-1-NPR",
+  "type": "V",
+  "file": "RRP-1-NPR-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-1-NPR_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-1-npr/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af68d0962b699596",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRP-1-DBR",
+  "nsku": "RRP-1-DBR",
+  "type": "V",
+  "file": "RRP-1-DBR-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-1-DBR_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-1-dbr/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af61d0962f69c496",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRP-1-DB",
+  "nsku": "RRP-1-DB",
+  "type": "V",
+  "file": "RRP-1-DB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RRP-1-DBP_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrp-1-db/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af6bc094f61e0b29",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRFB-LRA",
+  "nsku": "RRFB-LRA",
+  "type": "V",
+  "file": "RRFB-LRA-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/RRFB-LRA_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrfb-lra/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ba68e595c2782ea5",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRFB-MBP",
+  "nsku": "RRFB-MBP",
+  "type": "V",
+  "file": "RRFB-MBP-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/RRFB-MBP_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrfb-mbp/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bec5c03e2fe0b00f",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRFB-MB",
+  "nsku": "RRFB-MB",
+  "type": "V",
+  "file": "RRFB-MB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/RRFB-MB-closed_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrfb-mb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ba4bc5b1d02ccb47",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRFB-DB",
+  "nsku": "RRFB-DB",
+  "type": "V",
+  "file": "RRFB-DB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/RRFB-DB-closed_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrfb-db/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "becbc5b1902cc347",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRFB-B",
+  "nsku": "RRFB-B",
+  "type": "V",
+  "file": "RRFB-B-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/RRFB-B-closed_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrfb-b/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bacbc439d22cc327",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RRFB-A",
+  "nsku": "RRFB-A",
+  "type": "V",
+  "file": "RRFB-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/RRFB-A-closed_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rrfb-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bacbc539d22cc325",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RCFB-2-DBP",
+  "nsku": "RCFB-2-DBP",
+  "type": "V",
+  "file": "RCFB-2-DBP-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RCFB-2_DBP_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rcfb-2-dbp/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af68d0972b68c595",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RCFB-2-BP",
+  "nsku": "RCFB-2-BP",
+  "type": "V",
+  "file": "RCFB-2-BP-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RCFB-2-BP_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rcfb-2-bp/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bb68c4953b6ac495",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RCFB-2-AP",
+  "nsku": "RCFB-2-AP",
+  "type": "V",
+  "file": "RCFB-2-AP-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RCFB-2_AP_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rcfb-2-ap/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bb68c4953b6ac495",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RCFB-2-DB",
+  "nsku": "RCFB-2-DB",
+  "type": "V",
+  "file": "RCFB-2-DB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RCFB-2-DB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rcfb-2-db/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ab6ad0953e3e6ac0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RCFB-2-A",
+  "nsku": "RCFB-2-A",
+  "type": "V",
+  "file": "RCFB-2-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RCFB-2-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rcfb-2-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "abf0c4077a392bcc",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RCFB-2",
+  "nsku": "RCFB-2",
+  "type": "V",
+  "file": "RCFB-2-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RCFB-2_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rcfb-2/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "abe8c4877e392ac8",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RCFB-1-DBP",
+  "nsku": "RCFB-1-DBP",
+  "type": "V",
+  "file": "RCFB-1-DBP-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RCFB-1-DBP_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rcfb-1-dbp/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "afe1d05a2ba1b552",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RCFB-1-BP",
+  "nsku": "RCFB-1-BP",
+  "type": "V",
+  "file": "RCFB-1-BP-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RCFB-1-BP_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rcfb-1-bp/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ae65919a6e2591da",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RCFB-1-AP",
+  "nsku": "RCFB-1-AP",
+  "type": "V",
+  "file": "RCFB-1-AP-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RCFB-1-AP_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rcfb-1-ap/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ee61919a6e2591da",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RCFB-1-DB",
+  "nsku": "RCFB-1-DB",
+  "type": "V",
+  "file": "RCFB-1-DB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RCFB-1-DB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rcfb-1-db/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af6bc184d07a4a1f",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RCFB-1-A",
+  "nsku": "RCFB-1-A",
+  "type": "V",
+  "file": "RCFB-1-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RCFB-1-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rcfb-1-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af6cd193d0dac226",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RCFB-1",
+  "nsku": "RCFB-1",
+  "type": "V",
+  "file": "RCFB-1-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/RCFB-1_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rcfb-1/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "afe4c185d05a662f",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RB-ODB",
+  "nsku": "RB-ODB",
+  "type": "V",
+  "file": "RB-ODB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/03/RB-DB-side-view-open_5J9A1604_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rb-odb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b092926dcf6dc591",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RB-OB",
+  "nsku": "RB-OB",
+  "type": "V",
+  "file": "RB-OB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/03/RB-OB-side-view-open_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/rb-ob/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e19e93699665c899",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUR2-SS-SF",
+  "nsku": "PUR2-SS-SF",
+  "type": "V",
+  "file": "PUR2-SS-SF-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/Stainless-extended-flange_PUR2-SS-SF_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur2-ss-sf/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "cb8569d2b5ca960b",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUR2-DB-SF",
+  "nsku": "PUR2-DB-SF",
+  "type": "V",
+  "file": "PUR2-DB-SF-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/Dark-Bronze-extended-flange_PUR2-DB-SF_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur2-db-sf/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "9a873fd86129e235",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUR2-BK-Q-SF",
+  "nsku": "PUR2-BK-Q-SF",
+  "type": "V",
+  "file": "PUR2-BK-Q-SF-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/Black-Tempered-Glass-extended-flange_PUR2-BK-Q-SF_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur2-bk-q-sf/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "8ad67d0ef06dc225",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUR2-B-SF",
+  "nsku": "PUR2-B-SF",
+  "type": "V",
+  "file": "PUR2-B-SF-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/Brass-extended-flange_PUR2-B-SF_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur2-b-sf/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "ca972ddab40ad269",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUR20GD-DB",
+  "nsku": "PUR20GD-DB",
+  "type": "V",
+  "file": "PUR20GD-DB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/01/PUR20GD-DB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20gd-db/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e493cf6b9238c3a4",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUR20GD-B",
+  "nsku": "PUR20GD-B",
+  "type": "V",
+  "file": "PUR20GD-B-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/01/PUR20GD-B_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20gd-b/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e58ecf7192388e86",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUR20GACQD-SS",
+  "nsku": "PUR20GACQD-SS",
+  "type": "V",
+  "file": "PUR20GACQD-SS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/10/PUR20GACQD-SS_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20gacqd-ss/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e499cc939674936c",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUR20GACQD-RWT",
+  "nsku": "PUR20GACQD-RWT",
+  "type": "V",
+  "file": "PUR20GACQD-RWT-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/10/PUR20GACQD-RWT_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20gacqd-rwt/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e499cc3392659b6c",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUR20GACQD-RSS",
+  "nsku": "PUR20GACQD-RSS",
+  "type": "V",
+  "file": "PUR20GACQD-RSS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/10/PUR20GACQD-RSS_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20gacqd-rss/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e599cc3396619a6c",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUR20GACQD-RBK",
+  "nsku": "PUR20GACQD-RBK",
+  "type": "V",
+  "file": "PUR20GACQD-RBK-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/10/PUR20GACQD-RBK_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20gacqd-rbk/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e593cc339669926c",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUR20GACQD-BK",
+  "nsku": "PUR20GACQD-BK",
+  "type": "V",
+  "file": "PUR20GACQD-BK-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/10/PUR20GACQD-BK_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20gacqd-bk/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e5b3cc839669926c",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUR20GACBTQD-SS",
+  "nsku": "PUR20GACBTQD-SS",
+  "type": "V",
+  "file": "PUR20GACBTQD-SS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/10/PUR20GACBTQD-SS_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20gacbtqd-ss/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b2c9cc9bcb329334",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUR20GACBTQD-RWT",
+  "nsku": "PUR20GACBTQD-RWT",
+  "type": "V",
+  "file": "PUR20GACBTQD-RWT-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/10/PUR20GACBTQD-RWT_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20gacbtqd-rwt/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b2c9cc93db329364",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUR20GACBTQD-RSS",
+  "nsku": "PUR20GACBTQD-RSS",
+  "type": "V",
+  "file": "PUR20GACBTQD-RSS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/10/PUR20GACBTQD-RSS_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20gacbtqd-rss/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b699cc939a339364",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUR20GACBTQD-RBK",
+  "nsku": "PUR20GACBTQD-RBK",
+  "type": "V",
+  "file": "PUR20GACBTQD-RBK-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/10/PUR20GACBTQD-RBK_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20gacbtqd-rbk/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b2b34c938a699b6c",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUR20GACBTQD-BK",
+  "nsku": "PUR20GACBTQD-BK",
+  "type": "V",
+  "file": "PUR20GACBTQD-BK-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/10/PUR20GACBTQD-BK_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20gacbtqd-bk/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b2334c93cb2c9b6c",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUR20ACQD-RWT",
+  "nsku": "PUR20ACQD-RWT",
+  "type": "V",
+  "file": "PUR20ACQD-RWT-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/PUR20ACQD-RWT_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20acqd-rwt/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e49bce21926c9bc6",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUR20ACQD-BK",
+  "nsku": "PUR20ACQD-BK",
+  "type": "V",
+  "file": "PUR20ACQD-BK-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/PUR20ACQD-BK_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20acqd-bk/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e4b3ce6b920c9ba4",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUR20ACD-DB",
+  "nsku": "PUR20ACD-DB",
+  "type": "V",
+  "file": "PUR20ACD-DB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/10/PUR20ACD-DB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20acd-db/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "a4b3ce4b924cd3e4",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUR20ACD-B",
+  "nsku": "PUR20ACD-B",
+  "type": "V",
+  "file": "PUR20ACD-B-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/10/PUR20ACD-B_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur20acd-b/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e49ece7192389b86",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUR15ACQD-RWT",
+  "nsku": "PUR15ACQD-RWT",
+  "type": "V",
+  "file": "PUR15ACQD-RWT-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/10/PUR15ACQD-RWT_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur15acqd-rwt/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e49bce21926c9bc6",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUR15ACQD-RSS",
+  "nsku": "PUR15ACQD-RSS",
+  "type": "V",
+  "file": "PUR15ACQD-RSS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/10/PUR15ACQD-RSS_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur15acqd-rss/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e59ace21966c9b86",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUR15ACQD-RBK",
+  "nsku": "PUR15ACQD-RBK",
+  "type": "V",
+  "file": "PUR15ACQD-RBK-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/10/PUR15ACQD-RBK_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur15acqd-rbk/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e4b3ce6b924c93a4",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUR15ACQD-BK",
+  "nsku": "PUR15ACQD-BK",
+  "type": "V",
+  "file": "PUR15ACQD-BK-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/10/PUR15ACQD-BK_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pur15acqd-bk/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e4b3ce6b924c93a4",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUFP-WB",
+  "nsku": "PUFP-WB",
+  "type": "V",
+  "file": "PUFP-WB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/03/PUFP-WB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-wb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af69c097d092d27a",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUFP-SQ-SS-20A-2USB",
+  "nsku": "PUFP-SQ-SS-20A-2USB",
+  "type": "V",
+  "file": "PUFP-SQ-SS-20A-2USB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/11/PUFP-SQ-SS-20A-2USB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-sq-ss-20a-2usb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "befcc1c1e00acb0f",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUFP-SQ-SS-GFI",
+  "nsku": "PUFP-SQ-SS-GFI",
+  "type": "V",
+  "file": "PUFP-SQ-SS-GFI-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/11/PUFP-SQ-SS-GFI_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-sq-ss-gfi/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be75c1c1d04acb0f",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUFP-SQ-SS",
+  "nsku": "PUFP-SQ-SS",
+  "type": "V",
+  "file": "PUFP-SQ-SS-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/11/PUFP-SQ-SS_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-sq-ss/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bef4c1c1f00acb0f",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUFP-SQ-DB-USB",
+  "nsku": "PUFP-SQ-DB-USB",
+  "type": "V",
+  "file": "PUFP-SQ-DB-USB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/11/PUFP-SQ-DB-USB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-sq-db-usb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be6f81c0f04acb87",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUFP-SQ-DB-GFI",
+  "nsku": "PUFP-SQ-DB-GFI",
+  "type": "V",
+  "file": "PUFP-SQ-DB-GFI-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/11/PUFP-SQ-DB-GFI_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-sq-db-gfi/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be6f81c0f04acb87",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUFP-SQ-DB",
+  "nsku": "PUFP-SQ-DB",
+  "type": "V",
+  "file": "PUFP-SQ-DB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/11/PUFP-SQ-DB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-sq-db/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be6f81c0f04a8f87",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUFP-SQ-BR-USB",
+  "nsku": "PUFP-SQ-BR-USB",
+  "type": "V",
+  "file": "PUFP-SQ-BR-USB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/11/PUFP-SQ-BR-USB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-sq-br-usb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bef6c161e008cf0f",
+   "q": 85,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUFP-SQ-BR-GFI",
+  "nsku": "PUFP-SQ-BR-GFI",
+  "type": "V",
+  "file": "PUFP-SQ-BR-GFI-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/11/PUFP-SQ-BR-GFI_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-sq-br-gfi/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bed4c161f00acf0f",
+   "q": 85,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUFP-SQ-BR",
+  "nsku": "PUFP-SQ-BR",
+  "type": "V",
+  "file": "PUFP-SQ-BR-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/11/PUFP-SQ-BR_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-sq-br/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bed4c163e00acf0f",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUFP-SD",
+  "nsku": "PUFP-SD",
+  "type": "V",
+  "file": "PUFP-SD-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/03/PUFP-SD_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-sd/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bebdc142089d3f70",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUFP-SC",
+  "nsku": "PUFP-SC",
+  "type": "V",
+  "file": "PUFP-SC-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/03/PUFP-SC_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-sc/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bee5c11ac23f1e60",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUFP-S",
+  "nsku": "PUFP-S",
+  "type": "V",
+  "file": "PUFP-S-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/03/PUFP-S_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-s/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bed4c16308bc3f70",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUFP-PB",
+  "nsku": "PUFP-PB",
+  "type": "V",
+  "file": "PUFP-PB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/03/PUFP-PB-Box_2021-12_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-pb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ae07d0d0936b5b39",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUFP-LRA",
+  "nsku": "PUFP-LRA",
+  "type": "V",
+  "file": "PUFP-LRA-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/PUFP-LRA_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-lra/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "ab68f497d2520b39",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUFP-HB",
+  "nsku": "PUFP-HB",
+  "type": "V",
+  "file": "PUFP-HB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/03/PUFP-HB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-hb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "afe5d4207acb8534",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUFP-CT-DB-PB",
+  "nsku": "PUFP-CT-DB-PB",
+  "type": "V",
+  "file": "PUFP-CT-DB-PB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/11/PUFP-CT-DB-PB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-ct-db-pb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bf9fc161c24a9325",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUFP-CT-DB-DS-PB",
+  "nsku": "PUFP-CT-DB-DS-PB",
+  "type": "V",
+  "file": "PUFP-CT-DB-DS-PB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/08/PUFP-CT-DB-DS-PB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-ct-db-ds-pb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bf9fd161c24a8325",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUFP-CT-DB-AC-PB",
+  "nsku": "PUFP-CT-DB-AC-PB",
+  "type": "V",
+  "file": "PUFP-CT-DB-AC-PB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/11/PUFP-CT-DB-AC-PB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-ct-db-ac-pb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bf9ed161c24a8725",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUFP-CT-B-PB",
+  "nsku": "PUFP-CT-B-PB",
+  "type": "V",
+  "file": "PUFP-CT-B-PB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/11/PUFP-CT-B-PB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-ct-b-pb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be9ec161c3589365",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUFP-CT-B-DS-PB",
+  "nsku": "PUFP-CT-B-DS-PB",
+  "type": "V",
+  "file": "PUFP-CT-B-DS-PB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/08/PUFP-CT-B-DS-PB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-ct-b-ds-pb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bf9ff060c3589261",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUFP-CT-B-AC-PB",
+  "nsku": "PUFP-CT-B-AC-PB",
+  "type": "V",
+  "file": "PUFP-CT-B-AC-PB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2025/11/PUFP-CT-B-AC-PB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-ct-b-ac-pb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bf9ed061c3789261",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUFP-BD",
+  "nsku": "PUFP-BD",
+  "type": "V",
+  "file": "PUFP-BD-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/03/PUFP-BD-new_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-bd/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bec4e1311c9e2be1",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUFP-BC",
+  "nsku": "PUFP-BC",
+  "type": "V",
+  "file": "PUFP-BC-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/03/PUFP-BC_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-bc/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "beedc112c03f1f60",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PUFP-B",
+  "nsku": "PUFP-B",
+  "type": "V",
+  "file": "PUFP-B-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/03/PUFP-B_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pufp-b/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "beccc541d81e8b74",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PPCV815PD",
+  "nsku": "PPCV815PD",
+  "type": "V",
+  "file": "PPCV815PD-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/Silver-65W-2-USB-C_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/ppcv815pd/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e4269b939b999b88",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PPCV815B",
+  "nsku": "PPCV815B",
+  "type": "V",
+  "file": "PPCV815B-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/Black-pointpod-open-close-up_web01_1000px-1.jpg",
+  "page": "https://lewelectric.com/catalog/ppcv815b/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "b188cc8ace8bcece",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PPCV815",
+  "nsku": "PPCV815",
+  "type": "V",
+  "file": "PPCV815-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/Silver-pointpod-open-close-up_web01_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/ppcv815/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b18e4c8bc68bc6cb",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PDAS-DB",
+  "nsku": "PDAS-DB",
+  "type": "V",
+  "file": "PDAS-DB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/Air-Switch-DB-full-product_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pdas-db/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be1dd14a69a1361d",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PDAS-CH",
+  "nsku": "PDAS-CH",
+  "type": "V",
+  "file": "PDAS-CH-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/Air-Switch-CH-full-product_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pdas-ch/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be9dc16269b11e19",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PDAS-B",
+  "nsku": "PDAS-B",
+  "type": "V",
+  "file": "PDAS-B-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/Air-Switch-B-full-product_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pdas-b/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be9dc16269911e8d",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PBR1-SPDB",
+  "nsku": "PBR1-SPDB",
+  "type": "V",
+  "file": "PBR1-SPDB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/PBR1-SPDB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pbr1-spdb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bb4e95e1949fc214",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PBR1-SPB",
+  "nsku": "PBR1-SPB",
+  "type": "V",
+  "file": "PBR1-SPB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/PBR1-SPB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pbr1-spb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b9869569961fc334",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PBR1-SPA",
+  "nsku": "PBR1-SPA",
+  "type": "V",
+  "file": "PBR1-SPA-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/PBR1-SPA_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pbr1-spa/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b9c69569961fc234",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PBR1-FPDB",
+  "nsku": "PBR1-FPDB",
+  "type": "V",
+  "file": "PBR1-FPDB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/PBR1-FPDB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pbr1-fpdb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bb4e95e1949fc214",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PBR1-FPB",
+  "nsku": "PBR1-FPB",
+  "type": "V",
+  "file": "PBR1-FPB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/PBR1-FPB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pbr1-fpb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "f9c69569961bc234",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PBR1-FPA",
+  "nsku": "PBR1-FPA",
+  "type": "V",
+  "file": "PBR1-FPA-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/PBR1-FPA_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pbr1-fpa/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b9c69568961fc334",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PBR-1",
+  "nsku": "PBR-1",
+  "type": "V",
+  "file": "PBR-1-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/PBR-1_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pbr-1/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ba479568d1b9d216",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PBR-SPDB",
+  "nsku": "PBR-SPDB",
+  "type": "V",
+  "file": "PBR-SPDB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/PBR-SPDB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pbr-spdb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "abc4d50bc27f0b70",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PBR-SPB",
+  "nsku": "PBR-SPB",
+  "type": "V",
+  "file": "PBR-SPB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/PBR-SPB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pbr-spb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bbc0f507c03f0fe0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PBR-SPA",
+  "nsku": "PBR-SPA",
+  "type": "V",
+  "file": "PBR-SPA-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/PBR-SPA_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pbr-spa/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bbc4f00fc07b0fe0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PBR-FPDB",
+  "nsku": "PBR-FPDB",
+  "type": "V",
+  "file": "PBR-FPDB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/PBR-FPDB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pbr-fpdb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "abe4d502c2ff0fc0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PB3-SPB",
+  "nsku": "PB3-SPB",
+  "type": "V",
+  "file": "PB3-SPB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/PB3-SPB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pb3-spb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bac1953ac39523bc",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PB3-SPA",
+  "nsku": "PB3-SPA",
+  "type": "V",
+  "file": "PB3-SPA-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/PB3-SPA_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pb3-spa/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bac1953ac39523bc",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PB3-FPB",
+  "nsku": "PB3-FPB",
+  "type": "V",
+  "file": "PB3-FPB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/PB3-FPB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pb3-fpb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bac1953ac39523bc",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PB3-FPA",
+  "nsku": "PB3-FPA",
+  "type": "V",
+  "file": "PB3-FPA-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/PB3-FPA_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pb3-fpa/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bac1953ac3943bb8",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PB2-SPB",
+  "nsku": "PB2-SPB",
+  "type": "V",
+  "file": "PB2-SPB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/PB2-SPB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pb2-spb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "abc5946ac4dac7b0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PB2-SPA",
+  "nsku": "PB2-SPA",
+  "type": "V",
+  "file": "PB2-SPA-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/PB2-SPA_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pb2-spa/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "abc5946bc4da9730",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PB2-FPB",
+  "nsku": "PB2-FPB",
+  "type": "V",
+  "file": "PB2-FPB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/PB2-FPB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pb2-fpb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "abc5946ac4dad730",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PB2-FPA",
+  "nsku": "PB2-FPA",
+  "type": "V",
+  "file": "PB2-FPA-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/PB2-FPA_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pb2-fpa/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "abc5946bc49e9730",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PB1-SPB",
+  "nsku": "PB1-SPB",
+  "type": "V",
+  "file": "PB1-SPB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/PB1-SPB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pb1-spb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "abc1947ac336cb34",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PB1-SPA",
+  "nsku": "PB1-SPA",
+  "type": "V",
+  "file": "PB1-SPA-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/PB1-SPA_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pb1-spa/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "aac3946ac33ecb34",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PB1-FPB",
+  "nsku": "PB1-FPB",
+  "type": "V",
+  "file": "PB1-FPB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/PB1-FPB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pb1-fpb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "aac3947ac336cb34",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PB1-FPA",
+  "nsku": "PB1-FPA",
+  "type": "V",
+  "file": "PB1-FPA-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/PB1-FPA_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pb1-fpa/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "aac1947ac33ecb34",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PFC-T",
+  "nsku": "PFC-T",
+  "type": "V",
+  "file": "PFC-T-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/PFC-T_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pfc-t/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bfe0d007c2dd0fe0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PFC-S",
+  "nsku": "PFC-S",
+  "type": "V",
+  "file": "PFC-S-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/PFC-S_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pfc-s/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bf70f083c2d70bd0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PFC-E",
+  "nsku": "PFC-E",
+  "type": "V",
+  "file": "PFC-E-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/PFC-E_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pfc-e/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bbe0c027c29f0ff0",
+   "q": 80,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PFC-B",
+  "nsku": "PFC-B",
+  "type": "V",
+  "file": "PFC-B-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/PFC-B_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/pfc-b/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bfe0c037c2dd0fc0",
+   "q": 82,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "OB-2-CT-SP",
+  "nsku": "OB-2-CT-SP",
+  "type": "V",
+  "file": "OB-2-CT-SP-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/OB-2-CT-SP_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/ob-2-ct-sp/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "887fd180fe78037c",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "OB-1-SP-6PORT",
+  "nsku": "OB-1-SP-6PORT",
+  "type": "V",
+  "file": "OB-1-SP-6PORT-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/OB-1-SP-6PORT_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/ob-1-sp-6port/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bf67d080d0784f8d",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "OB-1-SP",
+  "nsku": "OB-1-SP",
+  "type": "V",
+  "file": "OB-1-SP-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/OB-1-SP_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/ob-1-sp/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af67d090d0784f8d",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "MW-332-DA-A",
+  "nsku": "MW-332-DA-A",
+  "type": "V",
+  "file": "MW-332-DA-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/MW-332-DA-A-side-view-01_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/mw-332-da-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af6ed091903c2b9b",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "MW-332-DA",
+  "nsku": "MW-332-DA",
+  "type": "V",
+  "file": "MW-332-DA-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/02/MW-332-DA-side-view-01_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/mw-332-da/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af66d095907c0b9b",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "FDN-250-A",
+  "nsku": "FDN-250-A",
+  "type": "V",
+  "file": "FDN-250-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/FDN-250-A-NEW_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/fdn-250-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ebcf9420689f9227",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "FDN-200-A",
+  "nsku": "FDN-200-A",
+  "type": "V",
+  "file": "FDN-200-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/FDN-200-03_1000px-1.jpg",
+  "page": "https://lewelectric.com/catalog/fdn-200-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ebe59470681e87a9",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "FDN-100-A",
+  "nsku": "FDN-100-A",
+  "type": "V",
+  "file": "FDN-100-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/FDN-100-01_1000px-1.jpg",
+  "page": "https://lewelectric.com/catalog/fdn-100-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "aac79568c196986f",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "DFB-LR-DB",
+  "nsku": "DFB-LR-DB",
+  "type": "V",
+  "file": "DFB-LR-DB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/DFB-LR-DB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/dfb-lr-db/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bf9191cec43cc634",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "DFB-LR-A",
+  "nsku": "DFB-LR-A",
+  "type": "V",
+  "file": "DFB-LR-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/DFB-LR-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/dfb-lr-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bbb1c0c6c43c869f",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "DFB-LR",
+  "nsku": "DFB-LR",
+  "type": "V",
+  "file": "DFB-LR-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/DFB-LR-_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/dfb-lr/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ef64c49a903d92da",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "DFB-1-GFI-DB",
+  "nsku": "DFB-1-GFI-DB",
+  "type": "V",
+  "file": "DFB-1-GFI-DB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/DFB-1-DB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/dfb-1-gfi-db/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "afe0d40fd2bc0a72",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "DFB-1-GFI-A",
+  "nsku": "DFB-1-GFI-A",
+  "type": "V",
+  "file": "DFB-1-GFI-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/DFB-1-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/dfb-1-gfi-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "afd4d40bd27d0b30",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "DFB-1-GFI",
+  "nsku": "DFB-1-GFI",
+  "type": "V",
+  "file": "DFB-1-GFI-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/DFB-1_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/dfb-1-gfi/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "abd1f50fc26c8f20",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "DFB-1-DB",
+  "nsku": "DFB-1-DB",
+  "type": "V",
+  "file": "DFB-1-DB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/DFB-1-DB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/dfb-1-db/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "afe0d40fd2bc0a72",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "DFB-1-A",
+  "nsku": "DFB-1-A",
+  "type": "V",
+  "file": "DFB-1-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/DFB-1-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/dfb-1-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "afd4d40bd27d0b30",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "DFB-1",
+  "nsku": "DFB-1",
+  "type": "V",
+  "file": "DFB-1-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/DFB-1_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/dfb-1/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "abd1f50fc26c8f20",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "DB-1-DB-GFI",
+  "nsku": "DB-1-DB-GFI",
+  "type": "V",
+  "file": "DB-1-DB-GFI-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/DEK-Box-open-GFI-config_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/db-1-db-gfi/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "b0b48aeb94ca8fc6",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "DB-1-DB-DX",
+  "nsku": "DB-1-DB-DX",
+  "type": "V",
+  "file": "DB-1-DB-DX-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/DEK-Box-open-Duplex-config_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/db-1-db-dx/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "f0b48aeb95ca8dc2",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "DB-1-DB",
+  "nsku": "DB-1-DB",
+  "type": "V",
+  "file": "DB-1-DB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/05/DEK-Box-open-BLANK-config_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/db-1-db/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "e1b48aeb84ca8fc6",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CF-1103-DFB-A",
+  "nsku": "CF-1103-DFB-A",
+  "type": "V",
+  "file": "CF-1103-DFB-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/CF-1103-DFB-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/cf-1103-dfb-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "8b68f497023a3fe1",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CF-1103-DFB",
+  "nsku": "CF-1103-DFB",
+  "type": "V",
+  "file": "CF-1103-DFB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/CF-1103-DFB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/cf-1103-dfb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "8b68f595023a3fe1",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CF-1102-DFB-A",
+  "nsku": "CF-1102-DFB-A",
+  "type": "V",
+  "file": "CF-1102-DFB-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/CF-1102-DFB-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/cf-1102-dfb-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ab60f496c3393ce4",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CF-1102-DFB",
+  "nsku": "CF-1102-DFB",
+  "type": "V",
+  "file": "CF-1102-DFB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/CF-1102-DFB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/cf-1102-dfb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "8b60f496c3393ce6",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CF-1101-DFB-A",
+  "nsku": "CF-1101-DFB-A",
+  "type": "V",
+  "file": "CF-1101-DFB-A-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/CF-1101-DFB-A_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/cf-1101-dfb-a/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af25f0dbc924123b",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CF-1101-DFB",
+  "nsku": "CF-1101-DFB",
+  "type": "V",
+  "file": "CF-1101-DFB-V.jpg",
+  "url": "https://lewelectric.com/wp-content/uploads/2026/06/CF-1101-DFB_1000px.jpg",
+  "page": "https://lewelectric.com/catalog/cf-1101-dfb/",
+  "origin": "lewelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af25f0dbc924123b",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ }
+]
