@@ -248,6 +248,9 @@ for rec in plan:
         results.append(dict(list=list_dir(rec["list"]), sku=rec["sku"], nsku=rec["nsku"], type="G", file=fn,
                             url=g["url"], page=g["page"], origin=g["origin"], info=info))
 
+if config.get("shared_v_check"):  # breakers etc.: one series photo re-used for several ratings
+    from shared_v import flag_shared
+    print("shared series photos flagged", flag_shared(plan, results, bdir))
 json.dump(results, open(W / "results.json", "w"), indent=1)
 json.dump(plan, open(W / "plan_final.json", "w"), indent=1)
 print("images", Counter((r["type"], r["info"]["status"]) for r in results))
