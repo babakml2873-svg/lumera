@@ -120,6 +120,8 @@ for r in rows:
         rec["v"] = dict(url=o["v_url"], page=o.get("page", rec["page"]), origin=o.get("origin", ""), kind="chosen at visual review")
         rec["note"] += "; " + o.get("why", "")
         rec["conf"] = o.get("conf", "Medium")
+    if o.get("flag") and rec["v"]:
+        rec["conf"] = "Medium"; rec["note"] += "; " + o["flag"]
     if o.get("drop_g"):
         rec["g"] = [g for g in rec["g"] if g["url"] not in set(o["drop_g"])]
     plan.append(rec)

@@ -1,0 +1,1 @@
+altecklighting.com (official Alteck Lighting store, Shopify; alteck.com is a parked domain): full /products.json catalog, exact variant SKU match; variant-linked images where available, otherwise product images only when variants do not differ visually.
