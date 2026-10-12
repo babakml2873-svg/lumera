@@ -1,2 +1,4 @@
 EnVision rows 1497 Counter({True: 1289, False: 208}) matched 1289
 downloaded 4238 of 4238
+images Counter({('G', 'OK'): 3186, ('V', 'OK'): 1289})
+QA sheet /tmp/claude-0/-home-user-lumera/fce5ed22-7126-5cd2-b6fe-945da1cbcd6a/scratchpad/qa/EnVision_V_sample.jpg
