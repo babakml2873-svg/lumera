@@ -1,0 +1,222 @@
+{
+ "LSH-FL80W-A-5K": {
+  "alias": "LS-H-FL-80W-A-50K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LSH-FL50W-A-5K": {
+  "alias": "LS-H-FL-50W-A-50K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LSH-FL30W-A-5K": {
+  "alias": "LS-H-FL-30W-A-50K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LSH-FL100W-A-5K": {
+  "alias": "LS-H-FL-100W-A-50K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS2-WMB-301-5K": {
+  "alias": "LS-2-WMB-301-50K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS2-WMB-301-3K": {
+  "alias": "LS-2-WMB-301-30K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS2-WMB-201-5K": {
+  "alias": "LS-2-WMB-201-50K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS2-WMB-201-3K": {
+  "alias": "LS-2-WMB-201-30K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS2-SNC-FL0650W-A-5K": {
+  "alias": "LS-2-SNC-FL06-50W-A-50K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS2-SNC-FL0650W-A-3K": {
+  "alias": "LS-2-SNC-FL06-50W-A-30K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS2-SNC-FL0650W-5K": {
+  "alias": "LS-2-SNC-FL06-50W-50K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS2-SNC-FL0650W-3K": {
+  "alias": "LS-2-SNC-FL06-50W-30K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS2-SNC-FL0630W-A-5K": {
+  "alias": "LS-2-SNC-FL06-30W-A-50K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS2-SNC-FL0630W-A-3K": {
+  "alias": "LS-2-SNC-FL06-30W-A-30K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS2-SNC-FL0630W-5K": {
+  "alias": "LS-2-SNC-FL06-30W-50K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS2-SNC-FL0630W-3K": {
+  "alias": "LS-2-SNC-FL06-30W-30K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS2-SNC-FL0615W-A-5K": {
+  "alias": "LS-2-SNC-FL06-15W-A-50K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS2-SNC-FL0615W-A-3K": {
+  "alias": "LS-2-SNC-FL06-15W-A-30K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS2-SNC-FL0615W-5K": {
+  "alias": "LS-2-SNC-FL06-15W-50K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS-TPL7.5W-24V-5M-5K": {
+  "alias": "LS-TPL-7-5W-24V-5M-50K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS-TPL7.5W-24V-5M-4K": {
+  "alias": "LS-TPL-7-5W-24V-5M-40K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS-TPL7.5W-24V-5M-3K": {
+  "alias": "LS-TPL-7-5W-24V-5M-30K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS-TPL7.5W-24V-20M-4K": {
+  "alias": "LS-TPL-7-5W-24V-20M-40K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS-TPL7.5W-24V-20M-3K": {
+  "alias": "LS-TPL-7-5W-24V-20M-30K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LSH-G70-DC-10W5K": {
+  "alias": "LS-H-G70-DC-10W-50K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LSH-G70-DC-10W3K": {
+  "alias": "LS-H-G70-DC-10W-30K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS2-ALED-GUL5W5K": {
+  "alias": "LS-2-ALED-GUL-5W-50K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS2-PG02A1-100W-5K-BR": {
+  "alias": "LS-2-PG02A1-100W-50K-BR",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS2-PG02A1-75W-5K-BR": {
+  "alias": "LS-2-PG02A1-75W-50K-BR",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS2-PG02A1-55W-5K-BR": {
+  "alias": "LS-2-PG02A1-55W-50K-BR",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS2-RWP02A2-120W-5K": {
+  "alias": "LS-2-RWP02A2-120W-50K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS2-RWP02A2-80W-5K": {
+  "alias": "LS-2-RWP02A2-80W-50K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS2-RWP02A2-60W-5K": {
+  "alias": "LS-2-RWP02A2-60W-50K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS2-RWP02A1-60W-5K": {
+  "alias": "LS-2-RWP02A1-60W-50K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS2-RWP02A1-25W-5K": {
+  "alias": "LS-2-RWP02A1-25W-50K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LSH-FL300W-5K": {
+  "alias": "LS-H-FL-300W-50K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LSH-FL200W-5K": {
+  "alias": "LS-H-FL-200W-50K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LSH-FL100W-5K": {
+  "alias": "LS-H-FL-100W-50K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS2-S-G07-300W-5K": {
+  "alias": "LS-2-S-G07-300W-50K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS2-S-G07-200W-5K": {
+  "alias": "LS-2-S-G07-200W-50K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS2-S-G07-150W-5K": {
+  "alias": "LS-2-S-G07-150W-50K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS2-S-G07-100W-5K": {
+  "alias": "LS-2-S-G07-100W-50K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS26-CEX-R": {
+  "alias": "LS-CEX-R",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS26-CEX-G": {
+  "alias": "LS-CEX-G",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS26-EL-R-WHITE": {
+  "alias": "LS-EL-R-WHITE",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS26-EL-G-WHITE": {
+  "alias": "LS-EL-G-WHITE",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS26-EL-R": {
+  "alias": "LS-EL-R",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS26-EL-G": {
+  "alias": "LS-EL-G",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS26-EEX-R": {
+  "alias": "LS-EEX-R",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS26-EEX-G": {
+  "alias": "LS-EEX-G",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS-TPL7.5W-24V-5M-5K-R": {
+  "alias": "LS-TPL-7-5W-24V-5M-50K-R",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS-TPL7.5W-24V-5M-4K-R": {
+  "alias": "LS-TPL-7-5W-24V-5M-40K-R",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS-TPL7.5W-24V-5M-3K-R": {
+  "alias": "LS-TPL-7-5W-24V-5M-30K-R",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LS26-GLFPE50W2X4/4K": {
+  "alias": "LS-GLFPE-50W-2X4-40K",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ },
+ "LSH-4-10W-3K-R": {
+  "alias": "LSH-4-10W-30K-R",
+  "alias_note": "list code differs from the manufacturer's model number only in colour-temperature notation (e.g. 5K = 50K) and/or the LS26/LS prefix"
+ }
+}

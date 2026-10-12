@@ -1,2 +1,4 @@
 Lighting Spot 26 rows 886 Counter({False: 734, True: 152}) matched 155
 downloaded 189 of 189
+images Counter({('V', 'OK'): 151, ('G', 'OK'): 44, ('V', 'FAILED'): 1})
+QA sheet /tmp/claude-0/-home-user-lumera/fce5ed22-7126-5cd2-b6fe-945da1cbcd6a/scratchpad/qa/Lighting_Spot_26_V_sample.jpg

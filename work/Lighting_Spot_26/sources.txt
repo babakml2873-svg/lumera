@@ -1,1 +1,2 @@
 lightingspot26.com (official Lighting Spot 26): WooCommerce Store API (823 products); product name/slug = model number, matched exactly (case/punctuation-insensitive). Many list SKUs are written differently from the manufacturer's model numbers and are reported as unmatched rather than guessed.
+ Rule-based aliases (Medium) only for colour-temperature notation (5K = 50K) and the LS26/LS prefix; colour suffixes are never dropped. Product page slug used as an additional exact model key.
