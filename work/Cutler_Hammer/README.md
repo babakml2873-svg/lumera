@@ -1,17 +1,17 @@
 # Cutler Hammer — product images
 
-Brand Cutler Hammer: 218 SKUs in the product lists. Variant images were delivered for **216 SKUs (99.1%)**, plus **309 gallery images** (max 4 per SKU).
+Brand Cutler Hammer: 218 SKUs in the product lists. Variant images were delivered for **211 SKUs (96.8%)**, plus **305 gallery images** (max 4 per SKU).
 
 | List | SKUs | Variant images | Gallery images |
 |---|---|---|---|
 | List_1 | 0 | 0 | 0 |
-| List_2 | 218 | 216 | 309 |
+| List_2 | 218 | 211 | 305 |
 | List_3 | 0 | 0 | 0 |
 | List_4 | 0 | 0 | 0 |
 
-* 173 of the variant images are Medium confidence (`OK-REVIEW-RECOMMENDED`), see `Reports/review_queue.csv`.
+* 168 of the variant images are Medium confidence (`OK-REVIEW-RECOMMENDED`), see `Reports/review_queue.csv`.
 * Every file was checked by script: 800×800 px JPG, ≤ 100,000 bytes, `SKU-V.jpg` / `SKU-G-NN.jpg`.
-* Image sources (files): eaton.com (522), breakeroutlet.com (3). No Lumera Electric source was used.
+* Image sources (files): eaton.com (513), breakeroutlet.com (3). No Lumera Electric source was used.
 
 ## Sources searched
 
@@ -28,6 +28,7 @@ eaton.com (official; Cutler-Hammer is an Eaton brand): product page skuPage.<SKU
 
 | Reason | SKUs |
 |---|---|
+| Source product has no images | 5 |
 | No exact SKU match in the harvested source catalog(s) | 2 |
 
 ## Brand-specific notes

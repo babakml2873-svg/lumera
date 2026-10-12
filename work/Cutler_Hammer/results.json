@@ -1765,28 +1765,6 @@
   "nsku": "QB1030GF",
   "type": "V",
   "file": "QB1030GF-V.jpg",
-  "url": "https://dynamicmedia.eaton.com/is/image/eaton/RESIGROUP_FM?wid=1000&hei=1000&fmt=jpg&qlt=95",
-  "page": "https://www.eaton.com/us/en-us/skuPage.QB1030GF.html",
-  "origin": "eaton.com",
-  "info": {
-   "status": "OK",
-   "cls": 1,
-   "phash": "eb83942c6b939e68",
-   "q": 88,
-   "src_px": [
-    1000,
-    1000
-   ],
-   "scale": 0.8,
-   "notes": []
-  }
- },
- {
-  "list": "List_2",
-  "sku": "QB1030GF",
-  "nsku": "QB1030GF",
-  "type": "G",
-  "file": "QB1030GF-G-01.jpg",
   "url": "https://dynamicmedia.eaton.com/is/image/eaton/QB1020GF_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
   "page": "https://www.eaton.com/us/en-us/skuPage.QB1030GF.html",
   "origin": "eaton.com",
@@ -1808,7 +1786,7 @@
   "sku": "QB1030GF",
   "nsku": "QB1030GF",
   "type": "G",
-  "file": "QB1030GF-G-02.jpg",
+  "file": "QB1030GF-G-01.jpg",
   "url": "https://dynamicmedia.eaton.com/is/image/eaton/QB1020GF_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
   "page": "https://www.eaton.com/us/en-us/skuPage.QB1030GF.html",
   "origin": "eaton.com",
@@ -3213,28 +3191,6 @@
  },
  {
   "list": "List_2",
-  "sku": "GHB2040",
-  "nsku": "GHB2040",
-  "type": "V",
-  "file": "GHB2040-V.jpg",
-  "url": "https://dynamicmedia.eaton.com/is/image/eaton/ES-PCD-SERIES-C-MCCB_FM?wid=1000&hei=1000&fmt=jpg&qlt=95",
-  "page": "https://www.eaton.com/us/en-us/skuPage.GHB2040.html",
-  "origin": "eaton.com",
-  "info": {
-   "status": "OK",
-   "cls": 1,
-   "phash": "9e87e1780e875ae8",
-   "q": 88,
-   "src_px": [
-    1000,
-    1000
-   ],
-   "scale": 0.8,
-   "notes": []
-  }
- },
- {
-  "list": "List_2",
   "sku": "QBHW2125",
   "nsku": "QBHW2125",
   "type": "V",
@@ -3554,28 +3510,6 @@
    "status": "OK",
    "cls": 1,
    "phash": "b06cc6ccc332cbb3",
-   "q": 88,
-   "src_px": [
-    1000,
-    1000
-   ],
-   "scale": 0.8,
-   "notes": []
-  }
- },
- {
-  "list": "List_2",
-  "sku": "BRP115GF",
-  "nsku": "BRP115GF",
-  "type": "G",
-  "file": "BRP115GF-G-03.jpg",
-  "url": "https://dynamicmedia.eaton.com/is/image/eaton/RESIGROUP_FM?wid=1000&hei=1000&fmt=jpg&qlt=95",
-  "page": "https://www.eaton.com/us/en-us/skuPage.BRP115GF.html",
-  "origin": "eaton.com",
-  "info": {
-   "status": "OK",
-   "cls": 1,
-   "phash": "eb83942c6b939e68",
    "q": 88,
    "src_px": [
     1000,
@@ -4137,28 +4071,6 @@
  },
  {
   "list": "List_2",
-  "sku": "CHFP115AF",
-  "nsku": "CHFP115AF",
-  "type": "V",
-  "file": "CHFP115AF-V.jpg",
-  "url": "https://dynamicmedia.eaton.com/is/image/eaton/RESIGROUP_FM?wid=1000&hei=1000&fmt=jpg&qlt=95",
-  "page": "https://www.eaton.com/us/en-us/skuPage.CHFP115AF.html",
-  "origin": "eaton.com",
-  "info": {
-   "status": "OK",
-   "cls": 1,
-   "phash": "eb83942c6b939e68",
-   "q": 88,
-   "src_px": [
-    1000,
-    1000
-   ],
-   "scale": 0.8,
-   "notes": []
-  }
- },
- {
-  "list": "List_2",
   "sku": "CCV2175",
   "nsku": "CCV2175",
   "type": "V",
@@ -4258,28 +4170,6 @@
    "status": "OK",
    "cls": 1,
    "phash": "eb9694859768966a",
-   "q": 88,
-   "src_px": [
-    1000,
-    1000
-   ],
-   "scale": 0.8,
-   "notes": []
-  }
- },
- {
-  "list": "List_2",
-  "sku": "GHB2050",
-  "nsku": "GHB2050",
-  "type": "V",
-  "file": "GHB2050-V.jpg",
-  "url": "https://dynamicmedia.eaton.com/is/image/eaton/ES-PCD-SERIES-C-MCCB_FM?wid=1000&hei=1000&fmt=jpg&qlt=95",
-  "page": "https://www.eaton.com/us/en-us/skuPage.GHB2050.html",
-  "origin": "eaton.com",
-  "info": {
-   "status": "OK",
-   "cls": 1,
-   "phash": "9e87e1780e875ae8",
    "q": 88,
    "src_px": [
     1000,
@@ -7591,28 +7481,6 @@
  },
  {
   "list": "List_2",
-  "sku": "GHB2030",
-  "nsku": "GHB2030",
-  "type": "V",
-  "file": "GHB2030-V.jpg",
-  "url": "https://dynamicmedia.eaton.com/is/image/eaton/ES-PCD-SERIES-C-MCCB_FM?wid=1000&hei=1000&fmt=jpg&qlt=95",
-  "page": "https://www.eaton.com/us/en-us/skuPage.GHB2030.html",
-  "origin": "eaton.com",
-  "info": {
-   "status": "OK",
-   "cls": 1,
-   "phash": "9e87e1780e875ae8",
-   "q": 88,
-   "src_px": [
-    1000,
-    1000
-   ],
-   "scale": 0.8,
-   "notes": []
-  }
- },
- {
-  "list": "List_2",
   "sku": "BJ2200",
   "nsku": "BJ2200",
   "type": "V",
@@ -9113,28 +8981,6 @@
   "nsku": "QB1020GF",
   "type": "V",
   "file": "QB1020GF-V.jpg",
-  "url": "https://dynamicmedia.eaton.com/is/image/eaton/RESIGROUP_FM?wid=1000&hei=1000&fmt=jpg&qlt=95",
-  "page": "https://www.eaton.com/us/en-us/skuPage.QB1020GF.html",
-  "origin": "eaton.com",
-  "info": {
-   "status": "OK",
-   "cls": 1,
-   "phash": "eb83942c6b939e68",
-   "q": 88,
-   "src_px": [
-    1000,
-    1000
-   ],
-   "scale": 0.8,
-   "notes": []
-  }
- },
- {
-  "list": "List_2",
-  "sku": "QB1020GF",
-  "nsku": "QB1020GF",
-  "type": "G",
-  "file": "QB1020GF-G-01.jpg",
   "url": "https://dynamicmedia.eaton.com/is/image/eaton/QB1020GF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
   "page": "https://www.eaton.com/us/en-us/skuPage.QB1020GF.html",
   "origin": "eaton.com",
@@ -9156,7 +9002,7 @@
   "sku": "QB1020GF",
   "nsku": "QB1020GF",
   "type": "G",
-  "file": "QB1020GF-G-02.jpg",
+  "file": "QB1020GF-G-01.jpg",
   "url": "https://dynamicmedia.eaton.com/is/image/eaton/QB1020GF_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
   "page": "https://www.eaton.com/us/en-us/skuPage.QB1020GF.html",
   "origin": "eaton.com",
@@ -9178,7 +9024,7 @@
   "sku": "QB1020GF",
   "nsku": "QB1020GF",
   "type": "G",
-  "file": "QB1020GF-G-03.jpg",
+  "file": "QB1020GF-G-02.jpg",
   "url": "https://dynamicmedia.eaton.com/is/image/eaton/QB1020GF_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
   "page": "https://www.eaton.com/us/en-us/skuPage.QB1020GF.html",
   "origin": "eaton.com",
@@ -9201,28 +9047,6 @@
   "nsku": "QB1015EP",
   "type": "V",
   "file": "QB1015EP-V.jpg",
-  "url": "https://dynamicmedia.eaton.com/is/image/eaton/RESIGROUP_FM?wid=1000&hei=1000&fmt=jpg&qlt=95",
-  "page": "https://www.eaton.com/us/en-us/skuPage.QB1015EP.html",
-  "origin": "eaton.com",
-  "info": {
-   "status": "OK",
-   "cls": 1,
-   "phash": "eb83942c6b939e68",
-   "q": 88,
-   "src_px": [
-    1000,
-    1000
-   ],
-   "scale": 0.8,
-   "notes": []
-  }
- },
- {
-  "list": "List_2",
-  "sku": "QB1015EP",
-  "nsku": "QB1015EP",
-  "type": "G",
-  "file": "QB1015EP-G-01.jpg",
   "url": "https://dynamicmedia.eaton.com/is/image/eaton/QB1020AFGF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
   "page": "https://www.eaton.com/us/en-us/skuPage.QB1015EP.html",
   "origin": "eaton.com",
@@ -9244,7 +9068,7 @@
   "sku": "QB1015EP",
   "nsku": "QB1015EP",
   "type": "G",
-  "file": "QB1015EP-G-02.jpg",
+  "file": "QB1015EP-G-01.jpg",
   "url": "https://dynamicmedia.eaton.com/is/image/eaton/QB1020AFGF_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
   "page": "https://www.eaton.com/us/en-us/skuPage.QB1015EP.html",
   "origin": "eaton.com",
@@ -9266,7 +9090,7 @@
   "sku": "QB1015EP",
   "nsku": "QB1015EP",
   "type": "G",
-  "file": "QB1015EP-G-03.jpg",
+  "file": "QB1015EP-G-02.jpg",
   "url": "https://dynamicmedia.eaton.com/is/image/eaton/QB1020AFGF_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
   "page": "https://www.eaton.com/us/en-us/skuPage.QB1015EP.html",
   "origin": "eaton.com",
@@ -9362,28 +9186,6 @@
    "status": "OK",
    "cls": 1,
    "phash": "e1969649dc616d36",
-   "q": 88,
-   "src_px": [
-    1000,
-    1000
-   ],
-   "scale": 0.8,
-   "notes": []
-  }
- },
- {
-  "list": "List_2",
-  "sku": "GHB2015",
-  "nsku": "GHB2015",
-  "type": "V",
-  "file": "GHB2015-V.jpg",
-  "url": "https://dynamicmedia.eaton.com/is/image/eaton/ES-PCD-SERIES-C-MCCB_FM?wid=1000&hei=1000&fmt=jpg&qlt=95",
-  "page": "https://www.eaton.com/us/en-us/skuPage.GHB2015.html",
-  "origin": "eaton.com",
-  "info": {
-   "status": "OK",
-   "cls": 1,
-   "phash": "9e87e1780e875ae8",
    "q": 88,
    "src_px": [
     1000,

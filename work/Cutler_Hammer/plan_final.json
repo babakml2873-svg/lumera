@@ -856,21 +856,16 @@
   "product": "QB1030GF | Eaton QB GFCI circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.QB1030GF.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'QB1030GF'; the source shows a product-family image on this SKU's page (asset RESIGROUP_FM, QB1020GF_L), not one named for this exact SKU; source uses this same photo for other products (CHFP115AF, QB1015EP, QB1020GF) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'QB1030GF'; the source shows a product-family image on this SKU's page (asset RESIGROUP_FM, QB1020GF_L), not one named for this exact SKU",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
-   "url": "https://dynamicmedia.eaton.com/is/image/eaton/RESIGROUP_FM?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/QB1020GF_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
    "page": "https://www.eaton.com/us/en-us/skuPage.QB1030GF.html",
    "origin": "eaton.com",
    "kind": "product main image"
   },
   "g": [
-   {
-    "url": "https://dynamicmedia.eaton.com/is/image/eaton/QB1020GF_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
-    "page": "https://www.eaton.com/us/en-us/skuPage.QB1030GF.html",
-    "origin": "eaton.com"
-   },
    {
     "url": "https://dynamicmedia.eaton.com/is/image/eaton/QB1020GF_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
     "page": "https://www.eaton.com/us/en-us/skuPage.QB1030GF.html",
@@ -1406,8 +1401,8 @@
   "nsku": "QB1020AFGF",
   "product": "QB1020AFGF | Eaton QB arc fault / ground fault circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.QB1020AFGF.html",
-  "conf": "High",
-  "note": "Exact source SKU 'QB1020AFGF'",
+  "conf": "Medium",
+  "note": "Exact source SKU 'QB1020AFGF'; source uses this same photo for other products (QB1015EP) - series/family photo, printed ratings or details may differ",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -1629,16 +1624,12 @@
   "product": "GHB2040 | Eaton Series C complete molded case circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.GHB2040.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'GHB2040'; the source shows a product-family image on this SKU's page (asset ES-PCD-SERIES-C-MCCB_FM), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (GHB2015, GHB2030, GHB2050) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'GHB2040'; the source shows a product-family image on this SKU's page (asset ES-PCD-SERIES-C-MCCB_FM), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
-  "v": {
-   "url": "https://dynamicmedia.eaton.com/is/image/eaton/ES-PCD-SERIES-C-MCCB_FM?wid=1000&hei=1000&fmt=jpg&qlt=95",
-   "page": "https://www.eaton.com/us/en-us/skuPage.GHB2040.html",
-   "origin": "eaton.com",
-   "kind": "product main image"
-  },
-  "g": []
+  "v": null,
+  "g": [],
+  "v_withheld": "Source product has no images"
  },
  {
   "list": "List2",
@@ -1785,11 +1776,6 @@
    },
    {
     "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP120GF_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
-    "page": "https://www.eaton.com/us/en-us/skuPage.BRP115GF.html",
-    "origin": "eaton.com"
-   },
-   {
-    "url": "https://dynamicmedia.eaton.com/is/image/eaton/RESIGROUP_FM?wid=1000&hei=1000&fmt=jpg&qlt=95",
     "page": "https://www.eaton.com/us/en-us/skuPage.BRP115GF.html",
     "origin": "eaton.com"
    }
@@ -2103,16 +2089,12 @@
   "product": "CHFP115AF | Eaton CH AFCI circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.CHFP115AF.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'CHFP115AF'; the source shows a product-family image on this SKU's page (asset RESIGROUP_FM), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (QB1015EP, QB1020GF, QB1030GF) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'CHFP115AF'; the source shows a product-family image on this SKU's page (asset RESIGROUP_FM), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
-  "v": {
-   "url": "https://dynamicmedia.eaton.com/is/image/eaton/RESIGROUP_FM?wid=1000&hei=1000&fmt=jpg&qlt=95",
-   "page": "https://www.eaton.com/us/en-us/skuPage.CHFP115AF.html",
-   "origin": "eaton.com",
-   "kind": "product main image"
-  },
-  "g": []
+  "v": null,
+  "g": [],
+  "v_withheld": "Source product has no images"
  },
  {
   "list": "List2",
@@ -2177,16 +2159,12 @@
   "product": "GHB2050 | Eaton Series C complete molded case circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.GHB2050.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'GHB2050'; the source shows a product-family image on this SKU's page (asset ES-PCD-SERIES-C-MCCB_FM), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (GHB2015, GHB2030, GHB2040) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'GHB2050'; the source shows a product-family image on this SKU's page (asset ES-PCD-SERIES-C-MCCB_FM), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
-  "v": {
-   "url": "https://dynamicmedia.eaton.com/is/image/eaton/ES-PCD-SERIES-C-MCCB_FM?wid=1000&hei=1000&fmt=jpg&qlt=95",
-   "page": "https://www.eaton.com/us/en-us/skuPage.GHB2050.html",
-   "origin": "eaton.com",
-   "kind": "product main image"
-  },
-  "g": []
+  "v": null,
+  "g": [],
+  "v_withheld": "Source product has no images"
  },
  {
   "list": "List2",
@@ -3944,16 +3922,12 @@
   "product": "GHB2030 | Eaton Series C complete molded case circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.GHB2030.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'GHB2030'; the source shows a product-family image on this SKU's page (asset ES-PCD-SERIES-C-MCCB_FM), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (GHB2015, GHB2040, GHB2050) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'GHB2030'; the source shows a product-family image on this SKU's page (asset ES-PCD-SERIES-C-MCCB_FM), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
-  "v": {
-   "url": "https://dynamicmedia.eaton.com/is/image/eaton/ES-PCD-SERIES-C-MCCB_FM?wid=1000&hei=1000&fmt=jpg&qlt=95",
-   "page": "https://www.eaton.com/us/en-us/skuPage.GHB2030.html",
-   "origin": "eaton.com",
-   "kind": "product main image"
-  },
-  "g": []
+  "v": null,
+  "g": [],
+  "v_withheld": "Source product has no images"
  },
  {
   "list": "List2",
@@ -4707,22 +4681,17 @@
   "nsku": "QB1020GF",
   "product": "QB1020GF | Eaton QB GFCI circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.QB1020GF.html",
-  "conf": "Medium",
-  "note": "Exact source SKU 'QB1020GF'; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (CHFP115AF, QB1015EP, QB1030GF) - series/family photo, printed ratings or details may differ",
+  "conf": "High",
+  "note": "Exact source SKU 'QB1020GF'; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
-   "url": "https://dynamicmedia.eaton.com/is/image/eaton/RESIGROUP_FM?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/QB1020GF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
    "page": "https://www.eaton.com/us/en-us/skuPage.QB1020GF.html",
    "origin": "eaton.com",
    "kind": "product main image"
   },
   "g": [
-   {
-    "url": "https://dynamicmedia.eaton.com/is/image/eaton/QB1020GF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
-    "page": "https://www.eaton.com/us/en-us/skuPage.QB1020GF.html",
-    "origin": "eaton.com"
-   },
    {
     "url": "https://dynamicmedia.eaton.com/is/image/eaton/QB1020GF_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
     "page": "https://www.eaton.com/us/en-us/skuPage.QB1020GF.html",
@@ -4743,21 +4712,16 @@
   "product": "QB1015EP | Eaton QB GFCI circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.QB1015EP.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'QB1015EP'; the source shows a product-family image on this SKU's page (asset RESIGROUP_FM, QB1020AFGF_C), not one named for this exact SKU; source uses this same photo for other products (CHFP115AF, QB1020GF, QB1030GF) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'QB1015EP'; the source shows a product-family image on this SKU's page (asset RESIGROUP_FM, QB1020AFGF_C), not one named for this exact SKU; source uses this same photo for other products (QB1020AFGF) - series/family photo, printed ratings or details may differ",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
-   "url": "https://dynamicmedia.eaton.com/is/image/eaton/RESIGROUP_FM?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/QB1020AFGF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
    "page": "https://www.eaton.com/us/en-us/skuPage.QB1015EP.html",
    "origin": "eaton.com",
    "kind": "product main image"
   },
   "g": [
-   {
-    "url": "https://dynamicmedia.eaton.com/is/image/eaton/QB1020AFGF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
-    "page": "https://www.eaton.com/us/en-us/skuPage.QB1015EP.html",
-    "origin": "eaton.com"
-   },
    {
     "url": "https://dynamicmedia.eaton.com/is/image/eaton/QB1020AFGF_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
     "page": "https://www.eaton.com/us/en-us/skuPage.QB1015EP.html",
@@ -4827,16 +4791,12 @@
   "product": "GHB2015 | Eaton Series C complete molded case circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.GHB2015.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'GHB2015'; the source shows a product-family image on this SKU's page (asset ES-PCD-SERIES-C-MCCB_FM), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (GHB2030, GHB2040, GHB2050) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'GHB2015'; the source shows a product-family image on this SKU's page (asset ES-PCD-SERIES-C-MCCB_FM), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
-  "v": {
-   "url": "https://dynamicmedia.eaton.com/is/image/eaton/ES-PCD-SERIES-C-MCCB_FM?wid=1000&hei=1000&fmt=jpg&qlt=95",
-   "page": "https://www.eaton.com/us/en-us/skuPage.GHB2015.html",
-   "origin": "eaton.com",
-   "kind": "product main image"
-  },
-  "g": []
+  "v": null,
+  "g": [],
+  "v_withheld": "Source product has no images"
  },
  {
   "list": "List2",
