@@ -1,0 +1,4 @@
+Siemens rows 184 Counter({True: 138, False: 46}) matched 138
+downloaded 279 of 279
+images Counter({('V', 'OK'): 138, ('G', 'OK'): 138})
+QA sheet /tmp/claude-0/-home-user-lumera/fce5ed22-7126-5cd2-b6fe-945da1cbcd6a/scratchpad/qa/Siemens_V_sample.jpg

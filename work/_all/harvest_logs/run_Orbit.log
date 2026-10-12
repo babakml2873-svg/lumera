@@ -1,1 +1,4 @@
 Orbit rows 4507 Counter({False: 3380, True: 1127}) matched 1127
+downloaded 1124 of 1124
+images Counter({('V', 'OK'): 1117, ('G', 'OK'): 21, ('V', 'FAILED'): 10})
+QA sheet /tmp/claude-0/-home-user-lumera/fce5ed22-7126-5cd2-b6fe-945da1cbcd6a/scratchpad/qa/Orbit_V_sample.jpg

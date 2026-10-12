@@ -1,0 +1,4 @@
+Satco rows 1252 Counter({False: 633, True: 619}) matched 619
+downloaded 1528 of 1528
+images Counter({('V', 'OK'): 619, ('G', 'OK'): 531})
+QA sheet /tmp/claude-0/-home-user-lumera/fce5ed22-7126-5cd2-b6fe-945da1cbcd6a/scratchpad/qa/Satco_V_sample.jpg

@@ -1,0 +1,4 @@
+Morris rows 1760 Counter({True: 1747, False: 13}) matched 1747
+downloaded 1084 of 1117
+images Counter({('V', 'OK'): 1713, ('V', 'FAILED'): 34})
+QA sheet /tmp/claude-0/-home-user-lumera/fce5ed22-7126-5cd2-b6fe-945da1cbcd6a/scratchpad/qa/Morris_V_sample.jpg
