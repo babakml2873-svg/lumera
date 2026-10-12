@@ -1,0 +1,6098 @@
+[
+ {
+  "list": "List_2",
+  "sku": "LDB",
+  "nsku": "LDB",
+  "type": "V",
+  "file": "LDB-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1618_LDB_1.jpg",
+  "page": "https://utopialighting.com/product/ldb-linear-led-high-bay",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "eb6c94933a6ac195",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "LHB-4G",
+  "nsku": "LHB-4G",
+  "type": "V",
+  "file": "LHB-4G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1609_LHB-4G.png",
+  "page": "https://utopialighting.com/product/lhb-4g-led-linear-high-bay",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "f5ccd11b62e22cac",
+   "q": 88,
+   "src_px": [
+    1200,
+    800
+   ],
+   "scale": 0.6666666666666666,
+   "notes": [
+    "padded from 1200x800 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RHB-3G",
+  "nsku": "RHB-3G",
+  "type": "V",
+  "file": "RHB-3G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1099_RHB-3G-UFO-Round-High-Bay.png",
+  "page": "https://utopialighting.com/product/rhb-3g-round-ufo-led-high-bay",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e6e691596ba4864b",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": [
+    "transparent source flattened on white"
+   ]
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RHB-4G",
+  "nsku": "RHB-4G",
+  "type": "V",
+  "file": "RHB-4G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1100_RHB-4G-UFO-Round-High-Bay.jpg",
+  "page": "https://utopialighting.com/product/rhb-4g-round-ufo-led-high-bay",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "ffe4c0931f6c6083",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RHB2-2G",
+  "nsku": "RHB2-2G",
+  "type": "V",
+  "file": "RHB2-2G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1101_RHB2-2G-UFO-Round-LED-High-Bay.jpg",
+  "page": "https://utopialighting.com/product/rhb2-2g-round-ufo-led-high-bay",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "f3f2c484387ae1a5",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RHB4",
+  "nsku": "RHB4",
+  "type": "V",
+  "file": "RHB4-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1104_RHB4-UFO-Round-LED-High-Bay.jpg",
+  "page": "https://utopialighting.com/product/rhb4-round-ufo-led-high-bay",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "f5d64a91356acaa4",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RHB5",
+  "nsku": "RHB5",
+  "type": "V",
+  "file": "RHB5-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1105_RHB5-Round-UFO-LED-High-Bay.jpg",
+  "page": "https://utopialighting.com/product/rhb5-round-ufo-led-high-bay",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "d5da6ab5954a482d",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Block NRC",
+  "nsku": "BlockNRC",
+  "type": "V",
+  "file": "BlockNRC-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1000_Block_NRC_Recessed_Lay-In_Light.jpg",
+  "page": "https://utopialighting.com/product/block-nrc-recessed-lay-in-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "9f41e039c4ff33c0",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Block PAO",
+  "nsku": "BlockPAO",
+  "type": "V",
+  "file": "BlockPAO-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1006_Block_PAO_Recessed_Lay-In_Light.jpg",
+  "page": "https://utopialighting.com/product/block-pao-recessed-lay-in-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "8e887f19c3698d3c",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Block AD",
+  "nsku": "BlockAD",
+  "type": "V",
+  "file": "BlockAD-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1008_Block_AD_Recessed_Lay-In_Light.jpg",
+  "page": "https://utopialighting.com/product/block-ad-recessed-lay-in-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "919b2ac4f05e9bb1",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Block AR",
+  "nsku": "BlockAR",
+  "type": "V",
+  "file": "BlockAR-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1754_BLOCK-AR_LED_Recessed_Lay-In_Light.png",
+  "page": "https://utopialighting.com/product/block-ar-recessed-lay-in-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "c689672dc65e9271",
+   "q": 88,
+   "src_px": [
+    960,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": [
+    "padded from 960x1200 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "ELT-PAO",
+  "nsku": "ELT-PAO",
+  "type": "V",
+  "file": "ELT-PAO-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1011_ELT-PAO_Recessed_Lay-In_LED_Light_png.jpg",
+  "page": "https://utopialighting.com/product/elt-pao-recessed-lay-in-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "9d807e2bf4e0628f",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SCT LED",
+  "nsku": "SCTLED",
+  "type": "V",
+  "file": "SCTLED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1012_SCT_LED_Recessed_Lay-In_Light.jpg",
+  "page": "https://utopialighting.com/product/sct-led-recessed-lay-in-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d4bc69bc06fa09e4",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "LSVT",
+  "nsku": "LSVT",
+  "type": "V",
+  "file": "LSVT-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1013_LSVT_Recessed_Lay-In_Light.jpg",
+  "page": "https://utopialighting.com/product/lsvt-recessed-lay-in-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bb31c0ce2e3cb1c3",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "TRV-2G",
+  "nsku": "TRV-2G",
+  "type": "V",
+  "file": "TRV-2G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1017_TRV-2G_Recessed_Lay-In_Light.jpg",
+  "page": "https://utopialighting.com/product/trv-2g-recessed-lay-in-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "97ea356696344993",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RSHL-C",
+  "nsku": "RSHL-C",
+  "type": "V",
+  "file": "RSHL-C-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1022_RSHL-C_Recessed_Lay-In_Light.jpg",
+  "page": "https://utopialighting.com/product/rshl-c-recessed-lay-in-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be33c1ce1e31e143",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RSHL-2G-C",
+  "nsku": "RSHL-2G-C",
+  "type": "V",
+  "file": "RSHL-2G-C-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1026_RSHL-2G-C_Recessed_Lay-In_Light.jpg",
+  "page": "https://utopialighting.com/product/rshl-2g-c-recessed-lay-in-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "c06e3f3dc0c00f3f",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RDI QS LED",
+  "nsku": "RDIQSLED",
+  "type": "V",
+  "file": "RDIQSLED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1727_rdi_qs_led-visual-asset.jpg",
+  "page": "https://utopialighting.com/product/rdi-qs-led-recessed-lay-in-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "d2b069c5943e4bf1",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RSB",
+  "nsku": "RSB",
+  "type": "V",
+  "file": "RSB-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1021_RSB-Recessed-LED-Lay-In-Light.jpg",
+  "page": "https://utopialighting.com/product/rsb-led-recessed-lay-in-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "c1956dc532726b2d",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "TTL LED",
+  "nsku": "TTLLED",
+  "type": "V",
+  "file": "TTLLED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1024_TTL-Recessed-LED-Lay-In-Light.jpg",
+  "page": "https://utopialighting.com/product/ttl-led-recessed-lay-in-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "eec4911b69e4a61e",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "ELT-TW",
+  "nsku": "ELT-TW",
+  "type": "V",
+  "file": "ELT-TW-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1015_ELT-Recessed-Lay-In-LED-Light_jpg.jpg",
+  "page": "https://utopialighting.com/product/elt-tw-tunable-white-recessed-lay-in-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "eac495196ae2959d",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "ELT-2G",
+  "nsku": "ELT-2G",
+  "type": "V",
+  "file": "ELT-2G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1015_ELT-Recessed-Lay-In-LED-Light_jpg.jpg",
+  "page": "https://utopialighting.com/product/elt-2G-recessed-lay-in-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "eac495196ae2959d",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "ELT-RGBW",
+  "nsku": "ELT-RGBW",
+  "type": "V",
+  "file": "ELT-RGBW-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1015_ELT-Recessed-Lay-In-LED-Light_jpg.jpg",
+  "page": "https://utopialighting.com/product/elt-rgbw-recessed-lay-in-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "eac495196ae2959d",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "ELT-WT",
+  "nsku": "ELT-WT",
+  "type": "V",
+  "file": "ELT-WT-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1016_ELT-WT-Recessed-Lay-In-LED-Light.jpg",
+  "page": "https://utopialighting.com/product/elt-wt-wet-rated-recessed-lay-in-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "eac495196ae2959d",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CLFP",
+  "nsku": "CLFP",
+  "type": "V",
+  "file": "CLFP-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1691_CLFP_Thumbnail_Image.jpg",
+  "page": "https://utopialighting.com/product/clfp-clean-room-lay-in-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "82633d1de266cce3",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "ULP-2G-5P-5C",
+  "nsku": "ULP-2G-5P-5C",
+  "type": "V",
+  "file": "ULP-2G-5P-5C-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1025_ULP-2G-7P-5C-Recessed-Lay-In-Light.jpg",
+  "page": "https://utopialighting.com/product/ulp-2g-5p-5c-recessed-lay-in-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "cc283f7292ca4d9d",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "LSP 2G",
+  "nsku": "LSP2G",
+  "type": "V",
+  "file": "LSP2G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1019_LSP-2G-Recessed-Lay-In-LED-Light.jpg",
+  "page": "https://utopialighting.com/product/lsp-2g-recessed-lay-in-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "899b2fc4865a1fd1",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "LSP",
+  "nsku": "LSP",
+  "type": "V",
+  "file": "LSP-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1020_LSP-Recessed-Lay-In-LED-Light.jpg",
+  "page": "https://utopialighting.com/product/lsp-recessed-lay-in-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "8a993fc6c34d2dc1",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 1 Perimeter",
+  "nsku": "Cube1Perimeter",
+  "type": "V",
+  "file": "Cube1Perimeter-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1722_Cube1_Perimeter_Architectural_LED_Light.png",
+  "page": "https://utopialighting.com/product/cube-1-perimeter-linear-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d1ce36392c48cadb",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 2 Perimeter",
+  "nsku": "Cube2Perimeter",
+  "type": "V",
+  "file": "Cube2Perimeter-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1706_CUBE4-PR_Linear_Perimeter_LED_Light_on_a_T-bar.png",
+  "page": "https://utopialighting.com/product/cube-2-perimeter-linear-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d02f2a4a5b1747f4",
+   "q": 88,
+   "src_px": [
+    1200,
+    800
+   ],
+   "scale": 0.6666666666666666,
+   "notes": [
+    "padded from 1200x800 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 4 Perimeter",
+  "nsku": "Cube4Perimeter",
+  "type": "V",
+  "file": "Cube4Perimeter-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1703_CUBE4-PR_Linear_Perimeter_LED_Light_on_a_T-bar.png",
+  "page": "https://utopialighting.com/product/Cube-4-Perimeter-Cove-Light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d02f2a4a5f1747e4",
+   "q": 88,
+   "src_px": [
+    1200,
+    800
+   ],
+   "scale": 0.6666666666666666,
+   "notes": [
+    "padded from 1200x800 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "COVE LED",
+  "nsku": "COVELED",
+  "type": "V",
+  "file": "COVELED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/956_COVE-LED-Perimeter-Light.jpg",
+  "page": "https://utopialighting.com/product/cove-led-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "d7c068b49f5b912c",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "COVE-RGBW",
+  "nsku": "COVE-RGBW",
+  "type": "V",
+  "file": "COVE-RGBW-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/956_COVE-LED-Perimeter-Light.jpg",
+  "page": "https://utopialighting.com/product/cove-rgbw-led-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "d7c068b49f5b912c",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 1 Recessed",
+  "nsku": "Cube1Recessed",
+  "type": "V",
+  "file": "Cube1Recessed-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/960_Cube1-Recessed.jpg",
+  "page": "https://utopialighting.com/product/cube-1-recessed-linear-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "a156a932e3869ff0",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 2 Recessed",
+  "nsku": "Cube2Recessed",
+  "type": "V",
+  "file": "Cube2Recessed-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/968_Cube2-Recessed-Architectural-Linear-Light.jpg",
+  "page": "https://utopialighting.com/product/cube-2-recessed-linear-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "b74dc21ff2068738",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube2-RGBW Recessed",
+  "nsku": "Cube2-RGBWRecessed",
+  "type": "V",
+  "file": "Cube2-RGBWRecessed-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/968_Cube2-Recessed-Architectural-Linear-Light.jpg",
+  "page": "https://utopialighting.com/product/cube-2-rgbw-recessed-linear-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "b74dc21ff2068738",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 4 Recessed",
+  "nsku": "Cube4Recessed",
+  "type": "V",
+  "file": "Cube4Recessed-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/974_Cube4-Recessed-Architectural-Linear-Light.jpg",
+  "page": "https://utopialighting.com/product/cube-4-recessed-linear-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d2122f65cd9db292",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube4-RGBW Recessed",
+  "nsku": "Cube4-RGBWRecessed",
+  "type": "V",
+  "file": "Cube4-RGBWRecessed-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/974_Cube4-Recessed-Architectural-Linear-Light.jpg",
+  "page": "https://utopialighting.com/product/cube-4-rgbw-recessed-linear-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d2122f65cd9db292",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 4-CW90",
+  "nsku": "Cube4-CW90",
+  "type": "V",
+  "file": "Cube4-CW90-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/933_Cube4-cw90.jpg",
+  "page": "https://utopialighting.com/product/cube-4-cw90-90-degree-recessed-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "d2686d6b64363633",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "EB3 Recessed",
+  "nsku": "EB3Recessed",
+  "type": "V",
+  "file": "EB3Recessed-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/977_EB3-Recessed-Architectural-Linear-Light.jpg",
+  "page": "https://utopialighting.com/product/eb3-recessed-architectural-linear-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ca62f5ca8ab53562",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "EB4 Recessed",
+  "nsku": "EB4Recessed",
+  "type": "V",
+  "file": "EB4Recessed-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/934_EB4_Linear_Recessed_Light.jpg",
+  "page": "https://utopialighting.com/product/EB4-architectural-linear-recessed-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "d5956aca9ab2644d",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "EP LED Recessed",
+  "nsku": "EPLEDRecessed",
+  "type": "V",
+  "file": "EPLEDRecessed-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/935_EP_LED_Recessed.jpg",
+  "page": "https://utopialighting.com/product/ep-led-recessed-linear-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "9778cf2a609f34e0",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "TBL LED",
+  "nsku": "TBLLED",
+  "type": "V",
+  "file": "TBLLED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/936_TBL-LED-Recessed-Linear-Light.jpg",
+  "page": "https://utopialighting.com/product/tbl-led-recessed-linear-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d5d4aaaa2dd4744a",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 1 Surface Single CCT",
+  "nsku": "Cube1SurfaceSingleCCT",
+  "type": "V",
+  "file": "Cube1SurfaceSingleCCT-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1014_Cube1-Surface-Mounted-LED-Linear-Light_png.jpg",
+  "page": "https://utopialighting.com/product/cube-1-single-cct-linear-surface-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d4056bca3e650dba",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube2-TW Surface",
+  "nsku": "Cube2-TWSurface",
+  "type": "V",
+  "file": "Cube2-TWSurface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1037_Cube2-Surface-Mounted-LED-Linear-Light.jpg",
+  "page": "https://utopialighting.com/product/cube2-tw-tunable-white-linear-surface-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "c5297a9635601ff1",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube1-RGBW Surface",
+  "nsku": "Cube1-RGBWSurface",
+  "type": "V",
+  "file": "Cube1-RGBWSurface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1014_Cube1-Surface-Mounted-LED-Linear-Light_png.jpg",
+  "page": "https://utopialighting.com/product/cube1-rgbw-linear-surface-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d4056bca3e650dba",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube1-TW Surface",
+  "nsku": "Cube1-TWSurface",
+  "type": "V",
+  "file": "Cube1-TWSurface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1014_Cube1-Surface-Mounted-LED-Linear-Light_png.jpg",
+  "page": "https://utopialighting.com/product/cube1-tw-tunable-white-linear-surface-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d4056bca3e650dba",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 1-SQ",
+  "nsku": "Cube1-SQ",
+  "type": "V",
+  "file": "Cube1-SQ-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/2156_Cube1-SQ-Pendent.png",
+  "page": "https://utopialighting.com/product/cube-1-sq-square-pendant-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "817aafe59a1a619c",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "EP LED Surface",
+  "nsku": "EPLEDSurface",
+  "type": "V",
+  "file": "EPLEDSurface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1578_EP-LED-Recessed-Linear-Light-1.jpg",
+  "page": "https://utopialighting.com/product/ep-led-surface-mount-linear-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "fec0853f60c29fb0",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 2 Surface",
+  "nsku": "Cube2Surface",
+  "type": "V",
+  "file": "Cube2Surface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1037_Cube2-Surface-Mounted-LED-Linear-Light.jpg",
+  "page": "https://utopialighting.com/product/cube-2-linear-surface-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "c5297a9635601ff1",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube2-RGBW Surface",
+  "nsku": "Cube2-RGBWSurface",
+  "type": "V",
+  "file": "Cube2-RGBWSurface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1037_Cube2-Surface-Mounted-LED-Linear-Light.jpg",
+  "page": "https://utopialighting.com/product/cube-2-rgbw-linear-surface-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "c5297a9635601ff1",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 2-WW Surface",
+  "nsku": "Cube2-WWSurface",
+  "type": "V",
+  "file": "Cube2-WWSurface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1040_Cube2-WW-Surface-Mounted-LED-Linear-Light.jpg",
+  "page": "https://utopialighting.com/product/cube-2-ww-wall-wash-surface-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d5056ada36604bbb",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 2-NRC Surface",
+  "nsku": "Cube2-NRCSurface",
+  "type": "V",
+  "file": "Cube2-NRCSurface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1045_Cube_2-NRC-Non_Lit_Surface_Mount_Fixture.jpg",
+  "page": "https://utopialighting.com/product/cube-2-nrc-surface-mount-acoustic-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "eaeac595147aeac0",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 2-SQ Surface",
+  "nsku": "Cube2-SQSurface",
+  "type": "V",
+  "file": "Cube2-SQSurface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1032_Cube1-SQ-Square-Surface-Mounted-Light.jpg",
+  "page": "https://utopialighting.com/product/cube-2-sq-surface-mounted-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d4ec2eb192ca4b2d",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 2-HC90 Surface",
+  "nsku": "Cube2-HC90Surface",
+  "type": "V",
+  "file": "Cube2-HC90Surface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1033_Cube2-HC90-90-degree-Surface-Mount-Light.jpg",
+  "page": "https://utopialighting.com/product/cube-2-hc90-90-degree-surface-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "f5e54ac46a5a92b4",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 2-T Surface",
+  "nsku": "Cube2-TSurface",
+  "type": "V",
+  "file": "Cube2-TSurface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1038_Cube2-T-T-Shaped-Surface-Mount-Light.jpg",
+  "page": "https://utopialighting.com/product/cube-2-t-t-shaped-surface-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "8083773f1fe04a1f",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 2-X Surface",
+  "nsku": "Cube2-XSurface",
+  "type": "V",
+  "file": "Cube2-XSurface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1041_Cube2-X-Suspended-Linear-Surface-Mount-Light.jpg",
+  "page": "https://utopialighting.com/product/cube-2-x-x-shaped-surface-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d59d66c2c9341c4f",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 2-Y Surface",
+  "nsku": "Cube2-YSurface",
+  "type": "V",
+  "file": "Cube2-YSurface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1042_Cube2-Y-Suspended-Linear-Surface-Mount-Light.jpg",
+  "page": "https://utopialighting.com/product/cube-2-y-y-shaped-surface-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "df64683744e837c4",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube2-Y-RGBW Surface",
+  "nsku": "Cube2-Y-RGBWSurface",
+  "type": "V",
+  "file": "Cube2-Y-RGBWSurface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1042_Cube2-Y-Suspended-Linear-Surface-Mount-Light.jpg",
+  "page": "https://utopialighting.com/product/cube-2-y-rgbw-y-shaped-surface-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "df64683744e837c4",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 2-Hex Surface",
+  "nsku": "Cube2-HexSurface",
+  "type": "V",
+  "file": "Cube2-HexSurface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1034_Cube2-Hex-Suspended-Linear-Surface-Mount-Light.jpg",
+  "page": "https://utopialighting.com/product/cube-2-hex-hexagonal-surface-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d45f823c1f3360ce",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube4-TW Athena Surface",
+  "nsku": "Cube4-TWAthenaSurface",
+  "type": "V",
+  "file": "Cube4-TWAthenaSurface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/409_Cube_4_Suspended_Linear_Surface_Mount_Light.webp",
+  "page": "https://utopialighting.com/product/cube4-tw-athena-tunable-white-linear-surface-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "ca6af5950a6dd512",
+   "q": 88,
+   "src_px": [
+    512,
+    512
+   ],
+   "scale": 1.5625,
+   "notes": [
+    "upscaled x1.56 from 512x512 (best verified source available)"
+   ]
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube4-TW Surface",
+  "nsku": "Cube4-TWSurface",
+  "type": "V",
+  "file": "Cube4-TWSurface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/409_Cube_4_Suspended_Linear_Surface_Mount_Light.webp",
+  "page": "https://utopialighting.com/product/cube4-tw-tunable-white-linear-surface-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "ca6af5950a6dd512",
+   "q": 88,
+   "src_px": [
+    512,
+    512
+   ],
+   "scale": 1.5625,
+   "notes": [
+    "upscaled x1.56 from 512x512 (best verified source available)"
+   ]
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 4 Surface",
+  "nsku": "Cube4Surface",
+  "type": "V",
+  "file": "Cube4Surface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/409_Cube_4_Suspended_Linear_Surface_Mount_Light.webp",
+  "page": "https://utopialighting.com/product/cube-4-linear-surface-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "ca6af5950a6dd512",
+   "q": 88,
+   "src_px": [
+    512,
+    512
+   ],
+   "scale": 1.5625,
+   "notes": [
+    "upscaled x1.56 from 512x512 (best verified source available)"
+   ]
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube4-RGBW Surface",
+  "nsku": "Cube4-RGBWSurface",
+  "type": "V",
+  "file": "Cube4-RGBWSurface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/409_Cube_4_Suspended_Linear_Surface_Mount_Light.webp",
+  "page": "https://utopialighting.com/product/cube-4-rgbw-linear-surface-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "ca6af5950a6dd512",
+   "q": 88,
+   "src_px": [
+    512,
+    512
+   ],
+   "scale": 1.5625,
+   "notes": [
+    "upscaled x1.56 from 512x512 (best verified source available)"
+   ]
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 4-WW Surface",
+  "nsku": "Cube4-WWSurface",
+  "type": "V",
+  "file": "Cube4-WWSurface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/410_Cube_4-WW_Wall_Wash_Linear_Surface_Mount_Light.webp",
+  "page": "https://utopialighting.com/product/cube-4-ww-wall-wash-surface-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "ca6af5950a6dd512",
+   "q": 88,
+   "src_px": [
+    512,
+    512
+   ],
+   "scale": 1.5625,
+   "notes": [
+    "upscaled x1.56 from 512x512 (best verified source available)"
+   ]
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 4-Wet Surface",
+  "nsku": "Cube4-WetSurface",
+  "type": "V",
+  "file": "Cube4-WetSurface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/952_Cube_4-Wet_Wet-Location_Linear_Pendant_Light.jpg",
+  "page": "https://utopialighting.com/product/cube-4-wet-wet-rated-linear-surface-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "ac6c73f3c50c1cf0",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 4-T Surface",
+  "nsku": "Cube4-TSurface",
+  "type": "V",
+  "file": "Cube4-TSurface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1031_Cube_4-T_T-Shaped_Surface_Mount_Light.jpg",
+  "page": "https://utopialighting.com/product/cube-4-t-t-shaped-surface-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "80c2773f1fe04a1f",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 4-X Surface",
+  "nsku": "Cube4-XSurface",
+  "type": "V",
+  "file": "Cube4-XSurface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1043_Cube_4-X_X-Shaped_Surface_Mount_Light.jpg",
+  "page": "https://utopialighting.com/product/cube-4-x-x-shaped-surface-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d5946e4bd9343c4c",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 4-SQ Surface",
+  "nsku": "Cube4-SQSurface",
+  "type": "V",
+  "file": "Cube4-SQSurface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1039_Cube_4-SQ-Square-Surface-Mount-Light.jpg",
+  "page": "https://utopialighting.com/product/cube-4-sq-square-surface-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "b759f860c6871e1a",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 4-HC90 Surface",
+  "nsku": "Cube4-HC90Surface",
+  "type": "V",
+  "file": "Cube4-HC90Surface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1044_Cube_4-HC90_90-Degree_Surface_Mount_Light.jpg",
+  "page": "https://utopialighting.com/product/cube-4-hc90-90-degree-surface-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "f5e54ac46a5a92b4",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 2-NRC-Non Lit Surface Mount",
+  "nsku": "Cube2-NRC-NonLitSurfaceMount",
+  "type": "V",
+  "file": "Cube2-NRC-NonLitSurfaceMount-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1790_954_Cube_2-NRC-Non_Lit_Acoustic_Pendant_Without_Lighting.jpg",
+  "page": "https://utopialighting.com/product/cube-2-nrc-non-lit-surface-mount-fixture",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "eaead5953e7ae000",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 2-NRC-HC90 Surface",
+  "nsku": "Cube2-NRC-HC90Surface",
+  "type": "V",
+  "file": "Cube2-NRC-HC90Surface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1047_Cube_2-NRC-HC90_90-Degree_Acoustic_Surface_Mount_Light-2.jpg",
+  "page": "https://utopialighting.com/product/cube-2-nrc-hc90-90-degree-acoustic-surface-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bb6ac4951d6770c8",
+   "q": 85,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 2-NRC-X Surface",
+  "nsku": "Cube2-NRC-XSurface",
+  "type": "V",
+  "file": "Cube2-NRC-XSurface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1053_Cube2-NRC-X-X-Shaped-Acoustic-Linear-Surface-Mount.jpg",
+  "page": "https://utopialighting.com/product/cube-2-nrc-x-x-shaped-surface-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "afd2d02662099ff2",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 2-NRC-T Surface",
+  "nsku": "Cube2-NRC-TSurface",
+  "type": "V",
+  "file": "Cube2-NRC-TSurface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1048_Cube_2-NRC-T_T-Shaped_Acoustic_Surface_Mount_Lightt.jpg",
+  "page": "https://utopialighting.com/product/cube-2-nrc-t-t-shaped-acoustic-surface-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "af1a9165328ced9a",
+   "q": 82,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "EB3-Direct Surface",
+  "nsku": "EB3-DirectSurface",
+  "type": "V",
+  "file": "EB3-DirectSurface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/420_EB3_Surface_Mount_Architectural_Linear_Light.png",
+  "page": "https://utopialighting.com/product/eb3-direct-surface-mount-linear-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "d5956aca9ab2644d",
+   "q": 88,
+   "src_px": [
+    1024,
+    1024
+   ],
+   "scale": 0.78125,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "EB3 Surface",
+  "nsku": "EB3Surface",
+  "type": "V",
+  "file": "EB3Surface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1056_EB3-Surface-Mount-Linear-Light.jpg",
+  "page": "https://utopialighting.com/product/eb3-surface-mount-linear-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ca62f5ca8ab53562",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SS LED-TW Surface",
+  "nsku": "SSLED-TWSurface",
+  "type": "V",
+  "file": "SSLED-TWSurface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1060_SS-LED-Architectural-Surface-Mount-Linear-Light.jpg",
+  "page": "https://utopialighting.com/product/ss-led-tw-tunable-white-premium-slim-strip-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "d5953f6aca1ab0a1",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SS LED Surface",
+  "nsku": "SSLEDSurface",
+  "type": "V",
+  "file": "SSLEDSurface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1060_SS-LED-Architectural-Surface-Mount-Linear-Light.jpg",
+  "page": "https://utopialighting.com/product/ss-led-premium-slim-strip-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "d5953f6aca1ab0a1",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SS LED-RGBW",
+  "nsku": "SSLED-RGBW",
+  "type": "V",
+  "file": "SSLED-RGBW-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1060_SS-LED-Architectural-Surface-Mount-Linear-Light.jpg",
+  "page": "https://utopialighting.com/product/ss-led-rgbw-premium-slim-strip-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "d5953f6aca1ab0a1",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "HV LED",
+  "nsku": "HVLED",
+  "type": "V",
+  "file": "HVLED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/430_HV_LED_Enclosed_and_Gasket_Surface_LED_High_Bay.png",
+  "page": "https://utopialighting.com/product/hv-led-enclosed-and-gasket-led-high-bay",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "c69a6f1734664b0b",
+   "q": 88,
+   "src_px": [
+    1024,
+    1024
+   ],
+   "scale": 0.78125,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SS-FW LED",
+  "nsku": "SS-FWLED",
+  "type": "V",
+  "file": "SS-FWLED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/432_SS-FW_LED_Surface_Mount_Linear_Low_Bay.png",
+  "page": "https://utopialighting.com/product/ss-fw-led-linear-lowbay",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "ff90d02fc9963660",
+   "q": 88,
+   "src_px": [
+    1024,
+    1024
+   ],
+   "scale": 0.78125,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "NS LED",
+  "nsku": "NSLED",
+  "type": "V",
+  "file": "NSLED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1096_NS_LED_Slim_Strip_Light.jpg",
+  "page": "https://utopialighting.com/product/ns-led-slim-strip-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d29a2db5364a4a9d",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "W LED",
+  "nsku": "WLED",
+  "type": "V",
+  "file": "WLED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1106_W_LED_Ceiling-Mount_Wraparound.jpg",
+  "page": "https://utopialighting.com/product/w-led-ceiling-mount-wraparound",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d2fa45a535465a5a",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "W-3G LED",
+  "nsku": "W-3GLED",
+  "type": "V",
+  "file": "W-3GLED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1110_W-3G_LED_Ceiling-Mount_Wraparound_Fixture.jpg",
+  "page": "https://utopialighting.com/product/w-3g-led-ceiling-mount-wraparound-fixture",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d2fa45a535465a5a",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 1 Single CCT",
+  "nsku": "Cube1SingleCCT",
+  "type": "V",
+  "file": "Cube1SingleCCT-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/959_Cube1-Architectural-Linear-Pendant-Light.jpg",
+  "page": "https://utopialighting.com/product/cube1-single-cct-architectural-linear-pendant-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "c9a9369632679e32",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 2-TW Suspended",
+  "nsku": "Cube2-TWSuspended",
+  "type": "V",
+  "file": "Cube2-TWSuspended-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/963_Cube2-Architectural-Linear-Pendant-Light.jpg",
+  "page": "https://utopialighting.com/product/cube2-tw-tunable-white-linear-pendant-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "9a5a6da5053dfa48",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube1-RGBW",
+  "nsku": "Cube1-RGBW",
+  "type": "V",
+  "file": "Cube1-RGBW-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/959_Cube1-Architectural-Linear-Pendant-Light.jpg",
+  "page": "https://utopialighting.com/product/cube1-rgbw-linear-suspended-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "c9a9369632679e32",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 1-TW Suspended",
+  "nsku": "Cube1-TWSuspended",
+  "type": "V",
+  "file": "Cube1-TWSuspended-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/959_Cube1-Architectural-Linear-Pendant-Light.jpg",
+  "page": "https://utopialighting.com/product/cube1-tw-tunable-white-linear-pendant-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "c9a9369632679e32",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 2-RGBW Suspended",
+  "nsku": "Cube2-RGBWSuspended",
+  "type": "V",
+  "file": "Cube2-RGBWSuspended-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/963_Cube2-Architectural-Linear-Pendant-Light.jpg",
+  "page": "https://utopialighting.com/product/cube-2-rgbw-linear-pendant-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "9a5a6da5053dfa48",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 2 WW",
+  "nsku": "Cube2WW",
+  "type": "V",
+  "file": "Cube2WW-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/971_Cube2-WW-Architectural-Linear-Pendant-Light.jpg",
+  "page": "https://utopialighting.com/product/cube-2-ww-linear-pendant-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "8b6bd4147a69853b",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 4-TW Athena Suspended",
+  "nsku": "Cube4-TWAthenaSuspended",
+  "type": "V",
+  "file": "Cube4-TWAthenaSuspended-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1027_Cube_4_Linear_Surface_Mount_Light.jpg",
+  "page": "https://utopialighting.com/product/cube4-tw-athena-tunable-white-linear-pendant-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "ca4af5952a6dd512",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 4-TW Suspended",
+  "nsku": "Cube4-TWSuspended",
+  "type": "V",
+  "file": "Cube4-TWSuspended-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1027_Cube_4_Linear_Surface_Mount_Light.jpg",
+  "page": "https://utopialighting.com/product/cube4-tw-tunable-white-linear-pendant-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "ca4af5952a6dd512",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 4-WW",
+  "nsku": "Cube4-WW",
+  "type": "V",
+  "file": "Cube4-WW-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/942_Cube_4-WW_Linear_Pendant_Light.jpg",
+  "page": "https://utopialighting.com/product/Cube-4-WW-Suspended-Linear-Pendant-Light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "c9c9f4963a69cc1a",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 4-RGBW Suspended",
+  "nsku": "Cube4-RGBWSuspended",
+  "type": "V",
+  "file": "Cube4-RGBWSuspended-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1027_Cube_4_Linear_Surface_Mount_Light.jpg",
+  "page": "https://utopialighting.com/product/cube-4-rgbw-linear-pendant-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "ca4af5952a6dd512",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 2-HC90",
+  "nsku": "Cube2-HC90",
+  "type": "V",
+  "file": "Cube2-HC90-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/965_Cube2-HC90-90-degree-Pendant-Light.png",
+  "page": "https://utopialighting.com/product/cube-2-hc90-90-degree-pendant-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "f5e54ac46a5a92b4",
+   "q": 88,
+   "src_px": [
+    1024,
+    1024
+   ],
+   "scale": 0.78125,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 2-T",
+  "nsku": "Cube2-T",
+  "type": "V",
+  "file": "Cube2-T-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/970_Cube2-T-T-Shaped-Pendant-Light.jpg",
+  "page": "https://utopialighting.com/product/Cube2-T-T-Shaped-Pendant-Light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "8083773f1fe04a1f",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 2-X",
+  "nsku": "Cube2-X",
+  "type": "V",
+  "file": "Cube2-X-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/946_Cube_2-X_Pendant_Light.jpg",
+  "page": "https://utopialighting.com/product/cube-2-x-architectural-pendant-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d59c6e4bc934364c",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 2-Y",
+  "nsku": "Cube2-Y",
+  "type": "V",
+  "file": "Cube2-Y-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/947_Cube_2-Y_Pendant_Light.jpg",
+  "page": "https://utopialighting.com/product/cube-2-y-architectural-pendant-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "df9760c83b37c4c0",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 2-Hex",
+  "nsku": "Cube2-Hex",
+  "type": "V",
+  "file": "Cube2-Hex-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/949_Cube_2-Hex_Pendant_Light.jpg",
+  "page": "https://utopialighting.com/product/cube-2-hex-pendant-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d45f823c1b3360cf",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 2-Y-RGBW Suspended",
+  "nsku": "Cube2-Y-RGBWSuspended",
+  "type": "V",
+  "file": "Cube2-Y-RGBWSuspended-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/947_Cube_2-Y_Pendant_Light.jpg",
+  "page": "https://utopialighting.com/product/cube-2-y-rgbw-pendant-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "df9760c83b37c4c0",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 4-T",
+  "nsku": "Cube4-T",
+  "type": "V",
+  "file": "Cube4-T-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/943_Cube_4-T_Linear_Pendant_Light.jpg",
+  "page": "https://utopialighting.com/product/cube-4-t-suspended-linear-pendant-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "80c2771f1fe24a1f",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 4-SQ",
+  "nsku": "Cube4-SQ",
+  "type": "V",
+  "file": "Cube4-SQ-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/930_113_cube_4-sq_square_pendant_light.jpg",
+  "page": "https://utopialighting.com/product/cube-4-sq-square-pendant-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "b759f86044c69e1e",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 4-X",
+  "nsku": "Cube4-X",
+  "type": "V",
+  "file": "Cube4-X-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/950_Cube_4-X_X-shaped_Pendant_Light-2.jpg",
+  "page": "https://utopialighting.com/product/cube-4-x-x-shaped-pendant-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d5946e4b99343c4d",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 4-HC90",
+  "nsku": "Cube4-HC90",
+  "type": "V",
+  "file": "Cube4-HC90-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/115_Cube_4-HC90_90-degree_Pendant_Light.png",
+  "page": "https://utopialighting.com/product/cube-4-hc90-90-degree-linear-pendant-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "f5e54ac46a5a92b4",
+   "q": 88,
+   "src_px": [
+    1024,
+    1024
+   ],
+   "scale": 0.78125,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 4-Wet",
+  "nsku": "Cube4-Wet",
+  "type": "V",
+  "file": "Cube4-Wet-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/2046_Cube_4-Wet_waterproof_suspended_linear_pendant_light.png",
+  "page": "https://utopialighting.com/product/cube-4-wet-wet-location-linear-pendant-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "ac6c73f3c50c1cf0",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 2-NRC-Non Lit",
+  "nsku": "Cube2-NRC-NonLit",
+  "type": "V",
+  "file": "Cube2-NRC-NonLit-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1790_954_Cube_2-NRC-Non_Lit_Acoustic_Pendant_Without_Lighting.jpg",
+  "page": "https://utopialighting.com/product/cube-2-nrc-non-lit-acoustic-pendant-without-lighting",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "eaead5953e7ae000",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 2-NRC-HC90",
+  "nsku": "Cube2-NRC-HC90",
+  "type": "V",
+  "file": "Cube2-NRC-HC90-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/955_Cube-2-NRC-HC90-90-Degree-Linear-Pendant-Light.jpg",
+  "page": "https://utopialighting.com/product/cube-2-nrc-hc90-90-degree-linear-pendant-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bb6ac4951d6770c8",
+   "q": 85,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 2-NRC-T",
+  "nsku": "Cube2-NRC-T",
+  "type": "V",
+  "file": "Cube2-NRC-T-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/962_Cube_2-NRC-T_T-Shaped_Acoustic_Linear_Pendant_Light.jpg",
+  "page": "https://utopialighting.com/product/cube-2-nrc-t-t-shaped-acoustic-linear-pendant-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "af1a9165328ced9a",
+   "q": 82,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CUBE2-CW90",
+  "nsku": "CUBE2-CW90",
+  "type": "V",
+  "file": "CUBE2-CW90-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1815_CUBE2-CW90_LED_Architectural_Linear_Light_Front_View.jpg",
+  "page": "https://utopialighting.com/product/cube2-cw90-led-architectural-corner-linear-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "b4eb7a54cb848ab4",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 2-NRC-X",
+  "nsku": "Cube2-NRC-X",
+  "type": "V",
+  "file": "Cube2-NRC-X-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/129_Cube_2-NRC-X_X-Shaped_Acoustic_Suspended_Linear_Pendant1.png",
+  "page": "https://utopialighting.com/product/cube-2-nrc-x-x-shaped-acoustic-linear-pendant-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "af5ad08462699d9e",
+   "q": 88,
+   "src_px": [
+    1024,
+    1024
+   ],
+   "scale": 0.78125,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Rondo 2-TW Suspended",
+  "nsku": "Rondo2-TWSuspended",
+  "type": "V",
+  "file": "Rondo2-TWSuspended-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/990_Rondo2-Round-Linear-Pendant-Light.jpg",
+  "page": "https://utopialighting.com/product/rondo2-tw-tunable-white-round-linear-pendant-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "aa75946ae5956ac4",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Rondo 2",
+  "nsku": "Rondo2",
+  "type": "V",
+  "file": "Rondo2-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/990_Rondo2-Round-Linear-Pendant-Light.jpg",
+  "page": "https://utopialighting.com/product/rondo-2-round-linear-pendant-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "aa75946ae5956ac4",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Rondo 2-RGBW Suspended",
+  "nsku": "Rondo2-RGBWSuspended",
+  "type": "V",
+  "file": "Rondo2-RGBWSuspended-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/990_Rondo2-Round-Linear-Pendant-Light.jpg",
+  "page": "https://utopialighting.com/product/rondo-2-rgbw-round-linear-pendant-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "aa75946ae5956ac4",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Rondo 4-TW Suspended",
+  "nsku": "Rondo4-TWSuspended",
+  "type": "V",
+  "file": "Rondo4-TWSuspended-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1937_Rondo4-Round-Suspended-Linear-Pendant-Light-3.png",
+  "page": "https://utopialighting.com/product/rondo4-tw-tunable-white-round-linear-pendant-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "8a6f95366a893665",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Rondo 4",
+  "nsku": "Rondo4",
+  "type": "V",
+  "file": "Rondo4-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1937_Rondo4-Round-Suspended-Linear-Pendant-Light-3.png",
+  "page": "https://utopialighting.com/product/rondo-4-round-linear-pendant-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "8a6f95366a893665",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Rondo 2-Direct/Indirect",
+  "nsku": "Rondo2-Direct-Indirect",
+  "type": "V",
+  "file": "Rondo2-Direct-Indirect-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/988_Rondo2-Direct-Indirect-Round-Linear_Pendant-Light.jpg",
+  "page": "https://utopialighting.com/product/rondo-2-direct-indirect-round-linear-pendant",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "a916c589966fd325",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Rondo 4-RGBW Suspended",
+  "nsku": "Rondo4-RGBWSuspended",
+  "type": "V",
+  "file": "Rondo4-RGBWSuspended-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1937_Rondo4-Round-Suspended-Linear-Pendant-Light-3.png",
+  "page": "https://utopialighting.com/product/rondo-4-rgbw-round-linear-pendant-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "8a6f95366a893665",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Rondo 4-HC90",
+  "nsku": "Rondo4-HC90",
+  "type": "V",
+  "file": "Rondo4-HC90-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1938_Rondo4-HC90-90-Degree-Round-Suspended-Linear-Pendant-Light.png",
+  "page": "https://utopialighting.com/product/rondo-4-hc90-90-degree-round-linear-pendant-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "807ddf92b0352fc2",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "LINEA",
+  "nsku": "LINEA",
+  "type": "V",
+  "file": "LINEA-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/985_LINEA-Suspended-Linear-Light.jpg",
+  "page": "https://utopialighting.com/product/linea-suspended-linear-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "8a6a959736684b9b",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "EB3-Direct",
+  "nsku": "EB3-Direct",
+  "type": "V",
+  "file": "EB3-Direct-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/980_EB3-Suspended-Linear-Light.jpg",
+  "page": "https://utopialighting.com/product/eb3-direct-suspended-linear-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "d59569cb9a32644d",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "EB3-Direct/Indirect",
+  "nsku": "EB3-Direct-Indirect",
+  "type": "V",
+  "file": "EB3-Direct-Indirect-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1056_EB3-Surface-Mount-Linear-Light.jpg",
+  "page": "https://utopialighting.com/product/eb3-direct-indirect-suspended-linear-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ca62f5ca8ab53562",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "EB4-Direct/Indirect",
+  "nsku": "EB4-Direct-Indirect",
+  "type": "V",
+  "file": "EB4-Direct-Indirect-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/981_EB4-direct-indirect-Suspended-Linear-Light.jpg",
+  "page": "https://utopialighting.com/product/eb4-direct-indirect-suspended-linear-lighting",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "d59469cb9ab2644d",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "EB4-direct",
+  "nsku": "EB4-direct",
+  "type": "V",
+  "file": "EB4-direct-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/983_EB4-direct-Suspended-Linear-Light.jpg",
+  "page": "https://utopialighting.com/product/eb4-direct-suspended-linear-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "d59569cb9a32644d",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SIOP LED",
+  "nsku": "SIOPLED",
+  "type": "V",
+  "file": "SIOPLED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/999_SIOP-LED-Curved-Architectural-Linear-Pendant.jpg",
+  "page": "https://utopialighting.com/product/siop-led-curved-linear-pendant",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "94303f3f609f35e0",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Veta 2",
+  "nsku": "Veta2",
+  "type": "V",
+  "file": "Veta2-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1003_Veta2-Architectural-Linear-Pendant.jpg",
+  "page": "https://utopialighting.com/product/veta-2-suspended-linear-pendant",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "d2126de542cd0df9",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SIOL LED",
+  "nsku": "SIOLLED",
+  "type": "V",
+  "file": "SIOLLED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/995_SIOL-LED-Curved-Architectural-Linear-Pendant.jpg",
+  "page": "https://utopialighting.com/product/siol-led-curved-linear-pendant",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "d7d0613f69c21f30",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 4-Amber",
+  "nsku": "Cube4-Amber",
+  "type": "V",
+  "file": "Cube4-Amber-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/973_CUBE4-AMBER-Suspended-Linear-Light.jpg",
+  "page": "https://utopialighting.com/product/cube-4-amber-suspended-linear-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "d5ea49956a946b91",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "TP LED",
+  "nsku": "TPLED",
+  "type": "V",
+  "file": "TPLED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1001_TP-LED-Architectural-Linear-Pendant.jpg",
+  "page": "https://utopialighting.com/product/tp-led-suspended-linear-pendant",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "d794684b9bb3a60c",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Curva LED",
+  "nsku": "CurvaLED",
+  "type": "V",
+  "file": "CurvaLED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/976_Curva-LED-Suspended-Linear-Pendant.jpg",
+  "page": "https://utopialighting.com/product/curva-led-suspended-linear-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "d7966b8115f5e908",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Veta 1",
+  "nsku": "Veta1",
+  "type": "V",
+  "file": "Veta1-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1002_VETA1-Slim-Profile-Linear-Pendant.jpg",
+  "page": "https://utopialighting.com/product/veta-1-slim-profile-linear-pendant",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "d57d6ad26109123f",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Flat",
+  "nsku": "Flat",
+  "type": "V",
+  "file": "Flat-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/984_Flat-Architectural-Linear-Pendant.jpg",
+  "page": "https://utopialighting.com/product/flat-suspended-linear-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d43a6d92520d6fd2",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 1 Single CCT Wall",
+  "nsku": "Cube1SingleCCTWall",
+  "type": "V",
+  "file": "Cube1SingleCCTWall-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1074_Cube-1-Wall-Mount-Linear-Fixture.jpg",
+  "page": "https://utopialighting.com/product/cube-1-single-cct-wall-mount-architectural-linear-fixture",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d0167aadb8a74c59",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube2-TW Wall",
+  "nsku": "Cube2-TWWall",
+  "type": "V",
+  "file": "Cube2-TWWall-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1075_Cube-2-Architectural-Wall-Mount-Linear-Fixture.jpg",
+  "page": "https://utopialighting.com/product/cube2-tw-tunable-white-linear-wall-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d21a3aa5bcb24e59",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube1-RGBW Wall",
+  "nsku": "Cube1-RGBWWall",
+  "type": "V",
+  "file": "Cube1-RGBWWall-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1074_Cube-1-Wall-Mount-Linear-Fixture.jpg",
+  "page": "https://utopialighting.com/product/cube1-rgbw-linear-wall-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d0167aadb8a74c59",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube1-TW Wall",
+  "nsku": "Cube1-TWWall",
+  "type": "V",
+  "file": "Cube1-TWWall-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1074_Cube-1-Wall-Mount-Linear-Fixture.jpg",
+  "page": "https://utopialighting.com/product/cube1-tw-tunable-white-linear-wall-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d0167aadb8a74c59",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 2 Wall",
+  "nsku": "Cube2Wall",
+  "type": "V",
+  "file": "Cube2Wall-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1075_Cube-2-Architectural-Wall-Mount-Linear-Fixture.jpg",
+  "page": "https://utopialighting.com/product/cube-2-2-inch-linear-wall-mount",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d21a3aa5bcb24e59",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube2-RGBW Wall",
+  "nsku": "Cube2-RGBWWall",
+  "type": "V",
+  "file": "Cube2-RGBWWall-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1075_Cube-2-Architectural-Wall-Mount-Linear-Fixture.jpg",
+  "page": "https://utopialighting.com/product/cube-2-rgbw-2-inch-linear-wall-mount",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d21a3aa5bcb24e59",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 2-WW Wall",
+  "nsku": "Cube2-WWWall",
+  "type": "V",
+  "file": "Cube2-WWWall-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1076_Cube-2-WW-Architectural-Wall-Mount-Linear-Fixture.jpg",
+  "page": "https://utopialighting.com/product/cube-2-ww-2-inch-wall-wash-wall-mount",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d0167aadb8a74c59",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube4-TW Athena Wall",
+  "nsku": "Cube4-TWAthenaWall",
+  "type": "V",
+  "file": "Cube4-TWAthenaWall-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/453_Cube_4_Architectural_Wall_Mount_Linear_Fixture.png",
+  "page": "https://utopialighting.com/product/cube4-tw-athena-tunable-white-linear-wall-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d21a2da598734cf9",
+   "q": 88,
+   "src_px": [
+    1024,
+    1024
+   ],
+   "scale": 0.78125,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube4-TW Wall",
+  "nsku": "Cube4-TWWall",
+  "type": "V",
+  "file": "Cube4-TWWall-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/453_Cube_4_Architectural_Wall_Mount_Linear_Fixture.png",
+  "page": "https://utopialighting.com/product/cube4-tw-tunable-white-linear-wall-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d21a2da598734cf9",
+   "q": 88,
+   "src_px": [
+    1024,
+    1024
+   ],
+   "scale": 0.78125,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube 4 Wall",
+  "nsku": "Cube4Wall",
+  "type": "V",
+  "file": "Cube4Wall-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/453_Cube_4_Architectural_Wall_Mount_Linear_Fixture.png",
+  "page": "https://utopialighting.com/product/cube-4-4-inch-linear-wall-mount",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d21a2da598734cf9",
+   "q": 88,
+   "src_px": [
+    1024,
+    1024
+   ],
+   "scale": 0.78125,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Cube4-RGBW Wall",
+  "nsku": "Cube4-RGBWWall",
+  "type": "V",
+  "file": "Cube4-RGBWWall-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/453_Cube_4_Architectural_Wall_Mount_Linear_Fixture.png",
+  "page": "https://utopialighting.com/product/cube-4-rgbw-4-inch-linear-wall-mount",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d21a2da598734cf9",
+   "q": 88,
+   "src_px": [
+    1024,
+    1024
+   ],
+   "scale": 0.78125,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Linea Wall",
+  "nsku": "LineaWall",
+  "type": "V",
+  "file": "LineaWall-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/459_Linea_Linear_Wall_Mount_Light_Fixture.png",
+  "page": "https://utopialighting.com/product/linea-wall-mount-architectural-linear-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "853d7a5a7225ad19",
+   "q": 88,
+   "src_px": [
+    1024,
+    1024
+   ],
+   "scale": 0.78125,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "EB3 Wall",
+  "nsku": "EB3Wall",
+  "type": "V",
+  "file": "EB3Wall-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1056_EB3-Surface-Mount-Linear-Light.jpg",
+  "page": "https://utopialighting.com/product/eb3-linear-wall-mount-fixture",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ca62f5ca8ab53562",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "EB3-Direct Wall",
+  "nsku": "EB3-DirectWall",
+  "type": "V",
+  "file": "EB3-DirectWall-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1080_EB3-direct-Wall-Mount-Linear-Light.jpg",
+  "page": "https://utopialighting.com/product/eb3-direct-linear-wall-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "d5856aca92b4e54d",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "EB4-Direct/Indirect Wall",
+  "nsku": "EB4-Direct-IndirectWall",
+  "type": "V",
+  "file": "EB4-Direct-IndirectWall-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1081_EB4-direct-indirect-Wall-Mount-Linear-Light.jpg",
+  "page": "https://utopialighting.com/product/eb4-directindirect-linear-wall-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "d5856aca92b4e54d",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "EB4-Direct Wall",
+  "nsku": "EB4-DirectWall",
+  "type": "V",
+  "file": "EB4-DirectWall-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1082_EB4-direct-Wall-Mount-Linear-Light.jpg",
+  "page": "https://utopialighting.com/product/eb4-direct-4-inch-linear-wall-mount",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "d5856aca96b4654d",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Veta 2 Wall",
+  "nsku": "Veta2Wall",
+  "type": "V",
+  "file": "Veta2Wall-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1086_Veta-2-Architectural-Linear-Wall-Mount-Light.jpg",
+  "page": "https://utopialighting.com/product/veta-2-linear-wall-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "d2927fe542450d9d",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Wiodlp LED",
+  "nsku": "WiodlpLED",
+  "type": "V",
+  "file": "WiodlpLED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1087_WIODLP-Direct-Indirect-Linear-Wall-Mount.jpg",
+  "page": "https://utopialighting.com/product/wiodlp-led-diffused-linear-wall-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "dac205bd65cb1e32",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Wiop LED",
+  "nsku": "WiopLED",
+  "type": "V",
+  "file": "WiopLED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1089_Wiop-LED-Direct-Indirect-Architectural-Linear-Wall-Mount.jpg",
+  "page": "https://utopialighting.com/product/wiop-led-diffused-linear-wall-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d5b63460c44f4f99",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "ULW3-2G",
+  "nsku": "ULW3-2G",
+  "type": "V",
+  "file": "ULW3-2G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1107_ULW3-2G-Linear-Wall-Light.jpg",
+  "page": "https://utopialighting.com/product/ulw3-2g-linear-wall-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d2942569ca56b53d",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "ULW4-2G",
+  "nsku": "ULW4-2G",
+  "type": "V",
+  "file": "ULW4-2G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1108_ULW4-2G-Linear-Wall-Light.jpg",
+  "page": "https://utopialighting.com/product/ulw4-2g-linear-wall-mount",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "c595387e2fc0d03d",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "VTD-2G",
+  "nsku": "VTD-2G",
+  "type": "V",
+  "file": "VTD-2G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1185_VTD-Vapor-Tight_LED-Fixture.jpg",
+  "page": "https://utopialighting.com/product/vtd-2g-led-vapor-tight-fixture",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "ace9d3969e3a6830",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "MRHLED",
+  "nsku": "MRHLED",
+  "type": "V",
+  "file": "MRHLED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1181_MRHLED-Emergency-Light.jpg",
+  "page": "https://utopialighting.com/product/mrhled-led-emergency-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "beb4c14b3eb0e446",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "WRHSLED",
+  "nsku": "WRHSLED",
+  "type": "V",
+  "file": "WRHSLED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1172_WRHSLED_Wet_Rated_Gasketed_LED_Remote_Head.jpg",
+  "page": "https://utopialighting.com/product/wrhsled-wet-rated-gasketed-led-remote-head",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "fe52818c6a739d8c",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "USRHLED",
+  "nsku": "USRHLED",
+  "type": "V",
+  "file": "USRHLED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1170_USRHLED_LED_Emergency_Remote_Heads.jpg",
+  "page": "https://utopialighting.com/product/usrhled-led-emergency-remote-heads",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ee5b91a46e5b1984",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "RHSLED",
+  "nsku": "RHSLED",
+  "type": "V",
+  "file": "RHSLED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/2120_RHSLED_LED_Remote_Head.webp",
+  "page": "https://utopialighting.com/product/rhsled-remote-head-w-optional-high-lumen",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ae9691696e96914b",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CAXTEU",
+  "nsku": "CAXTEU",
+  "type": "V",
+  "file": "CAXTEU-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1173_CAXTEU-Chicago-Approved-Steel-LED-Exit-Sign.jpg",
+  "page": "https://utopialighting.com/product/caxteu-chicago-approved-led-exit-sign",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bd35d2da61243e31",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CARELZXTE",
+  "nsku": "CARELZXTE",
+  "type": "V",
+  "file": "CARELZXTE-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1171_CARELZXTE-Chicago-Approved-LED-Recessed-Edge-lit-Exit-Sign.jpg",
+  "page": "https://utopialighting.com/product/carelzxte-chicago-approved-recessed-exit-sign",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bc49cbb434c93a3a",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "NYXTE",
+  "nsku": "NYXTE",
+  "type": "V",
+  "file": "NYXTE-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1184_NYXTE-New-York-Approved-Steel-LED-Exit-Sign.jpg",
+  "page": "https://utopialighting.com/product/nyxte-new-york-approved-led-exit-sign",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af1fc0e093c1693b",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "NYRELZXTE",
+  "nsku": "NYRELZXTE",
+  "type": "V",
+  "file": "NYRELZXTE-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1183_NYRELZXTE-New-York-Approved-LED-Recessed-Edge-lit-Exit-Sign.jpg",
+  "page": "https://utopialighting.com/product/nyrelzxte-new-york-approved-recessed-led-exit-sign",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e37a94c53d1c6263",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CNYXTE",
+  "nsku": "CNYXTE",
+  "type": "V",
+  "file": "CNYXTE-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1174_CNYXTE-NY-Approved-Steel-LED-Exit-Combo.jpg",
+  "page": "https://utopialighting.com/product/cnyxte-new-york-approved-led-exit-combo",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bdcbc33494969361",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "NYELXTEU",
+  "nsku": "NYELXTEU",
+  "type": "V",
+  "file": "NYELXTEU-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1182_NYELXTEU-New-York-Approved-LED-Edge-lit-Exit-Sign.jpg",
+  "page": "https://utopialighting.com/product/nyelxteu-new-york-approved-edge-lit-exit-sign",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "a72dd8f2681f0749",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CWLEZXTEU",
+  "nsku": "CWLEZXTEU",
+  "type": "V",
+  "file": "CWLEZXTEU-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1175_CWLEZXTEU-LED-Emergency-Exit-Combo-Sign.jpg",
+  "page": "https://utopialighting.com/product/cwlezxteu-emergency-exit-combo",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ebc2942d8bb23e52",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CEU",
+  "nsku": "CEU",
+  "type": "V",
+  "file": "CEU-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1148_CEU_Emergency_Exit_Combo.jpg",
+  "page": "https://utopialighting.com/product/ceu-emergency-exit-combo",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b465cb9a364db134",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CKXTE",
+  "nsku": "CKXTE",
+  "type": "V",
+  "file": "CKXTE-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1147_CKXTE_Emergency_Exit_Combo.jpg",
+  "page": "https://utopialighting.com/product/ckxte-emergency-exit-combo",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "f9b1844e5bb57019",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "LPEC",
+  "nsku": "LPEC",
+  "type": "V",
+  "file": "LPEC-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1146_LPEC_Emergency_Exit_Sign.jpg",
+  "page": "https://utopialighting.com/product/lpec-emergency-exit-sign",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e93896cf69b4944a",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CEM",
+  "nsku": "CEM",
+  "type": "V",
+  "file": "CEM-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1137_CEM_Emergency_Exit_Combo.jpg",
+  "page": "https://utopialighting.com/product/cem-emergency-exit-combo",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b49acb64369bc964",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "LEDCXTEU",
+  "nsku": "LEDCXTEU",
+  "type": "V",
+  "file": "LEDCXTEU-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1145_LEDCXTEU_Flame_Retardant_LED_Exit_Combo.jpg",
+  "page": "https://utopialighting.com/product/ledcxteu-flame-retardant-led-exit-combo",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be3c91c3671d1ab0",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "FLPL100-2G-LA",
+  "nsku": "FLPL100-2G-LA",
+  "type": "V",
+  "file": "FLPL100-2G-LA-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1143_FLPL100-2G-LA_Photoluminescent_Exit_Sign.jpg",
+  "page": "https://utopialighting.com/product/flpl100-2g-la-photoluminescent-exit-sign",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af3dd0c28e8d3037",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "FLPL100-2G",
+  "nsku": "FLPL100-2G",
+  "type": "V",
+  "file": "FLPL100-2G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1142_FLPL100-2G_Photoluminescent_Exit_Sign.jpg",
+  "page": "https://utopialighting.com/product/flpl100-2g-photoluminescent-exit-sign",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b438cbcf693134cc",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "FLPL50-F-2G",
+  "nsku": "FLPL50-F-2G",
+  "type": "V",
+  "file": "FLPL50-F-2G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1141_FLPL50-F-2G_Photoluminescent_Exit_Sign.jpg",
+  "page": "https://utopialighting.com/product/flpl50-f-2g-photoluminescent-exit-sign",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ed3992c66d393624",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "FLPL50-2G",
+  "nsku": "FLPL50-2G",
+  "type": "V",
+  "file": "FLPL50-2G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1140_FLPL50-2G_Photoluminescent_Exit_Sign.jpg",
+  "page": "https://utopialighting.com/product/flpl50-2g-photoluminescent-exit-sign",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b0329acdcd9b3266",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "HLWLEZU",
+  "nsku": "HLWLEZU",
+  "type": "V",
+  "file": "HLWLEZU-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1139_HLWLEZU_LED_Exit_Sign_with_Battery.jpg",
+  "page": "https://utopialighting.com/product/hlwlezu-led-exit-sign-with-battery",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b139cecf31386433",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "INDWLEZUNEM",
+  "nsku": "INDWLEZUNEM",
+  "type": "V",
+  "file": "INDWLEZUNEM-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1134_INDWLEZUNEM_NEMA4X_LED_Exit_Sign.jpg",
+  "page": "https://utopialighting.com/product/indwlezunem-nema4x-led-exit-sign",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b869c69669db3065",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "ED",
+  "nsku": "ED",
+  "type": "V",
+  "file": "ED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1151_ED-LED-Emergency-Exit-Sign.jpg",
+  "page": "https://utopialighting.com/product/ed-emergency-exit-sign-with-battery",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ef91906e2b9562c9",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "TED",
+  "nsku": "TED",
+  "type": "V",
+  "file": "TED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1163_TED-LED-Emergency-Exit-Sign.jpg",
+  "page": "https://utopialighting.com/product/ted-led-exit-sign-with-battery",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af1b90e0669b1b2e",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "REL",
+  "nsku": "REL",
+  "type": "V",
+  "file": "REL-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1155_REL-LED-Emergency-Exit-Sign.jpg",
+  "page": "https://utopialighting.com/product/rel-edge-lit-emergency-exit-sign-with-battery",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b96ec691397b4606",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CWEX",
+  "nsku": "CWEX",
+  "type": "V",
+  "file": "CWEX-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1131_CWEX_Wet_Location_LED_Exit_Sign_with_Battery.jpg",
+  "page": "https://utopialighting.com/product/cwex-wet-location-led-exit-sign-with-battery",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ee91c06e9b32e11b",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "EL",
+  "nsku": "EL",
+  "type": "V",
+  "file": "EL-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1149_EL-LED-Emergency-Exit-Sign.jpg",
+  "page": "https://utopialighting.com/product/el-edge-lit-emergency-exit-sign-with-battery",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b92ec6d1392a872d",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "TEL",
+  "nsku": "TEL",
+  "type": "V",
+  "file": "TEL-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1165_TEL-Combo-LED-Emergency-Exit-Sign.jpg",
+  "page": "https://utopialighting.com/product/tel-emergency-exit-sign-with-battery",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ec93936c6c93a16a",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "SXTE",
+  "nsku": "SXTE",
+  "type": "V",
+  "file": "SXTE-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1158_SXTE-Combo-LED-Exit-Sign.jpg",
+  "page": "https://utopialighting.com/product/sxte-steel-emergency-exit-with-battery",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bac0c53f36e069c3",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CEX-2G",
+  "nsku": "CEX-2G",
+  "type": "V",
+  "file": "CEX-2G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1144_CEX-2G-LED-Exit-Light.jpg",
+  "page": "https://utopialighting.com/product/cex-2g-led-emergency-exit-sign",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "a565da9a65653067",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "TCEX",
+  "nsku": "TCEX",
+  "type": "V",
+  "file": "TCEX-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1162_TCEX-Exit-Sign.jpg",
+  "page": "https://utopialighting.com/product/tcex-led-exit-sign",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "eab1954c6c9b3664",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "NYDXR",
+  "nsku": "NYDXR",
+  "type": "V",
+  "file": "NYDXR-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1167_NYDXR_New_York_Approved_Emergency_Light.jpg",
+  "page": "https://utopialighting.com/product/nydxr-new-york-approved-emergency-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bc3cc7c39019393d",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "LEDCAEM",
+  "nsku": "LEDCAEM",
+  "type": "V",
+  "file": "LEDCAEM-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1166_LEDCAEM_Chicago_Approved_LED_Emergency_Light.jpg",
+  "page": "https://utopialighting.com/product/ledcaem-chicago-approved-led-emergency-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ecb4934b93946c3c",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "EM",
+  "nsku": "EM",
+  "type": "V",
+  "file": "EM-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1164_EM_Emergency_Light.jpg",
+  "page": "https://utopialighting.com/product/em-emergency-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "fa85857a5a85a11f",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "REM",
+  "nsku": "REM",
+  "type": "V",
+  "file": "REM-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1161_REM_Emergency_Light.jpg",
+  "page": "https://utopialighting.com/product/rem-emergency-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "eb8b8476799d0e22",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "LEDR-7",
+  "nsku": "LEDR-7",
+  "type": "V",
+  "file": "LEDR-7-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1159_LEDR-7_LED_Recessed_Steel_Emergency_Light.jpg",
+  "page": "https://utopialighting.com/product/ledr-7-led-recessed-steel-emergency-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ec3c96c363c3943c",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "EMRL1",
+  "nsku": "EMRL1",
+  "type": "V",
+  "file": "EMRL1-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1160_EMRL1_Recessed_Emergency_Downlight.jpg",
+  "page": "https://utopialighting.com/product/emrl1-recessed-emergency-downlight",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e63699c96426c6d9",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "LEDTFX-2",
+  "nsku": "LEDTFX-2",
+  "type": "V",
+  "file": "LEDTFX-2-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1157_LEDTFX-2_LED_Wet_Location_Emergency_Light.jpg",
+  "page": "https://utopialighting.com/product/ledtfx-2-led-wet-location-emergency-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e498db63dbcc6430",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "LEDXR",
+  "nsku": "LEDXR",
+  "type": "V",
+  "file": "LEDXR-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1156_LEDXR_LED_High_Output_Industrial_Emergency_Light.jpg",
+  "page": "https://utopialighting.com/product/ledxr-led-high-output-industrial-emergency-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e49e9b6599983474",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "LEDSHEM",
+  "nsku": "LEDSHEM",
+  "type": "V",
+  "file": "LEDSHEM-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1153_LEDSHEM_Emergency_LED_Light.jpg",
+  "page": "https://utopialighting.com/product/ledshem-emergency-led-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b430cbcf33666439",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CEM-2",
+  "nsku": "CEM-2",
+  "type": "V",
+  "file": "CEM-2-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1152_CEM-2_Thermoplastic_Emergency_Light_-_MR16_Halogen.jpg",
+  "page": "https://utopialighting.com/product/cem-2-thermoplastic-emergency-light-pled",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bf85e06a1f85e06a",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "WCEM-2",
+  "nsku": "WCEM-2",
+  "type": "V",
+  "file": "WCEM-2-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1186_WCEM-Wet-Location-Compact-Emergency-Light.jpg",
+  "page": "https://utopialighting.com/product/wcem-2-wet-location-compact-emergency-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "9f45e0a807957b6a",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "DEM",
+  "nsku": "DEM",
+  "type": "V",
+  "file": "DEM-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1176_DEM-Self-Powered-Emergency-Light.jpg",
+  "page": "https://utopialighting.com/product/dem-emergency-led-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ea95856a37954a3c",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "E-1",
+  "nsku": "E-1",
+  "type": "V",
+  "file": "E-1-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1177_E-1-LED-Emergency-Light.jpg",
+  "page": "https://utopialighting.com/product/e-1-led-emergency-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bfa5c4524a99255d",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "HPEM",
+  "nsku": "HPEM",
+  "type": "V",
+  "file": "HPEM-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1178_HPEM-LED-self-powered-emergency-Light.jpg",
+  "page": "https://utopialighting.com/product/hpem-led-emergency-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ec8b932474cb2f34",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "LEDR-2",
+  "nsku": "LEDR-2",
+  "type": "V",
+  "file": "LEDR-2-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1180_LEDR-2-LED-Thermoplastic-Emergency-Light.jpg",
+  "page": "https://utopialighting.com/product/ledr-2-led-thermoplastic-emergency-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ba4ac5351fca604f",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "LEDR-1",
+  "nsku": "LEDR-1",
+  "type": "V",
+  "file": "LEDR-1-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1179_LEDR-1-LED-Thermoplastic-Emergency-Light.jpg",
+  "page": "https://utopialighting.com/product/ledr-1-led-thermoplastic-emergency-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "8b21f4da0a15f5ea",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "AEL",
+  "nsku": "AEL",
+  "type": "V",
+  "file": "AEL-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1168_AEL-Architectural-Emergency-Light.jpg",
+  "page": "https://utopialighting.com/product/ael-architectural-emergency-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b166c799cc989c63",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "Driver Box",
+  "nsku": "DriverBox",
+  "type": "V",
+  "file": "DriverBox-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1865_Driver-Box_Remote_Driver_Box_Front_View.jpg",
+  "page": "https://utopialighting.com/product/driver-box-remote-driver-enclosure",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d2c525badac5253a",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "EMI-2G",
+  "nsku": "EMI-2G",
+  "type": "V",
+  "file": "EMI-2G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1864_EMI-2G_Emergency_LED_Driver_Front_View.jpg",
+  "page": "https://utopialighting.com/product/emi-2g-emergency-led-driver",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "e1e49a9b3364cc99",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "EMG-2G-15W-SDT",
+  "nsku": "EMG-2G-15W-SDT",
+  "type": "V",
+  "file": "EMG-2G-15W-SDT-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1852_EMG-2G-15W-SDT_Emergency_LED_Driver_Front_View.jpg",
+  "page": "https://utopialighting.com/product/emg-2g-15w-sdt-emergency-led-driver",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "b0e4cf9b3165c686",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "EMG-2G-8W-SDT",
+  "nsku": "EMG-2G-8W-SDT",
+  "type": "V",
+  "file": "EMG-2G-8W-SDT-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1851_EMG-2G-8W-SDT_Emergency_LED_Driver_Front_View.jpg",
+  "page": "https://utopialighting.com/product/emg-2g-8w-sdt-emergency-led-driver",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "b0e6ce9861659ab6",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "EMG-2G-25W",
+  "nsku": "EMG-2G-25W",
+  "type": "V",
+  "file": "EMG-2G-25W-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1863_EMG-2G-25W_Emergency_LED_Driver_Front_View.jpg",
+  "page": "https://utopialighting.com/product/emg-2g-25w-emergency-led-driver",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "b99e9667c392f060",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "EMG-2G-20W",
+  "nsku": "EMG-2G-20W",
+  "type": "V",
+  "file": "EMG-2G-20W-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1850_EMG-2G-20W_Emergency_LED_Driver_Front_View.jpg",
+  "page": "https://utopialighting.com/product/emg-2g-20w-emergency-led-driver",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "b0e4ce992969b2e6",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "EMG-2G-15W",
+  "nsku": "EMG-2G-15W",
+  "type": "V",
+  "file": "EMG-2G-15W-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1849_EMG-2G-15W_Emergency_LED_Driver_Front_View.jpg",
+  "page": "https://utopialighting.com/product/emg-2g-15w-emergency-led-driver",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "b0e4cf9b3165c686",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "EMG-2G-8W",
+  "nsku": "EMG-2G-8W",
+  "type": "V",
+  "file": "EMG-2G-8W-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1848_EMG-2G-8W_Emergency_LED_Driver_Front_View.jpg",
+  "page": "https://utopialighting.com/product/emg-2g-8w-emergency-led-driver",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "b0e6ce9861659ab6",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "LCW-3G",
+  "nsku": "LCW-3G",
+  "type": "V",
+  "file": "LCW-3G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1130_LCW-3G_Adjustable_Slim_Wall_Pack.jpg",
+  "page": "https://utopialighting.com/product/lcw-3g-adjustable-slim-wall-pack",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "e4649a9b7393c664",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "UDL7-2G",
+  "nsku": "UDL7-2G",
+  "type": "V",
+  "file": "UDL7-2G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1129_UDL7-2G_LED_Half_Sphere_Wall_Sconce.jpg",
+  "page": "https://utopialighting.com/product/udl7-2g-led-half-sphere-wall-sconce",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "ad34d24b3d347293",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "UDL5-2G",
+  "nsku": "UDL5-2G",
+  "type": "V",
+  "file": "UDL5-2G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1128_UDL5-2G_LED_Wall_Pack.jpg",
+  "page": "https://utopialighting.com/product/udl5-2g-led-wall-pack",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "bd90d24f6c34319b",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "ALW-T",
+  "nsku": "ALW-T",
+  "type": "V",
+  "file": "ALW-T-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1876_ALW-T_LED_Architectural_Wall_Mount_Trapezoid_Front_View.jpg",
+  "page": "https://utopialighting.com/product/alw-t-led-architectural-wall-mount-trapezoid",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "e5e49a9a3963266c",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "ALW-Q",
+  "nsku": "ALW-Q",
+  "type": "V",
+  "file": "ALW-Q-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1875_ALW-Q_LED_Architectural_Wall_Mount_Quartersphere_Front_View.jpg",
+  "page": "https://utopialighting.com/product/alw-q-led-architectural-wall-mount-quartersphere",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "a4e5db9a3c61c626",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "DWP2-5G",
+  "nsku": "DWP2-5G",
+  "type": "V",
+  "file": "DWP2-5G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1125_DWP2_5G_LED_Wall_Pack.jpg",
+  "page": "https://utopialighting.com/product/dwp2-5g-led-wall-pack",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "fac2851f9c3065b5",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "ALW-R",
+  "nsku": "ALW-R",
+  "type": "V",
+  "file": "ALW-R-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1874_ALW-R_LED_Architectural_Wall_Mount_Radius_Front_View.jpg",
+  "page": "https://utopialighting.com/product/alw-r-led-architectural-wall-mount-radius",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "a4e7cb983073e664",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "DWP2-4G",
+  "nsku": "DWP2-4G",
+  "type": "V",
+  "file": "DWP2-4G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1124_DWP2_4G_LED_Wall_Pack.jpg",
+  "page": "https://utopialighting.com/product/dwp2-4g-led-wall-pack",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "bf95c0482fb5945a",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "DWP2-3G",
+  "nsku": "DWP2-3G",
+  "type": "V",
+  "file": "DWP2-3G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/494_DWP2_3G_LED_Wall_Pack.png",
+  "page": "https://utopialighting.com/product/dwp2-3g-led-wall-pack",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "fcd48343343a9e3c",
+   "q": 88,
+   "src_px": [
+    800,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": [
+    "padded from 800x1200 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "DWP1-3G",
+  "nsku": "DWP1-3G",
+  "type": "V",
+  "file": "DWP1-3G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1113_DWP1_3G_LED_Wall_Pack.jpg",
+  "page": "https://utopialighting.com/product/dwp1-3g-led-wall-pack",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "deb861c69c383e34",
+   "q": 76,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "DWP1-2G",
+  "nsku": "DWP1-2G",
+  "type": "V",
+  "file": "DWP1-2G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1112_DWP1_2G_LED_Wall_Pack.jpg",
+  "page": "https://utopialighting.com/product/dwp1-2g-led-wall-pack",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "dfd860c79e383a60",
+   "q": 68,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "MWP1-3G",
+  "nsku": "MWP1-3G",
+  "type": "V",
+  "file": "MWP1-3G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1682_MWP1-3G_Clear_Lens_Front_1.png",
+  "page": "https://utopialighting.com/product/mwp1-3g-mini-led-wall-pack",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "f2b38fce2cc83229",
+   "q": 80,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "LPT1-2G",
+  "nsku": "LPT1-2G",
+  "type": "V",
+  "file": "LPT1-2G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1743_LPT-1-2G_LED_Post_Top_Light_Frosted_Diffuser.jpg",
+  "page": "https://utopialighting.com/product/lpt1-2g-led-post-top-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "a3ec8cb393938c8e",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "LPT-12",
+  "nsku": "LPT-12",
+  "type": "V",
+  "file": "LPT-12-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/972_LPT-12_Post_Top_Light.jpg",
+  "page": "https://utopialighting.com/product/lpt-12-post-top-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "bc3c7371c0c3c5c3",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "LPT-11-2G",
+  "nsku": "LPT-11-2G",
+  "type": "V",
+  "file": "LPT-11-2G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/987_LPT-11-2G-Outdoor-Post-Top-Light.jpg",
+  "page": "https://utopialighting.com/product/lpt-11-2g-post-top-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "a6597a6665a1a5a6",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "LPT-9-2G",
+  "nsku": "LPT-9-2G",
+  "type": "V",
+  "file": "LPT-9-2G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/986_LPT-9-2G-Outdoor-Post-Top-Light.jpg",
+  "page": "https://utopialighting.com/product/lpt-9-2g-post-top-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "b66cc3c3cc8e383c",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "MFL7-2G",
+  "nsku": "MFL7-2G",
+  "type": "V",
+  "file": "MFL7-2G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1637_MFL7-2G_Mini_LED_Flood_Light.jpg",
+  "page": "https://utopialighting.com/product/mfl7-2g-led-flood-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "f898cc6761339b98",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "STL-4G",
+  "nsku": "STL-4G",
+  "type": "V",
+  "file": "STL-4G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/350_STL-4G_Stadium_LED_Projector.png",
+  "page": "https://utopialighting.com/product/stl-4g-stadium-projector-sports-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "b84bc3b5879c306b",
+   "q": 88,
+   "src_px": [
+    800,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": [
+    "padded from 800x1200 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "STL-3G",
+  "nsku": "STL-3G",
+  "type": "V",
+  "file": "STL-3G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/982_STL-3G_Stadium_Projector.jpg",
+  "page": "https://utopialighting.com/product/stl-3g-stadium-projector-or-sports-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "b949c6979cb49992",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "LCF-2G",
+  "nsku": "LCF-2G",
+  "type": "V",
+  "file": "LCF-2G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/979_LCF-2G_Mini_Flood_Light.jpg",
+  "page": "https://utopialighting.com/product/lcf-2g-flood-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "be59c560989e8d69",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "BLD2",
+  "nsku": "BLD2",
+  "type": "V",
+  "file": "BLD2-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1132_BLD2-A-LED-Bollard-Light.jpg",
+  "page": "https://utopialighting.com/product/bld2-led-bollard-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "b3ccc838cc33e633",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "BLD6",
+  "nsku": "BLD6",
+  "type": "V",
+  "file": "BLD6-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1762_BLD6_LED_Bollard_Light_Front_View.jpg",
+  "page": "https://utopialighting.com/product/bld6-led-bollard",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "b34ccc33cc33cccc",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "BLD5",
+  "nsku": "BLD5",
+  "type": "V",
+  "file": "BLD5-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1136_BLD5-A-B-LED-Bollard-Light.jpg",
+  "page": "https://utopialighting.com/product/bld5-led-bollard",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "c689f9c9998d0d66",
+   "q": 82,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "LAL",
+  "nsku": "LAL",
+  "type": "V",
+  "file": "LAL-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1115_LAL-Shoebox-LED-Area-Light.jpg",
+  "page": "https://utopialighting.com/product/lal-led-area-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "807fee80137fe8c8",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "LSL-4G",
+  "nsku": "LSL-4G",
+  "type": "V",
+  "file": "LSL-4G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1122_LSL-4G-LED-Shoebox-Area-Light.jpg",
+  "page": "https://utopialighting.com/product/lsl-4g-led-area-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "9a4ac43d3df45263",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "LAP-3G",
+  "nsku": "LAP-3G",
+  "type": "V",
+  "file": "LAP-3G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1117_LAP-3G-LED-Shoebox-Area-Light.jpg",
+  "page": "https://utopialighting.com/product/lap-3g-led-area-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "bf60c09f185b7b60",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "LAP-2G",
+  "nsku": "LAP-2G",
+  "type": "V",
+  "file": "LAP-2G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1116_LAP-2G-LED-Shoebox-Area-Light.jpg",
+  "page": "https://utopialighting.com/product/lap-2g-led-area-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "927acc853778e82b",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "ULW4-2G-BED",
+  "nsku": "ULW4-2G-BED",
+  "type": "V",
+  "file": "ULW4-2G-BED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1931_ULW4-2G-BED_Both.png",
+  "page": "https://utopialighting.com/product/ulw4-2g-bed-overbed-bi-directional-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "80e93f17c0a91f57",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "ODW LED",
+  "nsku": "ODWLED",
+  "type": "V",
+  "file": "ODWLED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1083_ODW-LED-Wall-Sconce.jpg",
+  "page": "https://utopialighting.com/product/odw-led-wall-sconce",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "cd79326532669a66",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "SBW-2G LED",
+  "nsku": "SBW-2GLED",
+  "type": "V",
+  "file": "SBW-2GLED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1596_SBW-2G-LED-Architectural-Wall-Mount-Light.jpg",
+  "page": "https://utopialighting.com/product/sbw-2g-led-architectural-wall-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "83127c3c7c3c3c6d",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "SVL LED",
+  "nsku": "SVLLED",
+  "type": "V",
+  "file": "SVLLED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1085_SVL-LED-Linear-Wall-Mount-Light.jpg",
+  "page": "https://utopialighting.com/product/svl-led-wall-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d5956f6ac2953560",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "Wiol LED",
+  "nsku": "WiolLED",
+  "type": "V",
+  "file": "WiolLED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1088_Wiol-LED-Direct-Indirect-Wall-Mount.jpg",
+  "page": "https://utopialighting.com/product/wiol-led-diffused-wall-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "96923676e0644f5d",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "Rondo 2-Direct/Indirect Wall",
+  "nsku": "Rondo2-Direct-IndirectWall",
+  "type": "V",
+  "file": "Rondo2-Direct-IndirectWall-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1940_Rondo2-Round-Linear-WallMount-Light_White.png",
+  "page": "https://utopialighting.com/product/rondo-2-directindirect-round-wall-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "9275aceb1b34e40b",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "Rondo2-RGBW Wall",
+  "nsku": "Rondo2-RGBWWall",
+  "type": "V",
+  "file": "Rondo2-RGBWWall-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1939_Rondo2-Round-Linear-WallMount-Light.png",
+  "page": "https://utopialighting.com/product/rondo-2-rgbw-round-wall-mount-fixture",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "8a6f95136ae4951b",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "Rondo 2 Wall",
+  "nsku": "Rondo2Wall",
+  "type": "V",
+  "file": "Rondo2Wall-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1939_Rondo2-Round-Linear-WallMount-Light.png",
+  "page": "https://utopialighting.com/product/rondo-2-round-wall-mount-fixture",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "8a6f95136ae4951b",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "Rondo2-TW Wall",
+  "nsku": "Rondo2-TWWall",
+  "type": "V",
+  "file": "Rondo2-TWWall-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1939_Rondo2-Round-Linear-WallMount-Light.png",
+  "page": "https://utopialighting.com/product/rondo2-tw-tunable-white-round-wall-mount-fixture",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "8a6f95136ae4951b",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "SIOL Lens",
+  "nsku": "SIOLLens",
+  "type": "V",
+  "file": "SIOLLens-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/997_SIOL-Lens-Curved-Linear-Pendant-Light.jpg",
+  "page": "https://utopialighting.com/product/siol-lens-curved-led-pendant",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "d79068cb9fb0644e",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "LEDUC-2G-E",
+  "nsku": "LEDUC-2G-E",
+  "type": "V",
+  "file": "LEDUC-2G-E-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1071_LEDUC-2G-E-Under-Cabinet-Surface-Luminaire.jpg",
+  "page": "https://utopialighting.com/product/leduc-2g-e-undercabinet-led-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "d5ca6ab599ca40e9",
+   "q": 82,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "VR8 LED",
+  "nsku": "VR8LED",
+  "type": "V",
+  "file": "VR8LED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1073_VR8-LED-Heavy-Duty-Industrial-LED-Strip.jpg",
+  "page": "https://utopialighting.com/product/vr8-led-heavy-duty-industrial-strip",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "e9e9498db4949696",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "VR6 LED",
+  "nsku": "VR6LED",
+  "type": "V",
+  "file": "VR6LED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1111_VR6_LED_Surface_Mount_Fixture.jpg",
+  "page": "https://utopialighting.com/product/vr6-led-surface-mount-fixture",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "ffe0423f61c41e70",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "SM LED",
+  "nsku": "SMLED",
+  "type": "V",
+  "file": "SMLED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1684_SM_LED_Light_1.png",
+  "page": "https://utopialighting.com/product/sm-led-surface-mount-fixture",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d7d06863979c6869",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "VR9 LED",
+  "nsku": "VR9LED",
+  "type": "V",
+  "file": "VR9LED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1685_VR9_LED_Light_1_V2.png",
+  "page": "https://utopialighting.com/product/vr9-led-surface-mount-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d1b56ec09d3960ce",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "ELS-2G",
+  "nsku": "ELS-2G",
+  "type": "V",
+  "file": "ELS-2G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/431_ELS-2G_Surface_Mount_LED_Strip.png",
+  "page": "https://utopialighting.com/product/els-2g-surface-mount-led-strip",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d595634b9ab2a68c",
+   "q": 88,
+   "src_px": [
+    1024,
+    1024
+   ],
+   "scale": 0.78125,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "LDW-2G",
+  "nsku": "LDW-2G",
+  "type": "V",
+  "file": "LDW-2G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1091_LDW-2G_Enclosed_and_Gasket_Fixture.jpg",
+  "page": "https://utopialighting.com/product/ldw-2g-enclosed-and-gasket-fixture",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d698608fb4e54f58",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "DW-LP",
+  "nsku": "DW-LP",
+  "type": "V",
+  "file": "DW-LP-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1055_DW-LP-Enclosed-and-Gasket-Surface-Mount-Light.jpg",
+  "page": "https://utopialighting.com/product/dw-lp-enclosed-and-gasket-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d5bd68ca9ab0a50d",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "DW-2G Surface",
+  "nsku": "DW-2GSurface",
+  "type": "V",
+  "file": "DW-2GSurface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1949_DW-2G_LED_Enclosed_Gasket_Surface_Mount_Fixture.jpg",
+  "page": "https://utopialighting.com/product/dw-2g-led-enclosed-and-gasket-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "f69e13684e922a4f",
+   "q": 82,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "DW LED Surface",
+  "nsku": "DWLEDSurface",
+  "type": "V",
+  "file": "DWLEDSurface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1948_DW_LED_Surface_Mount_Enclosed_Fixture.jpg",
+  "page": "https://utopialighting.com/product/dw-led-enclosed-and-gasket-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "d5bd6f425a1a222d",
+   "q": 85,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "SDI LED Surface",
+  "nsku": "SDILEDSurface",
+  "type": "V",
+  "file": "SDILEDSurface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1059_SDI-Surface-Mount-Light.jpg",
+  "page": "https://utopialighting.com/product/sdi-led-surface-mount-led-luminaire",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d6e8699387cc4a63",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "Veta 2 Surface",
+  "nsku": "Veta2Surface",
+  "type": "V",
+  "file": "Veta2Surface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1061_Veta2-Architectural-Linear-Surface-Mount-Light.jpg",
+  "page": "https://utopialighting.com/product/veta-2-surface-mount-led-luminaire",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "d2926de142cd0dbd",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "EB4-Direct Surface",
+  "nsku": "EB4-DirectSurface",
+  "type": "V",
+  "file": "EB4-DirectSurface-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1058_EB4-Surface-Mount-Architectural-Linear-Light.jpg",
+  "page": "https://utopialighting.com/product/eb4-direct-surface-mount-led-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "d5856aca96b4654d",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "MCR",
+  "nsku": "MCR",
+  "type": "V",
+  "file": "MCR-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/931_MCR.jpg",
+  "page": "https://utopialighting.com/product/mcr-pendant-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "c1037e3c5a347ec3",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "Icicle",
+  "nsku": "Icicle",
+  "type": "V",
+  "file": "Icicle-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1933_ICICLE_2FT_Light_on.png",
+  "page": "https://utopialighting.com/product/icicle-pendant-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d9776659668866c8",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "Frame LED",
+  "nsku": "FrameLED",
+  "type": "V",
+  "file": "FrameLED-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1018_Frame-LED-Recessed-Lay-In-Light.jpg",
+  "page": "https://utopialighting.com/product/frame-led-t-bar-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "fa8da5385e33608e",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "RFDL",
+  "nsku": "RFDL",
+  "type": "V",
+  "file": "RFDL-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1759_RFDL_LED_Round_Flat_Disk_Light_Front_View.jpg",
+  "page": "https://utopialighting.com/product/rfdl-led-round-flat-disk-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "c0bc3fc1709a70db",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "LMD3",
+  "nsku": "LMD3",
+  "type": "V",
+  "file": "LMD3-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1713_LMD3.png",
+  "page": "https://utopialighting.com/product/lmd3-architectural-downlight-round-square",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "debe4aca309c85e1",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "LJD",
+  "nsku": "LJD",
+  "type": "V",
+  "file": "LJD-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1072_LJD-Commercial-Downlight.jpg",
+  "page": "https://utopialighting.com/product/ljd-4-to-10-inch-commercial-downlight",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "d6b661c469994d63",
+   "q": 85,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "LAD8A",
+  "nsku": "LAD8A",
+  "type": "V",
+  "file": "LAD8A-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1068_1068_LAD8A-8-Inch-LED-Downlight.jpg",
+  "page": "https://utopialighting.com/product/lad8a-8-inch-commercial-downlight",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "f6a7d81927c27099",
+   "q": 80,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "LAD6C",
+  "nsku": "LAD6C",
+  "type": "V",
+  "file": "LAD6C-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1067_LAD6C-Commercial-Frame-In-Downlight.jpg",
+  "page": "https://utopialighting.com/product/lad6c-6-inch-commercial-downlight",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "ec93c16c3b93cc4c",
+   "q": 82,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "LAD6A",
+  "nsku": "LAD6A",
+  "type": "V",
+  "file": "LAD6A-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1066_LAD6A-6-inch-Commercial-Downlight.jpg",
+  "page": "https://utopialighting.com/product/lad6a-6-inch-led-downlight",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "f7e7d81827c2702c",
+   "q": 76,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "LAD4C",
+  "nsku": "LAD4C",
+  "type": "V",
+  "file": "LAD4C-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1065_LAD4C-Horizontal-Architectural-Downlight.jpg",
+  "page": "https://utopialighting.com/product/lad4c-4-inch-commercial-downlight",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "fc83c36c3b93cc28",
+   "q": 76,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "LAD-RGBW",
+  "nsku": "LAD-RGBW",
+  "type": "V",
+  "file": "LAD-RGBW-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1064_LAD4A-Horizontal-Architectural-Downlight.jpg",
+  "page": "https://utopialighting.com/product/lad-rgbw-downlight",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "f7a7c0d82dc79230",
+   "q": 82,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "LAD4A",
+  "nsku": "LAD4A",
+  "type": "V",
+  "file": "LAD4A-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1064_LAD4A-Horizontal-Architectural-Downlight.jpg",
+  "page": "https://utopialighting.com/product/lad4a-4-inch-downlight",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "f7a7c0d82dc79230",
+   "q": 82,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "LAD-2G",
+  "nsku": "LAD-2G",
+  "type": "V",
+  "file": "LAD-2G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1063_LAD-2G-Commercial-LED-Downlight.jpg",
+  "page": "https://utopialighting.com/product/lad-2g-4-and-6-inch-commercial-frame-in-downlight",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 2,
+   "phash": "ffb3e0c80d2470da",
+   "q": 82,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "LCT-2G",
+  "nsku": "LCT-2G",
+  "type": "V",
+  "file": "LCT-2G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1118_LCT-2G-Square-LED-Canopy-Light.jpg",
+  "page": "https://utopialighting.com/product/lct-2g-square-led-canopy-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "8c1df6e248c13737",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "LRC-3G",
+  "nsku": "LRC-3G",
+  "type": "V",
+  "file": "LRC-3G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1120_LRC-3G-LED-Canopy-Light.jpg",
+  "page": "https://utopialighting.com/product/lrc-3g-round-led-canopy-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d52b2bd4d44a0b3d",
+   "q": 85,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "LRC-2G",
+  "nsku": "LRC-2G",
+  "type": "V",
+  "file": "LRC-2G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1119_LRC-2G-LED-Canopy.jpg",
+  "page": "https://utopialighting.com/product/lrc-2g-round-led-canopy-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d03e3bd1d1694a96",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_3",
+  "sku": "LSC-3G",
+  "nsku": "LSC-3G",
+  "type": "V",
+  "file": "LSC-3G-V.jpg",
+  "url": "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1098_LSC-3G-Surface-Mount-LED-Canopy.jpg",
+  "page": "https://utopialighting.com/product/lsc-3g-square-led-canopy-light",
+  "origin": "utopialighting.com",
+  "info": {
+   "status": "OK",
+   "cls": 3,
+   "phash": "d92ee4951b6ae584",
+   "q": 88,
+   "src_px": [
+    1200,
+    1200
+   ],
+   "scale": 0.6666666666666666,
+   "notes": []
+  }
+ }
+]
