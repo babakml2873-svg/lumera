@@ -1,0 +1,958 @@
+[
+ {
+  "list": "List_4",
+  "sku": "RDF2",
+  "nsku": "RDF2",
+  "type": "V",
+  "file": "RDF2-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/files/RDF2_1024x1024_91339750-01e8-43d2-8b87-c63f2a6ae773.webp",
+  "page": "https://sonicelectric.com/products/airzone-fire-radiation-damper-for-snp-and-snpd-series-fans-only",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bb33e5c1da0c0d3a",
+   "q": 88,
+   "src_px": [
+    553,
+    472
+   ],
+   "scale": 1.4466546112115732,
+   "notes": [
+    "upscaled x1.45 from 553x472 (best verified source available)",
+    "padded from 553x472 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SNPD100MHL2",
+  "nsku": "SNPD100MHL2",
+  "type": "V",
+  "file": "SNPD100MHL2-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/files/AirzoneSNPD-SonicElectric_107424c2-673b-4025-8314-368adef957af.png",
+  "page": "https://sonicelectric.com/products/airzone-snpd100l2-premium-ventilation-fan-with-led-light-and-motion-and-humidity-sensor-110-cfm-0-7-sones",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b03093cecec9cdc5",
+   "q": 88,
+   "src_px": [
+    1317,
+    836
+   ],
+   "scale": 0.6074411541381929,
+   "notes": [
+    "padded from 1317x836 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SNPD100L2",
+  "nsku": "SNPD100L2",
+  "type": "V",
+  "file": "SNPD100L2-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/files/AirzoneSNPD-SonicElectric.png",
+  "page": "https://sonicelectric.com/products/airzone-snpd100l2-premium-ventilation-fan-with-led-light-and-motion-sensor-110-cfm-0-7-sones",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b03093cecec9cdc5",
+   "q": 88,
+   "src_px": [
+    1317,
+    836
+   ],
+   "scale": 0.6074411541381929,
+   "notes": [
+    "padded from 1317x836 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SNPD100MH",
+  "nsku": "SNPD100MH",
+  "type": "V",
+  "file": "SNPD100MH-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/files/AirzoneSNPD100PremiumVentilationFan-110CFM_0.7Sones-SONICELECTRIC_c9bbb7db-87c3-4117-ac86-53ec9ad151d4.png",
+  "page": "https://sonicelectric.com/products/airzone-snpd100mh-premium-ventilation-fan-with-motion-sensor-and-humidity-sensor-110-cfm-0-7-sones",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b13193c6cecccdc2",
+   "q": 88,
+   "src_px": [
+    533,
+    359
+   ],
+   "scale": 1.5009380863039399,
+   "notes": [
+    "upscaled x1.50 from 533x359 (best verified source available)",
+    "padded from 533x359 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SNPD100M",
+  "nsku": "SNPD100M",
+  "type": "V",
+  "file": "SNPD100M-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/files/AirzoneSNPD100PremiumVentilationFan-110CFM_0.7Sones-SONICELECTRIC_b664875c-cbff-473e-a93c-629e34d5572b.png",
+  "page": "https://sonicelectric.com/products/airzone-snpd100m-premium-ventilation-fan-with-motion-sensor-110-cfm-0-7-sones",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b13193c6cecccdc2",
+   "q": 88,
+   "src_px": [
+    533,
+    359
+   ],
+   "scale": 1.5009380863039399,
+   "notes": [
+    "upscaled x1.50 from 533x359 (best verified source available)",
+    "padded from 533x359 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SNPD100H",
+  "nsku": "SNPD100H",
+  "type": "V",
+  "file": "SNPD100H-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/files/AirzoneSNPD100PremiumVentilationFan-110CFM_0.7Sones-SONICELECTRIC_cf579c0a-012e-4278-b858-0b2b540fccdd.png",
+  "page": "https://sonicelectric.com/products/airzone-snpd100h-premium-ventilation-fan-with-humidity-sensor-110-cfm-0-7-sones",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b13193c6cecccdc2",
+   "q": 88,
+   "src_px": [
+    533,
+    359
+   ],
+   "scale": 1.5009380863039399,
+   "notes": [
+    "upscaled x1.50 from 533x359 (best verified source available)",
+    "padded from 533x359 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SNPD100",
+  "nsku": "SNPD100",
+  "type": "V",
+  "file": "SNPD100-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/files/AirzoneSNPD100PremiumVentilationFan-110CFM_0.7Sones-SONICELECTRIC.png",
+  "page": "https://sonicelectric.com/products/airzone-snpd100-premium-ventilation-fan-110-cfm-0-7-sones",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b13193c6cecccdc2",
+   "q": 88,
+   "src_px": [
+    533,
+    359
+   ],
+   "scale": 1.5009380863039399,
+   "notes": [
+    "upscaled x1.50 from 533x359 (best verified source available)",
+    "padded from 533x359 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SNPLEDLK",
+  "nsku": "SNPLEDLK",
+  "type": "V",
+  "file": "SNPLEDLK-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/files/15_64f8e95c-d791-4f7e-9eee-304132e9bcc9.jpg",
+  "page": "https://sonicelectric.com/products/airzone-11w-led-light-kit-fits-snp-and-snpd-series-fans",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b138c7c74e783133",
+   "q": 88,
+   "src_px": [
+    2000,
+    2000
+   ],
+   "scale": 0.4,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SNPLEDLK",
+  "nsku": "SNPLEDLK",
+  "type": "G",
+  "file": "SNPLEDLK-G-01.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/files/SNP50SNP80SNP100AirzoneFans_0d05d259-d5fb-4525-a1d4-3966fbe45160.png",
+  "page": "https://sonicelectric.com/products/airzone-11w-led-light-kit-fits-snp-and-snpd-series-fans",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b030c7c7cecc3933",
+   "q": 88,
+   "src_px": [
+    503,
+    400
+   ],
+   "scale": 1.5904572564612327,
+   "notes": [
+    "upscaled x1.59 from 503x400 (best verified source available)",
+    "padded from 503x400 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SNP80H-100H",
+  "nsku": "SNP80H-100H",
+  "type": "V",
+  "file": "SNP80H-100H-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/products/SNP50SNP80SNP100AirzoneFans_2d483d2b-067d-46c0-9c73-7bd994540498.png",
+  "page": "https://sonicelectric.com/products/airzone-snp80h-80-cfm-quiet-ac-motor-ventilation-fan-with-humidity",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b030c7c7cecc3933",
+   "q": 88,
+   "src_px": [
+    503,
+    400
+   ],
+   "scale": 1.5904572564612327,
+   "notes": [
+    "upscaled x1.59 from 503x400 (best verified source available)",
+    "padded from 503x400 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SNP80-100",
+  "nsku": "SNP80-100",
+  "type": "V",
+  "file": "SNP80-100-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/products/SNP50SNP80SNP100AirzoneFans_56e87a3c-5604-4eaf-a50e-32fd4998237d.png",
+  "page": "https://sonicelectric.com/products/airzone-snp80-80-cfm-quiet-ac-motor-ventilation-fan",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b030c7c7cecc3933",
+   "q": 88,
+   "src_px": [
+    503,
+    400
+   ],
+   "scale": 1.5904572564612327,
+   "notes": [
+    "upscaled x1.59 from 503x400 (best verified source available)",
+    "padded from 503x400 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SEPD140H-3L",
+  "nsku": "SEPD140H-3L",
+  "type": "V",
+  "file": "SEPD140H-3L-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/products/airzone-sepd140h-3l-high-cfm-ventilation-fan-with-dual-motor-and-light-644257.png",
+  "page": "https://sonicelectric.com/products/airzone-seps140h-3l-high-cfm-ventilation-fan-with-dual-motor",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bc3ec3c3ce1d1960",
+   "q": 88,
+   "src_px": [
+    607,
+    430
+   ],
+   "scale": 1.3179571663920921,
+   "notes": [
+    "upscaled x1.32 from 607x430 (best verified source available)",
+    "padded from 607x430 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SEPD140H-L2",
+  "nsku": "SEPD140H-L2",
+  "type": "V",
+  "file": "SEPD140H-L2-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/files/airzone-sepd140mh-3l-high-cfm-ventilation-fan-with-dual-motor-light-and-motion-sensor-424495_795e4e80-8c1f-426a-8038-ed961a5b031d.png",
+  "page": "https://sonicelectric.com/products/airzone-sepd140h-l2-ventilation-fan-with-led-light-and-humidity-sensor-140-cfm-0-3-sones",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bc3ec3c3ce1d1960",
+   "q": 88,
+   "src_px": [
+    607,
+    430
+   ],
+   "scale": 1.3179571663920921,
+   "notes": [
+    "upscaled x1.32 from 607x430 (best verified source available)",
+    "padded from 607x430 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SEPD140MH-3L",
+  "nsku": "SEPD140MH-3L",
+  "type": "V",
+  "file": "SEPD140MH-3L-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/products/airzone-sepd140mh-3l-high-cfm-ventilation-fan-with-dual-motor-light-and-motion-sensor-424495.png",
+  "page": "https://sonicelectric.com/products/copy-of-airzone-sepd140mh-3l-high-cfm-ventilation-fan-with-dual-motor-light-and-motion-sensor",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bc3ec3c3ce1d1960",
+   "q": 88,
+   "src_px": [
+    607,
+    430
+   ],
+   "scale": 1.3179571663920921,
+   "notes": [
+    "upscaled x1.32 from 607x430 (best verified source available)",
+    "padded from 607x430 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SEPD140MH-3",
+  "nsku": "SEPD140MH-3",
+  "type": "V",
+  "file": "SEPD140MH-3-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/files/Airzone-SonicElectric_bbdce166-c332-4398-be6d-f9bc1268ffb1.png",
+  "page": "https://sonicelectric.com/products/airzone-sepd140mh-3-ventilation-fan-with-motion-and-humidity-sensor-140-cfm-0-3-sones",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b038c7c7cece3131",
+   "q": 88,
+   "src_px": [
+    607,
+    545
+   ],
+   "scale": 1.3179571663920921,
+   "notes": [
+    "upscaled x1.32 from 607x545 (best verified source available)",
+    "padded from 607x545 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SEPD140H-3",
+  "nsku": "SEPD140H-3",
+  "type": "V",
+  "file": "SEPD140H-3-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/files/airzone-sepd140mh-3l-high-cfm-ventilation-fan-with-dual-motor-light-and-motion-sensor-424495_69c5ca43-696e-4269-8e87-22a9c14f214c.png",
+  "page": "https://sonicelectric.com/products/airzone-sepd140h-3-ventilation-fan-with-humidity-sensor-140-cfm-0-3-sones",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bc3ec3c3ce1d1960",
+   "q": 88,
+   "src_px": [
+    607,
+    430
+   ],
+   "scale": 1.3179571663920921,
+   "notes": [
+    "upscaled x1.32 from 607x430 (best verified source available)",
+    "padded from 607x430 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SED500",
+  "nsku": "SED500",
+  "type": "V",
+  "file": "SED500-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/products/airzone-sed500-high-cfm-ventilation-fan-with-dual-motor-683735.png",
+  "page": "https://sonicelectric.com/products/airzone-sed500-high-cfm-ventilation-fan-with-dual-motor",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be1ec0e0c29f199d",
+   "q": 88,
+   "src_px": [
+    1144,
+    980
+   ],
+   "scale": 0.6993006993006993,
+   "notes": [
+    "padded from 1144x980 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SED400",
+  "nsku": "SED400",
+  "type": "V",
+  "file": "SED400-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/products/airzone-sed400-high-cfm-ventilation-fan-with-dual-motor-436187.png",
+  "page": "https://sonicelectric.com/products/airzone-sed400-high-cfm-ventilation-fan-with-dual-motor",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be1ec0e0c29f199d",
+   "q": 88,
+   "src_px": [
+    1144,
+    980
+   ],
+   "scale": 0.6993006993006993,
+   "notes": [
+    "padded from 1144x980 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SEPD300",
+  "nsku": "SEPD300",
+  "type": "V",
+  "file": "SEPD300-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/products/airzone-sepd300-high-cfm-ventilation-fan-with-dual-motor-696496.png",
+  "page": "https://sonicelectric.com/products/airzone-sepd300-high-cfm-ventilation-fan-with-dual-motor",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bc3cc3c3c69e1919",
+   "q": 88,
+   "src_px": [
+    1298,
+    994
+   ],
+   "scale": 0.6163328197226502,
+   "notes": [
+    "padded from 1298x994 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SEPD200",
+  "nsku": "SEPD200",
+  "type": "V",
+  "file": "SEPD200-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/products/airzone-sepd200-high-cfm-ventilation-fan-with-dual-motor-937431.png",
+  "page": "https://sonicelectric.com/products/copy-of-airzone-s70-economy-shallow-ventilation-fan-with-ac-motor",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bc3cc3c3c69e1919",
+   "q": 88,
+   "src_px": [
+    1298,
+    994
+   ],
+   "scale": 0.6163328197226502,
+   "notes": [
+    "padded from 1298x994 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "S70",
+  "nsku": "S70",
+  "type": "V",
+  "file": "S70-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/products/airzone-s70-economy-shallow-ventilation-fan-with-ac-motor-541202.jpg",
+  "page": "https://sonicelectric.com/products/airzone-s70-70-cfm-ventilation-fan-with-ac-motor",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bc3c87c7c3983839",
+   "q": 88,
+   "src_px": [
+    852,
+    646
+   ],
+   "scale": 0.9389671361502347,
+   "notes": [
+    "padded from 852x646 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SES-LED-LK",
+  "nsku": "SES-LED-LK",
+  "type": "V",
+  "file": "SES-LED-LK-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/files/airzone-ses80-ultra-shallow-ventilation-fan-315306_6899fa85-a127-4e11-844a-a65d8dd3033e.png",
+  "page": "https://sonicelectric.com/products/airzone-led-light-kit-for-ses-series-4100k",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "eb6b9195a45a5869",
+   "q": 88,
+   "src_px": [
+    670,
+    540
+   ],
+   "scale": 1.1940298507462686,
+   "notes": [
+    "upscaled x1.19 from 670x540 (best verified source available)",
+    "padded from 670x540 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SES80HLED",
+  "nsku": "SES80HLED",
+  "type": "V",
+  "file": "SES80HLED-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/files/AirzoneSES80LEDUltraShallowFanwithLEDLightKit-80CFM.1.1Sones-SonicElectric_388f15ca-be4d-42d6-aa3e-e0e7175e50cb.png",
+  "page": "https://sonicelectric.com/products/airzone-ses80hled-ultra-shallow-fan-with-led-light-kit-and-humidity-sensor-80-cfm-1-1-sones",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ea4a95b5965e4869",
+   "q": 88,
+   "src_px": [
+    1194,
+    812
+   ],
+   "scale": 0.6700167504187605,
+   "notes": [
+    "padded from 1194x812 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SES80LED",
+  "nsku": "SES80LED",
+  "type": "V",
+  "file": "SES80LED-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/files/AirzoneSES80LEDUltraShallowFanwithLEDLightKit-80CFM.1.1Sones-SonicElectric.png",
+  "page": "https://sonicelectric.com/products/airzone-ses80led-ultra-shallow-fan-with-led-light-kit-80-cfm-1-1-sones",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ea4a95b5965e4869",
+   "q": 88,
+   "src_px": [
+    1194,
+    812
+   ],
+   "scale": 0.6700167504187605,
+   "notes": [
+    "padded from 1194x812 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SES80H",
+  "nsku": "SES80H",
+  "type": "V",
+  "file": "SES80H-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/products/airzone-ses80h-ultra-shallow-ventilation-fan-with-humidity-sensor-157443.png",
+  "page": "https://sonicelectric.com/products/airzone-ses80h-ultra-shallow-ventilation-fan-with-humidity-sensor",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "eb6b9195a45a5869",
+   "q": 88,
+   "src_px": [
+    670,
+    540
+   ],
+   "scale": 1.1940298507462686,
+   "notes": [
+    "upscaled x1.19 from 670x540 (best verified source available)",
+    "padded from 670x540 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SES80",
+  "nsku": "SES80",
+  "type": "V",
+  "file": "SES80-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/products/airzone-ses80-ultra-shallow-ventilation-fan-315306.png",
+  "page": "https://sonicelectric.com/products/airzone-ses80-ultra-shallow-ventilation-fan",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "eb6b9195a45a5869",
+   "q": 88,
+   "src_px": [
+    670,
+    540
+   ],
+   "scale": 1.1940298507462686,
+   "notes": [
+    "upscaled x1.19 from 670x540 (best verified source available)",
+    "padded from 670x540 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "RDF3-2",
+  "nsku": "RDF3-2",
+  "type": "V",
+  "file": "RDF3-2-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/files/RDF2_1024x1024_b871784e-7395-45bb-8aa1-11bd44a1aa04.webp",
+  "page": "https://sonicelectric.com/products/airzone-fire-radiation-damper-for-se-series-fans-only",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bb33e5c1da0c0d3a",
+   "q": 88,
+   "src_px": [
+    553,
+    472
+   ],
+   "scale": 1.4466546112115732,
+   "notes": [
+    "upscaled x1.45 from 553x472 (best verified source available)",
+    "padded from 553x472 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SQ-LED-LK",
+  "nsku": "SQ-LED-LK",
+  "type": "V",
+  "file": "SQ-LED-LK-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/products/airzone-10-watt-led-light-kit-cover-only-423273.png",
+  "page": "https://sonicelectric.com/products/copy-of-airzone-fluorescent-light-gu24-23w-lamp-cover-only",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af8db032c2e31fc1",
+   "q": 88,
+   "src_px": [
+    930,
+    752
+   ],
+   "scale": 0.8602150537634409,
+   "notes": [
+    "padded from 930x752 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SE110XL",
+  "nsku": "SE110XL",
+  "type": "V",
+  "file": "SE110XL-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/products/airzone-se110x-ventilation-fan-with-heater-480473.png",
+  "page": "https://sonicelectric.com/products/airzone-se110xl-ventilation-fan-with-heater-led-light",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be3fc3c2c6d88941",
+   "q": 88,
+   "src_px": [
+    500,
+    348
+   ],
+   "scale": 1.6,
+   "notes": [
+    "upscaled x1.60 from 500x348 (best verified source available)",
+    "padded from 500x348 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SE110X",
+  "nsku": "SE110X",
+  "type": "V",
+  "file": "SE110X-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/products/airzone-se110x-ventilation-fan-with-heater-480473.png",
+  "page": "https://sonicelectric.com/products/airzone-se110x-ventilation-fan-with-heater",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be3fc3c2c6d88941",
+   "q": 88,
+   "src_px": [
+    500,
+    348
+   ],
+   "scale": 1.6,
+   "notes": [
+    "upscaled x1.60 from 500x348 (best verified source available)",
+    "padded from 500x348 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SE110PHL2",
+  "nsku": "SE110PHL2",
+  "type": "V",
+  "file": "SE110PHL2-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/files/Airzone-SE90PL2-Ultra-Quiet-AC-Motor-Ventilation-Fan-With-LED-Light_9dae9d0d-c479-4586-b0c3-fe4551b43af2.d4a8b7bd9f8da29fcc51678eced71016.jpg",
+  "page": "https://sonicelectric.com/products/airzone-se110phl2-ultra-quiet-premium-ventilation-fan-with-led-light-and-humidity-sensor-110-cfm-1-2-sones",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b838c7c769383c66",
+   "q": 88,
+   "src_px": [
+    640,
+    640
+   ],
+   "scale": 1.25,
+   "notes": [
+    "upscaled x1.25 from 640x640 (best verified source available)"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SE90PHL2",
+  "nsku": "SE90PHL2",
+  "type": "V",
+  "file": "SE90PHL2-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/files/airzone-se90pl2-ultra-quiet-ac-motor-ventilation-fan-with-led-light-505801_78d9c16e-127d-455b-b950-bb4e99752b3a.png",
+  "page": "https://sonicelectric.com/products/airzone-se90phl2-ultra-quiet-premium-ventilation-fan-with-led-light-and-humidity-sensor-90-cfm-0-7-sones",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b83886c7c39b3939",
+   "q": 88,
+   "src_px": [
+    912,
+    614
+   ],
+   "scale": 0.8771929824561403,
+   "notes": [
+    "padded from 912x614 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SE110PL2",
+  "nsku": "SE110PL2",
+  "type": "V",
+  "file": "SE110PL2-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/products/airzone-se110pl2-ultra-quiet-ac-motor-ventilation-fan-with-led-light-826043.png",
+  "page": "https://sonicelectric.com/products/airzone-se110pl2-ultra-quiet-ac-motor-ventilation-fan-with-led-light",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bc3c86c3c1d8393d",
+   "q": 88,
+   "src_px": [
+    860,
+    664
+   ],
+   "scale": 0.9302325581395349,
+   "notes": [
+    "padded from 860x664 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SE90PL2",
+  "nsku": "SE90PL2",
+  "type": "V",
+  "file": "SE90PL2-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/products/airzone-se90pl2-ultra-quiet-ac-motor-ventilation-fan-with-led-light-505801.png",
+  "page": "https://sonicelectric.com/products/airzone-se90pl2-ultra-quiet-ac-motor-ventilation-fan-with-led-light",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b83886c7c39b3939",
+   "q": 88,
+   "src_px": [
+    912,
+    614
+   ],
+   "scale": 0.8771929824561403,
+   "notes": [
+    "padded from 912x614 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SE110PH",
+  "nsku": "SE110PH",
+  "type": "V",
+  "file": "SE110PH-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/files/AirzoneSE90PH-SE110PH-SonicElectric_0cfe3199-4170-4482-9cb1-4e85f6499764.png",
+  "page": "https://sonicelectric.com/products/airzone-se110ph-premium-fan-with-humidity-sensor-110-cfm-0-7-sones",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be3fc3e0c29809e3",
+   "q": 88,
+   "src_px": [
+    1213,
+    808
+   ],
+   "scale": 0.6595218466611706,
+   "notes": [
+    "padded from 1213x808 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SE90PH",
+  "nsku": "SE90PH",
+  "type": "V",
+  "file": "SE90PH-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/files/AirzoneSE90PH-SE110PH-SonicElectric.png",
+  "page": "https://sonicelectric.com/products/airzone-se90ph-premium-fan-with-humidity-sensor",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be3fc3e0c29809e3",
+   "q": 88,
+   "src_px": [
+    1213,
+    808
+   ],
+   "scale": 0.6595218466611706,
+   "notes": [
+    "padded from 1213x808 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SEP150",
+  "nsku": "SEP150",
+  "type": "V",
+  "file": "SEP150-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/products/airzone-sep150-premium-efficiency-ultra-quiet-ac-motor-ventilation-fan-374633.png",
+  "page": "https://sonicelectric.com/products/airzone-se110p-premium-efficiency-ultra-quiet-ac-motor-ventilation-fan-1",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be3fc3c2c6d88941",
+   "q": 88,
+   "src_px": [
+    500,
+    348
+   ],
+   "scale": 1.6,
+   "notes": [
+    "upscaled x1.60 from 500x348 (best verified source available)",
+    "padded from 500x348 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SE110P",
+  "nsku": "SE110P",
+  "type": "V",
+  "file": "SE110P-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/products/airzone-se110p-premium-efficiency-ultra-quiet-ac-motor-ventilation-fan-495992.png",
+  "page": "https://sonicelectric.com/products/airzone-se110p-premium-efficiency-ultra-quiet-ac-motor-ventilation-fan",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be3fc3c2c6d88941",
+   "q": 88,
+   "src_px": [
+    500,
+    348
+   ],
+   "scale": 1.6,
+   "notes": [
+    "upscaled x1.60 from 500x348 (best verified source available)",
+    "padded from 500x348 aspect"
+   ]
+  }
+ },
+ {
+  "list": "List_4",
+  "sku": "SE90P",
+  "nsku": "SE90P",
+  "type": "V",
+  "file": "SE90P-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/1099/2006/products/airzone-se90p-premium-efficiency-ultra-quiet-ac-motor-ventilation-fan-388805.jpg",
+  "page": "https://sonicelectric.com/products/airzone-se90p-premium-efficiency-ultra-quiet-ac-motor-fan",
+  "origin": "sonicelectric.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be3fc3c2c6d88941",
+   "q": 88,
+   "src_px": [
+    500,
+    348
+   ],
+   "scale": 1.6,
+   "notes": [
+    "upscaled x1.60 from 500x348 (best verified source available)",
+    "padded from 500x348 aspect"
+   ]
+  }
+ }
+]
