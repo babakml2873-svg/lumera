@@ -1,0 +1,1 @@
+arabelalighting.com (official) checked: catalog API is encrypted and images have random names - not usable. Used Lighting New York (lightingnewyork.com, Arabela retailer): per-SKU product image at its brand image path /brand/ara/productimages/<SKU>.jpg (only HTTP 200 image responses accepted). Greer Lighting checked: Cloudflare-blocked.
