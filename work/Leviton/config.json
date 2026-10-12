@@ -1,1 +1,4 @@
-{"max_g": 2}
+{
+ "max_g": 2,
+ "shared_v_check": true
+}
