@@ -1,0 +1,38 @@
+{
+  "brand": "Lew Electric",
+  "official_site": "https://lewelectric.com/ (www redirects)",
+  "reachable": "yes (HTTP 200)",
+  "platform": "WordPress (Yoast, Toolset, Beaver Builder); custom post type 'catalog' (not WooCommerce; wc/store API 404)",
+  "catalog_endpoint": "https://lewelectric.com/catalog-sitemap.xml - 396 URLs https://lewelectric.com/catalog/<sku-lowercase>/ each with <image:loc> (395 have an image). Product pages also have og:image.",
+  "est_products": "396 catalog items",
+  "sku_format_match": "yes - slug = SKU lowercased; 12/12 sample SKUs present as /catalog/<sku>/",
+  "sample_tests": [
+    {
+      "sku": "332-DA",
+      "found": true,
+      "product_url": "https://lewelectric.com/catalog/332-da/",
+      "image_urls": [
+        "https://lewelectric.com/wp-content/uploads/2026/06/332-DA_1000px.jpg"
+      ]
+    },
+    {
+      "sku": "1103-PB",
+      "found": true,
+      "product_url": "https://lewelectric.com/catalog/1103-pb/",
+      "image_urls": [
+        "https://lewelectric.com/wp-content/uploads/2017/07/1103-PB-350px.jpg"
+      ]
+    },
+    {
+      "sku": "PUR2-DB-SF",
+      "found": true,
+      "product_url": "https://lewelectric.com/catalog/pur2-db-sf/",
+      "image_urls": [
+        "https://lewelectric.com/wp-content/uploads/2026/02/Dark-Bronze-extended-flange_PUR2-DB-SF_1000px.jpg"
+      ]
+    }
+  ],
+  "alternatives": [],
+  "recommended_strategy": "Single request: parse catalog-sitemap.xml <url> blocks -> {slug.upper(): image:loc}. Match SKU exactly (case-insensitive). Image sizes vary (some 1000px, older ones 350px); og:image on the page gives the same file.",
+  "blockers": null
+}

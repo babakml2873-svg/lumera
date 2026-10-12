@@ -1,0 +1,162 @@
+{
+  "brand": "Focus Industries",
+  "official_site": "https://focusindustries.com/",
+  "reachable": true,
+  "platform": "WordPress 7.1.3 + WooCommerce 11.2.1 (catalog only, family-level products)",
+  "catalog_endpoint": "https://focusindustries.com/wp-json/wc/store/v1/products?per_page=100&page=1..4 (X-WP-Total: 394, X-WP-TotalPages: 4); fields: id, name, slug, sku (family code e.g. \"SL-09\"), permalink, images[].src. Search: ?search=<family>",
+  "est_products": 394,
+  "est_products_note": "394 family-level products, 340 with a family sku, 1,300 images total; all simple products (no variations)",
+  "sku_format_match": "partial - our SKUs are fully configured part numbers (family + options + finish, e.g. SL09ABNLCAR, RXS11NLBLT); site only has family codes (\"SL-09\", \"RXS-11\"). Match on leading letters+digits (SL09 -> \"SL-09\"/\"SL09\"). Some image filenames encode configured part numbers with finish (RXP03TACL24BRS.jpg, SL02ALLEDPBRS-Product-Render.jpg, PL-01-BLT.jpg) and can be used to pick a finish-appropriate image.",
+  "sample_tests": [
+    {
+      "sku": "CFA26TMS2BRS",
+      "found": false,
+      "match_level": "family-uncertain",
+      "product_url": "https://focusindustries.com/product/mounting-posts-commercial-grade/",
+      "image_urls": [
+        "https://focusindustries.com/wp-content/uploads/2017/01/FA-25-26-39-NPN_0.jpg"
+      ],
+      "note": "no \"CFA26\" product; Store API search \"FA-26\" returns \"Mounting Posts Commercial Grade\" (sku \"FA-25, FA-26\") - plausible family, not confirmed"
+    },
+    {
+      "sku": "RXP03TACL24BAT",
+      "found": true,
+      "match_level": "family",
+      "product_url": "https://focusindustries.com/product/rxp-03-rxp-04/",
+      "image_urls": [
+        "https://focusindustries.com/wp-content/uploads/2017/01/RXP03TACL24BRS.jpg",
+        "https://focusindustries.com/wp-content/uploads/2017/01/RXP03L24BRS.jpg"
+      ],
+      "note": "family RXP-03/RXP-04; config image RXP03TACL24BRS exists (finish BRS, sample is BAT)"
+    },
+    {
+      "sku": "AL05L12BAV",
+      "found": true,
+      "match_level": "family",
+      "product_url": "https://focusindustries.com/product/al-05-ledp/",
+      "image_urls": [
+        "https://focusindustries.com/wp-content/uploads/2016/12/AL-05-LEDP.jpg",
+        "https://focusindustries.com/wp-content/uploads/2016/12/AL-05AH-BAR_16.jpg"
+      ],
+      "note": "family AL-05 (also AL05CP page exists)"
+    },
+    {
+      "sku": "PL01L12BLT",
+      "found": true,
+      "match_level": "family",
+      "product_url": "https://focusindustries.com/product/pl-01-ledp/",
+      "image_urls": [
+        "https://focusindustries.com/wp-content/uploads/2017/01/PL-01-BLT.jpg",
+        "https://focusindustries.com/wp-content/uploads/2017/01/PL-01-BLT_0.jpg"
+      ],
+      "note": "family PL-01; image finish BLT matches sample finish"
+    },
+    {
+      "sku": "SL09ABNLCAR",
+      "found": true,
+      "match_level": "family",
+      "product_url": "https://focusindustries.com/product/sl-09/",
+      "image_urls": [
+        "https://focusindustries.com/wp-content/uploads/2017/01/SL-09-BLT.jpg",
+        "https://focusindustries.com/wp-content/uploads/2017/01/SL-09-AB-WBR.jpg",
+        "https://focusindustries.com/wp-content/uploads/2017/01/SL-09AB-BRS.jpg"
+      ],
+      "note": "family SL-09 (AB = aiming bracket variant images exist; CAR finish not pictured)"
+    },
+    {
+      "sku": "SL02ALLEDPBAR",
+      "found": true,
+      "match_level": "family",
+      "product_url": "https://focusindustries.com/product/sl-02-ledp/",
+      "image_urls": [
+        "https://focusindustries.com/wp-content/uploads/2017/01/SL02ALLEDPBRS-Product-Render.jpg",
+        "https://focusindustries.com/wp-content/uploads/2017/01/SL02LEDP-Product-Render.jpg"
+      ],
+      "note": "family SL-02-LEDP; SL02ALLEDPBRS render (sample finish BAR)"
+    },
+    {
+      "sku": "DL15LEDP412VBRT",
+      "found": true,
+      "match_level": "family",
+      "product_url": "https://focusindustries.com/product/dl15/",
+      "image_urls": [
+        "https://focusindustries.com/wp-content/uploads/2016/12/DL15L12.jpg",
+        "https://focusindustries.com/wp-content/uploads/2016/12/DL-15_BRT_04.jpg"
+      ],
+      "note": "family DL-15; BRT finish image exists"
+    },
+    {
+      "sku": "SL20SMMSMLEDPWBR",
+      "found": true,
+      "match_level": "family",
+      "product_url": "https://focusindustries.com/product/sl-20-smmsm/",
+      "image_urls": [
+        "https://focusindustries.com/wp-content/uploads/2018/01/SL20SMMSMLEDP120VBAR.jpg"
+      ],
+      "note": "family SL20SMMSM"
+    },
+    {
+      "sku": "SL16DPAR20NLBRS",
+      "found": true,
+      "match_level": "family",
+      "product_url": "https://focusindustries.com/product/sl-16d-s/",
+      "image_urls": [
+        "https://focusindustries.com/wp-content/uploads/2017/01/SL-16D-S-BRS_568x618.gif",
+        "https://focusindustries.com/wp-content/uploads/2017/01/SL-16D-S_568x618.jpg"
+      ],
+      "note": "family SL-16D (SL-16D-S page; low-res 568x618)"
+    },
+    {
+      "sku": "SL01NLBRT",
+      "found": true,
+      "match_level": "family",
+      "product_url": "https://focusindustries.com/product/sl-01/",
+      "image_urls": [
+        "https://focusindustries.com/wp-content/uploads/2017/01/SL01LED.jpg"
+      ],
+      "note": "family SL-01"
+    },
+    {
+      "sku": "SL04NLRST",
+      "found": true,
+      "match_level": "family",
+      "product_url": "https://focusindustries.com/product/sl-04/",
+      "image_urls": [
+        "https://focusindustries.com/wp-content/uploads/2017/01/SL-04-COP.jpg",
+        "https://focusindustries.com/wp-content/uploads/2017/01/SL-04-SS_08.jpg"
+      ],
+      "note": "family SL-04 (also SL04LEDP page)"
+    },
+    {
+      "sku": "RXS11NLBLT",
+      "found": true,
+      "match_level": "family",
+      "product_url": "https://focusindustries.com/product/rxs-11/",
+      "image_urls": [
+        "https://focusindustries.com/wp-content/uploads/2017/01/RXS-11-WTX.jpg"
+      ],
+      "note": "family RXS-11"
+    }
+  ],
+  "alternatives": [
+    {
+      "name": "Lumens.com",
+      "url": "https://www.lumens.com/focus-industries/",
+      "platform": "custom (Cloudflare)",
+      "endpoint": null,
+      "tested": true,
+      "notes": "HTTP 403 \"Attention Required! | Cloudflare\" from here."
+    },
+    {
+      "name": "Web search for configured part numbers",
+      "url": null,
+      "platform": null,
+      "endpoint": null,
+      "tested": true,
+      "notes": "Search for SL09ABNLCAR / SL01NLBRT / RXS11NLBLT found only focusindustries.com pages and PDFs - no retailer lists configured part numbers with images."
+    }
+  ],
+  "recommended_strategy": "Fetch the 4 Store API pages (394 products). Build family key = uppercase alnum of product sku/name (e.g. \"SL09\", \"RXP03\", \"DL15\", \"SL20SMMSM\", \"SL02LEDP\"). For each of our SKUs take the longest family key that is a prefix of the normalized SKU (prefer LEDP/variant pages when SKU contains LEDP). Then among that product images pick one whose filename contains the finish code at the SKU end (BLT, BRS, BRT, BAR, CAR, WBR, RST, BAT...) else images[0]. Store as family-level image (flag match_level=family). Skip *_dwg / app-shot images.",
+  "blockers": "No per-SKU (configured part number) images exist anywhere observed; only family images, some with finish variants.",
+  "notes": "Images are full-size JPGs in wp-content/uploads (WordPress also has -600x551 etc. derivatives). No anti-bot observed."
+}

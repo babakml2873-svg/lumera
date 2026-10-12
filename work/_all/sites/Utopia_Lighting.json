@@ -1,0 +1,123 @@
+{
+  "brand": "Utopia Lighting",
+  "official_site": "https://utopialighting.com",
+  "reachable": true,
+  "platform": "Custom PHP site (no Shopify/WooCommerce); front-end search uses JSON endpoint /search/ajax?q= (Algolia-style hits)",
+  "catalog_endpoint": "https://utopialighting.com/search/ajax?q=<model> (JSON: model, product_title, slug, image) ; https://utopialighting.com/sitemap.xml lists 326 /product/ URLs",
+  "est_products": 326,
+  "sku_format_match": "yes - sample SKUs are Utopia model names; site \"model\" field equals them with spaces replaced by hyphens (e.g. \"Wiop LED\" -> Wiop-LED, \"Cube 4-TW Athena Suspended\" -> Cube4-TW-Athena-Suspended). 12/12 matched.",
+  "sample_tests": [
+    {
+      "sku": "Cube 4-TW Athena Suspended",
+      "found": true,
+      "product_url": "https://utopialighting.com/product/cube4-tw-athena-tunable-white-linear-pendant-light",
+      "image_urls": [
+        "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1027_Cube_4_Linear_Surface_Mount_Light.jpg"
+      ],
+      "matched_as": "Cube4-TW-Athena-Suspended"
+    },
+    {
+      "sku": "Wiop LED",
+      "found": true,
+      "product_url": "https://utopialighting.com/product/wiop-led-diffused-linear-wall-mount-light",
+      "image_urls": [
+        "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1089_Wiop-LED-Direct-Indirect-Architectural-Linear-Wall-Mount.jpg"
+      ],
+      "matched_as": "Wiop-LED"
+    },
+    {
+      "sku": "ALW-R",
+      "found": true,
+      "product_url": "https://utopialighting.com/product/alw-r-led-architectural-wall-mount-radius",
+      "image_urls": [
+        "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1874_ALW-R_LED_Architectural_Wall_Mount_Radius_Front_View.jpg"
+      ],
+      "matched_as": "ALW-R"
+    },
+    {
+      "sku": "LAD8A",
+      "found": true,
+      "product_url": "https://utopialighting.com/product/lad8a-8-inch-commercial-downlight",
+      "image_urls": [
+        "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1068_1068_LAD8A-8-Inch-LED-Downlight.jpg"
+      ],
+      "matched_as": "LAD8A"
+    },
+    {
+      "sku": "SS-FW LED",
+      "found": true,
+      "product_url": "https://utopialighting.com/product/ss-fw-led-linear-lowbay",
+      "image_urls": [
+        "https://utopia-us-assets-public.utopialighting.com/assets/products/original/432_SS-FW_LED_Surface_Mount_Linear_Low_Bay.png"
+      ],
+      "matched_as": "SS-FW-LED"
+    },
+    {
+      "sku": "CLFP",
+      "found": true,
+      "product_url": "https://utopialighting.com/product/clfp-clean-room-lay-in-light",
+      "image_urls": [
+        "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1691_CLFP_Thumbnail_Image.jpg"
+      ],
+      "matched_as": "CLFP"
+    },
+    {
+      "sku": "SIOP LED",
+      "found": true,
+      "product_url": "https://utopialighting.com/product/siop-led-curved-linear-pendant",
+      "image_urls": [
+        "https://utopia-us-assets-public.utopialighting.com/assets/products/original/999_SIOP-LED-Curved-Architectural-Linear-Pendant.jpg"
+      ],
+      "matched_as": "SIOP-LED"
+    },
+    {
+      "sku": "Cube 4-Amber",
+      "found": true,
+      "product_url": "https://utopialighting.com/product/cube-4-amber-suspended-linear-light",
+      "image_urls": [
+        "https://utopia-us-assets-public.utopialighting.com/assets/products/original/973_CUBE4-AMBER-Suspended-Linear-Light.jpg"
+      ],
+      "matched_as": "Cube4-Amber"
+    },
+    {
+      "sku": "COVE-RGBW",
+      "found": true,
+      "product_url": "https://utopialighting.com/product/cove-rgbw-led-light",
+      "image_urls": [
+        "https://utopia-us-assets-public.utopialighting.com/assets/products/original/956_COVE-LED-Perimeter-Light.jpg"
+      ],
+      "matched_as": "COVE-RGBW"
+    },
+    {
+      "sku": "LPT-12",
+      "found": true,
+      "product_url": "https://utopialighting.com/product/lpt-12-post-top-light",
+      "image_urls": [
+        "https://utopia-us-assets-public.utopialighting.com/assets/products/original/972_LPT-12_Post_Top_Light.jpg"
+      ],
+      "matched_as": "LPT-12"
+    },
+    {
+      "sku": "DWP2-5G",
+      "found": true,
+      "product_url": "https://utopialighting.com/product/dwp2-5g-led-wall-pack",
+      "image_urls": [
+        "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1125_DWP2_5G_LED_Wall_Pack.jpg"
+      ],
+      "matched_as": "DWP2-5G"
+    },
+    {
+      "sku": "LAD-2G",
+      "found": true,
+      "product_url": "https://utopialighting.com/product/lad-2g-4-and-6-inch-commercial-frame-in-downlight",
+      "image_urls": [
+        "https://utopia-us-assets-public.utopialighting.com/assets/products/original/1063_LAD-2G-Commercial-LED-Downlight.jpg"
+      ],
+      "matched_as": "LAD-2G"
+    }
+  ],
+  "alternatives": [],
+  "recommended_strategy": "For each SKU call /search/ajax?q=<sku> and pick the product hit whose normalized model (alnum lowercase) equals the normalized SKU; take hit.image and replace /medium/ with /original/ (1200x1200 JPG on utopia-us-assets-public.utopialighting.com). Alternatively crawl the 326 product URLs from sitemap.xml and parse assets/products/original/* images.",
+  "blockers": null,
+  "notes": "utopialightinginc.com is a parked/lander domain (JS redirect to /lander), not the brand site."
+}

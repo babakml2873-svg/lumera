@@ -1,0 +1,82 @@
+{
+  "brand": "Lighting Spot 26",
+  "official_site": "https://lightingspot26.com/",
+  "reachable": "yes (HTTP 200; www.lightingspot26.com connection reset - use bare domain). Occasional proxy tunnel drops; retry worked",
+  "platform": "WordPress + WooCommerce (Store API open)",
+  "catalog_endpoint": "https://lightingspot26.com/wp-json/wc/store/v1/products?per_page=100&page=N (X-WP-Total 823, 9 pages; all 'simple' products). Search: ?search=<term>",
+  "est_products": "823 (X-WP-Total)",
+  "sku_format_match": "partial - product 'sku' field is empty or an internal hash-like code (e.g. '6a3287f21eae-2-2-...'); the model number is in product name/slug. Exact name match only 3/12 samples (LS26-COMBO1, LS-SMC-5-C29-11W-5CCT-BL, LS-SUPD-RP24-40WT-4CCT-WH). Several samples use a different notation than the site: LSH-FL300W-5K vs LS-H-FL-300W-50K, LS2-WMB-301-3K vs LS-2-WMB-301-30K, LS26-GLTR36W1X4CCT3 vs LS-GLTR-36W-1X4-3-CCT, LS26-DL4-10W-4K vs LS26-DL-4INCH-10W-4K, LSJ-2-D202-5K vs LS-J-D202, LSL-2-240-27K vs LS-L-2-240, LS26-GU10-COB-7W vs LS-GU10-COB-7W-<CCT>K; LS-SC-KIT-4-BL had no candidate; LS-CS-6SQTL-S-24W-5CCT-BL only as LS-CS-6SQTL-S-24W-5CCT (no color suffix).",
+  "sample_tests": [
+    {
+      "sku": "LS26-COMBO1",
+      "found": true,
+      "product_url": "https://lightingspot26.com/product/ls26-combo1/",
+      "image_urls": [
+        "https://lightingspot26.com/wp-content/uploads/2023/01/combo1.png",
+        "https://lightingspot26.com/wp-content/uploads/2024/11/combo1-1.png"
+      ]
+    },
+    {
+      "sku": "LS-SMC-5-C29-11W-5CCT-BL",
+      "found": true,
+      "product_url": "https://lightingspot26.com/product/ls-smc-5-c29-11w-5cct-bl/",
+      "image_urls": [
+        "https://lightingspot26.com/wp-content/uploads/2026/06/LS-SMC-5-C29-11W-5CCT-Bl_01.default.png"
+      ]
+    },
+    {
+      "sku": "LS-SUPD-RP24-40WT-4CCT-WH",
+      "found": true,
+      "product_url": "https://lightingspot26.com/product/ls-supd-rp24-40wt-4cct-wh/",
+      "image_urls": [
+        "https://lightingspot26.com/wp-content/uploads/2025/09/LS-SUPD-RP24-40WT-4CCT-WH.png"
+      ]
+    },
+    {
+      "sku": "LSH-FL300W-5K",
+      "found": true,
+      "product_url": "https://lightingspot26.com/product/ls-h-fl-300w-50k/",
+      "image_urls": [
+        "https://lightingspot26.com/wp-content/uploads/2022/04/ls-h-fl-300w-50k.jpg"
+      ],
+      "note": "normalized match only (site name LS-H-FL-300W-50K)"
+    },
+    {
+      "sku": "LS26-GLTR36W1X4CCT3",
+      "found": false,
+      "product_url": "https://lightingspot26.com/product/ls-gltr-36w-1x4-3-cct/",
+      "image_urls": [
+        "https://lightingspot26.com/wp-content/uploads/2022/04/ls-gltr-36w-1x4-3-cct.jpg"
+      ],
+      "note": "probable equivalent LS-GLTR-36W-1X4-3-CCT (manual mapping, not an exact SKU)"
+    },
+    {
+      "sku": "LS2-WMB-301-3K",
+      "found": false,
+      "product_url": "https://lightingspot26.com/product/ls-2-wmb-301-30k/",
+      "image_urls": [
+        "https://lightingspot26.com/wp-content/uploads/2022/04/ls-2-wmb-201-30k-50k.jpg"
+      ],
+      "note": "probable equivalent LS-2-WMB-301-30K"
+    },
+    {
+      "sku": "LS-SC-KIT-4-BL",
+      "found": false,
+      "product_url": null,
+      "image_urls": [],
+      "note": "no candidate in 823 products"
+    }
+  ],
+  "alternatives": [
+    {
+      "name": "90 Degree Lighting",
+      "url": "https://90degreelighting.com",
+      "platform": "Shopify",
+      "endpoint": "/products/<handle>.json",
+      "tested": true,
+      "notes": "vendor 'Lighting Spot26' but variant sku empty on the product tested - not usable for SKU matching"
+    }
+  ],
+  "recommended_strategy": "Harvest all 9 pages of the WC Store API (823 products) and index by normalized product name and slug (uppercase, strip '-'/'_'). Match: exact name -> normalized -> rule-based (LS26 prefix vs LS, LSH/LS2/LSJ/LSL -> LS-H/LS-2/LS-J/LS-L, CCT '5K'->'50K','3K'->'30K', '-BL'/'-WH' color suffix dropped, DL4 -> DL-4INCH); use images[0].src (WP originals, some '-scaled'). Expect a meaningful share of the 886 SKUs to need manual mapping or to be absent (only ~4/12 matched automatically).",
+  "blockers": "SKU naming mismatch between Lumera SKU list and manufacturer site (no reliable SKU field). 20 of 823 products have no image."
+}

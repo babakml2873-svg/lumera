@@ -96,7 +96,7 @@ def get(url, as_json=False, timeout=60, retries=3, min_interval=0.4, headers=Non
     return None, None, {"error": err}
 
 
-def download_all(urls, cache_dir, workers=6):
+def download_all(urls, cache_dir, workers=6, headers=None, min_interval=0.15):
     """Download each URL once into cache_dir; returns {url: path or None}. Resumable via index.json."""
     cache_dir = Path(cache_dir); cache_dir.mkdir(parents=True, exist_ok=True)
     idx_p = cache_dir / "index.json"
@@ -106,7 +106,7 @@ def download_all(urls, cache_dir, workers=6):
     def one(u):
         ext = (Path(urlparse(u).path).suffix.lower() or ".img")[:6]
         fn = hashlib.sha1(u.encode()).hexdigest()[:20] + ext
-        code, data, hdr = get(u, timeout=90, min_interval=0.15)
+        code, data, hdr = get(u, timeout=90, min_interval=min_interval, headers=headers)
         ok = code == 200 and data and len(data) > 500 and not data[:15].lstrip().lower().startswith((b"<!doc", b"<html"))
         if ok:
             (cache_dir / fn).write_bytes(data)

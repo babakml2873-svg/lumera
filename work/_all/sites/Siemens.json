@@ -1,0 +1,152 @@
+{
+  "brand": "Siemens",
+  "official_site": "https://www.siemens.com/us/en/ (product catalog: sieportal.siemens.com, formerly mall.industry.siemens.com)",
+  "reachable": false,
+  "platform": "Siemens corporate site (siemens.com homepage 200) but product catalog SiePortal is Akamai-protected",
+  "catalog_endpoint": null,
+  "est_products": "unknown on official site; Breaker Outlet: 1863 products with vendor \"Siemens\" (9688 total)",
+  "sku_format_match": "yes - sample SKUs are Siemens catalog numbers (BQD340, B210, QN2200...); Breaker Outlet variant.sku equals the catalog number (refurbished variants carry \"-R\" suffix)",
+  "sample_tests": [
+    {
+      "sku": "BQD340",
+      "found": true,
+      "product_url": "https://www.breakeroutlet.com/products/bqd340-siemens-bqd-molded-case-circuit-breaker-40-a-3-pole-480-v-ac-bqd-100a-frame-thermal-magnetic-load-lug-14-ka",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/BQD340_1_072dde09-16cb-44e7-baf4-46e6349b6e05.jpg?v=1783680121",
+        "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/BQD340_2_1258c67a-b3c1-4ce0-8bb3-eea852db7f66.jpg?v=1783680121",
+        "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/BQD340_3_b7f775c0-9295-4ed1-843c-46760d14b6cb.jpg?v=1783680121"
+      ],
+      "source": "breakeroutlet.com"
+    },
+    {
+      "sku": "B210",
+      "found": false,
+      "product_url": null,
+      "image_urls": [],
+      "source": "breakeroutlet.com"
+    },
+    {
+      "sku": "B125",
+      "found": false,
+      "product_url": null,
+      "image_urls": [],
+      "source": "breakeroutlet.com"
+    },
+    {
+      "sku": "BQ3B050",
+      "found": true,
+      "product_url": "https://www.breakeroutlet.com/products/bq3b050-siemens-bq-molded-case-circuit-breaker-50-a-3-pole-240-v-ac-thermal-magnetic-load-side-lug-10-ka",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/BQ3B050_1_8ee365f9-cbbe-4ab4-b481-225ad4d7da41.jpg?v=1783679954",
+        "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/BQ3B050_2_082ffffb-269c-4413-bf07-d6b2273c2478.jpg?v=1783679953"
+      ],
+      "source": "breakeroutlet.com"
+    },
+    {
+      "sku": "BQ2B020",
+      "found": true,
+      "product_url": "https://www.breakeroutlet.com/products/bq2b020-siemens-bq-molded-case-circuit-breaker-20-a-2-pole-120-240-v-ac-thermal-magnetic-load-side-lug-10-ka",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/BQ2B020_1_bfc6848e-01cb-429e-9ee8-c97b859fb55e.jpg?v=1783679849",
+        "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/BQ2B020_2_63e06967-5804-4bb2-b5a5-299200ab2406.jpg?v=1783679849"
+      ],
+      "source": "breakeroutlet.com"
+    },
+    {
+      "sku": "Q2030",
+      "found": false,
+      "product_url": null,
+      "image_urls": [],
+      "source": "breakeroutlet.com"
+    },
+    {
+      "sku": "B130",
+      "found": true,
+      "product_url": "https://www.breakeroutlet.com/products/b130-siemens-bl-molded-case-circuit-breaker-30-a-1-pole-120-240-v-ac-bl-125a-frame-thermal-magnetic-load-side-lug-10-ka",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/B130_1_414cc484-d4c7-4d64-8bab-d601da61e74d.jpg?v=1783669886"
+      ],
+      "source": "breakeroutlet.com"
+    },
+    {
+      "sku": "QN2200",
+      "found": true,
+      "product_url": "https://www.breakeroutlet.com/products/qn2200-siemens-qn-low-voltage-circuit-breaker-120-240-v-200-a-2-pole-10-ka",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/QN2200_1_b1dc3882-78a8-4e42-ba59-a2beefe1a68b.jpg?v=1783682954",
+        "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/QN2200_2_256490cd-226b-42d7-bea7-d8171baa7c0f.jpg?v=1783682954",
+        "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/QN2200_3_ce0cc965-0861-4309-8997-982f85c1ffc0.jpg?v=1783682954"
+      ],
+      "source": "breakeroutlet.com"
+    },
+    {
+      "sku": "B240",
+      "found": true,
+      "product_url": "https://www.breakeroutlet.com/products/b240-siemens-bl-molded-case-circuit-breaker-40-a-2-pole-120-240-v-ac-bl-125a-frame-thermal-magnetic-load-side-lug-bolt-on-10-ka",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/B240_1_3d8c1e95-a47f-40b8-9351-682b1dd876b0.jpg?v=1783679435"
+      ],
+      "source": "breakeroutlet.com"
+    },
+    {
+      "sku": "BF120A",
+      "found": true,
+      "product_url": "https://www.breakeroutlet.com/products/bf120a-siemens-blf2-ground-fault-circuit-breaker-20-a-1-pole-120-v-ac-electronic-lug-10-ka",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/BF120A_1_3f107376-ffa7-486d-a7c4-fabeb78b4f3c.jpg?v=1783670412",
+        "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/BF120A_2_366802b0-a379-4480-9e49-dd25619b551b.jpg?v=1783670409",
+        "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/BF120A_3_e501ab2b-7df3-4dd8-a787-516b332368cc.jpg?v=1783670409"
+      ],
+      "source": "breakeroutlet.com"
+    },
+    {
+      "sku": "BQ3B040",
+      "found": true,
+      "product_url": "https://www.breakeroutlet.com/products/bq3b040-siemens-bq-molded-case-circuit-breaker-40-a-3-pole-240-v-ac-thermal-magnetic-load-side-lug-10-ka",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/BQ3B040_1_f0152a33-5b2f-4e7c-bff3-615fb97fbf44.jpg?v=1783679942",
+        "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/BQ3B040_2_f494dc15-57b7-4c62-a1b7-ebfb5f591194.jpg?v=1783679942"
+      ],
+      "source": "breakeroutlet.com"
+    },
+    {
+      "sku": "QE260",
+      "found": true,
+      "product_url": "https://www.breakeroutlet.com/products/qe260-siemens-qe-miniature-circuit-breaker-120-240-v-ac-60-a-plug-in-10-ka",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/QE260_1_359e7baa-b1e6-4c16-b061-43b0419f9913.jpg?v=1783677148",
+        "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/QE260_2_89c76b74-eb61-4ab1-81a6-fe18c1b6d9b9.jpg?v=1783677148",
+        "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/QE260_3_c759b570-9d96-4177-99c4-9f98c164b17b.jpg?v=1783677148"
+      ],
+      "source": "breakeroutlet.com"
+    }
+  ],
+  "alternatives": [
+    {
+      "name": "Breaker Outlet",
+      "url": "https://www.breakeroutlet.com",
+      "platform": "Shopify",
+      "endpoint": "/products.json?limit=250&page=N (39 pages, 9688 products) or /search/suggest.json",
+      "tested": true,
+      "notes": "9/12 sample SKUs matched exactly on variant.sku (missing B210, B125, Q2030). Real product photos (e.g. BQD340_1.jpg shows the actual 40A BQD), named {SKU}_N.jpg on cdn.shopify.com, 1-6 images per product. Surplus/new+refurbished reseller, not an authorized Siemens distributor."
+    },
+    {
+      "name": "ULE Group",
+      "url": "https://ulegroup.com",
+      "platform": "Shopify",
+      "endpoint": "/products.json, /search/suggest.json",
+      "tested": true,
+      "notes": "Carries Siemens with real distributor-data images, but variant.sku is an internal number (e.g. 308750) and barcode=UPC; catalog # only in handle/body - matching needs UPC or handle parsing. B210/Q2030 not found."
+    },
+    {
+      "name": "AmpState",
+      "url": "https://www.ampstate.com",
+      "platform": "Shopify",
+      "endpoint": "/search/suggest.json",
+      "tested": true,
+      "notes": "Finds BQD340 etc. but images are generic AI-style brand composites, not the actual product - unsuitable."
+    }
+  ],
+  "recommended_strategy": "Harvest Breaker Outlet /products.json (all 39 pages at ~1 req/s), filter vendor in {Siemens, I-T-E}, index variant.sku uppercased (ignore \"-R\" refurbished variants), exact-match catalog number, take product.images[*].src. For misses, try ULE Group by matching catalog number inside handle/title.",
+  "blockers": "Official SiePortal / Industry Mall returns HTTP 403 (Akamai Access Denied) to curl; no official image source reachable."
+}

@@ -1,0 +1,88 @@
+{
+  "brand": "AirZone Fans",
+  "official_site": "https://www.airzonefans.com",
+  "reachable": "yes (HTTP 200)",
+  "platform": "Duda website builder (irp.cdn-website.com assets); brochure site, no e-commerce catalog",
+  "catalog_endpoint": null,
+  "est_products": "Official site lists ~45 models by series name only on /products (no per-SKU pages); sitemap.xml has only 4 pages. Sonic Electric Airzone collection: 45 products.",
+  "sku_format_match": "yes - official /products page and retailers use the same model codes (SE90PL2, SES80, SEPD300, SNPD100MHL2...). On Sonic Electric 10/12 sample SKUs match exactly; SNP80H and SNP100 are sold as combined listings with SKUs 'SNP80H-100H' and 'SNP80-100'.",
+  "sample_tests": [
+    {
+      "sku": "SE90PL2",
+      "found": true,
+      "product_url": "https://sonicelectric.com/products/airzone-se90pl2-ultra-quiet-ac-motor-ventilation-fan-with-led-light",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1099/2006/products/airzone-se90pl2-ultra-quiet-ac-motor-ventilation-fan-with-led-light-505801.png?v=1697688325"
+      ]
+    },
+    {
+      "sku": "SEPD300",
+      "found": true,
+      "product_url": "https://sonicelectric.com/products/airzone-sepd300-high-cfm-ventilation-fan-with-dual-motor",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1099/2006/products/airzone-sepd300-high-cfm-ventilation-fan-with-dual-motor-696496.png?v=1697688326",
+        "https://cdn.shopify.com/s/files/1/1099/2006/products/airzone-sepd300-high-cfm-ventilation-fan-with-dual-motor-215626.png?v=1697688326"
+      ]
+    },
+    {
+      "sku": "SNPD100MHL2",
+      "found": true,
+      "product_url": "https://sonicelectric.com/products/airzone-snpd100l2-premium-ventilation-fan-with-led-light-and-motion-and-humidity-sensor-110-cfm-0-7-sones",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1099/2006/files/AirzoneSNPD-SonicElectric_107424c2-673b-4025-8314-368adef957af.png?v=1708967183"
+      ]
+    },
+    {
+      "sku": "SES80",
+      "found": true,
+      "product_url": "https://sonicelectric.com/products/airzone-ses80-ultra-shallow-ventilation-fan",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1099/2006/products/airzone-ses80-ultra-shallow-ventilation-fan-315306.png?v=1697688325"
+      ]
+    },
+    {
+      "sku": "SNP80H",
+      "found": false,
+      "product_url": null,
+      "image_urls": [],
+      "note": "not an exact SKU on Sonic Electric; closest listing SKU 'SNP80H-100H' (handle airzone-snp80h-80-cfm-quiet-ac-motor-ventilation-fan-with-humidity) - combined SNP80H/SNP100H product"
+    },
+    {
+      "sku": "SE90PL2",
+      "found": true,
+      "product_url": "https://buyriteelectric.com/products/airzone-fans-se90pl2-ultra-quiet-ac-motor-ventilation-fan-with-led-light",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0099/0612/6912/files/SE90PL2.png?v=1688404086"
+      ],
+      "note": "cross-check on BuyRite Electric (alternative source)"
+    }
+  ],
+  "alternatives": [
+    {
+      "name": "Sonic Electric",
+      "url": "https://sonicelectric.com/collections/airzone",
+      "platform": "Shopify",
+      "endpoint": "https://sonicelectric.com/collections/airzone/products.json?limit=250",
+      "tested": true,
+      "notes": "HTTP 200, 45 products, vendor 'Airzone Fans', one variant per product with sku = AirZone model code. Usually 1 image (some 2) per product on cdn.shopify.com; a few images are shared between related models (e.g. SE110PHL2 uses an SE90PL2 image, SNP series share one image, SQ-LED-LK and SE-GU24-LK share one). No anti-bot seen."
+    },
+    {
+      "name": "BuyRite Electric",
+      "url": "https://buyriteelectric.com",
+      "platform": "Shopify",
+      "endpoint": "https://buyriteelectric.com/products/<handle>.json (also /products.json?limit=250&page=N, filter vendor=='AirZone Fans')",
+      "tested": true,
+      "notes": "HTTP 200 on /products.json and product .json; SE90PL2 found with sku 'SE90PL2' and image SE90PL2.png. Full-store pagination needed to isolate AirZone (vendor 'AirZone Fans'). Use to fill gaps / cross-check."
+    },
+    {
+      "name": "Official spec sheets (PDF)",
+      "url": "https://www.airzonefans.com/products",
+      "platform": "Duda static files",
+      "endpoint": "https://irp.cdn-website.com/a4c448a8/files/uploaded/*.pdf (e.g. se_pl2n.pdf, dcselectseries.pdf)",
+      "tested": false,
+      "notes": "Series-level PDF spec sheets linked from /products; contain drawings/photos, not per-SKU image files. Only 6 series photos on the official site (e.g. SNP+50+80+100-1-2880w.jpg, SED+400jpg-2880w.jpg)."
+    }
+  ],
+  "recommended_strategy": "Official site has no per-SKU images. Harvest Sonic Electric https://sonicelectric.com/collections/airzone/products.json?limit=250 (single page), match variants[].sku exactly (case-insensitive, strip spaces/hyphens as fallback); map SNP80H/SNP100 etc. to the combined 'SNP80H-100H'/'SNP80-100' listings via prefix match. Fill remaining gaps from BuyRite Electric products.json filtered by vendor 'AirZone Fans'. Take product.images[0].src (Shopify CDN; add &width= if resizing needed).",
+  "blockers": "Official manufacturer site is a brochure with series-level images only; no per-SKU imagery. Retailer images sometimes reused across related models."
+}

@@ -1,0 +1,49 @@
+{
+  "brand": "Intermatic",
+  "official_site": "https://www.intermatic.com/",
+  "reachable": "yes (HTTP 200)",
+  "platform": "Optimizely/Insite Configured Commerce (SPA; /api/v1 storefront API). Product pages /Product/<SKU> are client-rendered (no JSON-LD/og:image in HTML)",
+  "catalog_endpoint": "https://www.intermatic.com/api/v1/products?query=<SKU>&expand=images (exact search) ; full listing https://www.intermatic.com/api/v1/products?page=N&pageSize=100..400 ; also /api/v1/catalogpages?path=/Product/<SKU>. Sitemap https://www.intermatic.com/sitemap1.xml lists 1185 /Product/<SKU> URLs.",
+  "est_products": "1725 (api/v1/products pagination.totalItemCount); 1185 product URLs in sitemap",
+  "sku_format_match": "yes - erpNumber/urlSegment equal the sample SKUs (T1472BR, WP1030C, L5F13D1DG2, UWZ48E-240U); search may return extra close matches (UWZ48-240U) so match erpNumber exactly",
+  "sample_tests": [
+    {
+      "sku": "T1472BR",
+      "found": true,
+      "product_url": "https://www.intermatic.com/Product/T1472BR",
+      "image_urls": [
+        "https://djuly1j3idynn.cloudfront.net/userfiles/images/inriver/preview/222139_t1871br-angled.png",
+        "https://djuly1j3idynn.cloudfront.net/userfiles/images/inriver/preview/222138_t1871br-no-door.png",
+        "https://djuly1j3idynn.cloudfront.net/userfiles/images/inriver/preview/222137_t1471br-open.png"
+      ],
+      "note": "images are family shots (filenames reference T1871BR/T1471BR)"
+    },
+    {
+      "sku": "WP1030C",
+      "found": true,
+      "product_url": "https://www.intermatic.com/Product/WP1030C",
+      "image_urls": [
+        "https://djuly1j3idynn.cloudfront.net/userfiles/images/inriver/preview/195906_wp1030c_001c.png"
+      ]
+    },
+    {
+      "sku": "L5F13D1DG2",
+      "found": true,
+      "product_url": "https://www.intermatic.com/Product/L5F13D1DG2",
+      "image_urls": [
+        "https://djuly1j3idynn.cloudfront.net/userfiles/images/inriver/preview/199022_panelguard-l5-f-2023.png"
+      ]
+    },
+    {
+      "sku": "UWZ48E-240U",
+      "found": true,
+      "product_url": "https://www.intermatic.com/Product/UWZ48E-240U",
+      "image_urls": [
+        "https://djuly1j3idynn.cloudfront.net/userfiles/images/inriver/preview/196901_uwz48e.png"
+      ]
+    }
+  ],
+  "alternatives": [],
+  "recommended_strategy": "Page through https://www.intermatic.com/api/v1/products?page=N&pageSize=400 (~5 calls) or query per SKU with ?query=<SKU>&expand=images; match product.erpNumber exactly (case-insensitive); use productImages[].largeImagePath (or largeImagePath). For higher resolution swap '/inriver/preview/' -> '/inriver/original/' (verified 200, ~4 MB PNG vs ~1.1 MB preview; '/large/' and '/full/' return 403).",
+  "blockers": null
+}

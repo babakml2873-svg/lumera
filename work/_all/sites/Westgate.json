@@ -1,0 +1,174 @@
+{
+  "brand": "Westgate",
+  "official_site": "https://www.westgatemfg.com",
+  "reachable": false,
+  "platform": "Next.js site (robots.txt references /_next/) behind Cloudflare managed challenge (HTTP 403 \"Just a moment...\" on /, sitemap.xml, wp-json); only robots.txt returns 200",
+  "catalog_endpoint": null,
+  "est_products": "unknown on official site; Sonic Electric westgate collection: 5289 products / 5998 variants; LightingSupply westgate-manufacturing collection: 5037 products (1184 without images)",
+  "sku_format_match": "yes - both Shopify retailers use the exact Westgate configured part number as variant.sku (e.g. CRLC6-15W-50K-S-D, LVS-48-MCT5-BB)",
+  "sample_tests": [
+    {
+      "sku": "LF4MAX-XL-300W-MCTPB-TR-P-480V",
+      "found": true,
+      "product_url": "https://lightingsupply.com/products/westgate-manufacturing-lf4max-xl-300w-mctpb-tr-p-480v",
+      "image_urls": [],
+      "source": "lightingsupply.com",
+      "also_on_lightingsupply": true,
+      "lightingsupply_has_images": false,
+      "note": "not on Sonic Electric; nearest family SKUs there: LF4MAX-XL-200-300W-MCTPB-TR-P, LF4MAX-MD-45-80W-MCTPB-TR-P, LF4MAX-MD-20-50W-MCTPB-TR-P; listing exists on lightingsupply.com but has no image"
+    },
+    {
+      "sku": "W1DB100-5X",
+      "found": true,
+      "product_url": "https://sonicelectric.com/products/westgate-one-gang-boxes-2-5-8-deep-multiple-sizes-holes?variant=39907829514305",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1099/2006/files/productImages_2F258_700.jpg?v=1750791172",
+        "https://cdn.shopify.com/s/files/1/1099/2006/products/westgate-one-gang-boxes-2-58-deep-multiple-sizes-holes-725932.jpg?v=1750791172"
+      ],
+      "source": "sonicelectric.com",
+      "also_on_lightingsupply": true,
+      "lightingsupply_has_images": true
+    },
+    {
+      "sku": "LVS-48-MCT5-BB",
+      "found": true,
+      "product_url": "https://sonicelectric.com/products/westgate-slim-rotatable-vanity-light?variant=40256500465729",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1099/2006/products/westgate-40w-led-slim-rotatable-vanity-light-multiple-sizesfinishes-309135.jpg?v=1750791127",
+        "https://cdn.shopify.com/s/files/1/1099/2006/products/westgate-40w-led-slim-rotatable-vanity-light-multiple-sizesfinishes-355479.jpg?v=1750791127"
+      ],
+      "source": "sonicelectric.com",
+      "also_on_lightingsupply": true,
+      "lightingsupply_has_images": true
+    },
+    {
+      "sku": "W2CL-PO50",
+      "found": true,
+      "product_url": "https://lightingsupply.com/products/westgate-manufacturing-w2cl-po50",
+      "image_urls": [],
+      "source": "lightingsupply.com",
+      "also_on_lightingsupply": true,
+      "lightingsupply_has_images": false,
+      "note": "listing exists on lightingsupply.com but has no image"
+    },
+    {
+      "sku": "WMC2-12V-UDL-MCT-BN",
+      "found": true,
+      "product_url": "https://sonicelectric.com/products/westgate-wmc2-12v-udl-mct-bn-12v-2-led-wall-cylinder-light-brushed-nickel?variant=40999568605249",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1099/2006/files/productImagesv2_2F02_WMC2-12V-UDL-MCT-ORB_Main_20Image-01.jpg?v=1750788290",
+        "https://cdn.shopify.com/s/files/1/1099/2006/files/productImages_2F02_WMC2-12V-UDL-MCT-ORB_Side_20View-01_0acc9e1b-4fd7-4273-a4ea-ba7640aed374.jpg?v=1750788290"
+      ],
+      "source": "sonicelectric.com",
+      "also_on_lightingsupply": true,
+      "lightingsupply_has_images": true
+    },
+    {
+      "sku": "CRL8-54W-50K",
+      "found": true,
+      "product_url": "https://sonicelectric.com/products/westgate-crl8-54w-50k-8-led-commercial-recessed-light-commercial-indoor-lighting-haze?variant=40894142185537",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1099/2006/files/CRL8-40W-30K-2T_e321a548-9492-4cb6-bb45-629c0077f1a9.jpg?v=1750789525"
+      ],
+      "source": "sonicelectric.com",
+      "also_on_lightingsupply": true,
+      "lightingsupply_has_images": true
+    },
+    {
+      "sku": "CMC4-DL32",
+      "found": true,
+      "product_url": "https://sonicelectric.com/products/westgate-cmc4-dl32-cmc-4in-32mm-acrylic-drop-lens-9w-12w-15w-30k-40k-50k-white?variant=42144294666305",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1099/2006/files/westgate-cmc4-dl32-cmc-4in-32mm-acrylic-drop-lens-9w-12w-15w-30k-40k-50k-white-7832752.jpg?v=1765339866"
+      ],
+      "source": "sonicelectric.com",
+      "also_on_lightingsupply": true,
+      "lightingsupply_has_images": true
+    },
+    {
+      "sku": "WMXMAX-40-60W-MCTPB",
+      "found": true,
+      "product_url": "https://sonicelectric.com/products/westgate-wmxmax-40-60w-mctpb-traditional-wall-pack-full-control-of-beam-angle-40w-50w-60w-30k-40k-50k-bronze?variant=42144314064961",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1099/2006/files/westgate-wmxmax-40-60w-mctpb-traditional-wall-pack-full-control-of-beam-angle-40w50w60w-30k40k50k-bronze-6402556.jpg?v=1765339088"
+      ],
+      "source": "sonicelectric.com",
+      "also_on_lightingsupply": true,
+      "lightingsupply_has_images": true
+    },
+    {
+      "sku": "EXPR-150W-50K-480V",
+      "found": true,
+      "product_url": "https://sonicelectric.com/products/westgate-expr-150w-50k-480v-round-hazardous-location-flood-highbay-light-gray?variant=40756953153601",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1099/2006/files/productImages_2FEPLR01_20100W_20_3_20resized_20main_17252bb3-6487-48b8-924b-67a7c77aa512.jpg?v=1750790740"
+      ],
+      "source": "sonicelectric.com",
+      "also_on_lightingsupply": true,
+      "lightingsupply_has_images": true
+    },
+    {
+      "sku": "DLST6-MCT5",
+      "found": true,
+      "product_url": "https://sonicelectric.com/products/westgate-economy-easy-install-6in-disk-10w-1000lm-27-30-40-50-60k-cr80-damp-etl?variant=42155645599809",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1099/2006/files/westgate-dlst6-mct5-economy-easy-install-6in-disk-10w-1000lm-2730405060k-cr80-damp-etl-residential-lighting-7739087.jpg?v=1765338549",
+        "https://cdn.shopify.com/s/files/1/1099/2006/files/westgate-dlst6-mct5-economy-easy-install-6in-disk-10w-1000lm-2730405060k-cr80-damp-etl-residential-lighting-6220485.jpg?v=1765338549"
+      ],
+      "source": "sonicelectric.com",
+      "also_on_lightingsupply": true,
+      "lightingsupply_has_images": true
+    },
+    {
+      "sku": "CRLC6-15W-50K-S-D",
+      "found": true,
+      "product_url": "https://sonicelectric.com/products/westgate-crlc6-15w-50k-s-d-6-square-led-commercial-recessed-light-haze?variant=40955611480129",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1099/2006/files/productImagesv2_2F6inch_20Square_20Trim-3_98eb796c-d1fb-4a26-ba14-7b7f5ed9a3a9.jpg?v=1750788534"
+      ],
+      "source": "sonicelectric.com",
+      "also_on_lightingsupply": true,
+      "lightingsupply_has_images": true
+    },
+    {
+      "sku": "CRE-08-50K-BR",
+      "found": true,
+      "product_url": "https://sonicelectric.com/products/westgate-cre-08-50k-br-westgate-crush-led-wall-scone-10w-20w-bronze?variant=41901418512449",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1099/2006/files/westgate-cre-hl20-08-50k-br-westgate-crush-led-wall-scone-10w20w-bronze-2517086.jpg?v=1765340887",
+        "https://cdn.shopify.com/s/files/1/1099/2006/files/westgate-cre-08-50k-br-westgate-crush-led-wall-scone-10w20w-bronze-5200952.jpg?v=1765340886"
+      ],
+      "source": "sonicelectric.com",
+      "also_on_lightingsupply": true,
+      "lightingsupply_has_images": true
+    }
+  ],
+  "alternatives": [
+    {
+      "name": "Sonic Electric",
+      "url": "https://sonicelectric.com",
+      "platform": "Shopify",
+      "endpoint": "/collections/westgate/products.json?limit=250&page=N (22 pages)",
+      "tested": true,
+      "notes": "10/12 exact variant.sku matches, all with images (manufacturer images, some named productImages_2F..., matching Westgate CDN naming). Missing LF4MAX-XL-300W-MCTPB-TR-P-480V (family LF4MAX-XL-200-300W-MCTPB-TR-P exists) and W2CL-PO50."
+    },
+    {
+      "name": "LightingSupply.com",
+      "url": "https://lightingsupply.com",
+      "platform": "Shopify",
+      "endpoint": "/collections/westgate-manufacturing/products.json?limit=250&page=N (21 pages); handle pattern westgate-manufacturing-<sku lowercase>",
+      "tested": true,
+      "notes": "12/12 sample SKUs present as exact variant.sku, 10/12 with images (LF4MAX-XL-300W-... and W2CL-PO50 have no image). 1184 of 5037 Westgate products have no images."
+    },
+    {
+      "name": "Shine Retrofits",
+      "url": "https://shineretrofits.com",
+      "platform": "Shopify",
+      "endpoint": "/collections/westgate/products.json",
+      "tested": true,
+      "notes": "Only 204 Westgate products; 0/12 samples."
+    }
+  ],
+  "recommended_strategy": "Harvest both Sonic Electric /collections/westgate/products.json and LightingSupply /collections/westgate-manufacturing/products.json (~43 requests total at ~1 req/s). Index variant.sku uppercased; prefer the source that has images (Sonic variant.featured_image / product.images first, LightingSupply second). For residual misses, fall back to the longest-prefix family SKU (e.g. LF4MAX-XL-...-MCTPB-TR-P) and flag as family image.",
+  "blockers": "Official westgatemfg.com is behind a Cloudflare managed JS challenge (403); subdomains api/cdn/media/images do not resolve (proxy 502)."
+}

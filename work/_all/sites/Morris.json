@@ -1,0 +1,18 @@
+{
+  "brand": "Morris",
+  "official_site": "https://morrisproducts.com",
+  "reachable": true,
+  "platform": "CIMcloud (classic ASP storefront, Knockout.js front-end); images on CloudFront CDN https://dehbblwvl33hy.cloudfront.net/images/",
+  "catalog_endpoint": "https://morrisproducts.com/pc_product_detail.asp?key=helper&ajax=get-product-by-sku&skus=SKU1~SKU2~... (JSON, used by the site's own front-end; accepts many SKUs per call, returns sku, name, thumb/pic/largePic filenames, link, parents)",
+  "est_products": "Unknown (no sitemap.xml - returns 404 page; no product count observed)",
+  "sku_format_match": "yes - Morris SKUs are the numeric/alpha catalog numbers (89757, 14917, T200CBPK); Lumera list prefixes numeric SKUs with an apostrophe (Excel text marker) which must be stripped. 12 of 12 samples returned.",
+  "sample_tests": [
+    {"sku": "89757", "found": true, "product_url": "https://morrisproducts.com/pc_product_detail.asp?key=38F89CEBA40B4E528EB4212D7BEA240C&childskumatch=89757", "image_urls": ["https://dehbblwvl33hy.cloudfront.net/images/89757_l.jpg"]},
+    {"sku": "14917", "found": true, "product_url": "https://morrisproducts.com/pc_product_detail.asp?key=1E8443993C82434F84C5C8975A3B079F&childskumatch=14917", "image_urls": ["https://dehbblwvl33hy.cloudfront.net/images/14910_l.jpg"]},
+    {"sku": "T200CBPK", "found": true, "product_url": "https://morrisproducts.com/pc_product_detail.asp?key=8711F10D3CA04328B15434A68C0C25DE&childskumatch=T200CBPK", "image_urls": ["https://dehbblwvl33hy.cloudfront.net/images/t200cbpk_l.jpg"]},
+    {"sku": "15396", "found": true, "product_url": "https://morrisproducts.com/pc_product_detail.asp?key=64F607A5F0ED4C73A98B0D3E02C86EAD&childskumatch=15396", "image_urls": ["https://dehbblwvl33hy.cloudfront.net/images/15390_l.jpg"]}
+  ],
+  "alternatives": [],
+  "recommended_strategy": "Strip leading apostrophe from Lumera SKUs, then call the JSON endpoint in batches (e.g. 25-50 SKUs joined with '~', 1 req/sec). For each product take largePic (fallback pic) and build URL as 'https://dehbblwvl33hy.cloudfront.net/images/' + filename.lower() (the site's buildImagePath lowercases; uppercase filename returned 404). largePic images observed at 900x900 JPEG. Note many child SKUs share the parent family image (e.g. 14917 -> 14910_l.jpg).",
+  "blockers": null
+}

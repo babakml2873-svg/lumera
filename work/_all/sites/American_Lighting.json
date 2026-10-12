@@ -1,0 +1,64 @@
+{
+  "brand": "American Lighting",
+  "official_site": "https://americanlighting.com",
+  "reachable": "yes (HTTP 200)",
+  "platform": "Magento 2 (Adobe Commerce) with public GraphQL",
+  "catalog_endpoint": "GraphQL GET https://americanlighting.com/graphql?query={products(filter:{sku:{in:[...]}},pageSize:50){items{sku url_key image{url} media_gallery{url}}}} (also products(search:\"\",pageSize:N,currentPage:M) for full enumeration). Secondary: image sitemap https://americanlighting.com/media/sitemap/american_lighting_sitemap.xml (2009 URLs, 1714 with image:loc).",
+  "est_products": "1782 (GraphQL total_count for products(search:\"\"))",
+  "sku_format_match": "yes - 12/12 sample SKUs returned by GraphQL sku filter with exact SKU; url_key is usually the lowercase SKU.",
+  "sample_tests": [
+    {
+      "sku": "MLINK-END",
+      "found": true,
+      "product_url": "https://americanlighting.com/mlink-end",
+      "image_urls": [
+        "https://americanlighting.com/media/catalog/product/m/l/mlink-end.webp",
+        "https://americanlighting.com/media/catalog/product/m/l/mlink-end_02.webp"
+      ]
+    },
+    {
+      "sku": "NAVI-CCT-96-24-BK",
+      "found": true,
+      "product_url": "https://americanlighting.com/navi-cct-dimmer-driver-combo-96w-24v-dc-black-finish",
+      "image_urls": [
+        "https://americanlighting.com/media/catalog/product/n/a/navi-cct-96-24-bk.webp",
+        "https://americanlighting.com/media/catalog/product/n/a/navi-cct-96-24-bk-front.webp",
+        "https://americanlighting.com/media/catalog/product/n/a/navi-cct-96-24-bk-trim.webp",
+        "https://americanlighting.com/media/catalog/product/n/a/navi-back-cct_1.webp",
+        "https://americanlighting.com/media/catalog/product/n/a/navi-spacers_8.webp"
+      ]
+    },
+    {
+      "sku": "PE-DYAD-2M",
+      "found": true,
+      "product_url": "https://americanlighting.com/dyad",
+      "image_urls": [
+        "https://americanlighting.com/media/catalog/product/p/e/pe-dyad.webp",
+        "https://americanlighting.com/media/catalog/product/p/e/pe-dyad_02.webp"
+      ]
+    },
+    {
+      "sku": "5LCS-24-5CCT-DB",
+      "found": true,
+      "product_url": "https://americanlighting.com/5lcs-24-5cct-db",
+      "image_urls": [
+        "https://americanlighting.com/media/catalog/product/5/l/5lcs-16-5cct-db_1.webp",
+        "https://americanlighting.com/media/catalog/product/5/l/5lcs-16-5cct-db_02_1.webp"
+      ],
+      "note": "image is shared with 5LCS-16 sibling (filename 5lcs-16-5cct-db)"
+    },
+    {
+      "sku": "PE-GT-2M-BNDLACC-BG5",
+      "found": true,
+      "product_url": "https://americanlighting.com/pe-gt-2m-bndlacc-bg5",
+      "image_urls": [
+        "https://americanlighting.com/media/catalog/product/placeholder/stores/1/placeholder-image_4.jpg"
+      ],
+      "note": "found but image is Magento placeholder (placeholder-image_4.jpg), empty media_gallery"
+    }
+  ],
+  "alternatives": [],
+  "recommended_strategy": "Query GraphQL in batches of ~50 SKUs: products(filter:{sku:{in:[...]}},pageSize:50){items{sku url_key image{url} media_gallery{url}}}; match sku exactly. Strip the '?optimize=medium&fit=bounds...' query to get the original .webp from /media/catalog/product/. Skip items whose image URL contains '/placeholder/' (and treat '_aml-accessory_ph' generic images as low quality). Throttle ~1 req/s.",
+  "blockers": null,
+  "notes": "Images are WebP (convert if JPG required). Product pages have no JSON-LD and og:image is a generic site preview (aml-link-preview.png) - do not use og:image. robots.txt disallows /catalogsearch/ and /catalog/; /graphql not disallowed. Some SKUs share a sibling's image or have generic accessory placeholders (e.g. PE-INLINE-CON -> _aml-accessory_ph_39.webp)."
+}

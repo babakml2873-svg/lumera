@@ -1,0 +1,27 @@
+{
+  "brand": "Orbit",
+  "official_site": "https://www.orbitelectric.com (Orbit Industries, Inc., Los Angeles)",
+  "reachable": false,
+  "platform": "Unknown (pages use .html paths, e.g. /lvbs-assemblies.html); fronted by Cloudflare managed challenge",
+  "catalog_endpoint": null,
+  "est_products": "Unknown from official site. Sonic Electric Orbit collection: 1255 products / 2080 variants (all with images); Wire & Co (shopwirenco.com) Orbit collection: 671 products (225 with images); MROSupply brand listing ~74 pages.",
+  "sku_format_match": "partial - Orbit's own model numbers are dashed (LB-200AS, SSLN-50, RW-250/75, RN-500-C) while many Lumera SKUs are undashed (LB200AS, SSLN50, RW25075, RN500C). Matching works after stripping all non-alphanumerics. 5 of 12 samples matched on Sonic Electric.",
+  "sample_tests": [
+    {"sku": "LB200AS", "found": true, "product_url": "https://sonicelectric.com/products/orbit-lb-200as-type-lb-aluminum-threaded-conduit-body-2-stamped-aluminum-cover-gasket", "image_urls": ["https://cdn.shopify.com/s/files/1/1099/2006/files/lb-50as_6d8e164c-0e0f-4865-bc28-1c58b1a36ce9.jpg?v=1744291139"]},
+    {"sku": "OF685", "found": true, "product_url": "https://sonicelectric.com/products/orbit-of685-zinc-flex-screw-in-coupling-1-1-2", "image_urls": ["https://cdn.shopify.com/s/files/1/1099/2006/files/flex_coup_screw-in.jpg?v=1744290062"]},
+    {"sku": "SSLN50", "found": true, "product_url": "https://sonicelectric.com/products/orbit-ssln-50-sealing-locknut-1-2-steel", "image_urls": ["https://cdn.shopify.com/s/files/1/1099/2006/files/steel_sealing_locknuts_c5db627a-4401-4799-8d10-a70e165b8b39.jpg?v=1744289018"]},
+    {"sku": "RW25075", "found": true, "product_url": "https://sonicelectric.com/products/orbit-rw-250-75-reducing-washer-2-1-2-3-4", "image_urls": ["https://cdn.shopify.com/s/files/1/1099/2006/files/steel_reducing_washers_6cb3e06c-431c-429c-abd3-876fda4f4f4d.jpg?v=1744289331"]},
+    {"sku": "RN500C", "found": true, "product_url": "https://sonicelectric.com/products/orbit-rn-500-c-rigid-conduit-nipple-5-x-close-steel", "image_urls": ["https://cdn.shopify.com/s/files/1/1099/2006/files/rigid_conduit_nipple_0c3e6970-cfda-404a-8a0c-c86a44cad0ad.jpg?v=1744289401"]},
+    {"sku": "S221BK", "found": false, "product_url": null, "image_urls": []},
+    {"sku": "CBS-75", "found": false, "product_url": null, "image_urls": []},
+    {"sku": "FLBDDSS", "found": false, "product_url": null, "image_urls": []},
+    {"sku": "EC-300L", "found": false, "product_url": null, "image_urls": []}
+  ],
+  "alternatives": [
+    {"name": "Sonic Electric", "url": "https://sonicelectric.com", "platform": "Shopify", "endpoint": "https://sonicelectric.com/collections/orbit-industries/products.json?limit=250&page=1..6", "tested": true, "notes": "Reachable, vendor 'Orbit Industries, Inc.', variant.sku = Orbit dashed model number. 1255 products/2080 variants, 0 without images. Images are generic per product family (e.g. LB-200AS shows lb-50as.jpg), not per size. Near-misses observed: EC300 (vs EC-300L), FLBDSS/FLBDDBR (vs FLBDDSS)."},
+    {"name": "Wire & Co (shopwirenco.com)", "url": "https://shopwirenco.com", "platform": "Shopify", "endpoint": "https://shopwirenco.com/collections/orbit-industries/products.json?limit=250&page=1..3", "tested": true, "notes": "671 Orbit products, only 225 with images; variant.sku is an internal numeric id, model number only in title ('Orbit Industries <MODEL> ...'). Only 1 of 12 samples (RN500C) matched; its image is product-specific (OrbitIndustries_RN500C_Image1-REP.jpg)."},
+    {"name": "MROSupply", "url": "https://www.mrosupply.com/brands/orbit-industries/", "platform": "Custom", "endpoint": "brand listing /brands/orbit-industries/?page=1..74; product URLs /electrical/<id>_<model-slug>_orbit-industries/", "tested": true, "notes": "Brand page reachable; search endpoint returned empty reply; the one product page checked (FLB-D-C-SS) had no product image (noimage.webp) and no JSON-LD. Low value."}
+  ],
+  "recommended_strategy": "Harvest Sonic Electric Orbit collection products.json (6 pages). Index variant.sku normalized to [A-Z0-9] only and match Lumera SKUs the same way; use variant.featured_image else product.images[0]. Supplement with shopwirenco.com titles (regex 'Orbit Industries (\\S+)') for misses. Expect roughly 40% coverage with family-level images; the official site cannot be harvested from here.",
+  "blockers": "orbitelectric.com (homepage, products.json, sitemap.xml, product pages) returns Cloudflare 'Just a moment...' challenge (403) to curl and WebFetch."
+}

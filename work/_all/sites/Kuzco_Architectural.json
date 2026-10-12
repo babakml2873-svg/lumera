@@ -1,0 +1,54 @@
+{
+  "brand": "Kuzco Architectural",
+  "official_site": "https://kuzcolighting.com/ (Kuzco Architectural is a vendor within the Kuzco Lighting Shopify store; products tagged vendor='Kuzco Architectural', handles end with '-kuzco-architectural')",
+  "reachable": "yes (HTTP 200; www.kuzcolighting.com redirects to kuzcolighting.com)",
+  "platform": "Shopify",
+  "catalog_endpoint": "https://kuzcolighting.com/products.json?limit=250&page=N (pages 1-8; page 9 empty). Single product: /products/<handle>.json",
+  "est_products": "84 products / 360 variants with vendor 'Kuzco Architectural' (store total 1903 products / 4937 variants)",
+  "sku_format_match": "yes - 12/12 sample SKUs match variant.sku exactly",
+  "sample_tests": [
+    {
+      "sku": "LD3-WS12W18-3036-WH-UNV-010",
+      "found": true,
+      "product_url": "https://kuzcolighting.com/products/lorna-ld3-ws12w18-kuzco-architectural",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0884/5390/6750/files/LORNA_LD3-WS12W18-3036-WH-UNV-010.jpg?v=1733333774"
+      ]
+    },
+    {
+      "sku": "EP265104-BK",
+      "found": true,
+      "product_url": "https://kuzcolighting.com/products/nordic-ep265104-kuzco-architectural",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0884/5390/6750/files/NORDIC_EP265104-BK.jpg?v=1733333837"
+      ]
+    },
+    {
+      "sku": "EC262103-WH",
+      "found": true,
+      "product_url": "https://kuzcolighting.com/products/nordic-ec262103-kuzco-architectural",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0884/5390/6750/files/NORDIC_EC262103-WH.jpg?v=1733333817"
+      ]
+    },
+    {
+      "sku": "LD4-PD08W20-3036-BK-UNV-010",
+      "found": true,
+      "product_url": "https://kuzcolighting.com/products/lorna-ld4-pd08w20-kuzco-architectural",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0884/5390/6750/files/LORNA_LD4-PD08W20-3036-BK-UNV-010.jpg?v=1733333802"
+      ]
+    },
+    {
+      "sku": "EW264207-WH",
+      "found": true,
+      "product_url": "https://kuzcolighting.com/products/nordic-ew264207-kuzco-architectural",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0884/5390/6750/files/NORDIC_EW264207-WH.jpg?v=1733333855"
+      ]
+    }
+  ],
+  "alternatives": [],
+  "recommended_strategy": "Same harvest as Kuzco (one pass of /products.json pages 1-8 covers both); filter vendor == 'Kuzco Architectural', match variant.sku exactly, image = variant.featured_image.src (variant-specific, filename contains SKU).",
+  "blockers": null
+}

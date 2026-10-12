@@ -1,0 +1,23 @@
+{
+  "brand": "Panasonic",
+  "official_site": "https://iaq.na.panasonic.com (Panasonic North America Indoor Air Quality / ventilation; na.panasonic.com is the corporate HubSpot site with no product catalog)",
+  "reachable": true,
+  "platform": "HubSpot CMS (images under /hs-fs/hubfs/)",
+  "catalog_endpoint": "https://iaq.na.panasonic.com/sitemap.xml (456 URLs; 151 under /ventilation/ or /smart-controls/) + HubSpot site search JSON https://iaq.na.panasonic.com/_hcms/search?term=<SKU>&limit=N",
+  "est_products": "~151 official product/series pages (ventilation + smart controls); Buy Rite Electric Panasonic collection has 144 products",
+  "sku_format_match": "yes - model numbers on official pages and in hubfs image filenames use the same format (FV-0510VSC1, VTX-DEDPV, FV-1115VKL3). Official pages are per series and may list several models; HubSpot search is fuzzy (tokenizes 'FV'), so match by model regex on page content. Distributor Buy Rite Electric matched 12 of 12 samples exactly on variant.sku.",
+  "sample_tests": [
+    {"sku": "FV-0510VSC1", "found": true, "product_url": "https://iaq.na.panasonic.com/ventilation/fans/whispervalue-condensation-sensor", "image_urls": ["https://iaq.na.panasonic.com/hs-fs/hubfs/Panasonic_WhisperValue_FV-0510VSC1_Hero.jpeg", "https://iaq.na.panasonic.com/hs-fs/hubfs/FV-0510VSC1%20dimensions-2000x2000.png"]},
+    {"sku": "VTX-DEDPV", "found": true, "product_url": "https://iaq.na.panasonic.com/ventilation/atmosphere-dryer-exhaust/duct-power-ventilator-vtx", "image_urls": ["https://iaq.na.panasonic.com/hs-fs/hubfs/PESNA%20-%20Panasonic%20Eco-Solutions/IAQ/Dryer%20Exhaust%20Duct%20Power%20Ventilator/IAQ23074WEB-Atmosphere-PDP-VTX-DEDPV.jpg"]},
+    {"sku": "FV-0511VH1", "found": true, "product_url": "https://iaq.na.panasonic.com/ventilation/fans/whisperwarm", "image_urls": ["https://iaq.na.panasonic.com/hs-fs/hubfs/PESNA%20-%20Panasonic%20Eco-Solutions/IAQ/FV-0511VH1/iaq20090web_wwarmdc-pdp_web-grille.jpg", "https://iaq.na.panasonic.com/hs-fs/hubfs/FV-0511VH1%20dimensions-2000x2000.jpg"]},
+    {"sku": "FV-1115VKL3", "found": true, "product_url": "https://iaq.na.panasonic.com/ventilation/fans/whispergreen-select-light-fv-1115vkl3", "image_urls": ["https://iaq.na.panasonic.com/hs-fs/hubfs/Panasonic_WhisperGreenSelect_FV-1115VKL3_Add-ons-1.jpeg", "https://cdn.shopify.com/s/files/1/0099/0612/6912/files/FV-0511VKL3FV-0511VKSL3FV-1115VKL3mainimage.webp?v=1744217723"]},
+    {"sku": "FV-06VE1", "found": true, "product_url": "https://buyriteelectric.com/products/panasonic-fv-06ve1-whispercomfort®-60-energy-recovery-ventilator", "image_urls": ["https://cdn.shopify.com/s/files/1/0099/0612/6912/files/FV-06VE1.png?v=1744393854"]},
+    {"sku": "WP100PBA", "found": true, "product_url": "https://buyriteelectric.com/products/panasonic-wp100pba-swidget®-wi-fi-control-module", "image_urls": ["https://cdn.shopify.com/s/files/1/0099/0612/6912/files/iaq24102web-wp100pba-6-584x389-1.webp?v=1744119521"]}
+  ],
+  "alternatives": [
+    {"name": "Buy Rite Electric", "url": "https://buyriteelectric.com", "platform": "Shopify", "endpoint": "https://buyriteelectric.com/collections/panasonic/products.json?limit=250 (144 products, single page); per-SKU /search/suggest.json?q=<SKU>&resources[type]=product", "tested": true, "notes": "All 12 samples matched exactly on variant.sku; all 144 products have images. Many images are Panasonic marketing assets (IAQ2xxxxWEB filenames); some are low-res (e.g. *_500x*) or screenshots (FV-CMVK3 -> Screenshot_87_...png)."},
+    {"name": "SupplyHouse.com", "url": "https://www.supplyhouse.com", "platform": "Custom", "endpoint": null, "tested": true, "notes": "Carries FV-0511VH1 per web search, but /products.json probe returned Cloudflare challenge (403). Not usable from here."}
+  ],
+  "recommended_strategy": "Primary for matching: pull buyriteelectric.com/collections/panasonic/products.json?limit=250 and match variant.sku exactly (12/12 samples). For higher-quality official images, crawl the ~151 /ventilation/ and /smart-controls/ URLs from iaq.na.panasonic.com/sitemap.xml (1 req/sec), extract hubfs image URLs (strip ?width query to get original) and prefer images whose filename contains the exact model number; use official image when found, else Buy Rite image.",
+  "blockers": null
+}

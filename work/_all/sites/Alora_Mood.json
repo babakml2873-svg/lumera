@@ -1,0 +1,62 @@
+{
+  "brand": "Alora Mood",
+  "official_site": "https://www.aloramood.com (redirects to https://kuzcolighting.com/pages/alora-mood - Kuzco Group brand on the Kuzco Shopify store)",
+  "reachable": "yes (HTTP 200 after redirect)",
+  "platform": "Shopify (kuzcolighting.com)",
+  "catalog_endpoint": "https://kuzcolighting.com/collections/alora-mood/products.json?limit=250&page=N (pages 1-2; vendor 'Alora Mood')",
+  "est_products": "421 products / 1000 variants in collection 'alora-mood' (observed 2026-10-12)",
+  "sku_format_match": "yes/partial - same format; 10/12 sample SKUs matched exactly. FM503611AG exists only as 'FM503611AG-5CCT' (suffix variant); PD525216BGOP not found in the collection nor via /search/suggest.json (likely discontinued).",
+  "sample_tests": [
+    {
+      "sku": "WV464002MB",
+      "found": true,
+      "product_url": "https://kuzcolighting.com/products/marcel-wv464002-alora-mood",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0884/5390/6750/files/MARCEL_WV464002MB.jpg?v=1741732001"
+      ]
+    },
+    {
+      "sku": "PD524110AGOP",
+      "found": true,
+      "product_url": "https://kuzcolighting.com/products/hazel-pd524110-alora-mood",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0884/5390/6750/files/HAZEL_PD524110AGOP_4cde9840-46fc-4134-91dd-763b553dddd8.jpg?v=1747257004"
+      ]
+    },
+    {
+      "sku": "TL567218MBWL",
+      "found": true,
+      "product_url": "https://kuzcolighting.com/products/sasha-tl567218-alora-mood",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0884/5390/6750/files/SASHA_TL567218MBWL.jpg?v=1741732262"
+      ]
+    },
+    {
+      "sku": "FM503611AG",
+      "found": false,
+      "product_url": null,
+      "image_urls": [],
+      "note": "no exact match; store has FM503611AG-5CCT (prefix match would work)"
+    },
+    {
+      "sku": "PD525216BGOP",
+      "found": false,
+      "product_url": null,
+      "image_urls": [],
+      "note": "not in collection products.json nor search/suggest.json"
+    }
+  ],
+  "alternatives": [
+    {
+      "name": "Lighting distributors carrying Alora Mood (for discontinued SKUs)",
+      "url": null,
+      "platform": null,
+      "endpoint": null,
+      "tested": false,
+      "notes": "Only needed for SKUs missing from the official store (e.g. PD525216BGOP); not tested."
+    }
+  ],
+  "recommended_strategy": "Download https://kuzcolighting.com/collections/alora-mood/products.json?limit=250&page=1..2. Match variants[].sku exactly (uppercase); fallback: match sample SKU as prefix of store SKU (handles -5CCT suffixes), or by the 6-digit model number in product handle (e.g. pd524110). Use variants[].featured_image.src.",
+  "blockers": null,
+  "notes": "Store variant count (~1000) roughly matches the 940 SKUs; a few discontinued SKUs will need a secondary source."
+}

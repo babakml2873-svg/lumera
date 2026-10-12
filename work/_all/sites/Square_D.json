@@ -1,0 +1,141 @@
+{
+  "brand": "Square D",
+  "official_site": "https://www.se.com/us/en/ (Schneider Electric)",
+  "reachable": false,
+  "platform": "Schneider Electric se.com - Akamai protected (HTTP 403 Access Denied on homepage and /us/en/product/QOB370/)",
+  "catalog_endpoint": null,
+  "est_products": "unknown on official site; Breaker Outlet: 2213 products with vendor \"Square D\"",
+  "sku_format_match": "yes - sample SKUs are Square D catalog numbers; Breaker Outlet variant.sku equals catalog number (plus \"-R\" refurbished variants)",
+  "sample_tests": [
+    {
+      "sku": "EDB34125",
+      "found": true,
+      "product_url": "https://www.breakeroutlet.com/products/edb34125-square-d-schneider-electric-bolt-on-edb-circuit-breaker",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/UE_SKUS_EDB34125_1_ae417121-ccbf-47ba-8a50-c0959e5c5e31.jpg?v=1784436799"
+      ],
+      "source": "breakeroutlet.com"
+    },
+    {
+      "sku": "QOB370",
+      "found": true,
+      "product_url": "https://www.breakeroutlet.com/products/qob370-bolt-on-circuit-breakers-by-square-d-schneider-electric",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/UE_SKUS_QOB370_1_41d1c59c-8a43-4ffb-9ec3-f1fa623933a4.jpg?v=1784539950",
+        "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/UE_SKUS_QOB370_2_52a89473-c188-45b0-90b4-62a9f4e5ba38.jpg?v=1784539950"
+      ],
+      "source": "breakeroutlet.com"
+    },
+    {
+      "sku": "BDA36125",
+      "found": true,
+      "product_url": "https://www.breakeroutlet.com/products/bda36125-square-d-powerpact-b-18kaic-circuit-breaker-125-ampere",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/UE_SKUS_BDA36125_1_67db335f-4dce-469b-84f4-d12c3976c0a5.jpg?v=1784468189"
+      ],
+      "source": "breakeroutlet.com"
+    },
+    {
+      "sku": "QO3030",
+      "found": false,
+      "product_url": null,
+      "image_urls": [],
+      "source": "breakeroutlet.com"
+    },
+    {
+      "sku": "HOM2125",
+      "found": false,
+      "product_url": null,
+      "image_urls": [],
+      "source": "breakeroutlet.com"
+    },
+    {
+      "sku": "QOB340VH",
+      "found": true,
+      "product_url": "https://www.breakeroutlet.com/products/qob340vh-high-interrupting-22k-bolt-on-branch-circuit-breaker-by-square-d",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/UE_SKUS_QOB340VH_1_90e19a88-7348-49be-a611-7bad36e11f5e.jpg?v=1784439632",
+        "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/UE_SKUS_QOB340VH_2_c9a67ddd-ee7f-4ad9-ad3a-52cd9d363745.jpg?v=1784439632"
+      ],
+      "source": "breakeroutlet.com"
+    },
+    {
+      "sku": "QOB350VH",
+      "found": true,
+      "product_url": "https://www.breakeroutlet.com/products/qob350vh-high-interrupting-22k-bolt-on-branch-circuit-breaker-by-square-d",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/UE_SKUS_QOB350VH_1_b96b7a51-fe07-4eb3-a420-b3a5cc02f244.jpg?v=1784439645",
+        "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/UE_SKUS_QOB350VH_2_19da6e44-6fd7-4564-975f-93b18d7c927c.jpg?v=1784439645",
+        "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/UE_SKUS_QOB350VH_3_0b256494-9f66-4452-9166-a45302dbb7e7.jpg?v=1784439645"
+      ],
+      "source": "breakeroutlet.com"
+    },
+    {
+      "sku": "QOUQ230",
+      "found": false,
+      "product_url": null,
+      "image_urls": [],
+      "source": "breakeroutlet.com"
+    },
+    {
+      "sku": "QDL22125",
+      "found": false,
+      "product_url": null,
+      "image_urls": [],
+      "source": "breakeroutlet.com"
+    },
+    {
+      "sku": "QOU290",
+      "found": true,
+      "product_url": "https://www.breakeroutlet.com/products/qou290-feed-thru-by-square-d-schneider-electric",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/UE_SKUS_QOU290_1_65b9ce26-e71a-40f0-9d48-c74a2b9717fd.jpg?v=1784439718"
+      ],
+      "source": "breakeroutlet.com"
+    },
+    {
+      "sku": "EDB34035",
+      "found": true,
+      "product_url": "https://www.breakeroutlet.com/products/edb34035-square-d-schneider-electric-bolt-on-edb-circuit-breaker",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/UE_SKUS_EDB34035_1_fb5c2c7d-2dbe-4d56-a5fd-4cad5994d81b.jpg?v=1784436731"
+      ],
+      "source": "breakeroutlet.com"
+    },
+    {
+      "sku": "QO612L100RB",
+      "found": false,
+      "product_url": null,
+      "image_urls": [],
+      "source": "breakeroutlet.com"
+    }
+  ],
+  "alternatives": [
+    {
+      "name": "Breaker Outlet",
+      "url": "https://www.breakeroutlet.com",
+      "platform": "Shopify",
+      "endpoint": "/products.json?limit=250&page=N",
+      "tested": true,
+      "notes": "7/12 sample SKUs matched exactly (missing QO3030, HOM2125, QOUQ230, QDL22125, QO612L100RB). Square D images are named UE_SKUS_{SKU}_N.jpg and are real photos but can be family-representative (QOB370 image shows a 15A handle). Surplus reseller, not authorized distributor."
+    },
+    {
+      "name": "AmpState",
+      "url": "https://www.ampstate.com",
+      "platform": "Shopify",
+      "endpoint": "/search/suggest.json",
+      "tested": true,
+      "notes": "Has QOB370, HOM2125, QO3030 listings but image is a generic Schneider/Square D composite (verified for QOB370) and many variants have null sku - unsuitable for product images."
+    },
+    {
+      "name": "JRL Electric Supply",
+      "url": "https://www.jrlelectricsupplyinc.com",
+      "platform": "Shopify",
+      "endpoint": "/search/suggest.json",
+      "tested": true,
+      "notes": "Lists QOB370 but uses shared family images (qob3poles.jpg) - generic."
+    }
+  ],
+  "recommended_strategy": "Same Breaker Outlet harvest as Siemens: filter vendor \"Square D\", exact match variant.sku (drop \"-R\"), use product.images. Flag images as family-representative. Residual misses need another source (official se.com blocked).",
+  "blockers": "se.com returns HTTP 403 (Akamai) to curl; SupplyHouse and Standard Electric Supply are Cloudflare-challenged (403)."
+}

@@ -1,0 +1,65 @@
+{
+  "brand": "Damar",
+  "official_site": "https://damarww.com/ (Damar Worldwide; damarworldwide.com does not resolve/502)",
+  "reachable": "yes (HTTP 200)",
+  "platform": "Custom PHP site (jQuery); product pages embed JSON-LD Product (sku, image)",
+  "catalog_endpoint": "Product page: https://damarww.com/products/details/di/<any-slug>/<ITEM>/ (slug is ignored; 'x' works). Autocomplete JSON: POST https://damarww.com/includes/search.php body current=<term>&silent=true -> {numResults, items:[{displayTerm, resultType, image:'images/<file>.png'}]} (image relative to https://damarww.com/common/). Listing JSON: POST https://damarww.com/products/ with qCatsSearch=<catId>&refreshProducts=true&silent=true&pageNum=N&itemsPerPage=N returns {html, numRow}.",
+  "est_products": "~9,746 (numRow for category 1000 'Bulbs & Accessories')",
+  "sku_format_match": "yes - item numbers like 38592D, 33845A, 26158G match exactly (case-insensitive, image filenames lowercase). Sample \"'38610\" (Excel apostrophe, no suffix) does not resolve directly; autocomplete maps 38610 -> 38610a.",
+  "sample_tests": [
+    {
+      "sku": "38592D",
+      "found": true,
+      "product_url": "https://damarww.com/products/details/di/incandescent-halogen-retrofit-leds14b-dim-55-1-5w/38592D/",
+      "image_urls": [
+        "https://damarww.com/common/images/38592d-2.png"
+      ]
+    },
+    {
+      "sku": "33845A",
+      "found": true,
+      "product_url": "https://damarww.com/products/details/di/x/33845A/",
+      "image_urls": [
+        "https://damarww.com/common/images/33845a.png"
+      ],
+      "note": "image HEAD 200 image/png"
+    },
+    {
+      "sku": "26158G",
+      "found": true,
+      "product_url": "https://damarww.com/products/details/di/x/26158G/",
+      "image_urls": [
+        "https://damarww.com/common/images/26158g.png"
+      ]
+    },
+    {
+      "sku": "37636A",
+      "found": true,
+      "product_url": "https://damarww.com/products/details/di/x/37636A/",
+      "image_urls": [
+        "https://damarww.com/common/images/37636a2.png"
+      ]
+    },
+    {
+      "sku": "38669K",
+      "found": true,
+      "product_url": null,
+      "image_urls": [
+        "https://damarww.com/common/images/38669k.png"
+      ],
+      "note": "via search.php autocomplete"
+    },
+    {
+      "sku": "'38610",
+      "found": false,
+      "product_url": null,
+      "image_urls": [
+        "https://damarww.com/common/images/38610at4g4.png"
+      ],
+      "note": "direct page empty; autocomplete returns only 38610a - likely the intended item but needs confirmation"
+    }
+  ],
+  "alternatives": [],
+  "recommended_strategy": "For each SKU (apostrophe stripped) GET https://damarww.com/products/details/di/x/<SKU>/ and parse the JSON-LD @type Product block (sku + image) - fall back to the img#mainDetailSImage full-image attribute. If the page is empty, POST includes/search.php (current=<SKU>&silent=true) and accept a single result whose displayTerm starts with the SKU (flag as fuzzy). Image filenames are not purely derivable (38592d-2.png, 37636a2.png), so always read them from the page/JSON.",
+  "blockers": null
+}

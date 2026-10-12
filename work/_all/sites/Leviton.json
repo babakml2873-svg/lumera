@@ -1,0 +1,38 @@
+{
+  "brand": "Leviton",
+  "official_site": "https://leviton.com/ (www redirects)",
+  "reachable": "yes (HTTP 200)",
+  "platform": "Adobe Experience Manager (AEM) with Coveo search; images on /content/dam/leviton/...",
+  "catalog_endpoint": "Product sitemap https://leviton.com/sitemap-products.xml (18,598 URLs of form https://leviton.com/products/<sku-lowercase>); product page HTML has og:image (relative /content/dam/leviton/.../product_images/<family>/<SKU>.jpg). JSON-LD present but IndividualProduct block has no sku/image.",
+  "est_products": "18598 product URLs in sitemap-products.xml",
+  "sku_format_match": "yes - URL slug = SKU lowercased; 12/12 sample SKUs present in the product sitemap",
+  "sample_tests": [
+    {
+      "sku": "16A24-UY",
+      "found": true,
+      "product_url": "https://leviton.com/products/16a24-uy",
+      "image_urls": [
+        "https://leviton.com/content/dam/leviton/commercial-industrial/product_images/16a24/16A24-UY.jpg"
+      ]
+    },
+    {
+      "sku": "M5362-2SE",
+      "found": true,
+      "product_url": "https://leviton.com/products/m5362-2se",
+      "image_urls": [
+        "https://leviton.com/content/dam/leviton/commercial-industrial/product_images/m5362/M5362-2SE.jpg"
+      ]
+    },
+    {
+      "sku": "49FSL-GY",
+      "found": true,
+      "product_url": "https://leviton.com/products/49fsl-gy",
+      "image_urls": [
+        "https://leviton.com/content/dam/leviton/commercial-industrial/product_images/49fsl/49FSL-GY.jpg"
+      ]
+    }
+  ],
+  "alternatives": [],
+  "recommended_strategy": "Load sitemap-products.xml, map slug.upper() -> URL; for each needed SKU fetch https://leviton.com/products/<sku.lower()> (~700 KB HTML each, keep <=1-2 req/s) and take og:image, prefixed with https://leviton.com. Do not guess image paths from SKU: the DAM folder (commercial-industrial/residential/...) and family folder vary. Pages also embed related products' images, so use only og:image.",
+  "blockers": "None observed (no bot challenge). Pages are heavy (~0.7 MB); robots.txt disallows Googlebot-Image but not /products for generic agents. 16A24-UY image ~93 KB JPEG (modest resolution)."
+}

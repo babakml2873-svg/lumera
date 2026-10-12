@@ -1,0 +1,182 @@
+{
+  "brand": "UMAGE",
+  "official_site": "https://umage.us (US store) / https://umage.com (global)",
+  "reachable": true,
+  "platform": "Shopify (both umage.us and umage.com)",
+  "catalog_endpoint": "https://umage.us/products.json?limit=250&page=1 (107 products / 1195 variants) and https://umage.com/products.json?limit=250&page=1 (228 products / 1883 variants)",
+  "est_products": "umage.us: 107 products, 1195 variants; umage.com: 228 products, 1883 variants",
+  "sku_format_match": "partial - sample SKUs strip the Excel leading apostrophe to give the UMAGE item number (e.g. '3025 -> 3025, exact variant.sku on umage.us). Combo SKUs like 2096_4010 / 2251_2251-1_4008 are shade+cord/rosette/stand bundles: each component exists as its own variant.sku on umage.us (2251C2251-1, 4008 rosette, 4010 swag kit, 4012 tripod, 4037 stand), but the combined bundle SKU does not. US item numbers (3xxx) only exist on umage.us; umage.com uses EU numbers.",
+  "sample_tests": [
+    {
+      "sku": "2251_2251-1_4008",
+      "found": true,
+      "product_url": "https://umage.us/products/komorebi-lampshade-circle?variant=43505332060314",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/products/UMAGE_packshot_2251-1_Komorebilarge_circle_oak__1.png?v=1696242962",
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/files/UMAGE_lifestyle_Komorebi_mini_oak__1_bee11a3e-9935-42a6-a205-5f91e5395e8f.png?v=1696242962",
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/products/UMAGE_packshot_2249_Komorebimini_oak__1.png?v=1681896998"
+      ],
+      "matched_as": "2251C2251-1",
+      "source": "umage.us",
+      "note": "combo SKU; matched primary component 2251C2251-1; accessory components 4008 also exist on umage.us as separate SKUs"
+    },
+    {
+      "sku": "2096_4010",
+      "found": true,
+      "product_url": "https://umage.com/products/conia?variant=52812310610254",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0342/2425/files/UMAGE_Lifestyle_Conia_Mini_6.jpg?v=1778206862",
+        "https://cdn.shopify.com/s/files/1/0342/2425/files/UMAGE_Lifestyle_Conia_Medium_11Daab4b_Bef4_4C16_B40d_59F38ecc37ee.webp?v=1778206595",
+        "https://cdn.shopify.com/s/files/1/0342/2425/files/UMAGE_Packshot_2019_Coniamini_White_74Aaacee_4A1d_4C5c_90Eb_F83efd40301e.png?v=1778206616"
+      ],
+      "matched_as": "2096",
+      "source": "umage.com",
+      "note": "combo SKU; matched primary component 2096; accessory components 4010 also exist on umage.us as separate SKUs"
+    },
+    {
+      "sku": "3014_4008",
+      "found": true,
+      "product_url": "https://umage.us/products/eos?variant=41404376219802",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/products/UMAGE_packshot_2125_Eosmicro_lightbrown_highres.png?v=1704202058",
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/files/UMAGE_lifestyle_Eos_medium_white_AsteriaMove_nuanceolive_Myspot_oak_brass_5b83a6d7-5424-44f9-b049-a7da845ea499.jpg?v=1731918784",
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/products/UMAGE_packshot_2091_Eos-micro_white.png?v=1662038299"
+      ],
+      "matched_as": "3014",
+      "source": "umage.us",
+      "note": "combo SKU; matched primary component 3014; accessory components 4008 also exist on umage.us as separate SKUs"
+    },
+    {
+      "sku": "'3025",
+      "found": true,
+      "product_url": "https://umage.us/products/eos-esther-lampshade?variant=40890403192986",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/products/UMAGE_packshot_2348_EosEstherlarge_white__2_2_53bdc3c8-cd78-4a5a-9438-41d31ac85672.png?v=1696240838",
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/files/EosEsther_mini_lightgrey_Santetable_brushedbrass_Audacious_oak_hazelnut__2_3b374c3c-7102-47fc-8b27-a3c1d764d77b.jpg?v=1696240838",
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/products/UMAGE_packshot_2489_EosEsthermini_white.png?v=1666077579"
+      ],
+      "matched_as": "3025",
+      "source": "umage.us"
+    },
+    {
+      "sku": "2243_4012",
+      "found": true,
+      "product_url": "https://umage.us/products/clava-wood-1?variant=43825584111770",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/products/UMAGE_packshot_2243_ClavaWood_darkoak__2_27894cac-b123-4241-a35a-da944e618ab6.png?v=1692107784",
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/products/UMAGE_lifestyle_ClavaWood_oak__1__1.png?v=1692083228",
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/products/UMAGE_packshot_2242_ClavaWood_oak__2_24650508-672d-4f11-a747-6f8dc166a383.png?v=1692083228"
+      ],
+      "matched_as": "2243",
+      "source": "umage.us",
+      "note": "combo SKU; matched primary component 2243; accessory components 4012 also exist on umage.us as separate SKUs"
+    },
+    {
+      "sku": "2009_4012",
+      "found": true,
+      "product_url": "https://umage.us/products/silvia?variant=39477338767514",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/products/UMAGE_packshot_2009_Silviamini_white_lowres.png?v=1621930142",
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/files/Silvia_mini_white_ab3a7fd9-ad22-454a-982f-3817a9f3317a.png?v=1695802116"
+      ],
+      "matched_as": "2009",
+      "source": "umage.us",
+      "note": "combo SKU; matched primary component 2009; accessory components 4012 also exist on umage.us as separate SKUs"
+    },
+    {
+      "sku": "2251_2251-3_4010",
+      "found": true,
+      "product_url": "https://umage.us/products/komorebi-lampshade-rectangular?variant=43505331044506",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/products/UMAGE_packshot_2251-3_Komorebilarge_rectangular_oak__1.png?v=1696240415",
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/files/UMAGE_lifestyle_Komorebi_large_rectangular_oak_ComfortCircle_withextension_smooth_oak_TimeFlies_whitesands__1_94552080-5f37-4e18-936b-541b11ab0266.png?v=1696240415",
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/products/UMAGE_packshot_2250-3_Komorebimedium_rectangular_oak__1.png?v=1681896970"
+      ],
+      "matched_as": "2251C2251-3",
+      "source": "umage.us",
+      "note": "combo SKU; matched primary component 2251C2251-3; accessory components 4010 also exist on umage.us as separate SKUs"
+    },
+    {
+      "sku": "'3047",
+      "found": true,
+      "product_url": "https://umage.us/products/eos-evia?variant=40890781663386",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/products/UMAGE_packshot_2470_EosEviamedium_lightrose_highres.png?v=1695808116",
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/files/UMAGE_lifestyle_EosEvia_mini_white_Willowsingle_black.jpg?v=1695808116",
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/products/UMAGE_packshot_2484_EosEviamini_white.png?v=1666103917"
+      ],
+      "matched_as": "3047",
+      "source": "umage.us"
+    },
+    {
+      "sku": "3007_4037",
+      "found": true,
+      "product_url": "https://umage.us/products/eos?variant=44284342075546",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/files/UMAGE_packshot_2067_Eosx-large_lightbrown_4366e8d1-8fe0-4d5e-b771-1aaca5f54e51.png?v=1704202058",
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/files/UMAGE_lifestyle_Eos_medium_white_AsteriaMove_nuanceolive_Myspot_oak_brass_5b83a6d7-5424-44f9-b049-a7da845ea499.jpg?v=1731918784",
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/products/UMAGE_packshot_2091_Eos-micro_white.png?v=1662038299"
+      ],
+      "matched_as": "3007",
+      "source": "umage.us",
+      "note": "combo SKU; matched primary component 3007; accessory components 4037 also exist on umage.us as separate SKUs"
+    },
+    {
+      "sku": "'2572",
+      "found": true,
+      "product_url": "https://umage.us/products/asteria-move-mini?variant=52381639344499",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/files/umage_packshot_2572_asteria-move-mini_green-marble_-2.png?v=1738762429",
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/files/umage_lifestyle_asteriamovemini_whitemarble__2_f2e447b1-7781-4676-beea-0fc9fccde6ac.png?v=1738762428",
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/files/umage_packshot_2571_asteriamovemini_blackmarble__2_1f6c6fb1-08b6-4af3-a006-ae5396cd279e.png?v=1738762429"
+      ],
+      "matched_as": "2572",
+      "source": "umage.us"
+    },
+    {
+      "sku": "'2197",
+      "found": true,
+      "product_url": "https://umage.us/products/faraday?variant=43826094112922",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/products/UMAGE_packshot_2197_Faradaylarge_brushedbrass__5_689385cf-c7e6-4d32-9804-87baa45cec1d.png?v=1692096135",
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/products/UMAGE_lifestyle_Faraday_medium_Faraday_large__1.png?v=1692096135",
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/products/UMAGE_packshot_2197_Faradaylarge_brushedbrass__1.png?v=1692096135"
+      ],
+      "matched_as": "2197",
+      "source": "umage.us"
+    },
+    {
+      "sku": "2243_4007",
+      "found": true,
+      "product_url": "https://umage.us/products/clava-wood-1?variant=43825584111770",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/products/UMAGE_packshot_2243_ClavaWood_darkoak__2_27894cac-b123-4241-a35a-da944e618ab6.png?v=1692107784",
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/products/UMAGE_lifestyle_ClavaWood_oak__1__1.png?v=1692083228",
+        "https://cdn.shopify.com/s/files/1/0435/0646/6970/products/UMAGE_packshot_2242_ClavaWood_oak__2_24650508-672d-4f11-a747-6f8dc166a383.png?v=1692083228"
+      ],
+      "matched_as": "2243",
+      "source": "umage.us",
+      "note": "combo SKU; matched primary component 2243; accessory components 4007 also exist on umage.us as separate SKUs"
+    }
+  ],
+  "alternatives": [
+    {
+      "name": "UMAGE global store",
+      "url": "https://umage.com",
+      "platform": "Shopify",
+      "endpoint": "/products.json?limit=250",
+      "tested": true,
+      "notes": "EU item numbers; has 2096 (Conia) which umage.us lacks. Same Shopify CDN quality. Sitemap lists 229 products."
+    },
+    {
+      "name": "Ferguson Home",
+      "url": "https://www.fergusonhome.com",
+      "platform": "custom (Akamai)",
+      "endpoint": null,
+      "tested": true,
+      "notes": "Uses the exact same combo format (e.g. 2134_4024) per web search, but returns HTTP 403 to curl."
+    }
+  ],
+  "recommended_strategy": "Pull umage.us/products.json (1 page) and umage.com/products.json (1 page). Normalize sample SKU: strip leading apostrophe; split on \"_\"; for 3 parts join first two with \"C\" (2251_2251-1_4008 -> 2251C2251-1); lookup full SKU, then primary component, in umage.us first then umage.com. Use variant.featured_image.src (correct per-color packshot) else product.images. Optionally also fetch the accessory component image (4008/4010/...).",
+  "blockers": null
+}

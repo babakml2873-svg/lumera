@@ -1,0 +1,74 @@
+{
+  "brand": "Diode LED",
+  "official_site": "https://www.diodeled.com/",
+  "reachable": "yes (HTTP 200)",
+  "platform": "Magento 1 (configurable products, Product.Config / spConfig JSON)",
+  "catalog_endpoint": "Search: https://www.diodeled.com/catalogsearch/result/?q=<SKU> (returns the parent family page). Parent page embeds `new Product.Config({...})` with skus{childId:SKU}; updateproductimage=false, so child SKUs have no own image - only family gallery images (media/catalog/product/cache/2/image/2500x/...).",
+  "est_products": "unknown on official site; ~2,073 Diode LED SKUs on Gladiator Lighting (one product per SKU)",
+  "sku_format_match": "yes on SKU codes (DI-... exact), but official images are per product family, not per SKU",
+  "sample_tests": [
+    {
+      "sku": "DI-MNT0202",
+      "found": true,
+      "product_url": "https://gladiatorlighting.com/products/diode-led-di-mnt0202",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0638/6951/7980/files/DI-MNT0202.jpg?v=1754922613"
+      ],
+      "note": "official: listed in spConfig of https://www.diodeled.com/advatek-s-pixlite-led-pixel-controllers.html, family images only"
+    },
+    {
+      "sku": "DI-CPEC-45PD-1",
+      "found": true,
+      "product_url": "https://gladiatorlighting.com/products/diode-led-di-cpec-45pd-1",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0638/6951/7980/files/end-caps-45pd.jpg?v=1717669254"
+      ],
+      "note": "official: in spConfig of https://www.diodeled.com/45-channel-components.html (47 child SKUs, 8 family images)"
+    },
+    {
+      "sku": "DI-24V-TE-NBL1-GN-65",
+      "found": true,
+      "product_url": "https://gladiatorlighting.com/products/diode-led-di-24v-te-nbl1-gn-65",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0638/6951/7980/files/neon-green__384041541533033500500__39503.jpg?v=1717664717"
+      ],
+      "note": "official: in spConfig of https://www.diodeled.com/neon-blaze.html (54 child SKUs, 10 family images)"
+    },
+    {
+      "sku": "DI-CPCHB-45REC-96AL",
+      "found": true,
+      "product_url": "https://gladiatorlighting.com/products/diode-led-di-cpchb-45rec-96al",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0638/6951/7980/files/DI-CPCHB-45REC-96AL.jpg?v=1742390026"
+      ]
+    },
+    {
+      "sku": "DI-RGBW-WEXT",
+      "found": true,
+      "product_url": "https://gladiatorlighting.com/products/diode-led-di-rgbw-wext",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0638/6951/7980/files/DI-RGBW-WEXT__047921491426027500500__33822.jpg?v=1717663885"
+      ]
+    }
+  ],
+  "alternatives": [
+    {
+      "name": "Gladiator Lighting",
+      "url": "https://gladiatorlighting.com/collections/diode-led",
+      "platform": "Shopify",
+      "endpoint": "https://gladiatorlighting.com/collections/diode-led/products.json?limit=250&page=N (9 pages, 2,073 products, 1 variant each, variant.sku = Diode LED SKU)",
+      "tested": true,
+      "notes": "12/12 sample SKUs matched exactly on variant sku, all with product images (product.images, not variant featured_image). Images on cdn.shopify.com, resizable. Authorization status not verified (retailer)."
+    },
+    {
+      "name": "Bees Lighting",
+      "url": "https://www.beeslighting.com/",
+      "platform": "Shopify (product URLs /products/diode-led-...)",
+      "endpoint": "/products.json",
+      "tested": false,
+      "notes": "seen in search results only"
+    }
+  ],
+  "recommended_strategy": "Harvest Gladiator Lighting /collections/diode-led/products.json (9 requests), map variants[].sku (uppercased) -> product.images[*].src; this gave 12/12 sample matches. Use the official diodeled.com only as fallback: search catalogsearch/result/?q=<SKU>, open the family page, confirm SKU in spConfig.skus and take the family image (lower specificity).",
+  "blockers": "Official site has no per-SKU images (configurable products with updateproductimage=false)."
+}

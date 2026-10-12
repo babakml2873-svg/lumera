@@ -1,0 +1,53 @@
+{
+  "brand": "Eaton",
+  "official_site": "https://www.eaton.com/us/en-us.html",
+  "reachable": "yes with full browser headers (Akamai); plain curl fails",
+  "platform": "Adobe AEM with Scene7 dynamic media (dynamicmedia.eaton.com)",
+  "catalog_endpoint": "https://www.eaton.com/us/en-us/skuPage.<SKU>.html (JSON-LD Product with sku; og:image; mdmfiles 1000x1000_300dpi images redirecting to dynamicmedia.eaton.com Scene7). Partial SKU sitemap: https://www.eaton.com/us/en-us.skusitemap.xml (3,722 URLs, none of the samples).",
+  "est_products": "unknown (sitemap partial)",
+  "sku_format_match": "yes - BR230, BR2125, BRPSURGE, CHN230GF resolve on skuPage URLs with JSON-LD sku equal to the sample",
+  "sample_tests": [
+    {
+      "sku": "BR230",
+      "found": true,
+      "product_url": "https://www.eaton.com/us/en-us/skuPage.BR230.html",
+      "image_urls": [
+        "https://www.eaton.com/mdmfiles/PDM014463/BR230_R/1000x1000_300dpi",
+        "https://www.eaton.com/mdmfiles/PDM43354402/BR230_C/1000x1000_300dpi",
+        "https://www.eaton.com/mdmfiles/PDM43354405/BR230_L/1000x1000_300dpi"
+      ]
+    },
+    {
+      "sku": "BR2125",
+      "found": true,
+      "product_url": "https://www.eaton.com/us/en-us/skuPage.BR2125.html",
+      "image_urls": [
+        "https://www.eaton.com/mdmfiles/PDM014439/BR2125_R/1000x1000_300dpi"
+      ]
+    },
+    {
+      "sku": "BRPSURGE",
+      "found": true,
+      "product_url": "https://www.eaton.com/us/en-us/skuPage.BRPSURGE.html",
+      "image_urls": [
+        "https://www.eaton.com/mdmfiles/PDM70344067/BRPSURGE_C/1000x1000_300dpi",
+        "https://www.eaton.com/mdmfiles/PDM70344072/BRPSURGE_L/1000x1000_300dpi",
+        "https://www.eaton.com/mdmfiles/PDM70344077/BRPSURGE_R/1000x1000_300dpi",
+        "https://www.eaton.com/mdmfiles/PDM70344081/BRPSURGE_T/1000x1000_300dpi"
+      ]
+    },
+    {
+      "sku": "CHN230GF",
+      "found": true,
+      "product_url": "https://www.eaton.com/us/en-us/skuPage.CHN230GF.html",
+      "image_urls": [
+        "https://www.eaton.com/mdmfiles/PDM18437581/CH250GFT_C/1000x1000_300dpi",
+        "https://www.eaton.com/mdmfiles/PDM18437582/CH250GFT_L/1000x1000_300dpi",
+        "https://www.eaton.com/mdmfiles/PDM18437583/CH250GFT_R/1000x1000_300dpi"
+      ]
+    }
+  ],
+  "alternatives": [],
+  "recommended_strategy": "GET https://www.eaton.com/us/en-us/skuPage.<SKU>.html with full Chrome headers (sec-ch-ua*, Sec-Fetch-*, Upgrade-Insecure-Requests); verify JSON-LD sku; use og:image and the other mdmfiles/<id>/<asset>/1000x1000_300dpi URLs (1000x1000 JPEG via Scene7). 65 SKUs so a slow crawl respecting Crawl-delay 20 is fine. Flag images whose asset name != SKU (e.g. CHN230GF uses CH250GFT_*) as representative.",
+  "blockers": "Akamai bot protection (needs full browser header set); Crawl-delay 20. Akamai: plain curl gets HTTP/2 INTERNAL_ERROR or 30 s timeouts; it works (HTTP 200) when full Chrome headers are sent (sec-ch-ua, sec-ch-ua-platform, Sec-Fetch-Dest/Mode/Site/User, Upgrade-Insecure-Requests, Accept with image/avif). robots.txt sets Crawl-delay: 20. Some SKUs show a representative family image rather than their own (e.g. CHN230GF -> CH250GFT_*, GHB3035 -> GHB3100_*, BAB2040 -> BAB2020_360-*, HMCP150T4C -> HMCP007C0_R)."
+}

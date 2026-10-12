@@ -1,0 +1,20 @@
+{
+  "brand": "Premium Lighting",
+  "official_site": "https://www.premiumlightinginc.com",
+  "reachable": true,
+  "platform": "Shopify",
+  "catalog_endpoint": "https://www.premiumlightinginc.com/products.json?limit=250&page=1 (single page, 51 products); also /sitemap_pages_1.xml lists 25 pages incl. 23 '<model>-details' spec pages",
+  "est_products": 51,
+  "sku_format_match": "partial - Shopify variant.sku is empty/null for all products. The EDI model code with 'xxK' placeholder (e.g. EDI-UFO-320W-XXK, EDI-LHB4FT-400W-xxK, EDI-VP-4FT60W-xxK) appears in body_html, and the generation (G1..G5) appears in the title, matching the Lumera pattern '<EDI code> G<n>'. Several products share one EDI code across generations. Lumera 'SU-*' and 'US002' SKUs do not appear on this site (web search did not identify their source).",
+  "sample_tests": [
+    {"sku": "EDI-UFO-320W-xxK G2", "found": true, "product_url": "https://www.premiumlightinginc.com/products/ufo-high-bay-g2-series-320w-160lm-w-51200lm", "image_urls": ["https://cdn.shopify.com/s/files/1/0850/5370/2450/files/UFO_G2_320W-1.jpg?v=1726391011", "https://cdn.shopify.com/s/files/1/0850/5370/2450/files/UFO_G2_320W-2.jpg?v=1726391011"]},
+    {"sku": "EDI-LHB2FT-255W-CCT G1", "found": true, "product_url": "https://www.premiumlightinginc.com/products/linear-high-bay-g1-series-2ft-255w-160lm-w-40000lm-5power-6cct-adjustable", "image_urls": ["https://cdn.shopify.com/s/files/1/0850/5370/2450/files/LHBG12FT_2.jpg?v=1727499604", "https://cdn.shopify.com/s/files/1/0850/5370/2450/files/LHBG12FT_1.jpg?v=1727499608"]},
+    {"sku": "EDI-LHB4FT-400W-xxK G3", "found": false, "product_url": "https://www.premiumlightinginc.com/products/linear-high-bay-g4-4ft-400w-62000lm-5-powers-6-ccts-aluminium-housing", "image_urls": ["https://cdn.shopify.com/s/files/1/0850/5370/2450/files/LHBG44FT_3.jpg?v=1727499634"], "note": "only G4 of this code listed; usable as a near match"},
+    {"sku": "EDI-VP-4FT60W-xxK G4", "found": false, "product_url": "https://www.premiumlightinginc.com/products/vapor-tigh-g3-4ft-60w-10000lm-5-powers-6-ccts-lowbay-highbay", "image_urls": ["https://cdn.shopify.com/s/files/1/0850/5370/2450/files/VP-G3-4FT-4.jpg?v=1731694729"], "note": "only G2/G3 of this code listed"},
+    {"sku": "EDI-AL-300W-xxK G8", "found": false, "product_url": null, "image_urls": []},
+    {"sku": "SU-UFO-150W-40/50/57K-G1-Sensor", "found": false, "product_url": null, "image_urls": []}
+  ],
+  "alternatives": [],
+  "recommended_strategy": "Pull the single products.json page. For each product extract the EDI code from body_html (regex '\\b(?:EDI|SU|SMA)-[A-Za-z0-9/\\-]+') and the generation from title (regex '\\bG\\d\\b'). Match Lumera SKU by (EDI code normalized: uppercase, 'XXK'/'CCT'/'NNK' color suffix treated as wildcard) + generation; fall back to code-only match flagged as approximate. Images are 3000px Shopify CDN JPGs. Expect only a minority of the 142 Lumera SKUs (EDI linear/UFO/VP/panel/troffer/strip lines) to match; SU-*, US002, EDI-AL (area light) and T8 tubes lack a source (T8 shown as SMA-T84F24-AB-xxK G1, not EDI-T84F18).",
+  "blockers": "Small official catalog (51 products), no SKU field; SU-* product line source not identified."
+}

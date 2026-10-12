@@ -1,0 +1,69 @@
+{
+  "brand": "Kuzco",
+  "official_site": "https://kuzcolighting.com/",
+  "reachable": "yes (HTTP 200; www.kuzcolighting.com redirects to kuzcolighting.com)",
+  "platform": "Shopify",
+  "catalog_endpoint": "https://kuzcolighting.com/products.json?limit=250&page=N (pages 1-8; page 9 empty). Single product: /products/<handle>.json",
+  "est_products": "1903 products / 4937 variants on the store (all vendors). By variant vendor: Kuzco 2750, Kuzco Vibe 106, Kuzco Architectural 360, Alora 721, Alora Mood 1000.",
+  "sku_format_match": "yes - variant.sku equals the sample SKU exactly (incl. '/' e.g. PD51612-BK/LG) for 11/12 samples; PD70610-SM/BN exists only as PD70610-SM/BN-UNV (suffix variant)",
+  "sample_tests": [
+    {
+      "sku": "ADP002BK",
+      "found": true,
+      "product_url": "https://kuzcolighting.com/products/adapters-adp002-kuzco",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0884/5390/6750/files/ADAPTERS_ADP002BK.jpg?v=1724959617"
+      ]
+    },
+    {
+      "sku": "AT67010-BN-UNV",
+      "found": true,
+      "product_url": "https://kuzcolighting.com/products/mica-at67010-kuzco",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0884/5390/6750/files/MICA_AT67010-BN-UNV.jpg?v=1741732043"
+      ]
+    },
+    {
+      "sku": "PD51612-BK/LG",
+      "found": true,
+      "product_url": "https://kuzcolighting.com/products/magellan-pd51612-kuzco",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0884/5390/6750/files/MAGELLAN_PD51612-BKLG.jpg?v=1724960948"
+      ]
+    },
+    {
+      "sku": "FM43423-WH/GD-5CCT",
+      "found": true,
+      "product_url": "https://kuzcolighting.com/products/jasper-fm43423-kuzco",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0884/5390/6750/files/JASPER_FM43423-WHGD-5CCT.jpg?v=1741731892"
+      ]
+    },
+    {
+      "sku": "494216-GY",
+      "found": true,
+      "product_url": "https://kuzcolighting.com/products/cradle-494216-kuzco",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0884/5390/6750/files/CRADLE_494216-GY.jpg?v=1741731667"
+      ]
+    },
+    {
+      "sku": "PD22339-BK-UNV-010",
+      "found": true,
+      "product_url": "https://kuzcolighting.com/products/ampersand-pd22339-kuzco",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0884/5390/6750/files/AMPERSAND_PD22339-BK-UNV-010.jpg?v=1741731441"
+      ]
+    },
+    {
+      "sku": "PD70610-SM/BN",
+      "found": false,
+      "product_url": null,
+      "image_urls": [],
+      "note": "only PD70610-SM/BN-UNV present in catalog; prefix match would resolve"
+    }
+  ],
+  "alternatives": [],
+  "recommended_strategy": "Page through /products.json?limit=250&page=1..8 (~8 requests). For each variant use variant.featured_image.src (falls back to product.images[0].src); match on variant.sku uppercased exactly, then fallback to prefix match (sample SKU + '-UNV' etc.). Filter vendor in {Kuzco, Kuzco Vibe}. Shopify CDN images: full-size originals, can add ?width= to resize.",
+  "blockers": null
+}

@@ -1,0 +1,108 @@
+{
+  "brand": "EMCOD Lighting Group",
+  "official_site": "https://www.emcod.com/",
+  "reachable": true,
+  "platform": "Custom PHP site (no Shopify/WooCommerce); no sitemap.xml (404), no JSON-LD, no og:image on product pages",
+  "catalog_endpoint": "https://www.emcod.com/products (single HTML page, ~329 KB) lists every model as <a class=\"product_link\" href=\"/products/info?id=N&\">SKU</a>; product image on https://www.emcod.com/products/info?id=N inside <div class=\"product_img\"><a href=\"/adm_dop_files/upload_files_object/<md5>.png\" data-pswp-width=.. data-pswp-height=..>",
+  "est_products": 237,
+  "est_products_note": "237 SKU links mapping to 218 distinct product ids on /products",
+  "sku_format_match": "yes - site model numbers are identical to sample SKUs (some listed with an extra \" T24\" suffix, e.g. \"MLE80-24DC-UD T24\"); 11/12 samples present in listing",
+  "sample_tests": [
+    {
+      "sku": "ML20S24AC",
+      "found": true,
+      "product_url": "https://www.emcod.com/products/info?id=279",
+      "image_urls": [
+        "https://www.emcod.com/adm_dop_files/upload_files_object/e6e35e1d45ff419284b59211fb70a264.png"
+      ],
+      "image_px": "166x504"
+    },
+    {
+      "sku": "EM150S24DC",
+      "found": true,
+      "product_url": "https://www.emcod.com/products/info?id=167",
+      "image_urls": [
+        "https://www.emcod.com/adm_dop_files/upload_files_object/0cfa8a338b53174c1e5088f590ed8768.png"
+      ],
+      "image_px": "742x1350"
+    },
+    {
+      "sku": "EMT600SS-22E",
+      "found": true,
+      "product_url": "https://www.emcod.com/products/info?id=42",
+      "image_urls": [
+        "https://www.emcod.com/adm_dop_files/upload_files_object/40cb04e6b9b1defe1b15898ae1f6d033.png"
+      ],
+      "image_px": "327x659"
+    },
+    {
+      "sku": "MLE30-12DC",
+      "found": true,
+      "product_url": "https://www.emcod.com/products/info?id=431",
+      "image_urls": [
+        "https://www.emcod.com/adm_dop_files/upload_files_object/b5b04ce84d409cffcf534b648abd0374.png"
+      ],
+      "image_px": "1115x652"
+    },
+    {
+      "sku": "ML75S24DC",
+      "found": true,
+      "product_url": "https://www.emcod.com/products/info?id=409",
+      "image_urls": [],
+      "note": "exact SKU link found in /products listing; page image not fetched"
+    },
+    {
+      "sku": "ML50S24DC",
+      "found": true,
+      "product_url": "https://www.emcod.com/products/info?id=227",
+      "image_urls": [],
+      "note": "exact SKU link found in /products listing; page image not fetched"
+    },
+    {
+      "sku": "ML20S12DC",
+      "found": true,
+      "product_url": "https://www.emcod.com/products/info?id=315",
+      "image_urls": [],
+      "note": "exact SKU link found in /products listing; page image not fetched"
+    },
+    {
+      "sku": "ML75S12AC",
+      "found": true,
+      "product_url": "https://www.emcod.com/products/info?id=199",
+      "image_urls": [],
+      "note": "exact SKU link found in /products listing; page image not fetched"
+    },
+    {
+      "sku": "MLE80-24DC-UD",
+      "found": true,
+      "product_url": null,
+      "image_urls": [],
+      "note": "listed on site as \"MLE80-24DC-UD T24\" (suffix \" T24\"); match by prefix"
+    },
+    {
+      "sku": "MLE200-24DC-UD",
+      "found": true,
+      "product_url": null,
+      "image_urls": [],
+      "note": "listed on site as \"MLE200-24DC-UD T24\" (suffix \" T24\"); match by prefix"
+    },
+    {
+      "sku": "MLE180C2-12UD",
+      "found": true,
+      "product_url": null,
+      "image_urls": [],
+      "note": "listed on site as \"MLE180C2-12UD T24\" (suffix \" T24\"); match by prefix"
+    },
+    {
+      "sku": "EDD120-12DC-CCT",
+      "found": false,
+      "product_url": null,
+      "image_urls": [],
+      "note": "not listed; closest listing is EDD120-12DC (and EDD60/96/160 -CCT variants exist)"
+    }
+  ],
+  "alternatives": [],
+  "recommended_strategy": "1 request to https://www.emcod.com/products, regex class=\"product_link\" href=\"/products/info?id=(\\d+)&?\">([^<]+)</a> to build SKU->id (normalize by stripping \" T24\"). For each needed id GET /products/info?id=N (<=1 req/s) and take the href inside div.product_img (absolute: https://www.emcod.com + path). Many SKUs share one id/image (family). Ignore the other upload_files_object images on the page (electrical diagram img.pdf_logo3, installation PDF link).",
+  "blockers": null,
+  "notes": "Image resolution varies (166x504 up to 1115x652, PNG). Images are not watermarked as far as observed. Site served fine with browser UA."
+}

@@ -1,0 +1,113 @@
+{
+  "brand": "Enerlites",
+  "official_site": "https://www.enerlites.com/",
+  "reachable": true,
+  "platform": "Next.js (Vercel) front-end backed by Supabase; not Shopify (/products.json 404). sitemap.xml lists only ~11 static pages",
+  "catalog_endpoint": "https://www.enerlites.com/products - server-rendered RSC payload (~1.4 MB HTML) embeds every product as JSON: {\"model_number\",\"slug\",\"title\",...,\"media\":[\"<slug>/images/<SKU>_<color>_<n>.png\",...],\"spec_sheet_url\"...}. Image base: https://nokxwrrxvvnplxehxvuh.supabase.co/storage/v1/object/public/product-assets/<media path>",
+  "est_products": 584,
+  "est_products_note": "584 product records (model families) with media; 1,160 distinct color-level SKUs derivable from image filenames",
+  "sku_format_match": "yes - image filenames start with the full color SKU (e.g. 8824M-GY_gray_1.png); model_number holds the base model (8824M). 12/12 samples matched",
+  "sample_tests": [
+    {
+      "sku": "8824M-GY",
+      "found": true,
+      "product_url": "https://www.enerlites.com/products/duplex-receptacle-four-gang-wall-plate-mid-size",
+      "image_urls": [
+        "https://nokxwrrxvvnplxehxvuh.supabase.co/storage/v1/object/public/product-assets/duplex-receptacle-four-gang-wall-plate-mid-size/images/8824M-GY_gray_1.png"
+      ]
+    },
+    {
+      "sku": "HET06-J-W",
+      "found": true,
+      "product_url": "https://www.enerlites.com/products/4-hour-7-button-preset-countdown-timer-switch-2",
+      "image_urls": [
+        "https://nokxwrrxvvnplxehxvuh.supabase.co/storage/v1/object/public/product-assets/4-hour-7-button-preset-countdown-timer-switch-2/images/HET06-J-W_white_1.png"
+      ]
+    },
+    {
+      "sku": "91200-GY",
+      "found": true,
+      "product_url": "https://www.enerlites.com/products/commercial-grade-20a-decorator-switch-single-pole",
+      "image_urls": [
+        "https://nokxwrrxvvnplxehxvuh.supabase.co/storage/v1/object/public/product-assets/commercial-grade-20a-decorator-switch-single-pole/images/91200-GY_gray_1.png"
+      ]
+    },
+    {
+      "sku": "961501-S",
+      "found": true,
+      "product_url": "https://www.enerlites.com/products/round-pop-up-floor-box-kit-with-20a-decorator-duplex-tamper-and-weather-resistant-receptacle-961501-s",
+      "image_urls": [
+        "https://nokxwrrxvvnplxehxvuh.supabase.co/storage/v1/object/public/product-assets/nickel-plated-brass-round-pop-up-floor-box-assembly-with-20a-tamper-weather-resistant-decorator-receptacle/images/961501-S-SV_silver_1.png"
+      ],
+      "note": "matched via model_number \"961501-S\" (single-finish item; image file is named 961501-S-SV_silver_1.png)"
+    },
+    {
+      "sku": "62040-W",
+      "found": true,
+      "product_url": "https://www.enerlites.com/products/commercial-grade-20a-duplex-receptacle",
+      "image_urls": [
+        "https://nokxwrrxvvnplxehxvuh.supabase.co/storage/v1/object/public/product-assets/commercial-grade-20a-duplex-receptacle/images/62040-W_white_1.png"
+      ]
+    },
+    {
+      "sku": "881121-I",
+      "found": true,
+      "product_url": "https://www.enerlites.com/products/combination-two-gang-wall-plate-toggle-and-duplex-receptacle",
+      "image_urls": [
+        "https://nokxwrrxvvnplxehxvuh.supabase.co/storage/v1/object/public/product-assets/combination-two-gang-wall-plate-toggle-and-duplex-receptacle/images/881121-I_ivory_1.png"
+      ]
+    },
+    {
+      "sku": "61501-TR2USB-1A1C-W",
+      "found": true,
+      "product_url": "https://www.enerlites.com/products/dual-usb-type-c-type-a-charger-5-8a-with-15a-tamper-resistant-duplex-receptacles",
+      "image_urls": [
+        "https://nokxwrrxvvnplxehxvuh.supabase.co/storage/v1/object/public/product-assets/dual-usb-type-c-type-a-charger-5-8a-with-15a-tamper-resistant-duplex-receptacles/images/61501-TR2USB-1A1C-W_white_1.png"
+      ]
+    },
+    {
+      "sku": "8802O-BK",
+      "found": true,
+      "product_url": "https://www.enerlites.com/products/blank-cover-two-gang-wall-plate-over-size",
+      "image_urls": [
+        "https://nokxwrrxvvnplxehxvuh.supabase.co/storage/v1/object/public/product-assets/enerlites-unbreakable-poly-carbonate-thermoplastic-wall-plate-2-gang-blank-oversize-cover-8802o/images/8802O-BK_black_1.png"
+      ]
+    },
+    {
+      "sku": "66220-BK",
+      "found": true,
+      "product_url": "https://www.enerlites.com/products/straight-blade-plug-15a-6-15p",
+      "image_urls": [
+        "https://nokxwrrxvvnplxehxvuh.supabase.co/storage/v1/object/public/product-assets/straight-blade-plug-15a-6-15p/images/66220-BK_black_1.png"
+      ]
+    },
+    {
+      "sku": "6501-W",
+      "found": true,
+      "product_url": "https://www.enerlites.com/products/enerlites-molded-in-voice-and-audio-video-one-rj11-jack-4-position-4-conductor",
+      "image_urls": [
+        "https://nokxwrrxvvnplxehxvuh.supabase.co/storage/v1/object/public/product-assets/enerlites-molded-in-voice-and-audio-video-one-rj11-jack-4-position-4-conductor/images/6501-W_white_1.png"
+      ]
+    },
+    {
+      "sku": "91150A-BK",
+      "found": true,
+      "product_url": "https://www.enerlites.com/products/antimicrobial-residential-grade-decorator-switch-single-pole",
+      "image_urls": [
+        "https://nokxwrrxvvnplxehxvuh.supabase.co/storage/v1/object/public/product-assets/antimicrobial-residential-grade-decorator-switch-single-pole/images/91150A-BK_black_1.png"
+      ]
+    },
+    {
+      "sku": "SI8833-I",
+      "found": true,
+      "product_url": "https://www.enerlites.com/products/screwless-decorator-gfci-three-gang-wall-plate",
+      "image_urls": [
+        "https://nokxwrrxvvnplxehxvuh.supabase.co/storage/v1/object/public/product-assets/screwless-decorator-gfci-three-gang-wall-plate/images/SI8833-I_ivory_1.png"
+      ]
+    }
+  ],
+  "alternatives": [],
+  "recommended_strategy": "Single GET of https://www.enerlites.com/products; unescape \\\" and regex \"model_number\":\"([^\"]+)\",\"slug\":\"([^\"]+)\" then the following \"media\":[...] array. Index each media filename by its prefix before the first \"_\" (= color SKU, uppercase) and also index model_number. Match our SKU exactly against filename-SKU first, then model_number. Prefer *_1.png. Full URL = supabase public base + media path. Images are 2400x2400 PNG (checked 8824M-GY_gray_1.png, 191 KB).",
+  "blockers": null,
+  "notes": "Homepage once timed out (30s) but /products loaded fine. Storage folder name can differ from product slug (e.g. 8802O); always use the media path, not the slug, for images. Some media entries are YouTube URLs - filter by image extension."
+}

@@ -1,0 +1,71 @@
+{
+  "brand": "Alteck",
+  "official_site": "https://altecklighting.com",
+  "reachable": "yes (HTTP 200). Note: alteck.com is a parked/for-sale domain (Sedo) - not the brand; alteck.ca failed (proxy CONNECT 502).",
+  "platform": "Shopify (cdn.shopify.com/s/files/1/0663/6738/9868)",
+  "catalog_endpoint": "https://altecklighting.com/products.json?limit=250&page=1 (single page holds the whole catalog)",
+  "est_products": "169 products / 195 variants (vendor 'altecklighting' 145, 'Alteck' 24)",
+  "sku_format_match": "yes - 12/12 sample SKUs matched variants[].sku exactly (e.g. AW0052-3CCT-W-BK, AP0073-5CCT-W-BK).",
+  "sample_tests": [
+    {
+      "sku": "AW0052-3CCT-W-BK",
+      "found": true,
+      "product_url": "https://altecklighting.com/products/2-step-25-inch-outdoor-wall-sconce",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0663/6738/9868/files/AW0052-3CCT-W-BK-1.jpg?v=1733783648",
+        "https://cdn.shopify.com/s/files/1/0663/6738/9868/files/AW0052-3CCT-W-BK_application-shot1.jpg?v=1737067306"
+      ]
+    },
+    {
+      "sku": "AW0168-5CCT-W-PAB",
+      "found": true,
+      "product_url": "https://altecklighting.com/products/organic-13-1-2-inch-wall-sconce",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0663/6738/9868/files/AW0168-5CCT-W-PAB.png?v=1767808584",
+        "https://cdn.shopify.com/s/files/1/0663/6738/9868/files/AW0168-5CCT-W-PAB_applicationshot_1.jpg?v=1767817338",
+        "https://cdn.shopify.com/s/files/1/0663/6738/9868/files/AW0168-5CCT-W-PAB_applicationshot_2.jpg?v=1767817338"
+      ]
+    },
+    {
+      "sku": "AW0028-3CCT-W-BA",
+      "found": true,
+      "product_url": "https://altecklighting.com/products/veil-outdoor-wall-sconce",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0663/6738/9868/files/AW0028-3CCT-W-BA-1.jpg?v=1742254532",
+        "https://cdn.shopify.com/s/files/1/0663/6738/9868/files/AW0028-3CCT-W-BB_application-shot.jpg?v=1735763261",
+        "https://cdn.shopify.com/s/files/1/0663/6738/9868/files/AW0028-3CCT-W-BB-5.jpg?v=1735763261"
+      ]
+    },
+    {
+      "sku": "AW0120-3CCT-W-WH",
+      "found": true,
+      "product_url": "https://altecklighting.com/products/tenere-7-3-4-inch-outdoor-wall-sconce",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0663/6738/9868/files/AW0120-3CCT-W-MH-1.jpg?v=1743009518",
+        "https://cdn.shopify.com/s/files/1/0663/6738/9868/files/AW0120-3CCT-W-BK_application-shot2.jpg?v=1737067402",
+        "https://cdn.shopify.com/s/files/1/0663/6738/9868/files/AW0120-3CCT-W-BK_applicationshot_1.jpg?v=1743009518"
+      ]
+    }
+  ],
+  "alternatives": [
+    {
+      "name": "Alteck Pro (trade site)",
+      "url": "https://alteckpro.com",
+      "platform": "unknown",
+      "endpoint": null,
+      "tested": true,
+      "notes": "TLS handshake failure (sslv3 alert) through the proxy; not usable from here and not needed."
+    },
+    {
+      "name": "BuyRite Electric / City Lights SF",
+      "url": "https://buyriteelectric.com/collections/alteck-lighting",
+      "platform": "Shopify",
+      "endpoint": "/collections/alteck-lighting/products.json",
+      "tested": false,
+      "notes": "Seen in web search as Alteck retailers; not needed since official store covers all sample SKUs."
+    }
+  ],
+  "recommended_strategy": "Download https://altecklighting.com/products.json?limit=250&page=1 (confirm page 2 empty). Match variants[].sku exactly. Image: variants[].featured_image.src when present (multi-finish products); 124 of 195 variants have no featured_image (mostly single-variant products) -> use product.images[0].src. For multi-variant products without featured_image, pick product.images whose filename starts with the SKU (filenames embed SKU, e.g. AW0052-3CCT-W-BK-1.jpg), else images[0].",
+  "blockers": null,
+  "notes": "Caveat: some filenames use a different finish/CCT code than the variant (e.g. AW0054-30-W-BK images named AW0054-CCT-W-BK-1.jpg; AW0120-3CCT-W-WH featured image named AW0120-3CCT-W-MH-1.jpg), so prefer featured_image / variant_ids over filename matching. Product images include application (lifestyle) shots - take the first non-'application' image as the primary."
+}

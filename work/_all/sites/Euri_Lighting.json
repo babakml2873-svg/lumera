@@ -1,0 +1,129 @@
+{
+  "brand": "Euri Lighting",
+  "official_site": "https://www.euricompany.com/",
+  "reachable": true,
+  "reachable_note": "https://www.eurilighting.com redirects to https://www.euricompany.com/ (HTTP 200). Responses are gzip-encoded even without Accept-Encoding - decompress.",
+  "platform": "Webflow CMS (Finsweet cmsfilter/cmsload); not Shopify (/products.json returns Webflow page JSON), no sitemap.xml (404), no JSON-LD; og:image present on product pages",
+  "catalog_endpoint": "Listing: https://www.euricompany.com/products?feaebd7c_page=1..4 (50 cards/page; each card has fs-cmsfilter-field=\"sku1\"..\"sku5\" text, product href, and image). Search: https://www.euricompany.com/search?query=<SKU> (Webflow site search, server-rendered; first result is the product). Product page og:image = main image.",
+  "est_products": null,
+  "est_products_note": "/products listing exposes 196 product cards / 253 SKUs, but the site has more product pages than the listing (e.g. DLC4G-9W105se, DLC8C-24W203swej, EUD4-50W103sw-S reachable only via search/direct URL). Total unknown.",
+  "sku_format_match": "yes - sku1..sku5 fields and slugs carry Euri SKUs in the same format (case-insensitive, e.g. EOL-WL16FR-3100se). Some fixtures list a base SKU only (EIN-VL19FR-3000e listed, image named EIN-VL19FR-3000).",
+  "sample_tests": [
+    {
+      "sku": "EFL-240W-MD",
+      "found": false,
+      "product_url": null,
+      "image_urls": [],
+      "note": "not on site; site search returns only EFL-130W-MD / EFL-140W-MD"
+    },
+    {
+      "sku": "EUD4-50W103sw-S-EM",
+      "found": false,
+      "product_url": "https://www.euricompany.com/products/commercial-led-50-watt-4-ft-architectural-linear-up-and-down-light-dual-3-color-selectable-dimmable-linkable-silver-eud4-50w103sw-s",
+      "image_urls": [],
+      "note": "only base EUD4-50W103sw-S page found via search (no -EM listing); -B sibling page og:image = https://cdn.prod.website-files.com/6566361a5adda141b81f3a3e/667da99486912ec63747cd82_6595eb2ef2ae9f733cbff820_EUD4-50W103sw-B_Perspective-Suspended.webp"
+    },
+    {
+      "sku": "EOL-WL01BK-2100e",
+      "found": false,
+      "product_url": "https://www.euricompany.com/products/commercial-led-15-8-watt-mini-wall-pack-5-color-selectable-wet-rated-non-dimmable-eol-wl01bk-2100e",
+      "image_urls": [],
+      "note": "site search returns this URL but the page is HTTP 404 (stale search index); listing has EOL-WL01BK-3100E instead"
+    },
+    {
+      "sku": "EPL-2100H",
+      "found": true,
+      "product_url": "https://www.euricompany.com/products/commercial-led-26-watt-equivalent-horizontal-pl-lamp-g24q-4-pin-hybrid-type-a-b-epl-2100h-epl-2140h-epl-2150h",
+      "image_urls": [
+        "https://cdn.prod.website-files.com/6566361a5adda141b81f3a3e/667da99f90ea1bc30235acee_6594814f77db7a43ede07dd1_EPL-2100H_Front-view.webp"
+      ]
+    },
+    {
+      "sku": "DLC8C-24W203swej",
+      "found": true,
+      "product_url": "https://www.euricompany.com/products/commercial-led-ca-compliant-8-commercial-recessed-downlight-5-color-and-3-wattage-selectable-0-10v-dimmable-dlc8c-24w203swej",
+      "image_urls": [
+        "https://cdn.prod.website-files.com/6566361a5adda141b81f3a3e/667da99a544201de40234ead_659497155329215630bbc9be_DLC8C-22W103swej_Perspective-View.webp"
+      ],
+      "note": "found via /search, not in /products listing; og:image is named for sibling DLC8C-22W103swej"
+    },
+    {
+      "sku": "EOL-WL16FR-3100se",
+      "found": true,
+      "product_url": "https://www.euricompany.com/products/residential-led-12-5-watt-oval-wall-sconce-wet-rated-6-color-selectable-non-dimmable-eol-wl16fr-3100se",
+      "image_urls": [
+        "https://cdn.prod.website-files.com/6566361a5adda141b81f3a3e/6758c5734136ddc3842f6286_EOL-WL16FR-3100se_Frontview.jpg"
+      ]
+    },
+    {
+      "sku": "EIN-VL19FR-3000e",
+      "found": true,
+      "product_url": "https://www.euricompany.com/products/residential-led-15-20-25-watt-2ft-vanity-light-3-color-and-3-wattage-selectable-dimmable-brushed-nickel-double-rings-frosted-lens",
+      "image_urls": [
+        "https://cdn.prod.website-files.com/6566361a5adda141b81f3a3e/67dc93c52dcc10b649b6e199_EIN-VL19FR-3000_Perspective.jpg"
+      ]
+    },
+    {
+      "sku": "EOL-WL14WH-3100se",
+      "found": true,
+      "product_url": "https://www.euricompany.com/products/residential-led-6-2-watt-outdoor-bulkhead-wall-light-wet-rated-6-color-selectable-non-dimmable-white-housing-eol-wl14wh-3100se",
+      "image_urls": [
+        "https://cdn.prod.website-files.com/6566361a5adda141b81f3a3e/6758c542df3d752826f649ba_EOL-WL14WH-3100se_Front-View.jpg"
+      ]
+    },
+    {
+      "sku": "ECS-150W1050",
+      "found": true,
+      "product_url": "https://www.euricompany.com/products/commercial-led-150-watt-square-canopy-light-waterproof-ip65-protection-dimmable-ecs-150w1050",
+      "image_urls": [
+        "https://cdn.prod.website-files.com/6566361a5adda141b81f3a3e/667da9942d4133c905975bc9_6595ed6b9a48b12e73f9b1a9_ECS-150W1050_Front-View.webp"
+      ]
+    },
+    {
+      "sku": "EIN-HL5OB-1100",
+      "found": true,
+      "product_url": "https://www.euricompany.com/products/artisan-concrete-collection-summit-mountain-pendant-fixture-ocean-blue-ein-hl5ob-1100",
+      "image_urls": [
+        "https://cdn.prod.website-files.com/6566361a5adda141b81f3a3e/66a951b8f64e722159ca1fc0_EIN-HL5OB-1100_Front-View.webp"
+      ]
+    },
+    {
+      "sku": "EIN-PC3002WW-EM",
+      "found": true,
+      "product_url": "https://www.euricompany.com/products/residential-led-22-watt-3in-cylinder-pendant-light-with-emergency-battery-back-up-5-color-selectable-dimmable-white",
+      "image_urls": [
+        "https://cdn.prod.website-files.com/6566361a5adda141b81f3a3e/695ed224109a2574a96ac838_EIN-PC3002WW_front-view.jpg"
+      ]
+    },
+    {
+      "sku": "DLC4G-9W105se",
+      "found": true,
+      "product_url": "https://www.euricompany.com/products/commercial-led-ca-compliant-65-watt-equivalent-4-gimbal-downlight-with-junction-box-5-color-selectable-dimmable-dlc4g-9w105se",
+      "image_urls": [
+        "https://cdn.prod.website-files.com/6566361a5adda141b81f3a3e/667da9988a43d76ed31adf39_6595a84c1f472a1c7bc7c145_DLC6G-12W205se_Perspective.webp"
+      ],
+      "note": "found via /search; og:image is a sibling (DLC6G-12W205se) render"
+    }
+  ],
+  "alternatives": [
+    {
+      "name": "Gladiator Lighting",
+      "url": "https://gladiatorlighting.com",
+      "platform": "Shopify",
+      "endpoint": "https://gladiatorlighting.com/search/suggest.json?q=<SKU>&resources[type]=product then /products/<handle>.json",
+      "tested": true,
+      "notes": "DLC4G-9W105se found (vendor \"Euri\") but its image is an AI-generated file (files/ChatGPTImageJul17_2026_...png) - low trust. EFL-240W-MD not found; EUD4-50W103sw-S (no -EM) exists. Shopify-based Euri collections were not found on buyriteelectric/sonicelectric/readyelectricsupply (collections/euri-lighting and /euri empty)."
+    },
+    {
+      "name": "Superbrightleds / LightBulbSurplus / Amazon",
+      "url": "https://www.superbrightleds.com",
+      "platform": "various",
+      "endpoint": null,
+      "tested": false,
+      "notes": "Seen in web search for EUD4-50W103sw-W; not tested."
+    }
+  ],
+  "recommended_strategy": "1) Page https://www.euricompany.com/products?feaebd7c_page=1..4 and build SKU->(product href, card image) from sku1..sku5 fields (uppercase compare). 2) For SKUs not in the listing, GET /search?query=<SKU>, take result hrefs after \"search-result-items\", accept only if the slug ends with the lowercased SKU (or the page lists the SKU), then GET the product page and use og:image (skip pages returning 404). 3) Strip -EM / color suffixes as a fallback to a base-SKU page and flag as family image. ~1 req/s.",
+  "blockers": null,
+  "notes": "Images on cdn.prod.website-files.com (Webflow CDN; .webp/.jpg/.png). Several og:images are sibling-SKU renders - keep filename-contains-SKU as quality flag. Observed 9/12 exact (7 via listing + 2 via search), 1 base-SKU only, 3 not available."
+}

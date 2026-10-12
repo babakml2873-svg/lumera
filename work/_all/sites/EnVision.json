@@ -1,0 +1,145 @@
+{
+  "brand": "EnVision",
+  "official_site": "https://www.envisionledlighting.com/",
+  "reachable": true,
+  "reachable_note": "envisionlightingusa.com (guessed domain) failed with proxy CONNECT 502; the real site is envisionledlighting.com (EnVision LED Lighting, Inc., Los Angeles) - HTTP 200",
+  "platform": "Next.js front-end on DatoCMS (headless CMS); products page is client-rendered; /sitemap.xml returns the Next.js 404 page",
+  "catalog_endpoint": "DatoCMS Content Delivery GraphQL used by the site itself: POST https://graphql.datocms.com/ with header \"Authorization: Bearer 50a703e5c3903699f5ca2a6edbe026\" (public read-only token embedded in /_next/static/chunks/3589-*.js). Query allProducts(first:100, skip:N){ number slug name images{url width height} } ; _allProductsMeta{count}",
+  "est_products": 1887,
+  "est_products_note": "_allProductsMeta(filter:{_status:{eq:published}}).count = 1887; each record is one orderable SKU (field \"number\")",
+  "sku_format_match": "yes - DatoCMS \"number\" equals the full catalog SKU (exact match for 12/12 samples, including \"RHB-100/150-SM-BLK\" and \"LED-SL-PNL-4R-9W-RGB+W-WH\")",
+  "sample_tests": [
+    {
+      "sku": "TS3-SM-FLX-WH",
+      "found": true,
+      "product_url": "https://www.envisionledlighting.com/products/end-cap-required-to-end-a-run665566",
+      "image_urls": [
+        "https://www.datocms-assets.com/65469/1696977342-ts3-sm-flx.jpg",
+        "https://www.datocms-assets.com/65469/1696977348-ts3-sm-flx_2.jpg"
+      ],
+      "note": "image filename is the family (ts3-sm-flx), not finish-specific"
+    },
+    {
+      "sku": "LED-DLJBX-ADJ-3-8W-5CCT-BLK-R",
+      "found": true,
+      "product_url": "https://www.envisionledlighting.com/products/downlights-3-snaptrim-adjustable-gimbal-canless-j-box-downlight-snaptrim-line-8w21",
+      "image_urls": [
+        "https://www.datocms-assets.com/65469/1717540792-led-dljbx-adj-3-8w-5cct-blk-r_01.jpg",
+        "https://www.datocms-assets.com/65469/1745008972-led-dljbx-adj-3-8w-5cct-blk-r.jpg"
+      ]
+    },
+    {
+      "sku": "CV-12V-DC-150W-DIM",
+      "found": true,
+      "product_url": "https://www.envisionledlighting.com/products/constant-voltage-class-2-driver-with-aluminum-casing23",
+      "image_urls": [
+        "https://www.datocms-assets.com/65469/1705452198-cv-12v-dc-150w-dim.jpg",
+        "https://www.datocms-assets.com/65469/1705452192-cv-12v-dc-150w-dim_2.jpg"
+      ]
+    },
+    {
+      "sku": "LED-WPFC-ADJ-3P30W-22K-BZ",
+      "found": true,
+      "product_url": "https://www.envisionledlighting.com/products/full-cut-off-wall-packs-adjustable-afc-line-2200k333e",
+      "image_urls": [
+        "https://www.datocms-assets.com/65469/1765393663-led-wpfc-adj-3p30w-22k-bz_01.jpg",
+        "https://www.datocms-assets.com/65469/1753899634-led-wpfc-adj-3p30w-tri-bl.jpg"
+      ],
+      "note": "first image is SKU-specific; second is a sibling SKU (tri-bl)"
+    },
+    {
+      "sku": "RHB-100/150-SM-BLK",
+      "found": true,
+      "product_url": "https://www.envisionledlighting.com/products/high-bay-round-100-150w-surface-mount",
+      "image_urls": [
+        "https://www.datocms-assets.com/65469/1707264760-rhb-100-150-sm-blk.jpg",
+        "https://www.datocms-assets.com/65469/1707264766-rhb-100-150-sm-blk_2.jpg"
+      ]
+    },
+    {
+      "sku": "LED-WPROT2-80WD-50K-BZ",
+      "found": true,
+      "product_url": "https://www.envisionledlighting.com/products/wall-pack-rotating-two-module-80w-w-bz-5cct",
+      "image_urls": [
+        "https://www.datocms-assets.com/65469/1648242696-led-wprot2-80wd-50k-bz.jpg",
+        "https://www.datocms-assets.com/65469/1648242683-led-wprot2-80wd-50k-bz_02.jpg"
+      ]
+    },
+    {
+      "sku": "LED-ARL3-3B-5P150-TRI-GRY-HV",
+      "found": true,
+      "product_url": "https://www.envisionledlighting.com/products/optic-line-selectable-large-area-lights1187765544980212",
+      "image_urls": [
+        "https://www.datocms-assets.com/65469/1748903153-led-arl3-3b-5p150-tri-gry-hv.jpg",
+        "https://www.datocms-assets.com/65469/1748986238-led-arl3-3b-5p150-tri-gry-hv.jpg"
+      ]
+    },
+    {
+      "sku": "LED-CRN-3M36-TRI-E26",
+      "found": true,
+      "product_url": "https://www.envisionledlighting.com/products/corn-bulb-3cct-3-power-select",
+      "image_urls": [
+        "https://www.datocms-assets.com/65469/1705445969-led-crn-3m36-tri-e26.jpg",
+        "https://www.datocms-assets.com/65469/1705445964-led-crn-3m36-tri-e26_3.jpg"
+      ]
+    },
+    {
+      "sku": "LED-XSL2R-2P25-TRI-BL-PIR",
+      "found": true,
+      "product_url": "https://www.envisionledlighting.com/products/security-flood-light-with-motion-sensor2233",
+      "image_urls": [
+        "https://www.datocms-assets.com/65469/1745364739-led-xsl2r-2p25-tri-bl-pir.jpg",
+        "https://www.datocms-assets.com/65469/1745364654-led-sc2r-3p30-tri-bl-pir.jpg"
+      ]
+    },
+    {
+      "sku": "LED-SL-PNL-4R-9W-RGB+W-WH",
+      "found": true,
+      "product_url": "https://www.envisionledlighting.com/products/4-slimline-led-slim-panel-downlights-rgb-cw",
+      "image_urls": [
+        "https://www.datocms-assets.com/65469/1682031431-led-sl-pnl-4r-9w-rgb-w-wh.jpg",
+        "https://www.datocms-assets.com/65469/1748987174-led-sl-pnl-4r-9w-rgb-w-wh.jpg"
+      ]
+    },
+    {
+      "sku": "ARL3-T-IV-240-300",
+      "found": true,
+      "product_url": "https://www.envisionledlighting.com/products/arl-type-ii-optics-lens-25deg-beam-lens12343213233232112",
+      "image_urls": [
+        "https://www.datocms-assets.com/65469/1704740448-arl3-t-ii-450.jpg",
+        "https://www.datocms-assets.com/65469/1704740440-arl3-t-ii-450_02.jpg"
+      ],
+      "note": "exact number match, but images are named for ARL3-T-II-450 (shared accessory image)"
+    },
+    {
+      "sku": "LED-BR30-8.5W-5CCT",
+      "found": true,
+      "product_url": "https://www.envisionledlighting.com/products/br-series-5-cct-led-bulbs123",
+      "image_urls": [
+        "https://www.datocms-assets.com/65469/1690840145-led-br30-8-5w-5cct.jpg",
+        "https://www.datocms-assets.com/65469/1690840151-led-br30-8-5w-5cct_3.jpg"
+      ]
+    }
+  ],
+  "alternatives": [
+    {
+      "name": "BuyRite Electric",
+      "url": "https://buyriteelectric.com",
+      "platform": "Shopify",
+      "endpoint": "/products.json or /collections/<envision collection>/products.json",
+      "tested": false,
+      "notes": "Seen in web search carrying EnvisionLED SKUs (e.g. LED-WPFC-ADJ-3P80W-TRI-BL); not tested - not needed."
+    },
+    {
+      "name": "Sonic Electric / Ready Electric Supply",
+      "url": "https://sonicelectric.com",
+      "platform": "Shopify",
+      "endpoint": "collections/envision-led",
+      "tested": false,
+      "notes": "Also carry EnVision per web search; not tested."
+    }
+  ],
+  "recommended_strategy": "Page DatoCMS GraphQL: allProducts(first:100, skip:0..1800, filter:{_status:{eq:published}}){number slug images{url width height}} (19 requests). Index by number (uppercase, exact). Take images[0].url (originals ~1200x1200 JPG, some _box 2400x2400; add ?auto=format&w=1200 if resizing wanted). Product page = https://www.envisionledlighting.com/products/<slug>. Can also query only our SKUs: filter:{number:{in:[...]}} (tested, returned all 12).",
+  "blockers": null,
+  "notes": "Image URLs on www.datocms-assets.com (imgix). The site og:image uses ?w=100 thumbnails - use raw url instead. Some images belong to sibling SKUs; prefer the one whose filename contains the lowercased SKU."
+}

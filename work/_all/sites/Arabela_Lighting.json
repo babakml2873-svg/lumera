@@ -1,0 +1,76 @@
+{
+  "brand": "Arabela Lighting",
+  "official_site": "https://www.arabelalighting.com",
+  "reachable": "yes (HTTP 200) - static marketing site on Aliyun OSS; shop at /shop/ is a Flutter web app",
+  "platform": "Custom: static HTML + Flutter web shop (/shop/main.dart.js) backed by an Infoscape ERP API (https://jderpapi.infoscape.com.cn/api, POST {appId,pageId,body}) whose payloads are AES-encrypted with a key embedded in the JS and require a session id; images on erpimgs.infoscape.com.cn with UUID filenames (no SKU in name).",
+  "catalog_endpoint": null,
+  "est_products": "unknown from official site (sitemap.xml lists only the home page; no products.json / JSON-LD). Official PDF catalog: https://www.arabelalighting.com/downloads/ArabelaCatalogJan2026.pdf (15.4 MB) + assets/2026-Supplement.pdf (7.3 MB).",
+  "sku_format_match": "yes (via retailer) - Lighting New York uses identical SKUs (85222-1, 65000). Note: sample SKUs like \"'65000\" carry a leading apostrophe (spreadsheet artifact) - strip it before matching.",
+  "sample_tests": [
+    {
+      "sku": "85222-1",
+      "found": true,
+      "product_url": "https://lightingnewyork.com/product/lighting/ceiling-lights/pendants/arabela-lumis-pendant-85222-1/2960141.html",
+      "image_urls": [
+        "https://lightingnewyork.com/on/demandware.static/-/Sites-master-catalog-lny/default/dw0348ce2c/brand/ara/productimages/85222-1.jpg"
+      ],
+      "note": "JSON-LD sku/mpn = 85222-1; og:image as listed. Retailer marks item discontinued but page/image still live."
+    },
+    {
+      "sku": "85221-1",
+      "found": true,
+      "product_url": "https://lightingnewyork.com/product/lighting/ceiling-lights/pendants/arabela-lumis-pendant-85221-1/2960140.html",
+      "image_urls": [
+        "https://lightingnewyork.com/on/demandware.static/-/Sites-master-catalog-lny/default/brand/ara/productimages/85221-1.jpg"
+      ],
+      "note": "direct image URL HTTP 200, 1938x1938 JPEG; product URL from /search?q=85221-1"
+    },
+    {
+      "sku": "'65000",
+      "found": true,
+      "product_url": null,
+      "image_urls": [
+        "https://lightingnewyork.com/on/demandware.static/-/Sites-master-catalog-lny/default/brand/ara/productimages/65000.jpg"
+      ],
+      "note": "direct image URL (apostrophe stripped) HTTP 200, 507 KB"
+    },
+    {
+      "sku": "85395-1",
+      "found": true,
+      "product_url": null,
+      "image_urls": [
+        "https://lightingnewyork.com/on/demandware.static/-/Sites-master-catalog-lny/default/brand/ara/productimages/85395-1.jpg"
+      ],
+      "note": "direct image URL HTTP 200, 1.08 MB"
+    },
+    {
+      "sku": "85130-7",
+      "found": true,
+      "product_url": null,
+      "image_urls": [
+        "https://lightingnewyork.com/on/demandware.static/-/Sites-master-catalog-lny/default/brand/ara/productimages/85130-7.jpg"
+      ],
+      "note": "direct image URL HTTP 200"
+    }
+  ],
+  "alternatives": [
+    {
+      "name": "Lighting New York",
+      "url": "https://lightingnewyork.com/brand/arabela-lighting.html",
+      "platform": "Salesforce Commerce Cloud (Demandware)",
+      "endpoint": "Direct image: https://lightingnewyork.com/on/demandware.static/-/Sites-master-catalog-lny/default/brand/ara/productimages/<SKU>.jpg (also .webp variants exist); product pages have JSON-LD Product with sku/mpn and og:image; search: /search?q=<SKU>",
+      "tested": true,
+      "notes": "Reachable with browser headers (HTTP 200). Direct image path works without the dw hash segment; nonexistent SKU returns HTTP 404 (no placeholder), so existence check is reliable. High-res (~1938px) JPEGs, no watermark observed. 5/5 tested SKUs found."
+    },
+    {
+      "name": "Greer Lighting Center",
+      "url": "https://www.greerlightingcenter.com/brand-arabela-lighting",
+      "platform": "unknown",
+      "endpoint": null,
+      "tested": true,
+      "notes": "HTTP 403 Cloudflare 'Just a moment' challenge - not usable."
+    }
+  ],
+  "recommended_strategy": "Official site has no harvestable catalog (encrypted Flutter/ERP API, UUID image names). Use Lighting New York: for each SKU (strip leading apostrophe), GET https://lightingnewyork.com/on/demandware.static/-/Sites-master-catalog-lny/default/brand/ara/productimages/<SKU>.jpg; 200 => use it, 404 => try .webp, then fall back to /search?q=<SKU> -> product page JSON-LD/og:image. Throttle ~1 req/s. Remaining misses: extract from official PDF catalog manually.",
+  "blockers": "Official shop API is encrypted (AES key in JS + session id) - not used; no sitemap/product feed on official site. Greer Lighting behind Cloudflare challenge."
+}

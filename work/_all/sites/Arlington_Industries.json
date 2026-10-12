@@ -1,0 +1,66 @@
+{
+  "brand": "Arlington Industries",
+  "official_site": "https://www.aifittings.com/",
+  "reachable": "yes (HTTP 200, plain browser UA, no anti-bot observed)",
+  "platform": "Custom PHP site (no Shopify/WooCommerce/Magento); no JSON-LD, no og:image on product pages",
+  "catalog_endpoint": "Full part-number list embedded as JS array `availableTags` on every page (2,027 part numbers); also https://www.aifittings.com/scripts/export/export-excel.php?action=items (tab text, part numbers only). Product pages: https://www.aifittings.com/catalog/<category>/<subcategory>/<PART> (category tree crawlable from /catalog/, paginated with ?page=N). Images are deterministic: https://www.aifittings.com/media/images/<PART>.jpg (full res), /media/images-small/<PART>.jpg (thumb), extra views <PART>-2.jpg etc.",
+  "est_products": 2027,
+  "sku_format_match": "yes - all 12 sample SKUs (NM3105, SC200SS, L15AST, GPBK35B, GFC150, DWYH0820, LT9038, 8081DBL, 8161TR, FLBC5570BR, 840, CEH1) are present verbatim in the site's availableTags part list. Sample \"'840\" has an Excel leading apostrophe; strip it.",
+  "sample_tests": [
+    {
+      "sku": "NM3105",
+      "found": true,
+      "product_url": null,
+      "image_urls": [
+        "https://www.aifittings.com/media/images/NM3105.jpg"
+      ],
+      "note": "image HTTP 200, 4288x2848 JPEG (1.68 MB)"
+    },
+    {
+      "sku": "SC200SS",
+      "found": true,
+      "product_url": null,
+      "image_urls": [
+        "https://www.aifittings.com/media/images/SC200SS.jpg"
+      ],
+      "note": "HEAD 200 image/jpeg"
+    },
+    {
+      "sku": "8081DBL",
+      "found": true,
+      "product_url": null,
+      "image_urls": [
+        "https://www.aifittings.com/media/images/8081DBL.jpg"
+      ],
+      "note": "HEAD 200 image/jpeg"
+    },
+    {
+      "sku": "CEH1",
+      "found": true,
+      "product_url": null,
+      "image_urls": [
+        "https://www.aifittings.com/media/images/CEH1.jpg"
+      ],
+      "note": "HEAD 200 image/jpeg"
+    },
+    {
+      "sku": "840",
+      "found": true,
+      "product_url": "https://www.aifittings.com/catalog/non-metallic-cable-fittings-and-supports/cable-connectors/840",
+      "image_urls": [
+        "https://www.aifittings.com/media/images/840.jpg",
+        "https://www.aifittings.com/media/images-small/840.jpg"
+      ]
+    },
+    {
+      "sku": "GFC150",
+      "found": false,
+      "product_url": null,
+      "image_urls": [],
+      "note": "in part list, but /media/images/GFC150.jpg, .png, -2.jpg, images-small all 404"
+    }
+  ],
+  "alternatives": [],
+  "recommended_strategy": "Strip leading apostrophes from SKUs, then GET https://www.aifittings.com/media/images/<SKU>.jpg (exact, case as in Lumera list) and keep on 200 image/jpeg; optionally also <SKU>-2.jpg, -3.jpg for extra views. Validate SKUs against the availableTags array first. If product page URLs are needed, crawl /catalog/ -> category -> subcategory (follow ?page=N) and collect links ending in /<PART>. Images are full-res originals (multi-MB), consider resizing.",
+  "blockers": "Built-in site search is Google CSE (no usable JSON); sitemap.php returns HTTP 500. A few SKUs (e.g. GFC150) have no image file."
+}

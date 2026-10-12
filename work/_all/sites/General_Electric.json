@@ -1,0 +1,173 @@
+{
+  "brand": "General Electric",
+  "official_site": "https://empower.abb.com/ecatalog/ec/EN_NA/ (GE Industrial Solutions is now ABB; www.geindustrial.com fails TLS - certificate does not match host)",
+  "reachable": true,
+  "platform": "ABB eCatalog (SAP Commerce/Hybris style; server-rendered HTML, no JSON-LD/og:image). Product URL pattern https://empower.abb.com/ecatalog/ec/EN_NA/p/<CATALOG_NO>; images on https://cdn.productimages.abb.com/<9PAA id>_{100x100|400x400|720x540}.jpg (1000x1000/1500x1500 return 404)",
+  "catalog_endpoint": "https://empower.abb.com/ecatalog/ec/EN_NA/p/<SKU> (one HTML page per catalog number); regex //cdn\\.productimages\\.abb\\.com/([A-Z0-9]+)_400x400\\.jpg",
+  "est_products": null,
+  "sku_format_match": "yes - ABB eCatalog and SuperBreakers both use the GE catalog number verbatim (THQL2120, SRPG600A600, THQB2120GFT)",
+  "sample_tests": [
+    {
+      "sku": "THQL2120",
+      "found": true,
+      "source": "superbreakers.com",
+      "product_url": "https://superbreakers.com/products/thql2120",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0733/6978/0537/files/THQL2120-2-Pole-Circuit-Breaker_General-Electric_1.jpg?v=1772033224"
+      ],
+      "official_abb": {
+        "url": "https://empower.abb.com/ecatalog/ec/EN_NA/p/THQL2120",
+        "image_urls": [
+          "https://cdn.productimages.abb.com/9PAA00000028257_720x540.jpg",
+          "https://cdn.productimages.abb.com/9PAA00000028258_400x400.jpg",
+          "https://cdn.productimages.abb.com/9PAA00000028259_400x400.jpg"
+        ]
+      }
+    },
+    {
+      "sku": "SRPG600A600",
+      "found": true,
+      "source": "superbreakers.com",
+      "product_url": "https://superbreakers.com/products/general-electric-srpg600a600-rating-plug",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0733/6978/0537/products/srpg600a600_e36f2c04-de34-4f4c-ac63-c505269b3b39.jpg?v=1686705739"
+      ],
+      "official_abb": {
+        "url": "https://empower.abb.com/ecatalog/ec/EN_NA/p/SRPG600A600",
+        "image_urls": [],
+        "note": "page exists, no product image"
+      }
+    },
+    {
+      "sku": "THQLT2020",
+      "found": true,
+      "source": "superbreakers.com",
+      "product_url": "https://superbreakers.com/products/general-electric-thqlt2020-tandem-circuit-breaker",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0733/6978/0537/files/THQLT2020-Tandem-Circuit-Breaker_GE_1_5396463e-d297-4f2c-a02c-529a260e0850.jpg?v=1776359325"
+      ]
+    },
+    {
+      "sku": "THQL2120GFT",
+      "found": true,
+      "source": "superbreakers.com",
+      "product_url": "https://superbreakers.com/products/thql2120gft",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0733/6978/0537/files/THQL2160GFT2-2-Pole-Ground-Fault-Circuit-Breaker_GE_1_116c259c-42d0-4673-8015-d7e35c304390.jpg?v=1770911912"
+      ],
+      "note": "image is named for sibling THQL2160GFT2"
+    },
+    {
+      "sku": "THQB2120",
+      "found": true,
+      "source": "superbreakers.com",
+      "product_url": "https://superbreakers.com/products/general-electric-thqb2120-20-amp",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0733/6978/0537/files/THQB2120-2-Pole-Circuit-Breaker_General-Electric_1_44305361-7927-44ad-ade4-6915184bf725.jpg?v=1759240071"
+      ]
+    },
+    {
+      "sku": "SRPE150A125",
+      "found": true,
+      "source": "superbreakers.com",
+      "product_url": "https://superbreakers.com/products/general-electric-srpe150a125-rating-plug",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0733/6978/0537/products/SRPE150A125_1.jpg?v=1686704905"
+      ]
+    },
+    {
+      "sku": "TQD32200WL",
+      "found": true,
+      "source": "superbreakers.com",
+      "product_url": "https://superbreakers.com/products/general-electric-tqd32200wl-3-pole-circuit-breaker",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0733/6978/0537/files/TQD32200WL-3-Pole-Circuit-Breaker_General-Electric_1.jpg?v=1744712730"
+      ],
+      "official_abb": {
+        "url": "https://empower.abb.com/ecatalog/ec/EN_NA/p/TQD32200WL",
+        "image_urls": [],
+        "note": "returned generic \"Ecatalog\" page - product not found"
+      }
+    },
+    {
+      "sku": "THQL1140",
+      "found": true,
+      "source": "superbreakers.com",
+      "product_url": "https://superbreakers.com/products/thql1140",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0733/6978/0537/files/THQL1140-1-Pole-Circuit-Breaker_General-Electric_1.jpg?v=1772130040"
+      ]
+    },
+    {
+      "sku": "THQB2120GFT",
+      "found": true,
+      "source": "superbreakers.com",
+      "product_url": "https://superbreakers.com/products/general-electric-thqb2120gft-2-pole-ground-fault-circuit-breaker",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0733/6978/0537/files/THQB2120GFT-2-Pole-Ground-Fault-Circuit-Breaker_GE_1.jpg?v=1742304568"
+      ],
+      "official_abb": {
+        "url": "https://empower.abb.com/ecatalog/ec/EN_NA/p/THQB2120GFT",
+        "image_urls": [
+          "https://cdn.productimages.abb.com/9PAA00000028112_400x400.jpg",
+          "https://cdn.productimages.abb.com/9PAA00000028113_400x400.jpg",
+          "https://cdn.productimages.abb.com/9PAA00000028114_400x400.jpg"
+        ]
+      }
+    },
+    {
+      "sku": "THQC32020WL",
+      "found": true,
+      "source": "superbreakers.com",
+      "product_url": "https://superbreakers.com/products/general-electric-thqc32020wl-20-amp",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0733/6978/0537/products/THQC32020WL_014e702e-5670-4d5d-877b-5d4e0ca3fe6d.jpg?v=1686785346"
+      ],
+      "official_abb": {
+        "url": "https://empower.abb.com/ecatalog/ec/EN_NA/p/THQC32020WL",
+        "image_urls": [],
+        "note": "page exists, no product image"
+      }
+    },
+    {
+      "sku": "THQL21125",
+      "found": true,
+      "source": "superbreakers.com",
+      "product_url": "https://superbreakers.com/products/thql21125",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0733/6978/0537/files/THQL21125-2-Pole-Circuit-Breaker_General-Electric_1.jpg?v=1772033961"
+      ]
+    },
+    {
+      "sku": "THQB32025",
+      "found": true,
+      "source": "superbreakers.com",
+      "product_url": "https://superbreakers.com/products/general-electric-thqb32025-25-amp",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0733/6978/0537/files/THQB32025-3-Pole-Circuit-Breaker_General-Electric_1.jpg?v=1773235499"
+      ]
+    }
+  ],
+  "official_test_summary": "ABB eCatalog: 5 samples tested - THQL2120 and THQB2120GFT have images (3 each); SRPG600A600 and THQC32020WL pages exist without images; TQD32200WL not found. Images max 720x540 (540x540 observed).",
+  "alternatives": [
+    {
+      "name": "SuperBreakers",
+      "url": "https://superbreakers.com",
+      "platform": "Shopify",
+      "endpoint": "https://superbreakers.com/search/suggest.json?q=<SKU>&resources[type]=product -> https://superbreakers.com/products/<handle>.json (variant.sku exact). Also /collections/general-electric/products.json?limit=250&page=N (1,475 products, vendor \"General Electric\") - but many GE breakers are under vendor \"ABB / General Electric\" not in that collection",
+      "tested": true,
+      "notes": "12/12 samples found by exact variant SKU via suggest+product JSON. Each product has 2 variants: \"<SKU>\" (New) and \"<SKU>-R\" (Re-Certified). Store /products.json exceeds 20,000 products (80 pages at 250 still full), vendors incl. General Electric 791 and ABB 628 in first 20k. Beware \"BE-<SKU>\" items = \"rating plug equivalent\" (non-genuine) - exclude. Images are clean studio shots on light grey, no watermark observed, originals 3840x3840 (Shopify CDN, &width= resizing works). Some secondary images belong to sibling SKUs (THQL2120 images 2-3 are THQL2170)."
+    },
+    {
+      "name": "GoBreaker",
+      "url": "https://gobreaker.com",
+      "platform": "unknown",
+      "endpoint": null,
+      "tested": true,
+      "notes": "/products.json returned HTTP 403."
+    }
+  ],
+  "recommended_strategy": "Primary: SuperBreakers Shopify. For each SKU GET /search/suggest.json?q=<SKU>&resources[type]=product&resources[limit]=5, then /products/<handle>.json for each candidate; accept the product whose variant.sku == SKU exactly (ignore \"-R\" and \"BE-\" prefixed). Use product.images[0].src (first image is SKU-named). ~0.6-1s between requests. Secondary/official check: ABB eCatalog /p/<SKU> and take cdn.productimages.abb.com/<id>_720x540.jpg where present (lower res, many SKUs imageless).",
+  "blockers": null,
+  "notes": "Official ABB images exist only for part of the catalog and are small (<=720x540). SuperBreakers is a reseller (sells new + re-certified), not an authorized distributor as far as observed."
+}

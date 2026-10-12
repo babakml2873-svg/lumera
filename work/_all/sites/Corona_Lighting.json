@@ -1,0 +1,58 @@
+{
+  "brand": "Corona Lighting",
+  "official_site": "https://coronalighting.com/",
+  "reachable": "yes (HTTP 200)",
+  "platform": "WordPress + WooCommerce (LiteSpeed cache)",
+  "catalog_endpoint": "https://coronalighting.com/wp-json/wc/store/v1/products?per_page=100&page=N (X-WP-Total 315 parents, 4 pages); variation detail: /wp-json/wc/store/v1/products/<variation_id>",
+  "est_products": "315 parent products (274 variable, 41 simple); finish-level SKUs live in variations",
+  "sku_format_match": "yes - finish SKUs like CL-206-AB appear as the variation attribute 'Fixture Number' (or 'Lamp Number' for lamps). Parent sku field = base (CL-206); some variation 'sku' fields are wrong/duplicated (e.g. variation 6484 sku=CL-206B-BK but Fixture Number=cl-206-ab; CL-752B-SI variation sku=CL-752B), so match on the attribute, not variation.sku. Several simple lamp products (L-EDBA-2.5W, L-ED16-5W-BT) have an empty sku and the SKU is the product name. 12/12 samples located (10 CL-* by variation attribute, L-EDBA-2.5W and L-ED16-5W-BT by product name).",
+  "sample_tests": [
+    {
+      "sku": "CL-206-AB",
+      "found": true,
+      "product_url": "https://coronalighting.com/product/cl-206/?attribute_pa_fixture-finish=antique-bronze&attribute_pa_fixture-number=cl-206-ab",
+      "image_urls": [
+        "https://coronalighting.com/wp-content/uploads/2024/08/CL-206-AB.jpg"
+      ]
+    },
+    {
+      "sku": "CL-752B-SI",
+      "found": true,
+      "product_url": "https://coronalighting.com/product/cl-752b/?attribute_pa_fixture-finish=silver-plated&attribute_pa_fixture-number=cl-752b-si",
+      "image_urls": [
+        "https://coronalighting.com/wp-content/uploads/2025/05/CL-752B-SI.png"
+      ]
+    },
+    {
+      "sku": "CL-135B-AB",
+      "found": true,
+      "product_url": "https://coronalighting.com/product/cl-135b/?attribute_pa_fixture-finish=antique-bronze&attribute_pa_fixture-number=cl-135b-ab",
+      "image_urls": [
+        "https://coronalighting.com/wp-content/uploads/2024/06/CL-135B-AB-e1745009258815.jpg"
+      ]
+    },
+    {
+      "sku": "L-EDBA-2.5W",
+      "found": true,
+      "product_url": "https://coronalighting.com/product/l-edba-2-5w/",
+      "image_urls": [
+        "https://coronalighting.com/wp-content/uploads/2025/11/L-EDBA-2-half_photo.png",
+        "https://coronalighting.com/wp-content/uploads/2025/11/L-EDBA-2-halfW_line.png"
+      ],
+      "note": "simple product, empty sku field, matched by name"
+    },
+    {
+      "sku": "L-ED16-5W-BT",
+      "found": true,
+      "product_url": "https://coronalighting.com/product/l-ed16-5w-bt/",
+      "image_urls": [
+        "https://coronalighting.com/wp-content/uploads/2025/07/L-ED16-5W-BT.png",
+        "https://coronalighting.com/wp-content/uploads/2025/07/L-ED16-5W-BT-02.png"
+      ],
+      "note": "matched by name"
+    }
+  ],
+  "alternatives": [],
+  "recommended_strategy": "Page the Store API (4 requests) to get all parents; for each variable parent iterate `variations[]` and read attribute 'Fixture Number'/'Lamp Number' (uppercase) as the SKU; GET /wp-json/wc/store/v1/products/<variation_id> for the variation image (images[0].src). For simple products use sku, or name when sku is empty. Fallback: parent images[] whose filename contains the SKU (e.g. CL-206-AB.jpg). Normalize case and strip WP '-e<digits>' edit suffixes when comparing filenames.",
+  "blockers": null
+}

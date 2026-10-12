@@ -1,0 +1,22 @@
+{
+  "brand": "MW Lighting",
+  "official_site": "https://mwledlighting.com",
+  "reachable": true,
+  "platform": "WordPress + WooCommerce",
+  "catalog_endpoint": "https://mwledlighting.com/wp-json/wc/store/v1/products?per_page=100&page=1..5",
+  "est_products": 434,
+  "sku_format_match": "yes - the WooCommerce 'sku' field is empty for most products (only 138/434 filled), but the product 'name' is exactly the MW model number in the same format as Lumera SKUs (e.g. 'MTFE22-20/30/40W-3CCT'); 12 of 12 sample SKUs matched by exact name. All 434 products have at least one image.",
+  "sample_tests": [
+    {"sku": "MTFE22-20/30/40W-3CCT", "found": true, "product_url": "https://mwledlighting.com/product/mtfe22-20-30-40w-3cct/", "image_urls": ["https://mwledlighting.com/wp-content/uploads/2024/11/DSC01122-拷贝.png"]},
+    {"sku": "MSFM918-3CCT", "found": true, "product_url": "https://mwledlighting.com/product/msfm918-3cct/", "image_urls": ["https://mwledlighting.com/wp-content/uploads/2023/11/msfm918-3cct.png"]},
+    {"sku": "MOB-4G-60", "found": true, "product_url": "https://mwledlighting.com/product/mob-4g-60/", "image_urls": ["https://mwledlighting.com/wp-content/uploads/2026/05/MOB-4G-60-6.png"]},
+    {"sku": "MRFM2040-5CCT", "found": true, "product_url": "https://mwledlighting.com/product/mrfm2040-5cct/", "image_urls": ["https://mwledlighting.com/wp-content/uploads/2023/11/mrfm2448-5cct.png"]},
+    {"sku": "MSC-03", "found": true, "product_url": "https://mwledlighting.com/product/msc-03/", "image_urls": ["https://mwledlighting.com/wp-content/uploads/2023/12/msc-03.png"]},
+    {"sku": "MT-100W-BK", "found": true, "product_url": "https://mwledlighting.com/product/mt-100w-bk/", "image_urls": ["https://mwledlighting.com/wp-content/uploads/2026/01/100W-Transformer-.png"]}
+  ],
+  "alternatives": [
+    {"name": "Home Depot (Sofiton brand listings)", "url": "https://www.homedepot.com", "platform": "Custom", "endpoint": null, "tested": false, "notes": "Web search shows MW model numbers (e.g. MSFM918-3CCT, MRFM920-5CCT, MW-WL-0007-15W-BK) sold at Home Depot/Lowe's under the 'Sofiton' brand name. Not tested; not needed given official coverage."}
+  ],
+  "recommended_strategy": "Pull all 5 pages of the WooCommerce Store API (434 products, 100/page). Build index on product 'name' (and 'sku' when non-empty) uppercased; match Lumera SKUs exactly, with a fallback of comparing alphanumeric-only normalized strings (slashes become dashes in slugs). Use images[].src (full-size wp-content/uploads PNGs).",
+  "blockers": "www.mwlighting.com (a different domain) is not usable: HTTP/2 protocol error / empty reply / 503. Correct domain is mwledlighting.com (MW LED Lighting, City of Industry CA). Some image filenames are shared across variants (e.g. MRFM2040-5CCT uses mrfm2448-5cct.png)."
+}

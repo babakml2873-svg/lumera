@@ -1,0 +1,56 @@
+{
+  "brand": "Alora",
+  "official_site": "https://www.aloralighting.com (redirects to https://kuzcolighting.com/pages/alora-lighting - Alora is a Kuzco Group brand sold on the Kuzco Shopify store)",
+  "reachable": "yes (HTTP 200 after redirect)",
+  "platform": "Shopify (kuzcolighting.com, cdn.shopify.com/s/files/1/0884/5390/6750)",
+  "catalog_endpoint": "https://kuzcolighting.com/collections/alora/products.json?limit=250&page=N (pages 1-2; vendor 'Alora')",
+  "est_products": "287 products / 721 variants in collection 'alora' (observed 2026-10-12)",
+  "sku_format_match": "yes - variant.sku is exactly the sample format (e.g. WV327019VBAR, PD321736CH-UNV-010); 12/12 sample SKUs matched exactly.",
+  "sample_tests": [
+    {
+      "sku": "WV327019VBAR",
+      "found": true,
+      "product_url": "https://kuzcolighting.com/products/abbott-wv327019-alora",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0884/5390/6750/files/ABBOTT_WV327019VBAR.jpg?v=1741731404"
+      ]
+    },
+    {
+      "sku": "PD321736CH-UNV-010",
+      "found": true,
+      "product_url": "https://kuzcolighting.com/products/akoya-pd321736-alora",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0884/5390/6750/files/AKOYA_PD321736CH-UNV-010.jpg?v=1724950323"
+      ]
+    },
+    {
+      "sku": "CH332421VBCR",
+      "found": true,
+      "product_url": "https://kuzcolighting.com/products/cairo-ch332421-alora",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0884/5390/6750/files/CAIRO_CH332421VBCR.jpg?v=1771614734"
+      ]
+    },
+    {
+      "sku": "FM348010VBPG",
+      "found": true,
+      "product_url": "https://kuzcolighting.com/products/willard-fm348010-alora",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0884/5390/6750/files/WILLARD_FM348010VBPG.jpg?v=1741732379"
+      ]
+    }
+  ],
+  "alternatives": [
+    {
+      "name": "Lighting distributors carrying Alora (not needed)",
+      "url": null,
+      "platform": null,
+      "endpoint": null,
+      "tested": false,
+      "notes": "Official Shopify store is fully machine readable and covers the sample SKUs; no alternative tested."
+    }
+  ],
+  "recommended_strategy": "Download https://kuzcolighting.com/collections/alora/products.json?limit=250&page=1..2 (stop when <250). Map variants[].sku (uppercase exact) -> variants[].featured_image.src (every variant has one; filename = NAME_SKU.jpg) plus product.images filtered by variant_ids for extra angles. Fallback: /search/suggest.json?q=<SKU>&resources[type]=product.",
+  "blockers": null,
+  "notes": "Images are high-res originals on Shopify CDN (append &width=N to resize). Same store also hosts Kuzco, Kuzco Vibe, Kuzco Architectural and Alora Mood - filter by collection/vendor."
+}

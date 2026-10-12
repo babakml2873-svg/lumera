@@ -1,0 +1,25 @@
+{
+  "brand": "Lutron",
+  "official_site": "https://www.lutron.com/us/en",
+  "reachable": false,
+  "platform": "Custom (behind Imperva/Incapsula WAF); secondary official Caseta site casetawireless.com is Drupal",
+  "catalog_endpoint": null,
+  "est_products": "Unknown from official site (blocked). Distributor lightingsupply.com lists 2696 Lutron products/SKUs in /collections/lutron.",
+  "sku_format_match": "yes - distributor variant.sku values are exact Lutron model numbers (e.g. CW-4-LA, MS-A102-V-TP, PD-REP-WH); 9 of 12 sample SKUs matched exactly",
+  "sample_tests": [
+    {"sku": "PD-REP-WH", "found": true, "product_url": "https://www.lightingsupply.com/products/lutron-pd-rep-wh", "image_urls": ["https://cdn.shopify.com/s/files/1/0682/6773/7369/files/Ecom_PD-REP-WH_textimage2.jpg?v=1739291409", "https://cdn.shopify.com/s/files/1/0682/6773/7369/files/Ecom_PD-REP-WH_textimage3.jpg?v=1739291412"]},
+    {"sku": "MS-A102-V-TP", "found": true, "product_url": "https://www.lightingsupply.com/products/lutron-ms-a102-v-tp", "image_urls": ["https://cdn.shopify.com/s/files/1/0682/6773/7369/files/lutron-maestro-dv-6a-vacancy-sensor-single-pole-dual-technology-taupe-ms-a102-v-tp-102-v-tp.3649.jpg?v=1693330005"]},
+    {"sku": "CW-4-LA", "found": true, "product_url": "https://www.lightingsupply.com/products/lutron-cw-4-la", "image_urls": ["https://cdn.shopify.com/s/files/1/0682/6773/7369/files/lutron-claro-wallplate-4-gng-light-cw-4-la-01.157.jpg?v=1693329851"]},
+    {"sku": "WMS-A202-IV", "found": true, "product_url": "https://www.lightingsupply.com/products/lutron-wms-a202-iv", "image_urls": ["https://cdn.shopify.com/s/files/1/0682/6773/7369/files/81DdnkOhrmL._AC_SY679_4b13b808-09f9-4a1b-85c0-14d5915e4d38.jpg?v=1693391624"]},
+    {"sku": "PJ2-3B-GIV-L01", "found": false, "product_url": null, "image_urls": []},
+    {"sku": "RRD-W3S-GR", "found": false, "product_url": null, "image_urls": []},
+    {"sku": "LTR-15-ACTR-BE", "found": false, "product_url": null, "image_urls": []}
+  ],
+  "alternatives": [
+    {"name": "LightingSupply.com", "url": "https://www.lightingsupply.com", "platform": "Shopify", "endpoint": "https://www.lightingsupply.com/collections/lutron/products.json?limit=250&page=N (11 pages, 2696 products); per-SKU: /search/suggest.json?q=<SKU>&resources[type]=product or /products/lutron-<sku-lowercase>.json", "tested": true, "notes": "Reachable, no anti-bot seen. Handles follow 'lutron-<sku lowercased>'. Also matched AY-103PH-WH, PJL-2B-GWH-L01, MS-PPS6-DDV-HT, SFSQ-LF-GR, SCRS-20-TR-CY. Caveats: some images appear Amazon-sourced (filenames like 81DdnkOhrmL._AC_SY679_), and PD-REP-WH's first image is a different product's (Ecom_PD-15OUT-BL) - prefer images whose filename contains the SKU, else skip position 1 if it names another SKU. 1 of 2696 products had no image."},
+    {"name": "Caseta Wireless (official Lutron Caseta site)", "url": "https://www.casetawireless.com/us/en", "platform": "Drupal", "endpoint": "https://www.casetawireless.com/sitemap.xml (72 URLs, ~30 product pages)", "tested": true, "notes": "Reachable (200). Covers only Caseta line; product pages mention family model codes (e.g. PJ2-P2B-GWH) and color-swatch images under /sites/caseta/files/, not one image per SKU. Not suitable as bulk source."},
+    {"name": "Home Depot", "url": "https://www.homedepot.com", "platform": "Custom", "endpoint": "https://www.homedepot.com/s/<SKU>", "tested": true, "notes": "Search page returned 200 but query PD-REP-WH returned only related Caseta products (no exact match). Consumer assortment only; not recommended for bulk."}
+  ],
+  "recommended_strategy": "Harvest https://www.lightingsupply.com/collections/lutron/products.json?limit=250&page=1..11 (Shopify), build map variant.sku (uppercased) -> product.images[].src; match Lumera SKUs exactly after uppercasing/trim. For misses, try /search/suggest.json?q=<SKU>. Prefer image whose filename contains the SKU; drop images whose filename names a different SKU. Expect ~55-75% coverage; Lutron.com itself is not harvestable from here.",
+  "blockers": "lutron.com (incl. robots.txt and sitemap.xml) returns 403 Imperva/Incapsula challenge to all requests; shop.lutron.com / store.lutron.com do not resolve via proxy (502); assets.lutron.com is a bare Azure App Service placeholder."
+}

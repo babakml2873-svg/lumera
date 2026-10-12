@@ -1,0 +1,156 @@
+{
+  "brand": "ELCO Lighting",
+  "official_site": "https://www.elcolighting.com/",
+  "reachable": false,
+  "platform": "Drupal (robots.txt is Drupal-style) behind Cloudflare managed challenge",
+  "catalog_endpoint": null,
+  "est_products": null,
+  "sku_format_match": "unknown for official site (HTML not retrievable); yes on BuyRite Electric - variant SKUs are exact ELCO catalog numbers (e.g. EL610CT5W, ELK4172B, E36PB-0730)",
+  "sample_tests": [
+    {
+      "sku": "EUDPH1",
+      "found": true,
+      "product_url": "https://buyriteelectric.com/products/elco-lighting-eudph1-ixia-led-undercabinet-light-accessories-pir-sensor-switch",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0099/0612/6912/files/EUDPH1.jpg?v=1716561828"
+      ],
+      "source": "buyriteelectric.com"
+    },
+    {
+      "sku": "ELST27CT3W",
+      "found": true,
+      "product_url": "https://buyriteelectric.com/products/elco-lighting-elst27ct3w-mini-led-embedded-step-light-with-3-cct-switch-lumens-250-lm-multi-color-temperature-all-white",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0099/0612/6912/files/ELST27CT3W.png?v=1686765116",
+        "https://cdn.shopify.com/s/files/1/0099/0612/6912/files/ELST27CT3W-1.png?v=1686765116"
+      ],
+      "source": "buyriteelectric.com"
+    },
+    {
+      "sku": "EL610CT5W",
+      "found": true,
+      "product_url": "https://buyriteelectric.com/products/elco-lighting-el61xct5w-12w-20w-5-inch-or-6-inch-five-color-temperature-switch-led-baffle-inserts-850-lm-1400-lm",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0099/0612/6912/products/EL61XCT5W-1.jpg?v=1580744377",
+        "https://cdn.shopify.com/s/files/1/0099/0612/6912/products/EL61XCT5W-2.jpg?v=1580744377"
+      ],
+      "source": "buyriteelectric.com"
+    },
+    {
+      "sku": "ELK4172B",
+      "found": true,
+      "product_url": "https://buyriteelectric.com/products/elco-lighting-elk4172b-pex™-4-round-curved-reflector-all-black",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0099/0612/6912/files/ELK4172B.png?v=1689947684"
+      ],
+      "source": "buyriteelectric.com"
+    },
+    {
+      "sku": "E25AB03T-03T27",
+      "found": false,
+      "product_url": null,
+      "image_urls": [],
+      "source": "buyriteelectric.com",
+      "note": "not present in BuyRite Elco collection (exact or suffix match)"
+    },
+    {
+      "sku": "ELK4721WW",
+      "found": true,
+      "product_url": "https://buyriteelectric.com/products/elco-lighting-elk4721-flexa-4-inch-round-reflector-for-koto-module",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0099/0612/6912/products/ELK4721WW.jpg?v=1580307079",
+        "https://cdn.shopify.com/s/files/1/0099/0612/6912/products/ELK4721-1.jpg?v=1582744889"
+      ],
+      "source": "buyriteelectric.com"
+    },
+    {
+      "sku": "E36PB-0730",
+      "found": true,
+      "product_url": "https://buyriteelectric.com/products/elco-lighting-e36pb-0730-3-koto-sylo™-pendant-color-temperature-3000k-lumens-750-lm-38-beam-angle-all-black",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0099/0612/6912/files/E36PB-0727_b4f8427c-a158-4a20-8f1f-7396f11e9cc2.png?v=1683905941",
+        "https://cdn.shopify.com/s/files/1/0099/0612/6912/files/E36PB-0727-1_5a5df950-20f0-4e8c-8da5-7987f4a88af6.png?v=1683905942"
+      ],
+      "source": "buyriteelectric.com"
+    },
+    {
+      "sku": "E1L12WF35BB",
+      "found": true,
+      "product_url": "https://buyriteelectric.com/products/elco-lighting-e1l12wf35bb-1-square-recessed-oak™-downlight-beam-angle-50-color-temperature-3500k-all-black",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0099/0612/6912/products/E1L12FSDH-1_e0cb8b08-0687-4b75-9bd1-a64203748314.png?v=1674847417",
+        "https://cdn.shopify.com/s/files/1/0099/0612/6912/products/E1L12WF35BB.png?v=1674847458"
+      ],
+      "source": "buyriteelectric.com"
+    },
+    {
+      "sku": "ELK2588BZ",
+      "found": true,
+      "product_url": "https://buyriteelectric.com/products/elco-lighting-elk2588bz-pex-2-inches-square-gimbal-all-bronze-finish",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0099/0612/6912/products/ELK2588BZ.png?v=1673532754",
+        "https://cdn.shopify.com/s/files/1/0099/0612/6912/products/ELK2588W-1_a979cacd-bd3e-4761-af9b-b2694756bd6d.png?v=1673532754"
+      ],
+      "source": "buyriteelectric.com"
+    },
+    {
+      "sku": "ELST8440BZ",
+      "found": true,
+      "product_url": "https://buyriteelectric.com/products/elco-lighting-elst8440bz-round-mini-led-step-light-with-open-faceplate-3w-4000k-12v-bronze-finish",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0099/0612/6912/products/BZ_08f320a2-1e25-4d9d-b370-8fb0a4663c8b.jpg?v=1589373456",
+        "https://cdn.shopify.com/s/files/1/0099/0612/6912/products/D_774f2d2c-62de-400e-a79d-80748acae0b9.jpg?v=1589373434"
+      ],
+      "source": "buyriteelectric.com"
+    },
+    {
+      "sku": "ELK4179W",
+      "found": true,
+      "product_url": "https://buyriteelectric.com/products/elco-lighting-elk4179w-pex™-4-round-directional-gimbal-all-white",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0099/0612/6912/files/ELK4179W.png?v=1702403094",
+        "https://cdn.shopify.com/s/files/1/0099/0612/6912/files/ELK4179W-1.png?v=1702403094"
+      ],
+      "source": "buyriteelectric.com"
+    },
+    {
+      "sku": "E1AK12F35B",
+      "found": true,
+      "product_url": "https://buyriteelectric.com/products/elco-lighting-e1ak12f35b-1-square-recessed-architectural-oak™-downlight-color-temperature-3500k-lumens-950-lm-beam-angle-38-black-with-white-trim",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0099/0612/6912/files/E1AK12F27B_05d85863-1b5e-4be7-94cc-059342c23b02.png?v=1692112317",
+        "https://cdn.shopify.com/s/files/1/0099/0612/6912/files/E1AK12F27B-1_803d18f0-fe8d-410b-9a53-47f50ae44d32.png?v=1692112317"
+      ],
+      "source": "buyriteelectric.com"
+    }
+  ],
+  "official_site_observations": "All HTML/JSON paths (/, /sitemap.xml, /products.json, /wp-json/, product pages) return HTTP 403 with cf-mitigated: challenge (\"Just a moment...\"). WebFetch also 403. robots.txt (Crawl-delay: 10) and static files under /sites/default/files/ (e.g. Master Catalog.pdf) and /misc/*.js return 200 without challenge, so image files could be fetched directly if their URLs were known, but product pages that list them are blocked. Product pages are per family (e.g. /products/5-or-6-round-led-reflector-insert), not per SKU.",
+  "alternatives": [
+    {
+      "name": "BuyRite Electric",
+      "url": "https://buyriteelectric.com",
+      "platform": "Shopify",
+      "endpoint": "https://buyriteelectric.com/collections/elco-lighting/products.json?limit=250&page=1..44",
+      "tested": true,
+      "notes": "Vendor \"ELCO Lighting\". ~10,968 products in collection (pages 1-43 full at 250, page 44 had 218, page 45+ empty); ~1 variant per product. 11/12 sample SKUs matched exactly on variant.sku. Images are on cdn.shopify.com, often named by SKU (files/EUDPH1.jpg, files/ELK4172B.png); some SKUs reuse a sibling SKU image (E36PB-0730 shows E36PB-0727 image; E1AK12F35B shows E1AK12F27B). Intermittent HTTP 503 {\"errors\":[{\"code\":\"SERVICE_UNAVAILABLE\"}]} on consecutive requests - needs retry with backoff (~1.2s between pages worked with 1 retry). /products/<handle>.json also returned 503 once."
+    },
+    {
+      "name": "Sonic Electric",
+      "url": "https://sonicelectric.com",
+      "platform": "Shopify",
+      "endpoint": "https://sonicelectric.com/collections/elco-lighting/products.json?limit=250&page=N",
+      "tested": true,
+      "notes": "Vendor \"Elco Lighting\". 1,834 products / 2,471 variants. Only 2/12 samples matched (ELST27CT3W, ELK4721WW). Multi-variant family products; images are family/lifestyle PNGs. Also intermittent 503."
+    },
+    {
+      "name": "Ready Electric Supply",
+      "url": "https://readyelectricsupply.com",
+      "platform": "Shopify",
+      "endpoint": "https://readyelectricsupply.com/collections/elco-lighting/products.json?limit=250&page=N",
+      "tested": true,
+      "notes": "SKUs carry an \"ELC-\" prefix (ELC-ELK4172B found, image files/ELK4172B_Trim_3D.png). Strip prefix when matching. Not paged fully; spot test only (ELC-EL610CT5W not found via search/suggest)."
+    }
+  ],
+  "recommended_strategy": "Harvest BuyRite Electric Shopify collection JSON: GET https://buyriteelectric.com/collections/elco-lighting/products.json?limit=250&page=1..44 (sleep >=1.2s, retry on 503). Build index variant.sku (uppercase, strip non-alphanumerics) -> variant.featured_image.src, else product.images[0].src. Exact-match our SKUs (observed 11/12). Fallbacks: Sonic Electric collection, then Ready Electric Supply (strip \"ELC-\"). Prefer image filenames that contain the SKU; flag images named after a sibling SKU.",
+  "blockers": "Official site elcolighting.com is behind a Cloudflare managed challenge (403 for all HTML/JSON from this environment); retailer images only."
+}

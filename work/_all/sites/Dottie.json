@@ -1,0 +1,102 @@
+{
+  "brand": "Dottie",
+  "official_site": "https://lhdottie.com/ (L.H. Dottie Co.)",
+  "reachable": "no - HTTP 403 Cloudflare 'Attention Required' block on every path (/, robots.txt, sitemap.xml, products.json, wp-json) even with full browser headers; WebFetch also 403",
+  "platform": "unknown (behind Cloudflare block)",
+  "catalog_endpoint": null,
+  "est_products": "unknown",
+  "sku_format_match": "yes on alternatives - RSP Supply image filenames use the exact Dottie part number (Dottie-<SKU>.jpg)",
+  "sample_tests": [
+    {
+      "sku": "DDSMSS10112",
+      "found": true,
+      "product_url": "https://rspsupply.com/p-629584-dottie-ddsmss10112-10-x-1-12-stainless-steel-square-drive-pan-head-sheet-metal-screw-304-stainless.aspx",
+      "image_urls": [
+        "https://rspsupply.com/images/product/large/Dottie-DDSMSS10112.jpg"
+      ],
+      "note": "1000x1000 JPEG, clean white background, no watermark seen"
+    },
+    {
+      "sku": "ZA100",
+      "found": true,
+      "product_url": "https://www.alldataresource.com/products/l-h-dottie-za100-1-4-x-1-zamac-alloy-anchor-with-carbon-steel-pin",
+      "image_urls": [
+        "https://rspsupply.com/images/product/large/Dottie-ZA100.jpg",
+        "https://cdn.shopify.com/s/files/1/0843/1616/0235/files/L_H_Dottie-ZA100-Main-1.jpg?v=1786561732"
+      ]
+    },
+    {
+      "sku": "SDS381214",
+      "found": true,
+      "product_url": null,
+      "image_urls": [
+        "https://rspsupply.com/images/product/large/Dottie-SDS381214.jpg"
+      ],
+      "note": "1000x1000 JPEG"
+    },
+    {
+      "sku": "PHSMSS834",
+      "found": true,
+      "product_url": "https://www.alldataresource.com/products/l-h-dottie-phsmss834-8-x-3-4-stainless-steel-phillips-pan-head-sheet-metal-screw",
+      "image_urls": [
+        "https://rspsupply.com/images/product/large/Dottie-PHSMSS834.jpg",
+        "https://cdn.shopify.com/s/files/1/0843/1616/0235/files/DOT-PHSMSS834.jpg?v=1786475778"
+      ]
+    },
+    {
+      "sku": "KWDD10112",
+      "found": true,
+      "product_url": null,
+      "image_urls": [
+        "https://rspsupply.com/images/product/large/Dottie-KWDD10112.jpg"
+      ],
+      "note": "HEAD 200 image/jpeg"
+    },
+    {
+      "sku": "DU609",
+      "found": true,
+      "product_url": null,
+      "image_urls": [
+        "https://rspsupply.com/images/product/large/Dottie-DU609.jpg"
+      ],
+      "note": "HEAD 200 image/jpeg"
+    },
+    {
+      "sku": "TEKHW812TP1KHH",
+      "found": true,
+      "product_url": null,
+      "image_urls": [
+        "https://rspsupply.com/images/product/large/Dottie-TEKHW812TP1KHH.jpg"
+      ],
+      "note": "HEAD 200"
+    }
+  ],
+  "alternatives": [
+    {
+      "name": "RSP Supply",
+      "url": "https://rspsupply.com/",
+      "platform": "custom ASP.NET (.aspx); product JSON-LD with sku 'Dottie <SKU>' and image",
+      "endpoint": "Deterministic image URL https://rspsupply.com/images/product/large/Dottie-<SKU>.jpg (also /medium/); missing SKUs return 404 HTML. Sitemap: https://rspsupply.com/googlexmlsitemap/sitemap.xml",
+      "tested": true,
+      "notes": "7/7 sample SKUs returned 200 image/jpeg; bogus SKU 404. Images 1000x1000. Search page (search.aspx) 404 - search is JS; use direct image URL."
+    },
+    {
+      "name": "All Data Resource",
+      "url": "https://www.alldataresource.com/",
+      "platform": "Shopify (vendor field 'Anixter', variant sku is internal number, Dottie part number is in title)",
+      "endpoint": "/search/suggest.json?q=<SKU>&resources%5Btype%5D=product ; /products/<handle>.json",
+      "tested": true,
+      "notes": "Partial coverage: ZA100 and PHSMSS834 found; DDSMSS10112, KWDD10112, DU609, SDS381214 not found via suggest."
+    },
+    {
+      "name": "Graybar",
+      "url": "https://www.graybar.com/",
+      "platform": "SAP Hybris; images on images.salsify.com",
+      "endpoint": "product pages /p/<graybarId>",
+      "tested": true,
+      "notes": "DDSMSS10112 page reachable (200), salsify images present, but URL needs Graybar's internal id - no direct SKU lookup tested."
+    }
+  ],
+  "recommended_strategy": "Use RSP Supply deterministic URLs: for each SKU GET https://rspsupply.com/images/product/large/Dottie-<SKU>.jpg; accept only HTTP 200 with Content-Type image/jpeg (404 returns HTML). ~2,966 SKUs -> throttle to ~1-2 req/s. Use All Data Resource suggest.json as a secondary fallback (match Dottie part number in title).",
+  "blockers": "Official site lhdottie.com hard-blocked by Cloudflare (403) from this environment; images come from a distributor."
+}

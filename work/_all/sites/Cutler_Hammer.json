@@ -1,0 +1,63 @@
+{
+  "brand": "Cutler Hammer",
+  "official_site": "https://www.eaton.com/us/en-us.html (Cutler-Hammer is an Eaton brand; products are on eaton.com)",
+  "reachable": "yes with full browser headers (Akamai); plain curl fails",
+  "platform": "Adobe AEM (eaton.com) with Scene7 dynamic media (dynamicmedia.eaton.com)",
+  "catalog_endpoint": "https://www.eaton.com/us/en-us/skuPage.<SKU>.html (JSON-LD Product with sku; og:image; image URLs https://www.eaton.com/mdmfiles/<PDMid>/<asset>_<C|L|R|T>/1000x1000_300dpi which 302 to https://dynamicmedia.eaton.com/is/image/eaton/<asset>?wid=1000&hei=1000...). SKU sitemap https://www.eaton.com/us/en-us.skusitemap.xml lists only 3,722 SKUs and none of the samples.",
+  "est_products": "unknown (eaton.com SKU sitemap is partial: 3,722 US URLs)",
+  "sku_format_match": "yes - eaton.com sku pages use the exact catalog numbers (QC2060, GHB3035, CSR2200N, BAB2040, HMCP150T4C all resolved; JSON-LD sku equals the sample)",
+  "sample_tests": [
+    {
+      "sku": "QC2060",
+      "found": true,
+      "product_url": "https://www.eaton.com/us/en-us/skuPage.QC2060.html",
+      "image_urls": [
+        "https://www.eaton.com/mdmfiles/PDM029261/QC2060_C/1000x1000_300dpi",
+        "https://www.eaton.com/mdmfiles/PDM029262/QC2060_L/1000x1000_300dpi",
+        "https://www.eaton.com/mdmfiles/PDM029263/QC2060_R/1000x1000_300dpi"
+      ]
+    },
+    {
+      "sku": "GHB3035",
+      "found": true,
+      "product_url": "https://www.eaton.com/us/en-us/skuPage.GHB3035.html",
+      "image_urls": [
+        "https://www.eaton.com/mdmfiles/PDM24382550/GHB3100_C/1000x1000_300dpi",
+        "https://www.eaton.com/mdmfiles/PDM24382551/GHB3100_L/1000x1000_300dpi",
+        "https://www.eaton.com/mdmfiles/PDM24382552/GHB3100_R/1000x1000_300dpi"
+      ]
+    },
+    {
+      "sku": "BAB2040",
+      "found": true,
+      "product_url": "https://www.eaton.com/us/en-us/skuPage.BAB2040.html",
+      "image_urls": [
+        "https://www.eaton.com/mdmfiles/PDM103257404/BAB2020_360-C/1000x1000_300dpi",
+        "https://www.eaton.com/mdmfiles/PDM103257405/BAB2020_360-L/1000x1000_300dpi",
+        "https://www.eaton.com/mdmfiles/contentId/BAB2020_360-BACK/1000x1000_300dpi",
+        "https://www.eaton.com/mdmfiles/contentId/BAB2020_360-LS/1000x1000_300dpi",
+        "https://www.eaton.com/mdmfiles/contentId/BAB2020_360-R/1000x1000_300dpi",
+        "https://www.eaton.com/mdmfiles/contentId/BAB2020_360-RS/1000x1000_300dpi"
+      ]
+    },
+    {
+      "sku": "HMCP150T4C",
+      "found": true,
+      "product_url": "https://www.eaton.com/us/en-us/skuPage.HMCP150T4C.html",
+      "image_urls": [
+        "https://www.eaton.com/mdmfiles/PDM024735/HMCP007C0_R/1000x1000_300dpi"
+      ]
+    },
+    {
+      "sku": "CSR2200N",
+      "found": true,
+      "product_url": "https://www.eaton.com/us/en-us/skuPage.CSR2200N.html",
+      "image_urls": [
+        "https://www.eaton.com/mdmfiles/PDM018426/CSR2200N_C/1000x1000_300dpi"
+      ]
+    }
+  ],
+  "alternatives": [],
+  "recommended_strategy": "For each SKU GET https://www.eaton.com/us/en-us/skuPage.<SKU>.html with full Chrome headers; confirm JSON-LD \"sku\" == SKU; take og:image (1000x1000 300dpi JPEG) plus the other mdmfiles .../1000x1000_300dpi URLs in the page. Throttle hard (robots Crawl-delay 20 s; ~218 SKUs ~ 75 min at that rate). Flag images whose asset name differs from the SKU as family/representative images. Same pipeline as the Eaton brand.",
+  "blockers": "Akamai bot protection (needs full browser header set); Crawl-delay 20; some images are shared family images. Akamai: plain curl gets HTTP/2 INTERNAL_ERROR or 30 s timeouts; it works (HTTP 200) when full Chrome headers are sent (sec-ch-ua, sec-ch-ua-platform, Sec-Fetch-Dest/Mode/Site/User, Upgrade-Insecure-Requests, Accept with image/avif). robots.txt sets Crawl-delay: 20. Some SKUs show a representative family image rather than their own (e.g. CHN230GF -> CH250GFT_*, GHB3035 -> GHB3100_*, BAB2040 -> BAB2020_360-*, HMCP150T4C -> HMCP007C0_R)."
+}

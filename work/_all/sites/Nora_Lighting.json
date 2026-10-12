@@ -1,0 +1,81 @@
+{
+  "brand": "Nora Lighting",
+  "official_site": "https://noralighting.com",
+  "reachable": true,
+  "platform": "WordPress + WooCommerce",
+  "catalog_endpoint": "https://noralighting.com/wp-json/wc/store/v1/products?per_page=100&page=1..15 (X-WP-Total 1479); search: /wp-json/wc/store/v1/products?search=<family prefix>",
+  "est_products": "1479 product families (base models), not configured SKUs",
+  "sku_format_match": "partial - WooCommerce 'sku' is empty; product 'name' is the base family code (e.g. NTLE-865, NLCBC2-653, NIO-1AS, NYLM-3ST) while Lumera SKUs are fully configured ordering codes (NTLE-865927SB/4H, NLCBC2-65327WW/A). Image filenames encode family + finish code (NTLE-865W, NTLE-865B, NLCBC2-653BZ, NYLM-3STBB). Full SKU string search returns 0 results.",
+  "sample_tests": [
+    {
+      "sku": "NTLE-865927SB/4H",
+      "found": true,
+      "product_url": "https://noralighting.com/product/ntle-865/",
+      "image_urls": [
+        "https://noralighting.com/wp-content/uploads/2026/05/NTLE-865W-3-1.jpg",
+        "https://noralighting.com/wp-content/uploads/2026/05/NTLE-865B-3-1.jpg",
+        "https://noralighting.com/wp-content/uploads/2026/05/NTLE-865W-4-1.jpg",
+        "https://noralighting.com/wp-content/uploads/2026/05/NTLE-865B-4-1.jpg"
+      ],
+      "note": "family match NTLE-865 ; no finish-specific image"
+    },
+    {
+      "sku": "NLCBC2-65327WW/A",
+      "found": true,
+      "product_url": "https://noralighting.com/product/nlcbc2-653/",
+      "image_urls": [
+        "https://noralighting.com/wp-content/uploads/2018/03/NLCBC2-653W.jpg",
+        "https://noralighting.com/wp-content/uploads/2018/03/NLCBC2-653MPW.jpg",
+        "https://noralighting.com/wp-content/uploads/2018/03/NLCBC2-653HZW.jpg",
+        "https://noralighting.com/wp-content/uploads/2018/03/NLCBC2-653DW.jpg"
+      ],
+      "note": "family match NLCBC2-653 ; first image = finish W"
+    },
+    {
+      "sku": "NIO-1AS19BLU",
+      "found": true,
+      "product_url": "https://noralighting.com/product/nio-1as/",
+      "image_urls": [
+        "https://noralighting.com/wp-content/uploads/2018/05/NIO-1AS.jpg"
+      ],
+      "note": "family match NIO-1AS ; no finish-specific image"
+    },
+    {
+      "sku": "NLCBC-487040XBZ",
+      "found": true,
+      "product_url": "https://noralighting.com/product/nlcbc-4870/",
+      "image_urls": [
+        "https://noralighting.com/wp-content/uploads/2020/04/NLCBC-4870BZ.jpg",
+        "https://noralighting.com/wp-content/uploads/2020/04/NLCBC-4870B.jpg",
+        "https://noralighting.com/wp-content/uploads/2020/04/NLCBC-4870B.jpg",
+        "https://noralighting.com/wp-content/uploads/2020/04/NLCBC-4870MPW.jpg"
+      ],
+      "note": "family match NLCBC-4870 ; first image = finish BZ"
+    },
+    {
+      "sku": "NYLM-3STCDXBBLE4/24",
+      "found": true,
+      "product_url": "https://noralighting.com/product/nylm-3st/",
+      "image_urls": [
+        "https://noralighting.com/wp-content/uploads/2020/05/NYLM-3STBB.jpg",
+        "https://noralighting.com/wp-content/uploads/2020/05/NYLM-3STWW.jpg",
+        "https://noralighting.com/wp-content/uploads/2020/05/NYLM-3STSS.jpg"
+      ],
+      "note": "family match NYLM-3ST ; first image = finish BB"
+    },
+    {
+      "sku": "NTLE-875927B",
+      "found": true,
+      "product_url": "https://noralighting.com/product/ntle-875/",
+      "image_urls": [
+        "https://noralighting.com/wp-content/uploads/2021/05/NTLE-875B.jpg",
+        "https://noralighting.com/wp-content/uploads/2021/05/NTLE-875S.jpg",
+        "https://noralighting.com/wp-content/uploads/2021/05/NTLE-875W.jpg"
+      ],
+      "note": "family match NTLE-875 ; first image = finish B"
+    }
+  ],
+  "alternatives": [],
+  "recommended_strategy": "Harvest all 15 pages of the Store API (~1MB JSON per page; 1 req/sec). Build a list of family names; for each Lumera SKU pick the LONGEST family name that is a prefix of the SKU (after uppercasing). Then pick the image whose filename (minus extension and trailing '-n' index) best matches family + finish code found in the SKU (e.g. trailing BZ/B/W/BB/SB/MPW/HZW before '/' options); otherwise use the first image. Images are full-size wp-content/uploads JPGs (exact upload-path dates vary; take src from API).",
+  "blockers": null
+}

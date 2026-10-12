@@ -1,0 +1,150 @@
+{
+  "brand": "Satco",
+  "official_site": "https://www.satco.com/",
+  "reachable": false,
+  "platform": "Unknown (fronted by Vercel; every request incl. robots.txt/sitemap.xml returns HTTP 429 \"Vercel Security Checkpoint\" JS challenge). Sister brand site nuvolighting.com returns the same 429 checkpoint.",
+  "catalog_endpoint": null,
+  "est_products": "unknown on official site; BulbAmerica: 2637 products in /collections/nuvo-lighting + 2099 in /collections/satco",
+  "sku_format_match": "yes - sample SKUs (60-xxxx, 65-xxx-x) are Nuvo Lighting (Satco division) item numbers; BulbAmerica variant.sku uses the same NN-NNNN format (vendor \"Nuvo Lighting\"); 65-xxx-N samples carry an extra trailing digit that BulbAmerica omits (65-842-5 -> 65-842)",
+  "sample_tests": [
+    {
+      "sku": "60-8734",
+      "found": false,
+      "product_url": null,
+      "image_urls": [],
+      "source": "bulbamerica.com"
+    },
+    {
+      "sku": "60-6125",
+      "found": true,
+      "product_url": "https://www.bulbamerica.com/products/sherwood-4-light-pendant-in-iron-black-with-brushed-nickel-accents-finish-1",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0345/0689/products/60-6125.jpg?v=1620998574"
+      ],
+      "matched_as": "60-6125",
+      "source": "bulbamerica.com"
+    },
+    {
+      "sku": "60-5036",
+      "found": true,
+      "product_url": "https://www.bulbamerica.com/products/patton-3-light-chandelier-arms-up-w-frosted-glass-1",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0345/0689/files/60-5036.jpg?v=1696711227"
+      ],
+      "matched_as": "60-5036",
+      "source": "bulbamerica.com"
+    },
+    {
+      "sku": "60-356",
+      "found": true,
+      "product_url": "https://www.bulbamerica.com/products/nuvo-empire-6-light-26-inch-chandelier-w-alabaster-glass-bell-shades",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0345/0689/files/60-356_1.jpg?v=1696713000"
+      ],
+      "matched_as": "60-356",
+      "source": "bulbamerica.com"
+    },
+    {
+      "sku": "60-8664",
+      "found": false,
+      "product_url": null,
+      "image_urls": [],
+      "source": "bulbamerica.com"
+    },
+    {
+      "sku": "65-842-5",
+      "found": true,
+      "product_url": "https://www.bulbamerica.com/products/led-area-light-type-iii-150w-bronze-finish-4000k-120-277v",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0345/0689/files/65-842_101.jpg?v=1687446653",
+        "https://cdn.shopify.com/s/files/1/0345/0689/files/65-842_102.jpg?v=1687446653",
+        "https://cdn.shopify.com/s/files/1/0345/0689/files/65-842_103.jpg?v=1687446653"
+      ],
+      "matched_as": "65-842",
+      "note": "BulbAmerica variant sku has no trailing pack/finish suffix; matched base 65-842",
+      "source": "bulbamerica.com"
+    },
+    {
+      "sku": "65-869-5",
+      "found": true,
+      "product_url": "https://www.bulbamerica.com/products/led-area-light-type-iii-300w-bronze-finish-5000k-277-480v",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0345/0689/files/65-869_101.jpg?v=1687446517",
+        "https://cdn.shopify.com/s/files/1/0345/0689/files/65-869_102.jpg?v=1687446517",
+        "https://cdn.shopify.com/s/files/1/0345/0689/files/65-869_103.jpg?v=1687446517"
+      ],
+      "matched_as": "65-869",
+      "note": "BulbAmerica variant sku has no trailing pack/finish suffix; matched base 65-869",
+      "source": "bulbamerica.com"
+    },
+    {
+      "sku": "60-5263",
+      "found": true,
+      "product_url": "https://www.bulbamerica.com/products/beaker-2-light-wall-sconce-w-clear-glass-vintage-lamps-included",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0345/0689/products/60-5263_10.jpg?v=1642608105"
+      ],
+      "matched_as": "60-5263",
+      "source": "bulbamerica.com"
+    },
+    {
+      "sku": "65-843-4",
+      "found": true,
+      "product_url": "https://www.bulbamerica.com/products/led-area-light-type-iii-150w-bronze-finish-5000k-120-277v",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0345/0689/files/65-843_101.jpg?v=1687446668",
+        "https://cdn.shopify.com/s/files/1/0345/0689/files/65-843_102.jpg?v=1687446668",
+        "https://cdn.shopify.com/s/files/1/0345/0689/files/65-843_103.jpg?v=1687446668"
+      ],
+      "matched_as": "65-843",
+      "note": "BulbAmerica variant sku has no trailing pack/finish suffix; matched base 65-843",
+      "source": "bulbamerica.com"
+    },
+    {
+      "sku": "60-8033",
+      "found": false,
+      "product_url": null,
+      "image_urls": [],
+      "source": "bulbamerica.com"
+    },
+    {
+      "sku": "60-8053",
+      "found": false,
+      "product_url": null,
+      "image_urls": [],
+      "source": "bulbamerica.com"
+    },
+    {
+      "sku": "65-698",
+      "found": true,
+      "product_url": "https://www.bulbamerica.com/products/led-2-ft-linear-strip-light-20w-white-finish-cct-tunable-100-277v-em-sensor",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0345/0689/files/65-698_101.jpg?v=1687360196",
+        "https://cdn.shopify.com/s/files/1/0345/0689/files/65-698_102.jpg?v=1687360196",
+        "https://cdn.shopify.com/s/files/1/0345/0689/files/65-698_103.jpg?v=1687360196"
+      ],
+      "matched_as": "65-698",
+      "source": "bulbamerica.com"
+    }
+  ],
+  "alternatives": [
+    {
+      "name": "BulbAmerica",
+      "url": "https://www.bulbamerica.com",
+      "platform": "Shopify",
+      "endpoint": "/collections/nuvo-lighting/products.json?limit=250&page=N and /collections/satco/products.json?limit=250&page=N; /search/suggest.json?q=SKU&resources[type]=product",
+      "tested": true,
+      "notes": "8/12 sample SKUs matched on variant.sku (60-8734, 60-8664, 60-8033, 60-8053 not present - newer 60-8xxx Nuvo items). Images on cdn.shopify.com named by SKU (e.g. 65-842_101.jpg), multiple images per product. Occasional 503 SERVICE_UNAVAILABLE on rapid products.json calls - retry after a few seconds worked; keep ~1 req/s."
+    },
+    {
+      "name": "Ferguson Home / Build.com",
+      "url": "https://www.fergusonhome.com",
+      "platform": "custom (Akamai)",
+      "endpoint": null,
+      "tested": true,
+      "notes": "Web search shows it lists Nuvo 60/8734, but curl gets HTTP 403 Access Denied."
+    }
+  ],
+  "recommended_strategy": "Page BulbAmerica /collections/nuvo-lighting/products.json and /collections/satco/products.json (limit=250, ~20 pages total, ~1 req/s), index variant.sku (uppercased). Match sample SKU exactly; for 65-xxx-N SKUs fall back to the base without the trailing -N. Use variant.featured_image else product.images[0..]. Remaining misses (mostly 60-8xxx) need manual or another retailer.",
+  "blockers": "Official satco.com and nuvolighting.com are behind a Vercel bot checkpoint (HTTP 429 challenge) - not harvestable with curl."
+}

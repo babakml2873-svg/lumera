@@ -1,0 +1,125 @@
+{
+  "brand": "Westinghouse Lighting",
+  "official_site": "https://www.westinghouselighting.com",
+  "reachable": true,
+  "platform": "Custom ASP.NET (.aspx) site; product lists loaded from JSON web service",
+  "catalog_endpoint": "POST https://www.westinghouselighting.com/includes/Webservices/GetProducts.asmx/GetProductPackage  Content-Type: application/json  body: {SiteObjectId: '<id>', mySearchOptions: [], myTotals: [], ResultsPerPage: 1000, DesiredPage: 1, AllItems: 'true'}  -> d.ProductList[] with ItemNumber, Title, Url, PrimaryMediumImage. Category SiteObjectIds with products: 320-323, 326, 328-333, 335-347, 349, 359, 360.",
+  "est_products": "1149 unique ItemNumbers across category ids 300-370",
+  "sku_format_match": "yes - sample SKUs are 7-digit Westinghouse item numbers with an Excel leading apostrophe (strip it, keep leading zeros); API ItemNumber is the same 7-digit string. 12/12 matched.",
+  "sample_tests": [
+    {
+      "sku": "'0373400",
+      "found": true,
+      "product_url": "https://www.westinghouselighting.com/light-bulbs/incandescent-bulbs/decorative/25-watt-b11-torpedo-incandescent-light-bulb-0373400.aspx",
+      "image_urls": [
+        "https://www.westinghouselighting.com/images/products/0373400-lg.jpg",
+        "https://www.westinghouselighting.com/images/products/0373400-sm.jpg"
+      ]
+    },
+    {
+      "sku": "'6362100",
+      "found": true,
+      "product_url": "https://www.westinghouselighting.com/light-fixtures/interior-lighting/pendant/stella-mira-indoor-mini-pendant-6362100.aspx",
+      "image_urls": [
+        "https://www.westinghouselighting.com/images/products/6362100_on-lg.jpg",
+        "https://www.westinghouselighting.com/images/products/6362100_on-md.jpg",
+        "https://www.westinghouselighting.com/images/products/6362100_app-lg.jpg"
+      ],
+      "note": "{sku}-lg.jpg does not exist (soft 404: 200 text/html); primary image is {sku}_on-*.jpg per API PrimaryMediumImage"
+    },
+    {
+      "sku": "'3516600",
+      "found": true,
+      "product_url": "https://www.westinghouselighting.com/light-bulbs/led-bulbs/specialty/54-watt-(400-watt-equivalent)-t30-high-lumen-led-light-bulb-3516600.aspx",
+      "image_urls": [
+        "https://www.westinghouselighting.com/images/products/3516600-lg.jpg",
+        "https://www.westinghouselighting.com/images/products/3516600-sm.jpg"
+      ]
+    },
+    {
+      "sku": "'7861400",
+      "found": true,
+      "product_url": "https://www.westinghouselighting.com/ceiling-fans/products/jax-industrial-style-56-inch-indoor-ceiling-fan-7861400.aspx",
+      "image_urls": [
+        "https://www.westinghouselighting.com/images/products/7861400-lg.jpg",
+        "https://www.westinghouselighting.com/images/products/7861400-sm.jpg"
+      ]
+    },
+    {
+      "sku": "'7221600",
+      "found": true,
+      "product_url": "https://www.westinghouselighting.com/ceiling-fans/products/alloy-42-inch-indoor-ceiling-fan-with-led-light-fixture-7221600.aspx",
+      "image_urls": [
+        "https://www.westinghouselighting.com/images/products/7221600-lg.jpg",
+        "https://www.westinghouselighting.com/images/products/7221600-sm.jpg"
+      ]
+    },
+    {
+      "sku": "'6783500",
+      "found": true,
+      "product_url": "https://www.westinghouselighting.com/light-fixtures/exterior-lighting/wall/outdoor-wall-fixture-6783500.aspx",
+      "image_urls": [
+        "https://www.westinghouselighting.com/images/products/6783500-lg.jpg",
+        "https://www.westinghouselighting.com/images/products/6783500_on-sm.jpg"
+      ]
+    },
+    {
+      "sku": "'0624300",
+      "found": true,
+      "product_url": "https://www.westinghouselighting.com/light-bulbs/halogen-bulbs/single-ended/40-watt-halogen-krypton-xenon-t3-single-ended-light-bulb-0624300.aspx",
+      "image_urls": [
+        "https://www.westinghouselighting.com/images/products/0624300-lg.jpg",
+        "https://www.westinghouselighting.com/images/products/0624300-sm.jpg"
+      ]
+    },
+    {
+      "sku": "'5316500",
+      "found": true,
+      "product_url": "https://www.westinghouselighting.com/light-bulbs/led-bulbs/general-purpose/6.5-watt-(60-watt-equivalent)-a19-dimmable-filament-led-light-bulb-5316500.aspx",
+      "image_urls": [
+        "https://www.westinghouselighting.com/images/products/5316500-lg.jpg",
+        "https://www.westinghouselighting.com/images/products/5316500_on-sm.jpg"
+      ]
+    },
+    {
+      "sku": "'0483500",
+      "found": true,
+      "product_url": "https://www.westinghouselighting.com/light-bulbs/halogen-bulbs/single-ended/50-watt-halogen-single-ended-light-bulb-0483500.aspx",
+      "image_urls": [
+        "https://www.westinghouselighting.com/images/products/0483500-lg.jpg",
+        "https://www.westinghouselighting.com/images/products/0483500-sm.jpg"
+      ]
+    },
+    {
+      "sku": "'5334000",
+      "found": true,
+      "product_url": "https://www.westinghouselighting.com/light-bulbs/led-bulbs/decorative/5-watt-(60-watt-equivalent)-t6-dimmable-filament-led-light-bulb-5334000.aspx",
+      "image_urls": [
+        "https://www.westinghouselighting.com/images/products/5334000-lg.jpg",
+        "https://www.westinghouselighting.com/images/products/5334000_off-sm.jpg"
+      ]
+    },
+    {
+      "sku": "'4369700",
+      "found": true,
+      "product_url": "https://www.westinghouselighting.com/light-bulbs/led-bulbs/general-purpose/9-watt-(60-watt-equivalent)-omni-a19-led-light-bulb-4369700.aspx",
+      "image_urls": [
+        "https://www.westinghouselighting.com/images/products/4369700-lg.jpg",
+        "https://www.westinghouselighting.com/images/products/4369700-sm.jpg"
+      ]
+    },
+    {
+      "sku": "'0410000",
+      "found": true,
+      "product_url": "https://www.westinghouselighting.com/light-bulbs/incandescent-bulbs/general-purpose/25-watt-a19-incandescent-light-bulb-0410000.aspx",
+      "image_urls": [
+        "https://www.westinghouselighting.com/images/products/0410000-lg.jpg",
+        "https://www.westinghouselighting.com/images/products/0410000-sm.jpg"
+      ]
+    }
+  ],
+  "alternatives": [],
+  "recommended_strategy": "Call GetProductPackage for each category SiteObjectId (~25 POSTs), build ItemNumber -> {Url, PrimaryMediumImage}. Image = PrimaryMediumImage with '-sm.jpg'/'-md.jpg' replaced by '-lg.jpg' (verify Content-Type image/jpeg; missing files return 200 text/html). For extra views fetch the product page Url and collect /images/products/<item>_*-lg.jpg (app, altview, detail, swatch).",
+  "blockers": null,
+  "notes": "Missing images return HTTP 200 with text/html (soft 404) - must check Content-Type."
+}

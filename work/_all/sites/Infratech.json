@@ -1,0 +1,83 @@
+{
+  "brand": "Infratech",
+  "official_site": "https://www.infratech.com/ (infratech-usa.com redirects here)",
+  "reachable": "yes (HTTP 200)",
+  "platform": "WordPress (Yoast SEO), no e-commerce plugin - /wp-json/wc/store/v1/products returns 404 rest_no_route; no product post type",
+  "catalog_endpoint": "No product API. Part-number -> model tables are in https://www.infratech.com/manual/reference-manual/ (164 distinct part numbers like 21-3030 = C-2027 SS). Images are per series/color on series pages (/heaters/w-series/ etc.) and /resources/image-downloads/<series>/ (high-res downloads under /downloads/), not per part number.",
+  "est_products": "164 part numbers listed in the official reference manual page; retailer bbqoutfitters.com lists 69 Infratech products",
+  "sku_format_match": "partial - official site uses the same numeric part numbers (NN-NNNN) only inside reference-manual tables, keyed to model names (e.g. 21-3030 = C-2027 SS, 21-4010 = CD-3028 SS, 30-4056 = 6 Relay Panel, 14-4710 = CP-12000-2X); 21-1025 and 21-4280 not on that page. Product pages/images are keyed by model/series, not part number. Retailer Shopify stores use the part number as variant.sku.",
+  "sample_tests": [
+    {
+      "sku": "21-1025",
+      "found": true,
+      "product_url": "https://bbqoutfitters.com/products/infratech-all-weather-heaters-w-7512-ss",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0629/5027/7355/files/All-WeatherHeatersW-2527SS1_01ec1c31-b384-461f-9ff7-a5e6a288bdba.png?v=1722623178"
+      ],
+      "note": "retailer (Shopify) variant.sku == 21-1025; not on official site by part number. Image filename references W-2527, i.e. a shared W-series image"
+    },
+    {
+      "sku": "21-3030",
+      "found": true,
+      "product_url": "https://bbqoutfitters.com/products/infratech-all-weather-heaters-c-2027-ss",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0629/5027/7355/files/infratech-all-weather-heaters-c-2048-ss.png?v=1721685830"
+      ],
+      "note": "official reference manual maps 21-3030 = C-2027 SS; official series image https://www.infratech.com/images/c-series-header.jpg"
+    },
+    {
+      "sku": "21-4010",
+      "found": true,
+      "product_url": "https://bbqoutfitters.com/products/infratech-all-weather-heaters-cd-3028-ss",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0629/5027/7355/files/InfratechAll-WeatherHeatersCD-3028SS.jpg?v=1726582503"
+      ],
+      "note": "official reference manual maps 21-4010 = CD-3028 SS"
+    },
+    {
+      "sku": "21-2330",
+      "found": true,
+      "product_url": "https://bbqoutfitters.com/products/infratech-all-weather-heaters-wd-6027-ss",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0629/5027/7355/files/infratech-all-weather-heaters-wd-6027-ss.png?v=1721685225"
+      ]
+    },
+    {
+      "sku": "14-4710",
+      "found": true,
+      "product_url": "https://www.infratech.com/manual/reference-manual/",
+      "image_urls": [
+        "https://www.infratech.com/images/contactor_access.jpg"
+      ],
+      "note": "official site only (CP-12000-2X Dual Contactor Panel); image is a generic contactor panel picture. Not found on bbqoutfitters/casualfurnitureworld search"
+    }
+  ],
+  "alternatives": [
+    {
+      "name": "BBQ Outfitters",
+      "url": "https://bbqoutfitters.com",
+      "platform": "Shopify",
+      "endpoint": "/search/suggest.json?q=<part#>&resources[type]=product ; /products/<handle>.json (variant.sku = Infratech part number); vendor listing /collections/vendors?q=Infratech (69 products)",
+      "tested": true,
+      "notes": "3/4 heater part numbers found via suggest; 14-4710 not found. Some images shared across sizes (W-2527 image used for W-7512)."
+    },
+    {
+      "name": "Casual Furniture World",
+      "url": "https://www.casualfurnitureworld.com",
+      "platform": "Shopify",
+      "endpoint": "/search/suggest.json?q=<part#>&resources[type]=product ; /products/<model>.json (variant.sku = part number, e.g. /products/w-7512 -> 21-1025)",
+      "tested": true,
+      "notes": "Found 21-1025, 21-3030, 21-4010, 21-2330; images are screenshots (Screenshot_2025-10-02_...png) - lower quality. /collections/infratech/products.json returned 503."
+    },
+    {
+      "name": "DK Hardware",
+      "url": "https://www.dkhardware.com",
+      "platform": "custom",
+      "endpoint": "product URLs contain part number (e.g. infratech-21-1025-...-product-4115161.html)",
+      "tested": false,
+      "notes": "seen in web search only"
+    }
+  ],
+  "recommended_strategy": "Hybrid: (1) parse the official reference-manual tables to map every part number -> model/series; (2) for heaters, query bbqoutfitters.com /search/suggest.json?q=<part#> and take the matched product's images (variant.sku == part#); (3) fallback to official series/color images from /resources/image-downloads/<series>/ selected by model series (W, WD, C, CD, SL, Motif) and color suffix; controls/panels (14-xxxx, 30-xxxx) only have generic official images.",
+  "blockers": "Official site has no per-SKU images or product API; per-part images require retailer data or series-level mapping."
+}

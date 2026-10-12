@@ -1,0 +1,1 @@
+abralighting.com (official, Magento 2): all products in ceiling-lighting, indoor-wall, outdoor-wall category listings; per-finish child SKUs and their images from each product page's swatch configuration.

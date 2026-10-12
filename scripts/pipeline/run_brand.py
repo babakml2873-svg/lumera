@@ -10,7 +10,7 @@ Variant (V) rules - exact SKU identity is required:
 Gallery (G): other images of the same product; images the source links to a different variant are never used, and for
 products with visual variants only images linked to this variant are used. Near-duplicates removed by pHash.
 """
-import glob, json, random, re, sys
+import glob, html, json, random, re, sys
 from collections import Counter, defaultdict
 from pathlib import Path
 
@@ -28,6 +28,7 @@ brand = sys.argv[1]
 W = WORK / slug(brand); W.mkdir(parents=True, exist_ok=True)
 cats = sys.argv[2:] or sorted(glob.glob(str(W / "catalog*.json")))
 overrides = json.load(open(W / "overrides.json")) if (W / "overrides.json").exists() else {}
+config = json.load(open(W / "config.json")) if (W / "config.json").exists() else {}
 
 # ---------------------------------------------------------------- index
 products = []
@@ -40,6 +41,19 @@ for p in products:
     for v in p["variants"]:
         if v.get("sku"):
             idx[match_key(v["sku"])].append((p, v))
+
+
+# Non-visual ordering suffixes: the source lists the same fixture with an electrical/CCT option appended
+# (universal voltage, 0-10V dimming, selectable CCT...). Keys are punctuation-free.
+SUFFIX_OK = re.compile(config.get("suffix_regex", r"^(UNV|UNV010|010|5CCT|3CCT|CCT|120V?|277V?|12V|24V)$"))
+keys_by_prefix = defaultdict(list)
+for k in idx:
+    keys_by_prefix[k[:4]].append(k)
+
+
+def suffix_hits(k):
+    c = [x for x in keys_by_prefix.get(k[:4], []) if x != k and x.startswith(k) and SUFFIX_OK.match(x[len(k):])]
+    return c[0] if len(c) == 1 else None
 
 
 def visual_variants(p):
@@ -57,6 +71,10 @@ for r in rows:
                review="", resolution="", v=None, g=[])
     o = overrides.get(s, {})
     hits = idx.get(match_key(s), [])
+    suffix_key = None
+    if not hits and not o.get("review"):
+        suffix_key = suffix_hits(match_key(s))
+        hits = idx.get(suffix_key, []) if suffix_key else []
     if o.get("review"):
         rec["review"] = o["review"]
     elif not hits:
@@ -65,8 +83,16 @@ for r in rows:
         hits.sort(key=lambda t: (t[0]["_prio"], t[1].get("image") is None))
         p, v = hits[0]
         others = len({id(h[0]) for h in hits}) - 1
-        rec.update(product=p["title"], page=p["url"], resolution=f"exact-SKU@{p['source']}",
+        rec.update(product=html.unescape(p["title"]), page=p["url"], resolution=f"exact-SKU@{p['source']}",
                    conf="High", note=f"Exact source SKU '{v['sku']}'" + (f" [{v['title']}]" if v.get("title") else ""))
+        if suffix_key:
+            rec["conf"] = "Medium"
+            rec["note"] = (f"Source lists this item only as '{v['sku']}' (same fixture with an electrical/CCT ordering suffix)"
+                           + (f" [{v['title']}]" if v.get("title") else ""))
+        if p.get("family_image"):
+            rec["conf"] = "Medium"
+            rec["note"] += ("; the source shows a product-family image on this SKU's page (asset "
+                            + ", ".join(p.get("assets", [])[:2]) + "), not one named for this exact SKU")
         if others:
             rec["note"] += f"; SKU also listed on {others} other product page(s) - first by source priority used"
         vis = visual_variants(p)
@@ -102,7 +128,8 @@ print(brand, "rows", len(plan), Counter(bool(r["v"]) for r in plan), "matched", 
 
 # ---------------------------------------------------------------- download
 urls = [r["v"]["url"] for r in plan if r["v"]] + [g["url"] for r in plan for g in r["g"]]
-paths = download_all(urls, W / "cache")
+paths = download_all(urls, W / "cache", workers=config.get("workers", 6), headers=config.get("download_headers"),
+                     min_interval=config.get("min_interval", 0.15))
 print("downloaded", sum(1 for u in set(urls) if paths.get(u)), "of", len(set(urls)))
 
 # ---------------------------------------------------------------- process

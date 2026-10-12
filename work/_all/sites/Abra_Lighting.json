@@ -1,0 +1,45 @@
+{
+  "brand": "Abra Lighting",
+  "official_site": "https://abralighting.com",
+  "reachable": "conditional - HTTP 403 (Apache 'Forbidden') when sent the browser Chrome User-Agent from the brief; HTTP 200 with curl's default User-Agent (no UA override). Behind Cloudflare + Varnish.",
+  "platform": "Magento 2 (theme frontend/Abra/theme, configurable products with per-finish child SKUs)",
+  "catalog_endpoint": "No public machine-readable catalog: /sitemap.xml 404 (robots.txt references it but it is missing), /graphql 403 (nginx), /rest/default/V1/products 401. Use HTML: category listings https://abralighting.com/{ceiling-lighting,indoor-wall,outdoor-wall}.html?p=N (12/page) -> product pages; each product page embeds Magento swatch jsonConfig with child {entity, sku} and 'images':{entity_id:[{full,img,thumb}]}.",
+  "est_products": "~292 configurable parent listings (ceiling-lighting 118 items, indoor-wall 89, outdoor-wall 85; may overlap) expanding to child SKUs per finish - consistent with 529 SKUs.",
+  "sku_format_match": "yes - child SKUs on site are exactly the sample format (e.g. 50117ODW-MB, 20021WV-BA, 10023PN-BA); parent SKU is the base (50117ODW). Image file names also embed the lowercase child SKU (e.g. 50117odw-mb_hero.jpg).",
+  "sample_tests": [
+    {
+      "sku": "10023PN-BA",
+      "found": true,
+      "product_url": "https://abralighting.com/orb-linear-bar-pendant-with-up-down-illumination-and-opal-glass-orb.html",
+      "image_urls": [
+        "https://abralighting.com/media/catalog/product/1/0/10023pn-ba-on-2_2.jpg",
+        "https://abralighting.com/media/catalog/product/o/r/orb-10023pn_3.jpg"
+      ]
+    },
+    {
+      "sku": "20021WV-BA",
+      "found": true,
+      "product_url": "https://abralighting.com/foil-32-vertical-or-horizontal-mount-dimmable-led-vanity-bar.html",
+      "image_urls": [
+        "https://abralighting.com/media/catalog/product/2/0/20021wv-ba_on_2.jpg",
+        "https://abralighting.com/media/catalog/product/2/0/20021wv-ba_hero_ex_backplate.jpg",
+        "https://abralighting.com/media/catalog/product/2/0/20021wv-ba_hero_off_2.jpg",
+        "https://abralighting.com/media/catalog/product/2/0/20021wv-ba_hero_on_2.jpg"
+      ]
+    },
+    {
+      "sku": "50117ODW-MB",
+      "found": true,
+      "product_url": "https://abralighting.com/50117odw-rotational-mold-wet-location-wall-fixture.html",
+      "image_urls": [
+        "https://abralighting.com/media/catalog/product/5/0/50117odw-mb_front_off.jpg",
+        "https://abralighting.com/media/catalog/product/5/0/50117odw-mb_hero.jpg",
+        "https://abralighting.com/media/catalog/product/5/0/50117odw-mb_angle_on_2.jpg",
+        "https://abralighting.com/media/catalog/product/5/0/50117odw-mb_side_off.jpg"
+      ]
+    }
+  ],
+  "alternatives": [],
+  "recommended_strategy": "Crawl the 3 top category listings (?p=1..N, ~25 pages total, no layered-nav params - those are robots-disallowed) with default curl UA to collect product URLs; fetch each product page (~300) at <=1 req/s, parse the jsonConfig: map child sku -> entity id, then 'images'[entity] -> 'full' URLs (strip ?store=... for original). Match SKUs exactly (uppercase). Simple (non-configurable) pages: use the gallery 'full' URLs / itemprop sku. Fallback: image filenames start with lowercase SKU.",
+  "blockers": "Browser-like UA gets 403 (WAF rule) - must use non-browser UA; /catalogsearch/ disallowed in robots.txt; no sitemap, GraphQL blocked, REST requires auth. Robots.txt notes a 2026-07 'layered-navigation flood incident' - crawl gently."
+}
