@@ -56,7 +56,7 @@
   "product": "QBGFT2015 | Eaton QB GFCI circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.QBGFT2015.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'QBGFT2015'; the source shows a product-family image on this SKU's page (asset QBGFT2020_C), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (QBGFT2020, QBGFT2025, QBGFT2040, QBGFT2050) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'QBGFT2015'; the source shows a product-family image on this SKU's page (asset QBGFT2020_C), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -65,7 +65,8 @@
    "origin": "eaton.com",
    "kind": "product main image"
   },
-  "g": []
+  "g": [],
+  "v_withheld": "source photo is of QBGFT2020 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -388,7 +389,7 @@
   "product": "BAB2015 | Eaton BAB thermal magnetic circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.BAB2015.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'BAB2015'; the source shows a product-family image on this SKU's page (asset BAB2020_360-C, BAB2020_360-L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (BAB2020, BAB2030, BAB2035, BAB2040, BAB2050 +3 more) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'BAB2015'; the source shows a product-family image on this SKU's page (asset BAB2020_360-C, BAB2020_360-L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -423,7 +424,8 @@
     "page": "https://www.eaton.com/us/en-us/skuPage.BAB2015.html",
     "origin": "eaton.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of BAB2020 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -831,7 +833,7 @@
   "product": "BRD230250 | Eaton BR thermal magnetic circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.BRD230250.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'BRD230250'; the source shows a product-family image on this SKU's page (asset BRD220230_C, BRD220230_R), not one named for this exact SKU; source uses this same photo for other products (BRD220230, BRD230240) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'BRD230250'; the source shows a product-family image on this SKU's page (asset BRD220230_C, BRD220230_R), not one named for this exact SKU",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -846,7 +848,8 @@
     "page": "https://www.eaton.com/us/en-us/skuPage.BRD230250.html",
     "origin": "eaton.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of BRD220230 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -941,7 +944,7 @@
   "product": "BRD230240 | Eaton BR thermal magnetic circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.BRD230240.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'BRD230240'; the source shows a product-family image on this SKU's page (asset BRD220230_C, BRD220230_R), not one named for this exact SKU; source uses this same photo for other products (BRD220230, BRD230250) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'BRD230240'; the source shows a product-family image on this SKU's page (asset BRD220230_C, BRD220230_R), not one named for this exact SKU",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -956,7 +959,8 @@
     "page": "https://www.eaton.com/us/en-us/skuPage.BRD230240.html",
     "origin": "eaton.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of BRD220230 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -966,7 +970,7 @@
   "product": "CSR2125N | Eaton CSR main breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.CSR2125N.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'CSR2125N'; the source shows a product-family image on this SKU's page (asset CSR2200N_C), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (CSR2150N, CSR2175N, CSR2200N) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'CSR2125N'; the source shows a product-family image on this SKU's page (asset CSR2200N_C), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -975,7 +979,8 @@
    "origin": "eaton.com",
    "kind": "product main image"
   },
-  "g": []
+  "g": [],
+  "v_withheld": "source photo is of CSR2200N (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -1105,7 +1110,7 @@
   "product": "BAB3070H | Eaton BAB thermal magnetic circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.BAB3070H.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'BAB3070H'; the source shows a product-family image on this SKU's page (asset BAB3060H_C), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (BAB3060H) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'BAB3070H'; the source shows a product-family image on this SKU's page (asset BAB3060H_C), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -1114,7 +1119,8 @@
    "origin": "eaton.com",
    "kind": "product main image"
   },
-  "g": []
+  "g": [],
+  "v_withheld": "source photo is of BAB3060H (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -1206,7 +1212,7 @@
   "product": "GHB1015 | Eaton Series C complete molded case circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.GHB1015.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'GHB1015'; the source shows a product-family image on this SKU's page (asset GHB1020_C, GHB1020_L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (GHB1020, GHB1030) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'GHB1015'; the source shows a product-family image on this SKU's page (asset GHB1020_C, GHB1020_L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -1226,7 +1232,8 @@
     "page": "https://www.eaton.com/us/en-us/skuPage.GHB1015.html",
     "origin": "eaton.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of GHB1020 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -1401,8 +1408,8 @@
   "nsku": "QB1020AFGF",
   "product": "QB1020AFGF | Eaton QB arc fault / ground fault circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.QB1020AFGF.html",
-  "conf": "Medium",
-  "note": "Exact source SKU 'QB1020AFGF'; source uses this same photo for other products (QB1015EP) - series/family photo, printed ratings or details may differ",
+  "conf": "High",
+  "note": "Exact source SKU 'QB1020AFGF'",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -1511,7 +1518,7 @@
   "product": "BAB2070 | Eaton BAB thermal magnetic circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.BAB2070.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'BAB2070'; the source shows a product-family image on this SKU's page (asset BAB2020_360-C, BAB2020_360-L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (BAB2015, BAB2020, BAB2030, BAB2035, BAB2040 +3 more) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'BAB2070'; the source shows a product-family image on this SKU's page (asset BAB2020_360-C, BAB2020_360-L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -1546,7 +1553,8 @@
     "page": "https://www.eaton.com/us/en-us/skuPage.BAB2070.html",
     "origin": "eaton.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of BAB2020 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -1976,8 +1984,8 @@
   "nsku": "BRD220230",
   "product": "BRD220230 | Eaton BR thermal magnetic circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.BRD220230.html",
-  "conf": "Medium",
-  "note": "Exact source SKU 'BRD220230'; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (BRD230240, BRD230250) - series/family photo, printed ratings or details may differ",
+  "conf": "High",
+  "note": "Exact source SKU 'BRD220230'; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -2104,7 +2112,7 @@
   "product": "CCV2175 | Eaton CCV tenant main breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.CCV2175.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'CCV2175'; the source shows a product-family image on this SKU's page (asset CCV2200_C, CCV2200_L), not one named for this exact SKU; source uses this same photo for other products (CCV2200) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'CCV2175'; the source shows a product-family image on this SKU's page (asset CCV2200_C, CCV2200_L), not one named for this exact SKU",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -2119,7 +2127,8 @@
     "page": "https://www.eaton.com/us/en-us/skuPage.CCV2175.html",
     "origin": "eaton.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of CCV2200 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -2129,7 +2138,7 @@
   "product": "GHB3025 | Eaton Series C complete molded case circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.GHB3025.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'GHB3025'; the source shows a product-family image on this SKU's page (asset GHB3100_C, GHB3100_L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (GHB3015, GHB3020, GHB3030, GHB3035, GHB3040 +6 more) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'GHB3025'; the source shows a product-family image on this SKU's page (asset GHB3100_C, GHB3100_L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -2149,7 +2158,8 @@
     "page": "https://www.eaton.com/us/en-us/skuPage.GHB3025.html",
     "origin": "eaton.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of GHB3100 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -2272,7 +2282,7 @@
   "product": "QBGFT2025 | Eaton QB GFCI circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.QBGFT2025.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'QBGFT2025'; the source shows a product-family image on this SKU's page (asset QBGFT2020_C), not one named for this exact SKU; source uses this same photo for other products (QBGFT2015, QBGFT2020, QBGFT2040, QBGFT2050) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'QBGFT2025'; the source shows a product-family image on this SKU's page (asset QBGFT2020_C), not one named for this exact SKU",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -2281,7 +2291,8 @@
    "origin": "eaton.com",
    "kind": "product main image"
   },
-  "g": []
+  "g": [],
+  "v_withheld": "source photo is of QBGFT2020 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -2359,7 +2370,7 @@
   "product": "GHB3035 | Eaton Series C complete molded case circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.GHB3035.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'GHB3035'; the source shows a product-family image on this SKU's page (asset GHB3100_C, GHB3100_L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (GHB3015, GHB3020, GHB3025, GHB3030, GHB3040 +6 more) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'GHB3035'; the source shows a product-family image on this SKU's page (asset GHB3100_C, GHB3100_L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -2379,7 +2390,8 @@
     "page": "https://www.eaton.com/us/en-us/skuPage.GHB3035.html",
     "origin": "eaton.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of GHB3100 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -2528,7 +2540,7 @@
   "product": "QBGFT2040 | Eaton QB GFCI circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.QBGFT2040.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'QBGFT2040'; the source shows a product-family image on this SKU's page (asset QBGFT2020_C), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (QBGFT2015, QBGFT2020, QBGFT2025, QBGFT2050) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'QBGFT2040'; the source shows a product-family image on this SKU's page (asset QBGFT2020_C), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -2537,7 +2549,8 @@
    "origin": "eaton.com",
    "kind": "product main image"
   },
-  "g": []
+  "g": [],
+  "v_withheld": "source photo is of QBGFT2020 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -2723,8 +2736,8 @@
   "nsku": "CCV2200",
   "product": "CCV2200 | Eaton CCV tenant main breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.CCV2200.html",
-  "conf": "Medium",
-  "note": "Exact source SKU 'CCV2200'; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (CCV2175) - series/family photo, printed ratings or details may differ",
+  "conf": "High",
+  "note": "Exact source SKU 'CCV2200'; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -3064,8 +3077,8 @@
   "nsku": "CSR2200N",
   "product": "CSR2200N | Eaton CSR main breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.CSR2200N.html",
-  "conf": "Medium",
-  "note": "Exact source SKU 'CSR2200N'; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (CSR2125N, CSR2150N, CSR2175N) - series/family photo, printed ratings or details may differ",
+  "conf": "High",
+  "note": "Exact source SKU 'CSR2200N'; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -3083,8 +3096,8 @@
   "nsku": "GHB1020",
   "product": "GHB1020 | Eaton Series C complete molded case circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.GHB1020.html",
-  "conf": "Medium",
-  "note": "Exact source SKU 'GHB1020'; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (GHB1015, GHB1030) - series/family photo, printed ratings or details may differ",
+  "conf": "High",
+  "note": "Exact source SKU 'GHB1020'; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -3383,7 +3396,7 @@
   "product": "CSR2150N | Eaton CSR main breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.CSR2150N.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'CSR2150N'; the source shows a product-family image on this SKU's page (asset CSR2200N_C), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (CSR2125N, CSR2175N, CSR2200N) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'CSR2150N'; the source shows a product-family image on this SKU's page (asset CSR2200N_C), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -3392,7 +3405,8 @@
    "origin": "eaton.com",
    "kind": "product main image"
   },
-  "g": []
+  "g": [],
+  "v_withheld": "source photo is of CSR2200N (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -3470,7 +3484,7 @@
   "product": "GHB1030 | Eaton Series C complete molded case circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.GHB1030.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'GHB1030'; the source shows a product-family image on this SKU's page (asset GHB1020_C, GHB1020_L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (GHB1015, GHB1020) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'GHB1030'; the source shows a product-family image on this SKU's page (asset GHB1020_C, GHB1020_L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -3490,7 +3504,8 @@
     "page": "https://www.eaton.com/us/en-us/skuPage.GHB1030.html",
     "origin": "eaton.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of GHB1020 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -3725,8 +3740,8 @@
   "nsku": "QBGFT2020",
   "product": "QBGFT2020 | Eaton QB GFCI circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.QBGFT2020.html",
-  "conf": "Medium",
-  "note": "Exact source SKU 'QBGFT2020'; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (QBGFT2015, QBGFT2025, QBGFT2040, QBGFT2050) - series/family photo, printed ratings or details may differ",
+  "conf": "High",
+  "note": "Exact source SKU 'QBGFT2020'; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -3967,7 +3982,7 @@
   "product": "BAB2060 | Eaton BAB thermal magnetic circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.BAB2060.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'BAB2060'; the source shows a product-family image on this SKU's page (asset BAB2020_360-C, BAB2020_360-L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (BAB2015, BAB2020, BAB2030, BAB2035, BAB2040 +3 more) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'BAB2060'; the source shows a product-family image on this SKU's page (asset BAB2020_360-C, BAB2020_360-L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -4002,7 +4017,8 @@
     "page": "https://www.eaton.com/us/en-us/skuPage.BAB2060.html",
     "origin": "eaton.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of BAB2020 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -4012,7 +4028,7 @@
   "product": "GHB3070 | Eaton Series C complete molded case circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.GHB3070.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'GHB3070'; the source shows a product-family image on this SKU's page (asset GHB3100_C, GHB3100_L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (GHB3015, GHB3020, GHB3025, GHB3030, GHB3035 +6 more) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'GHB3070'; the source shows a product-family image on this SKU's page (asset GHB3100_C, GHB3100_L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -4032,7 +4048,8 @@
     "page": "https://www.eaton.com/us/en-us/skuPage.GHB3070.html",
     "origin": "eaton.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of GHB3100 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -4061,7 +4078,7 @@
   "product": "BAB2040 | Eaton BAB thermal magnetic circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.BAB2040.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'BAB2040'; the source shows a product-family image on this SKU's page (asset BAB2020_360-C, BAB2020_360-L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (BAB2015, BAB2020, BAB2030, BAB2035, BAB2050 +3 more) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'BAB2040'; the source shows a product-family image on this SKU's page (asset BAB2020_360-C, BAB2020_360-L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -4096,7 +4113,8 @@
     "page": "https://www.eaton.com/us/en-us/skuPage.BAB2040.html",
     "origin": "eaton.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of BAB2020 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -4242,7 +4260,7 @@
   "product": "BAB2035 | Eaton BAB thermal magnetic circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.BAB2035.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'BAB2035'; the source shows a product-family image on this SKU's page (asset BAB2020_360-C, BAB2020_360-L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (BAB2015, BAB2020, BAB2030, BAB2040, BAB2050 +3 more) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'BAB2035'; the source shows a product-family image on this SKU's page (asset BAB2020_360-C, BAB2020_360-L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -4277,7 +4295,8 @@
     "page": "https://www.eaton.com/us/en-us/skuPage.BAB2035.html",
     "origin": "eaton.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of BAB2020 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -4316,8 +4335,8 @@
   "nsku": "BAB2020",
   "product": "BAB2020 | Eaton BAB thermal magnetic circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.BAB2020.html",
-  "conf": "Medium",
-  "note": "Exact source SKU 'BAB2020'; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (BAB2015, BAB2030, BAB2035, BAB2040, BAB2050 +3 more) - series/family photo, printed ratings or details may differ",
+  "conf": "High",
+  "note": "Exact source SKU 'BAB2020'; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -4411,7 +4430,7 @@
   "product": "GHB3060 | Eaton Series C complete molded case circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.GHB3060.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'GHB3060'; the source shows a product-family image on this SKU's page (asset GHB3100_C, GHB3100_L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (GHB3015, GHB3020, GHB3025, GHB3030, GHB3035 +6 more) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'GHB3060'; the source shows a product-family image on this SKU's page (asset GHB3100_C, GHB3100_L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -4431,7 +4450,8 @@
     "page": "https://www.eaton.com/us/en-us/skuPage.GHB3060.html",
     "origin": "eaton.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of GHB3100 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -4441,7 +4461,7 @@
   "product": "CSR2175N | Eaton CSR main breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.CSR2175N.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'CSR2175N'; the source shows a product-family image on this SKU's page (asset CSR2200N_C), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (CSR2125N, CSR2150N, CSR2200N) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'CSR2175N'; the source shows a product-family image on this SKU's page (asset CSR2200N_C), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -4450,7 +4470,8 @@
    "origin": "eaton.com",
    "kind": "product main image"
   },
-  "g": []
+  "g": [],
+  "v_withheld": "source photo is of CSR2200N (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -4509,7 +4530,7 @@
   "product": "BAB3045H | Eaton BAB thermal magnetic circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.BAB3045H.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'BAB3045H'; the source shows a product-family image on this SKU's page (asset BAB3030H_C, BAB3030H_R), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (BAB3030H, BAB3035H, BAB3040H, BAB3050H) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'BAB3045H'; the source shows a product-family image on this SKU's page (asset BAB3030H_C, BAB3030H_R), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -4529,7 +4550,8 @@
     "page": "https://www.eaton.com/us/en-us/skuPage.BAB3045H.html",
     "origin": "eaton.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of BAB3030H (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -4558,7 +4580,7 @@
   "product": "BAB3040H | Eaton BAB thermal magnetic circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.BAB3040H.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'BAB3040H'; the source shows a product-family image on this SKU's page (asset BAB3030H_C, BAB3030H_L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (BAB3030H, BAB3035H, BAB3045H, BAB3050H) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'BAB3040H'; the source shows a product-family image on this SKU's page (asset BAB3030H_C, BAB3030H_L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -4578,7 +4600,8 @@
     "page": "https://www.eaton.com/us/en-us/skuPage.BAB3040H.html",
     "origin": "eaton.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of BAB3030H (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -4588,7 +4611,7 @@
   "product": "GHB3040 | Eaton Series C complete molded case circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.GHB3040.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'GHB3040'; the source shows a product-family image on this SKU's page (asset GHB3100_C, GHB3100_L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (GHB3015, GHB3020, GHB3025, GHB3030, GHB3035 +6 more) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'GHB3040'; the source shows a product-family image on this SKU's page (asset GHB3100_C, GHB3100_L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -4608,7 +4631,8 @@
     "page": "https://www.eaton.com/us/en-us/skuPage.GHB3040.html",
     "origin": "eaton.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of GHB3100 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -4618,7 +4642,7 @@
   "product": "BAB2050 | Eaton BAB thermal magnetic circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.BAB2050.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'BAB2050'; the source shows a product-family image on this SKU's page (asset BAB2020_360-C, BAB2020_360-L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (BAB2015, BAB2020, BAB2030, BAB2035, BAB2040 +3 more) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'BAB2050'; the source shows a product-family image on this SKU's page (asset BAB2020_360-C, BAB2020_360-L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -4653,7 +4677,8 @@
     "page": "https://www.eaton.com/us/en-us/skuPage.BAB2050.html",
     "origin": "eaton.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of BAB2020 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -4712,7 +4737,7 @@
   "product": "QB1015EP | Eaton QB GFCI circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.QB1015EP.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'QB1015EP'; the source shows a product-family image on this SKU's page (asset RESIGROUP_FM, QB1020AFGF_C), not one named for this exact SKU; source uses this same photo for other products (QB1020AFGF) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'QB1015EP'; the source shows a product-family image on this SKU's page (asset RESIGROUP_FM, QB1020AFGF_C), not one named for this exact SKU",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -4732,7 +4757,8 @@
     "page": "https://www.eaton.com/us/en-us/skuPage.QB1015EP.html",
     "origin": "eaton.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of QB1020AFGF (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -4855,7 +4881,7 @@
   "product": "GHB3090 | Eaton Series C complete molded case circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.GHB3090.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'GHB3090'; the source shows a product-family image on this SKU's page (asset GHB3100_C, GHB3100_L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (GHB3015, GHB3020, GHB3025, GHB3030, GHB3035 +6 more) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'GHB3090'; the source shows a product-family image on this SKU's page (asset GHB3100_C, GHB3100_L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -4875,7 +4901,8 @@
     "page": "https://www.eaton.com/us/en-us/skuPage.GHB3090.html",
     "origin": "eaton.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of GHB3100 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -4915,7 +4942,7 @@
   "product": "QBGFT2050 | Eaton QB GFCI circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.QBGFT2050.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'QBGFT2050'; the source shows a product-family image on this SKU's page (asset QBGFT2020_C), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (QBGFT2015, QBGFT2020, QBGFT2025, QBGFT2040) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'QBGFT2050'; the source shows a product-family image on this SKU's page (asset QBGFT2020_C), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -4924,7 +4951,8 @@
    "origin": "eaton.com",
    "kind": "product main image"
   },
-  "g": []
+  "g": [],
+  "v_withheld": "source photo is of QBGFT2020 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -5066,7 +5094,7 @@
   "product": "BAB3035H | Eaton BAB thermal magnetic circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.BAB3035H.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'BAB3035H'; the source shows a product-family image on this SKU's page (asset BAB3030H_C, BAB3030H_L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (BAB3030H, BAB3040H, BAB3045H, BAB3050H) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'BAB3035H'; the source shows a product-family image on this SKU's page (asset BAB3030H_C, BAB3030H_L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -5086,7 +5114,8 @@
     "page": "https://www.eaton.com/us/en-us/skuPage.BAB3035H.html",
     "origin": "eaton.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of BAB3030H (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -5156,7 +5185,7 @@
   "product": "GHB3015 | Eaton Series C complete molded case circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.GHB3015.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'GHB3015'; the source shows a product-family image on this SKU's page (asset GHB3100_C, GHB3100_L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (GHB3020, GHB3025, GHB3030, GHB3035, GHB3040 +6 more) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'GHB3015'; the source shows a product-family image on this SKU's page (asset GHB3100_C, GHB3100_L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -5176,7 +5205,8 @@
     "page": "https://www.eaton.com/us/en-us/skuPage.GHB3015.html",
     "origin": "eaton.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of GHB3100 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -5186,7 +5216,7 @@
   "product": "BAB3050H | Eaton BAB thermal magnetic circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.BAB3050H.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'BAB3050H'; the source shows a product-family image on this SKU's page (asset BAB3030H_C, BAB3030H_R), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (BAB3030H, BAB3035H, BAB3040H, BAB3045H) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'BAB3050H'; the source shows a product-family image on this SKU's page (asset BAB3030H_C, BAB3030H_R), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -5206,7 +5236,8 @@
     "page": "https://www.eaton.com/us/en-us/skuPage.BAB3050H.html",
     "origin": "eaton.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of BAB3030H (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -5246,7 +5277,7 @@
   "product": "GHB3050 | Eaton Series C complete molded case circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.GHB3050.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'GHB3050'; the source shows a product-family image on this SKU's page (asset GHB3100_C, GHB3100_L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (GHB3015, GHB3020, GHB3025, GHB3030, GHB3035 +6 more) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'GHB3050'; the source shows a product-family image on this SKU's page (asset GHB3100_C, GHB3100_L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -5266,7 +5297,8 @@
     "page": "https://www.eaton.com/us/en-us/skuPage.GHB3050.html",
     "origin": "eaton.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of GHB3100 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -5276,7 +5308,7 @@
   "product": "BAB2030 | Eaton BAB thermal magnetic circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.BAB2030.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'BAB2030'; the source shows a product-family image on this SKU's page (asset BAB2020_360-C, BAB2020_360-L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (BAB2015, BAB2020, BAB2035, BAB2040, BAB2050 +3 more) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'BAB2030'; the source shows a product-family image on this SKU's page (asset BAB2020_360-C, BAB2020_360-L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -5311,7 +5343,8 @@
     "page": "https://www.eaton.com/us/en-us/skuPage.BAB2030.html",
     "origin": "eaton.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of BAB2020 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -5340,7 +5373,7 @@
   "product": "GHB3080 | Eaton Series C complete molded case circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.GHB3080.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'GHB3080'; the source shows a product-family image on this SKU's page (asset GHB3100_C, GHB3100_L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (GHB3015, GHB3020, GHB3025, GHB3030, GHB3035 +6 more) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'GHB3080'; the source shows a product-family image on this SKU's page (asset GHB3100_C, GHB3100_L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -5360,7 +5393,8 @@
     "page": "https://www.eaton.com/us/en-us/skuPage.GHB3080.html",
     "origin": "eaton.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of GHB3100 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -5449,7 +5483,7 @@
   "product": "BAB2100 | Eaton BAB thermal magnetic circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.BAB2100.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'BAB2100'; the source shows a product-family image on this SKU's page (asset BAB2020_360-C, BAB2020_360-L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (BAB2015, BAB2020, BAB2030, BAB2035, BAB2040 +3 more) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'BAB2100'; the source shows a product-family image on this SKU's page (asset BAB2020_360-C, BAB2020_360-L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -5484,7 +5518,8 @@
     "page": "https://www.eaton.com/us/en-us/skuPage.BAB2100.html",
     "origin": "eaton.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of BAB2020 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -5523,8 +5558,8 @@
   "nsku": "BAB3030H",
   "product": "BAB3030H | Eaton BAB thermal magnetic circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.BAB3030H.html",
-  "conf": "Medium",
-  "note": "Exact source SKU 'BAB3030H'; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (BAB3035H, BAB3040H, BAB3045H, BAB3050H) - series/family photo, printed ratings or details may differ",
+  "conf": "High",
+  "note": "Exact source SKU 'BAB3030H'; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -5553,8 +5588,8 @@
   "nsku": "BAB3060H",
   "product": "BAB3060H | Eaton BAB thermal magnetic circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.BAB3060H.html",
-  "conf": "Medium",
-  "note": "Exact source SKU 'BAB3060H'; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (BAB3070H) - series/family photo, printed ratings or details may differ",
+  "conf": "High",
+  "note": "Exact source SKU 'BAB3060H'; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -5708,7 +5743,7 @@
   "product": "GHB3020 | Eaton Series C complete molded case circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.GHB3020.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'GHB3020'; the source shows a product-family image on this SKU's page (asset GHB3100_C, GHB3100_L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (GHB3015, GHB3025, GHB3030, GHB3035, GHB3040 +6 more) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'GHB3020'; the source shows a product-family image on this SKU's page (asset GHB3100_C, GHB3100_L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -5728,7 +5763,8 @@
     "page": "https://www.eaton.com/us/en-us/skuPage.GHB3020.html",
     "origin": "eaton.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of GHB3100 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -5768,7 +5804,7 @@
   "product": "GHB3030 | Eaton Series C complete molded case circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.GHB3030.html",
   "conf": "Medium",
-  "note": "Exact source SKU 'GHB3030'; the source shows a product-family image on this SKU's page (asset GHB3100_C, GHB3100_L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (GHB3015, GHB3020, GHB3025, GHB3035, GHB3040 +6 more) - series/family photo, printed ratings or details may differ",
+  "note": "Exact source SKU 'GHB3030'; the source shows a product-family image on this SKU's page (asset GHB3100_C, GHB3100_L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {
@@ -5788,7 +5824,8 @@
     "page": "https://www.eaton.com/us/en-us/skuPage.GHB3030.html",
     "origin": "eaton.com"
    }
-  ]
+  ],
+  "v_withheld": "source photo is of GHB3100 (re-used by the source for this SKU) - not used"
  },
  {
   "list": "List2",
@@ -5816,8 +5853,8 @@
   "nsku": "GHB3100",
   "product": "GHB3100 | Eaton Series C complete molded case circuit breaker | Eaton",
   "page": "https://www.eaton.com/us/en-us/skuPage.GHB3100.html",
-  "conf": "Medium",
-  "note": "Exact source SKU 'GHB3100'; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (GHB3015, GHB3020, GHB3025, GHB3030, GHB3035 +6 more) - series/family photo, printed ratings or details may differ",
+  "conf": "High",
+  "note": "Exact source SKU 'GHB3100'; SKU also listed on 1 other product page(s) - first by source priority used",
   "review": "",
   "resolution": "exact-SKU@eaton.com",
   "v": {

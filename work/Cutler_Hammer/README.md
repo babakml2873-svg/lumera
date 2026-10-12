@@ -1,17 +1,17 @@
 # Cutler Hammer — product images
 
-Brand Cutler Hammer: 218 SKUs in the product lists. Variant images were delivered for **211 SKUs (96.8%)**, plus **305 gallery images** (max 4 per SKU).
+Brand Cutler Hammer: 218 SKUs in the product lists. Variant images were delivered for **174 SKUs (79.8%)**, plus **234 gallery images** (max 4 per SKU).
 
 | List | SKUs | Variant images | Gallery images |
 |---|---|---|---|
 | List_1 | 0 | 0 | 0 |
-| List_2 | 218 | 211 | 305 |
+| List_2 | 218 | 174 | 234 |
 | List_3 | 0 | 0 | 0 |
 | List_4 | 0 | 0 | 0 |
 
-* 168 of the variant images are Medium confidence (`OK-REVIEW-RECOMMENDED`), see `Reports/review_queue.csv`.
+* 121 of the variant images are Medium confidence (`OK-REVIEW-RECOMMENDED`), see `Reports/review_queue.csv`.
 * Every file was checked by script: 800×800 px JPG, ≤ 100,000 bytes, `SKU-V.jpg` / `SKU-G-NN.jpg`.
-* Image sources (files): eaton.com (513), breakeroutlet.com (3). No Lumera Electric source was used.
+* Image sources (files): eaton.com (405), breakeroutlet.com (3). No Lumera Electric source was used.
 
 ## Sources searched
 
@@ -28,8 +28,18 @@ eaton.com (official; Cutler-Hammer is an Eaton brand): product page skuPage.<SKU
 
 | Reason | SKUs |
 |---|---|
+| source photo is of GHB3100 (re-used by the source for this SKU) - not used | 11 |
+| source photo is of BAB2020 (re-used by the source for this SKU) - not used | 8 |
 | Source product has no images | 5 |
+| source photo is of QBGFT2020 (re-used by the source for this SKU) - not used | 4 |
+| source photo is of BAB3030H (re-used by the source for this SKU) - not used | 4 |
+| source photo is of CSR2200N (re-used by the source for this SKU) - not used | 3 |
 | No exact SKU match in the harvested source catalog(s) | 2 |
+| source photo is of BRD220230 (re-used by the source for this SKU) - not used | 2 |
+| source photo is of GHB1020 (re-used by the source for this SKU) - not used | 2 |
+| source photo is of BAB3060H (re-used by the source for this SKU) - not used | 1 |
+| source photo is of CCV2200 (re-used by the source for this SKU) - not used | 1 |
+| source photo is of QB1020AFGF (re-used by the source for this SKU) - not used | 1 |
 
 ## Brand-specific notes
 
