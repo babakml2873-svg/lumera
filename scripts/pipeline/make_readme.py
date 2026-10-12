@@ -11,6 +11,7 @@ b = sys.argv[1]
 W = WORK / slug(b)
 plan = json.load(open(W / "plan_final.json")); res = json.load(open(W / "results.json"))
 src = (W / "sources.txt").read_text().strip() if (W / "sources.txt").exists() else ""
+cfg = json.load(open(W / "config.json")) if (W / "config.json").exists() else {}
 notes = (W / "notes.md").read_text().strip() if (W / "notes.md").exists() else ""
 lists = Counter("List_" + r["list"].replace("List", "") for r in plan)
 v = Counter(r["list"] for r in res if r["type"] == "V" and r["file"])
@@ -23,7 +24,7 @@ reasons = Counter((r.get("review") or r.get("v_withheld") or "V image failed pro
 tot = len(plan); vt = sum(v.values())
 lines = [f"# {b} — product images", "",
          f"Brand {b}: {tot} SKUs in the product lists. Variant images were delivered for **{vt} SKUs ({100 * vt / tot:.1f}%)**, "
-         f"plus **{sum(g.values())} gallery images** (max 4 per SKU).", "",
+         f"plus **{sum(g.values())} gallery images** (max {cfg.get('max_g', 4)} per SKU).", "",
          "| List | SKUs | Variant images | Gallery images |", "|---|---|---|---|"]
 for l in ("List_1", "List_2", "List_3", "List_4"):
     lines.append(f"| {l} | {lists.get(l, 0)} | {v.get(l, 0)} | {g.get(l, 0)} |")

@@ -1,0 +1,1 @@
+lhdottie.com (official L.H. Dottie) is Cloudflare-blocked from this environment (HTTP 403 on every path). Used RSP Supply (rspsupply.com, distributor) per-part images /images/product/large/Dottie-<PART>.jpg, accepted only on HTTP 200 image responses (1000x1000).

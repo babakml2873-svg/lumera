@@ -191,7 +191,7 @@ for rec in plan:
         hashes.append(h)
         scored.append((info["cls"], order, g, data, info))
     scored.sort(key=lambda t: (t[0], t[1]))
-    for n, (_, _, g, data, info) in enumerate(scored[:MAX_G], 1):
+    for n, (_, _, g, data, info) in enumerate(scored[:config.get("max_g", MAX_G)], 1):
         fn = f"{rec['nsku']}-G-{n:02d}.jpg"
         (d / fn).write_bytes(data)
         results.append(dict(list=list_dir(rec["list"]), sku=rec["sku"], nsku=rec["nsku"], type="G", file=fn,
