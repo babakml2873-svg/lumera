@@ -1,0 +1,1 @@
+coronalighting.com (official, WooCommerce Store API incl. every variation): finish SKU taken from the variation attribute 'Fixture Number'/'Lamp Number'; variation-linked images.
