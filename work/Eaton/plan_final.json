@@ -1,0 +1,1591 @@
+[
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "CHF120ST",
+  "nsku": "CHF120ST",
+  "product": "CHF120ST | Eaton CH thermal magnetic circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHF120ST.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'CHF120ST'; the source shows a product-family image on this SKU's page (asset CHF120_R, CH120GF_R), not one named for this exact SKU; source uses this same photo for other products (CHF120) - series/family photo, printed ratings or details may differ",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHF120_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.CHF120ST.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": [
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/CH120GF_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.CHF120ST.html",
+    "origin": "eaton.com"
+   }
+  ]
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "CHPSURGE",
+  "nsku": "CHPSURGE",
+  "product": "CHPSURGE | Eaton Type CH plug on module surge protection device | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHPSURGE.html",
+  "conf": "High",
+  "note": "Exact source SKU 'CHPSURGE'",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHPSURGE_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.CHPSURGE.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": [
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHPSURGE_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.CHPSURGE.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHPSURGE_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.CHPSURGE.html",
+    "origin": "eaton.com"
+   }
+  ]
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "CHF230",
+  "nsku": "CHF230",
+  "product": "CHF230 | Eaton CH thermal magnetic circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHF230.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'CHF230'; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (CHF215, CHF225, CHF235, CHF250) - series/family photo, printed ratings or details may differ",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHF230_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.CHF230.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "QBH250",
+  "nsku": "QBH250",
+  "product": "QBH250 | Eaton QB thermal magnetic circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.QBH250.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'QBH250'; the source shows a product-family image on this SKU's page (asset RESIGROUP_FM), not one named for this exact SKU",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": null,
+  "g": [],
+  "v_withheld": "Source product has no images"
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BRPSURGE",
+  "nsku": "BRPSURGE",
+  "product": "BRPSURGE | Eaton Type BR plug on module surge protection device | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRPSURGE.html",
+  "conf": "High",
+  "note": "Exact source SKU 'BRPSURGE'",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRPSURGE_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BRPSURGE.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": [
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRPSURGE_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRPSURGE.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRPSURGE_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRPSURGE.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRPSURGE_T?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRPSURGE.html",
+    "origin": "eaton.com"
+   }
+  ]
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BRN240GF",
+  "nsku": "BRN240GF",
+  "product": "BRN240GF | Eaton BR GFCI circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN240GF.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'BRN240GF'; the source shows a product-family image on this SKU's page (asset BRN220GF_C), not one named for this exact SKU; source uses this same photo for other products (BRN215GF, BRN220GF, BRN230GF, BRN250GF) - series/family photo, printed ratings or details may differ",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN220GF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BRN240GF.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "CHF250",
+  "nsku": "CHF250",
+  "product": "CHF250 | Eaton CH thermal magnetic circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHF250.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'CHF250'; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (CHF215, CHF225, CHF230, CHF235) - series/family photo, printed ratings or details may differ",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHF250_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.CHF250.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BRNSURGE",
+  "nsku": "BRNSURGE",
+  "product": "BRNSURGE | Eaton Type BR plug on module surge protection device | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRNSURGE.html",
+  "conf": "High",
+  "note": "Exact source SKU 'BRNSURGE'",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRNSURGE_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BRNSURGE.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": [
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRNSURGE_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRNSURGE.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRNSURGE_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRNSURGE.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRNSURGE_T?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRNSURGE.html",
+    "origin": "eaton.com"
+   }
+  ]
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "GHQ1030",
+  "nsku": "GHQ1030",
+  "product": "GHQ1030 | Eaton GHQ thermal magnetic circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.GHQ1030.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'GHQ1030'; the source shows a product-family image on this SKU's page (asset GHQ1020_C, GHQ1020_L), not one named for this exact SKU",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/GHQ1020_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.GHQ1030.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": [
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/GHQ1020_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.GHQ1030.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/GHQ1020_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.GHQ1030.html",
+    "origin": "eaton.com"
+   }
+  ]
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BRN215GF",
+  "nsku": "BRN215GF",
+  "product": "BRN215GF | Eaton BR GFCI circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN215GF.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'BRN215GF'; the source shows a product-family image on this SKU's page (asset BRN220GF_C), not one named for this exact SKU; source uses this same photo for other products (BRN220GF, BRN230GF, BRN240GF, BRN250GF) - series/family photo, printed ratings or details may differ",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN220GF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BRN215GF.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BRN220GF",
+  "nsku": "BRN220GF",
+  "product": "BRN220GF | Eaton BR GFCI circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN220GF.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'BRN220GF'; source uses this same photo for other products (BRN215GF, BRN230GF, BRN240GF, BRN250GF) - series/family photo, printed ratings or details may differ",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN220GF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BRN220GF.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BRH120",
+  "nsku": "BRH120",
+  "product": "BRH120 | Eaton BR thermal magnetic circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRH120.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'BRH120'; the source shows a product-family image on this SKU's page (asset BRH115_C, BRH115_R), not one named for this exact SKU",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRH115_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BRH120.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": [
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRH115_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRH120.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRH115_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRH120.html",
+    "origin": "eaton.com"
+   }
+  ]
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "CHF215",
+  "nsku": "CHF215",
+  "product": "CHF215 | Eaton CH thermal magnetic circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHF215.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'CHF215'; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (CHF225, CHF230, CHF235, CHF250) - series/family photo, printed ratings or details may differ",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHF215_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.CHF215.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "CL120",
+  "nsku": "CL120",
+  "product": "CL120 | Eaton Classified 1\" thermal magnetic circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CL120.html",
+  "conf": "High",
+  "note": "Exact source SKU 'CL120'",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/CL120_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.CL120.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BR140",
+  "nsku": "BR140",
+  "product": "BR140 | Eaton BR thermal magnetic circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BR140.html",
+  "conf": "High",
+  "note": "Exact source SKU 'BR140'; SKU also listed on 1 other product page(s) - first by source priority used",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BR140_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BR140.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "QBH1020GF",
+  "nsku": "QBH1020GF",
+  "product": "QBH1020GF | Eaton QB GFCI circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.QBH1020GF.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'QBH1020GF'; the source shows a product-family image on this SKU's page (asset QBHGFT1020_C, QBHGFT1020_L), not one named for this exact SKU",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/QBHGFT1020_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.QBH1020GF.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": [
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/QBHGFT1020_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.QBH1020GF.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/QBHGFT1020_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.QBH1020GF.html",
+    "origin": "eaton.com"
+   }
+  ]
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BRN115GF",
+  "nsku": "BRN115GF",
+  "product": "BRN115GF | Eaton BR GFCI circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN115GF.html",
+  "conf": "High",
+  "note": "Exact source SKU 'BRN115GF'; SKU also listed on 1 other product page(s) - first by source priority used",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN115GF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BRN115GF.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": [
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN115GF_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRN115GF.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN115GF_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRN115GF.html",
+    "origin": "eaton.com"
+   }
+  ]
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BRN230GF",
+  "nsku": "BRN230GF",
+  "product": "BRN230GF | Eaton BR GFCI circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN230GF.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'BRN230GF'; the source shows a product-family image on this SKU's page (asset BRN220GF_C), not one named for this exact SKU; source uses this same photo for other products (BRN215GF, BRN220GF, BRN240GF, BRN250GF) - series/family photo, printed ratings or details may differ",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN220GF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BRN230GF.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BR1530",
+  "nsku": "BR1530",
+  "product": "BR1530 | Eaton BR thermal magnetic circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BR1530.html",
+  "conf": "High",
+  "note": "Exact source SKU 'BR1530'",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BR1530_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BR1530.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BR325",
+  "nsku": "BR325",
+  "product": "BR325 | Eaton BR thermal magnetic circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BR325.html",
+  "conf": "High",
+  "note": "Exact source SKU 'BR325'; SKU also listed on 1 other product page(s) - first by source priority used",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BR325_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BR325.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": [
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BR325_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BR325.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BR325_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BR325.html",
+    "origin": "eaton.com"
+   }
+  ]
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "CHF235",
+  "nsku": "CHF235",
+  "product": "CHF235 | Eaton CH thermal magnetic circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHF235.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'CHF235'; source uses this same photo for other products (CHF215, CHF225, CHF230, CHF250) - series/family photo, printed ratings or details may differ",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHF235_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.CHF235.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "CHF225",
+  "nsku": "CHF225",
+  "product": "CHF225 | Eaton CH thermal magnetic circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHF225.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'CHF225'; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (CHF215, CHF230, CHF235, CHF250) - series/family photo, printed ratings or details may differ",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHF225_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.CHF225.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BJ2100",
+  "nsku": "BJ2100",
+  "product": "BJ2100 | Eaton BJ sub feed main circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BJ2100.html",
+  "conf": "High",
+  "note": "Exact source SKU 'BJ2100'; SKU also listed on 1 other product page(s) - first by source priority used",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BJ2100_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BJ2100.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": [
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BJ2100_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BJ2100.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BJ2100_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BJ2100.html",
+    "origin": "eaton.com"
+   }
+  ]
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "CHF245",
+  "nsku": "CHF245",
+  "product": "CHF245 | Eaton CH thermal magnetic circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHF245.html",
+  "conf": "High",
+  "note": "Exact source SKU 'CHF245'",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHF245_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.CHF245.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": [
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHF245_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.CHF245.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHF245_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.CHF245.html",
+    "origin": "eaton.com"
+   }
+  ]
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "CHFN115AF",
+  "nsku": "CHFN115AF",
+  "product": "CHFN115AF | Eaton CH AFCI circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHFN115AF.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'CHFN115AF'; the source shows a product-family image on this SKU's page (asset RESIGROUP_FM), not one named for this exact SKU",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": null,
+  "g": [],
+  "v_withheld": "Source product has no images"
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "CHFN120AF",
+  "nsku": "CHFN120AF",
+  "product": "CHFN120AF | Eaton CH AFCI circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHFN120AF.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'CHFN120AF'; the source shows a product-family image on this SKU's page (asset RESIGROUP_FM), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": null,
+  "g": [],
+  "v_withheld": "Source product has no images"
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "CHF130",
+  "nsku": "CHF130",
+  "product": "CHF130 | Eaton CH thermal magnetic circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHF130.html",
+  "conf": "High",
+  "note": "Exact source SKU 'CHF130'; SKU also listed on 1 other product page(s) - first by source priority used",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHF130_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.CHF130.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "QCDINADAPT",
+  "nsku": "QCDINADAPT",
+  "product": "QCDINADAPT | Eaton breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.QCDINADAPT.html",
+  "conf": "High",
+  "note": "Exact source SKU 'QCDINADAPT'",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/QCDINADAPT_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.QCDINADAPT.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": [
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/QCDINADAPT_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.QCDINADAPT.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/QCDINADAPT_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.QCDINADAPT.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/QCDINADAPT-INST_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.QCDINADAPT.html",
+    "origin": "eaton.com"
+   }
+  ]
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BR215",
+  "nsku": "BR215",
+  "product": "BR215 | Eaton BR thermal magnetic circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BR215.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'BR215'; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (BR2125, BR230, BR250) - series/family photo, printed ratings or details may differ",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BR215_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BR215.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "QBGFEP2030",
+  "nsku": "QBGFEP2030",
+  "product": "QBGFEP2030 | Eaton QB GFCI circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.QBGFEP2030.html",
+  "conf": "High",
+  "note": "Exact source SKU 'QBGFEP2030'",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/QBGFEP2030_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.QBGFEP2030.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BRN250GF",
+  "nsku": "BRN250GF",
+  "product": "BRN250GF | Eaton BR GFCI circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN250GF.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'BRN250GF'; the source shows a product-family image on this SKU's page (asset BRN220GF_C), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (BRN215GF, BRN220GF, BRN230GF, BRN240GF) - series/family photo, printed ratings or details may differ",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN220GF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BRN250GF.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "CHF120",
+  "nsku": "CHF120",
+  "product": "CHF120 | Eaton CH thermal magnetic circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHF120.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'CHF120'; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (CHF120ST) - series/family photo, printed ratings or details may differ",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHF120_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.CHF120.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "CHN230GF",
+  "nsku": "CHN230GF",
+  "product": "CHN230GF | Eaton CH GFCI circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHN230GF.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'CHN230GF'; the source shows a product-family image on this SKU's page (asset CH250GFT_C, CH250GFT_L), not one named for this exact SKU",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/CH250GFT_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.CHN230GF.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": [
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/CH250GFT_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.CHN230GF.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/CH250GFT_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.CHN230GF.html",
+    "origin": "eaton.com"
+   }
+  ]
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "PDG23M0030TFFL",
+  "nsku": "PDG23M0030TFFL",
+  "product": "PDG23M0030TFFL | Eaton Power Defense molded case circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.PDG23M0030TFFL.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'PDG23M0030TFFL'; the source shows a product-family image on this SKU's page (asset PDG23P0225TFFN_C, PDG23P0225TFFN_L), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/PDG23P0225TFFN_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.PDG23M0030TFFL.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": [
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/PDG23P0225TFFN_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.PDG23M0030TFFL.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/PDG23P0225TFFN_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.PDG23M0030TFFL.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/PDG23P0225TFFN_BK?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.PDG23M0030TFFL.html",
+    "origin": "eaton.com"
+   }
+  ]
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "CHT2020",
+  "nsku": "CHT2020",
+  "product": "CHT2020 | Eaton CH thermal magnetic circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHT2020.html",
+  "conf": "High",
+  "note": "Exact source SKU 'CHT2020'; SKU also listed on 1 other product page(s) - first by source priority used",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHT2020_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.CHT2020.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": [
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHT2020_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.CHT2020.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHT2020_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.CHT2020.html",
+    "origin": "eaton.com"
+   }
+  ]
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "CHFN120EP",
+  "nsku": "CHFN120EP",
+  "product": "CHFN120EP | Eaton CH GFCI circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHFN120EP.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'CHFN120EP'; the source shows a product-family image on this SKU's page (asset RESIGROUP_FM), not one named for this exact SKU",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": null,
+  "g": [],
+  "v_withheld": "Source product has no images"
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "CHFP120AF",
+  "nsku": "CHFP120AF",
+  "product": "CHFP120AF | Eaton CH AFCI circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHFP120AF.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'CHFP120AF'; the source shows a product-family image on this SKU's page (asset RESIGROUP_FM), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": null,
+  "g": [],
+  "v_withheld": "Source product has no images"
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BW2200",
+  "nsku": "BW2200",
+  "product": "BW2200 | Eaton BW main breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BW2200.html",
+  "conf": "High",
+  "note": "Exact source SKU 'BW2200'; SKU also listed on 1 other product page(s) - first by source priority used",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BW2200_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BW2200.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "DNBA2020",
+  "nsku": "DNBA2020",
+  "product": "DNBA2020 | Eaton BAB thermal magnetic circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.DNBA2020.html",
+  "conf": "High",
+  "note": "Exact source SKU 'DNBA2020'; SKU also listed on 1 other product page(s) - first by source priority used",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/DNBA2020_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.DNBA2020.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": [
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/DNBA2020_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.DNBA2020.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/DNBA2020_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.DNBA2020.html",
+    "origin": "eaton.com"
+   }
+  ]
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BRN120EP",
+  "nsku": "BRN120EP",
+  "product": "BRN120EP | Eaton BR GFCI circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN120EP.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'BRN120EP'; the source shows a product-family image on this SKU's page (asset RESIGROUP_FM, BRN115EP_C), not one named for this exact SKU",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN115EP_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BRN120EP.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": [
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN115EP_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRN120EP.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN115EP_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRN120EP.html",
+    "origin": "eaton.com"
+   }
+  ]
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "QBGFT2030",
+  "nsku": "QBGFT2030",
+  "product": "QBGFT2030 | Eaton QB GFCI circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.QBGFT2030.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'QBGFT2030'; the source shows a product-family image on this SKU's page (asset QBGFT2020_C), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/QBGFT2020_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.QBGFT2030.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "QBGFEP2020",
+  "nsku": "QBGFEP2020",
+  "product": "QBGFEP2020 Eaton GFI Ground Fault Equipment Protection Breaker",
+  "page": "https://breakeroutlet.com/products/qbgfep2020-eaton-gfi-ground-fault-equipment-protection-breaker",
+  "conf": "High",
+  "note": "Exact source SKU 'QBGFEP2020' [New]",
+  "review": "",
+  "resolution": "exact-SKU@breakeroutlet.com",
+  "v": {
+   "url": "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/UE_SKUS_QBGFEP2020_1_8e0828f1-0b46-41da-89ff-8cbb8ba40e1e.jpg",
+   "page": "https://breakeroutlet.com/products/qbgfep2020-eaton-gfi-ground-fault-equipment-protection-breaker",
+   "origin": "breakeroutlet.com",
+   "kind": "product main image"
+  },
+  "g": [
+   {
+    "url": "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/UE_SKUS_QBGFEP2020_2_3e0e2293-a98f-4ffe-a260-68f51247812c.jpg",
+    "page": "https://breakeroutlet.com/products/qbgfep2020-eaton-gfi-ground-fault-equipment-protection-breaker",
+    "origin": "breakeroutlet.com"
+   }
+  ]
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "CH270",
+  "nsku": "CH270",
+  "product": "CH270 | Eaton CH thermal magnetic circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CH270.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'CH270'; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (CH2100, CH2125) - series/family photo, printed ratings or details may differ",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/CH270_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.CH270.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BRPSF225",
+  "nsku": "BRPSF225",
+  "product": "BRPSF225 | Eaton BR field installation kit and part | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRPSF225.html",
+  "conf": "High",
+  "note": "Exact source SKU 'BRPSF225'",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRPSF225_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BRPSF225.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": [
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRPSF225_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRPSF225.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRPSF225_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRPSF225.html",
+    "origin": "eaton.com"
+   }
+  ]
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BR210",
+  "nsku": "BR210",
+  "product": "",
+  "page": "",
+  "conf": "",
+  "note": "",
+  "review": "No exact SKU match in the harvested source catalog(s)",
+  "resolution": "",
+  "v": null,
+  "g": []
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BR250",
+  "nsku": "BR250",
+  "product": "BR250 | Eaton BR thermal magnetic circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BR250.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'BR250'; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (BR2125, BR215, BR230) - series/family photo, printed ratings or details may differ",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BR250_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BR250.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BD1520",
+  "nsku": "BD1520",
+  "product": "BD1520 | Eaton BR thermal magnetic circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BD1520.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'BD1520'; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (BD1515) - series/family photo, printed ratings or details may differ",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BD1520_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BD1520.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BD1515",
+  "nsku": "BD1515",
+  "product": "BD1515 | Eaton BR thermal magnetic circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BD1515.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'BD1515'; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (BD1520) - series/family photo, printed ratings or details may differ",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BD1515_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BD1515.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BR230",
+  "nsku": "BR230",
+  "product": "BR230 | Eaton BR thermal magnetic circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BR230.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'BR230'; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (BR2125, BR215, BR250) - series/family photo, printed ratings or details may differ",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BR230_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BR230.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": [
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BR230_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BR230.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BR230_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BR230.html",
+    "origin": "eaton.com"
+   }
+  ]
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BRCAF115",
+  "nsku": "BRCAF115",
+  "product": "",
+  "page": "",
+  "conf": "",
+  "note": "",
+  "review": "No exact SKU match in the harvested source catalog(s)",
+  "resolution": "",
+  "v": null,
+  "g": []
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "CHFP120DF",
+  "nsku": "CHFP120DF",
+  "product": "CHFP120DF | Eaton CH arc fault / ground fault circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHFP120DF.html",
+  "conf": "High",
+  "note": "Exact source SKU 'CHFP120DF'; SKU also listed on 1 other product page(s) - first by source priority used",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHFP120DF_360-C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.CHFP120DF.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": [
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHFP120DF_360-L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.CHFP120DF.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHFP120DF_360-LS?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.CHFP120DF.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHFP120DF_360-BK?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.CHFP120DF.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHFP120DF_360-RS?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.CHFP120DF.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHFP120DF_360-R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.CHFP120DF.html",
+    "origin": "eaton.com"
+   }
+  ]
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BRH250",
+  "nsku": "BRH250",
+  "product": "BRH250 | Eaton BR thermal magnetic circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRH250.html",
+  "conf": "High",
+  "note": "Exact source SKU 'BRH250'",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRH250_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BRH250.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BRN115DF",
+  "nsku": "BRN115DF",
+  "product": "BRN115DF | Eaton BR arc fault / ground fault circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN115DF.html",
+  "conf": "High",
+  "note": "Exact source SKU 'BRN115DF'; SKU also listed on 1 other product page(s) - first by source priority used",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN115DF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BRN115DF.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": [
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN115DF_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRN115DF.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN115DF_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRN115DF.html",
+    "origin": "eaton.com"
+   }
+  ]
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BRP115AF",
+  "nsku": "BRP115AF",
+  "product": "BRP115AF | Eaton BR AFCI circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRP115AF.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'BRP115AF'; the source shows a product-family image on this SKU's page (asset BRP120AF_C, BRP120AF_L), not one named for this exact SKU; source uses this same photo for other products (BRN115AF, BRN120AF) - series/family photo, printed ratings or details may differ",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP120AF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BRP115AF.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": [
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP120AF_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRP115AF.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP120AF_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRP115AF.html",
+    "origin": "eaton.com"
+   }
+  ]
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BRP115DF",
+  "nsku": "BRP115DF",
+  "product": "BRP115DF | Eaton BR arc fault / ground fault circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRP115DF.html",
+  "conf": "High",
+  "note": "Exact source SKU 'BRP115DF'",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP115DF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BRP115DF.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": [
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP115DF_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRP115DF.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP115DF_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRP115DF.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP115DF_D?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRP115DF.html",
+    "origin": "eaton.com"
+   }
+  ]
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BRN120GF",
+  "nsku": "BRN120GF",
+  "product": "BRN120GF | Eaton BR GFCI circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN120GF.html",
+  "conf": "High",
+  "note": "Exact source SKU 'BRN120GF'; SKU also listed on 1 other product page(s) - first by source priority used",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN120GF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BRN120GF.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": [
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN120GF_D?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRN120GF.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN120GF_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRN120GF.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN120GF_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRN120GF.html",
+    "origin": "eaton.com"
+   }
+  ]
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BR120",
+  "nsku": "BR120",
+  "product": "BR120 | Eaton BR thermal magnetic circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BR120.html",
+  "conf": "High",
+  "note": "Exact source SKU 'BR120'; SKU also listed on 1 other product page(s) - first by source priority used",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BR120_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BR120.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": [
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BR120_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BR120.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BR120_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BR120.html",
+    "origin": "eaton.com"
+   }
+  ]
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BRN115AF",
+  "nsku": "BRN115AF",
+  "product": "BRN115AF | Eaton BR AFCI circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN115AF.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'BRN115AF'; the source shows a product-family image on this SKU's page (asset BRP120AF_C), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (BRN120AF, BRP115AF) - series/family photo, printed ratings or details may differ",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP120AF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BRN115AF.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "CH2100",
+  "nsku": "CH2100",
+  "product": "CH2100 | Eaton CH thermal magnetic circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CH2100.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'CH2100'; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (CH2125, CH270) - series/family photo, printed ratings or details may differ",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/CH2100_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.CH2100.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BRP120DF",
+  "nsku": "BRP120DF",
+  "product": "BRP120DF | Eaton BR thermal magnetic circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRP120DF.html",
+  "conf": "High",
+  "note": "Exact source SKU 'BRP120DF'",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP120DF_360-C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BRP120DF.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": [
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP120DF_360-L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRP120DF.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP120DF_360-LS?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRP120DF.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP120DF_360-BK?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRP120DF.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP120DF_360-RS?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRP120DF.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP120DF_360-R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRP120DF.html",
+    "origin": "eaton.com"
+   }
+  ]
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BR2125",
+  "nsku": "BR2125",
+  "product": "BR2125 | Eaton BR thermal magnetic circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BR2125.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'BR2125'; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (BR215, BR230, BR250) - series/family photo, printed ratings or details may differ",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BR2125_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BR2125.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BRP120AF",
+  "nsku": "BRP120AF",
+  "product": "BRP120AF | Eaton BR AFCI circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRP120AF.html",
+  "conf": "High",
+  "note": "Exact source SKU 'BRP120AF'",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP120AF_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BRP120AF.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": [
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP120AF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRP120AF.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP120AF_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRP120AF.html",
+    "origin": "eaton.com"
+   }
+  ]
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BRN120AF",
+  "nsku": "BRN120AF",
+  "product": "BRN120AF | Eaton BR AFCI circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN120AF.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'BRN120AF'; the source shows a product-family image on this SKU's page (asset BRP120AF_C), not one named for this exact SKU; SKU also listed on 1 other product page(s) - first by source priority used; source uses this same photo for other products (BRN115AF, BRP115AF) - series/family photo, printed ratings or details may differ",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP120AF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BRN120AF.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "CH2125",
+  "nsku": "CH2125",
+  "product": "CH2125 | Eaton CH thermal magnetic circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CH2125.html",
+  "conf": "Medium",
+  "note": "Exact source SKU 'CH2125'; source uses this same photo for other products (CH2100, CH270) - series/family photo, printed ratings or details may differ",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/CH2125_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.CH2125.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": []
+ },
+ {
+  "list": "List2",
+  "brand": "Eaton",
+  "sku": "BRN120DF",
+  "nsku": "BRN120DF",
+  "product": "BRN120DF | Eaton BR arc fault / ground fault circuit breaker | Eaton",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN120DF.html",
+  "conf": "High",
+  "note": "Exact source SKU 'BRN120DF'; SKU also listed on 1 other product page(s) - first by source priority used",
+  "review": "",
+  "resolution": "exact-SKU@eaton.com",
+  "v": {
+   "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN120DF_360-C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+   "page": "https://www.eaton.com/us/en-us/skuPage.BRN120DF.html",
+   "origin": "eaton.com",
+   "kind": "product main image"
+  },
+  "g": [
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN120DF_360-L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRN120DF.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN120DF_360-LS?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRN120DF.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN120DF_360-BK?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRN120DF.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN120DF_360-RS?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRN120DF.html",
+    "origin": "eaton.com"
+   },
+   {
+    "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN120DF_360-R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+    "page": "https://www.eaton.com/us/en-us/skuPage.BRN120DF.html",
+    "origin": "eaton.com"
+   }
+  ]
+ }
+]

@@ -1,0 +1,2774 @@
+[
+ {
+  "list": "List_2",
+  "sku": "CHF120ST",
+  "nsku": "CHF120ST",
+  "type": "V",
+  "file": "CHF120ST-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHF120_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHF120ST.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e39b8e0c9b26cc66",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CHF120ST",
+  "nsku": "CHF120ST",
+  "type": "G",
+  "file": "CHF120ST-G-01.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/CH120GF_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHF120ST.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "eca491769399925b",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CHPSURGE",
+  "nsku": "CHPSURGE",
+  "type": "V",
+  "file": "CHPSURGE-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHPSURGE_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHPSURGE.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e6989966cccc9933",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CHPSURGE",
+  "nsku": "CHPSURGE",
+  "type": "G",
+  "file": "CHPSURGE-G-01.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHPSURGE_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHPSURGE.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b19bce648e9a8e64",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CHPSURGE",
+  "nsku": "CHPSURGE",
+  "type": "G",
+  "file": "CHPSURGE-G-02.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHPSURGE_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHPSURGE.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "a4ce9b31cbc6cb30",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CHF230",
+  "nsku": "CHF230",
+  "type": "V",
+  "file": "CHF230-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHF230_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHF230.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ed8c933bc6c39a30",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRPSURGE",
+  "nsku": "BRPSURGE",
+  "type": "V",
+  "file": "BRPSURGE-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRPSURGE_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRPSURGE.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b9c6c49a9139d393",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRPSURGE",
+  "nsku": "BRPSURGE",
+  "type": "G",
+  "file": "BRPSURGE-G-01.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRPSURGE_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRPSURGE.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bbb1c01fc46e9591",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRPSURGE",
+  "nsku": "BRPSURGE",
+  "type": "G",
+  "file": "BRPSURGE-G-02.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRPSURGE_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRPSURGE.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "eec491d4953fc4c8",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRPSURGE",
+  "nsku": "BRPSURGE",
+  "type": "G",
+  "file": "BRPSURGE-G-03.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRPSURGE_T?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRPSURGE.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ec7992c6c396c938",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRN240GF",
+  "nsku": "BRN240GF",
+  "type": "V",
+  "file": "BRN240GF-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN220GF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN240GF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b36699c64499cecc",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CHF250",
+  "nsku": "CHF250",
+  "type": "V",
+  "file": "CHF250-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHF250_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHF250.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ed8c933bc6c39a30",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRNSURGE",
+  "nsku": "BRNSURGE",
+  "type": "V",
+  "file": "BRNSURGE-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRNSURGE_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRNSURGE.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e2e39c6a956a9495",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRNSURGE",
+  "nsku": "BRNSURGE",
+  "type": "G",
+  "file": "BRNSURGE-G-01.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRNSURGE_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRNSURGE.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "fa708d4a94cd9595",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRNSURGE",
+  "nsku": "BRNSURGE",
+  "type": "G",
+  "file": "BRNSURGE-G-02.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRNSURGE_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRNSURGE.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ea6097268536c7cd",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRNSURGE",
+  "nsku": "BRNSURGE",
+  "type": "G",
+  "file": "BRNSURGE-G-03.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRNSURGE_T?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRNSURGE.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e862978d96b59e30",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "GHQ1030",
+  "nsku": "GHQ1030",
+  "type": "V",
+  "file": "GHQ1030-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/GHQ1020_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.GHQ1030.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b399cc66cc64cc99",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "GHQ1030",
+  "nsku": "GHQ1030",
+  "type": "G",
+  "file": "GHQ1030-G-01.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/GHQ1020_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.GHQ1030.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b0cdcf309b306d33",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "GHQ1030",
+  "nsku": "GHQ1030",
+  "type": "G",
+  "file": "GHQ1030-G-02.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/GHQ1020_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.GHQ1030.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b09a9e65cf653826",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRN215GF",
+  "nsku": "BRN215GF",
+  "type": "V",
+  "file": "BRN215GF-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN220GF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN215GF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b36699c64499cecc",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRN220GF",
+  "nsku": "BRN220GF",
+  "type": "V",
+  "file": "BRN220GF-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN220GF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN220GF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b36699c64499cecc",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRH120",
+  "nsku": "BRH120",
+  "type": "V",
+  "file": "BRH120-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRH115_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRH120.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e666999899999acc",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRH120",
+  "nsku": "BRH120",
+  "type": "G",
+  "file": "BRH120-G-01.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRH115_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRH120.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e4989b91ce659867",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRH120",
+  "nsku": "BRH120",
+  "type": "G",
+  "file": "BRH120-G-02.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRH115_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRH120.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e14d9ec69b32c932",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CHF215",
+  "nsku": "CHF215",
+  "type": "V",
+  "file": "CHF215-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHF215_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHF215.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ed8c933bc6c39a30",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CL120",
+  "nsku": "CL120",
+  "type": "V",
+  "file": "CL120-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/CL120_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CL120.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b098cf67cce7301c",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BR140",
+  "nsku": "BR140",
+  "type": "V",
+  "file": "BR140-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BR140_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BR140.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "a498dbcd986ccc66",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "QBH1020GF",
+  "nsku": "QBH1020GF",
+  "type": "V",
+  "file": "QBH1020GF-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/QBHGFT1020_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.QBH1020GF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e4cf9b3199644963",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "QBH1020GF",
+  "nsku": "QBH1020GF",
+  "type": "G",
+  "file": "QBH1020GF-G-01.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/QBHGFT1020_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.QBH1020GF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b1ccce3b9b30c632",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "QBH1020GF",
+  "nsku": "QBH1020GF",
+  "type": "G",
+  "file": "QBH1020GF-G-02.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/QBHGFT1020_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.QBH1020GF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e1999e36986d6466",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRN115GF",
+  "nsku": "BRN115GF",
+  "type": "V",
+  "file": "BRN115GF-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN115GF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN115GF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b1cece46ce31c638",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRN115GF",
+  "nsku": "BRN115GF",
+  "type": "G",
+  "file": "BRN115GF-G-01.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN115GF_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN115GF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e43993968e659a66",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRN115GF",
+  "nsku": "BRN115GF",
+  "type": "G",
+  "file": "BRN115GF-G-02.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN115GF_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN115GF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bff3c163c01dc41c",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRN230GF",
+  "nsku": "BRN230GF",
+  "type": "V",
+  "file": "BRN230GF-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN220GF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN230GF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b36699c64499cecc",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BR1530",
+  "nsku": "BR1530",
+  "type": "V",
+  "file": "BR1530-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BR1530_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BR1530.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e5329bc998cccccc",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BR325",
+  "nsku": "BR325",
+  "type": "V",
+  "file": "BR325-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BR325_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BR325.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "af3fd46bd190c1c0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BR325",
+  "nsku": "BR325",
+  "type": "G",
+  "file": "BR325-G-01.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BR325_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BR325.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ebc0943fc2322ff0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BR325",
+  "nsku": "BR325",
+  "type": "G",
+  "file": "BR325-G-02.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BR325_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BR325.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "eb92947a942f3ae0",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CHF235",
+  "nsku": "CHF235",
+  "type": "V",
+  "file": "CHF235-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHF235_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHF235.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ed8c933bc6c39a30",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CHF225",
+  "nsku": "CHF225",
+  "type": "V",
+  "file": "CHF225-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHF225_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHF225.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ed8c933bc6c39a30",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BJ2100",
+  "nsku": "BJ2100",
+  "type": "V",
+  "file": "BJ2100-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BJ2100_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BJ2100.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b333cc66cccccc89",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BJ2100",
+  "nsku": "BJ2100",
+  "type": "G",
+  "file": "BJ2100-G-01.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BJ2100_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BJ2100.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b230cb61ccdbcccc",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BJ2100",
+  "nsku": "BJ2100",
+  "type": "G",
+  "file": "BJ2100-G-02.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BJ2100_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BJ2100.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e6619b86998e9999",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CHF245",
+  "nsku": "CHF245",
+  "type": "V",
+  "file": "CHF245-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHF245_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHF245.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "a4cd9b32ce998e32",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CHF245",
+  "nsku": "CHF245",
+  "type": "G",
+  "file": "CHF245-G-01.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHF245_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHF245.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bdc0c66dd296d22c",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CHF245",
+  "nsku": "CHF245",
+  "type": "G",
+  "file": "CHF245-G-02.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHF245_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHF245.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e896913987e2877a",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CHF130",
+  "nsku": "CHF130",
+  "type": "V",
+  "file": "CHF130-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHF130_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHF130.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e39b8e189b32cc66",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "QCDINADAPT",
+  "nsku": "QCDINADAPT",
+  "type": "V",
+  "file": "QCDINADAPT-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/QCDINADAPT_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.QCDINADAPT.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b399cccc8c669966",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "QCDINADAPT",
+  "nsku": "QCDINADAPT",
+  "type": "G",
+  "file": "QCDINADAPT-G-01.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/QCDINADAPT_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.QCDINADAPT.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b399996ccc23cc99",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "QCDINADAPT",
+  "nsku": "QCDINADAPT",
+  "type": "G",
+  "file": "QCDINADAPT-G-02.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/QCDINADAPT_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.QCDINADAPT.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e69bcc31996499cc",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "QCDINADAPT",
+  "nsku": "QCDINADAPT",
+  "type": "G",
+  "file": "QCDINADAPT-G-03.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/QCDINADAPT-INST_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.QCDINADAPT.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b09acb65cf64cd12",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BR215",
+  "nsku": "BR215",
+  "type": "V",
+  "file": "BR215-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BR215_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BR215.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e13692499acbcd99",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "QBGFEP2030",
+  "nsku": "QBGFEP2030",
+  "type": "V",
+  "file": "QBGFEP2030-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/QBGFEP2030_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.QBGFEP2030.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e5639a9c6dc12663",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRN250GF",
+  "nsku": "BRN250GF",
+  "type": "V",
+  "file": "BRN250GF-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN220GF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN250GF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b36699c64499cecc",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CHF120",
+  "nsku": "CHF120",
+  "type": "V",
+  "file": "CHF120-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHF120_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHF120.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e39b8e0c9b26cc66",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CHN230GF",
+  "nsku": "CHN230GF",
+  "type": "V",
+  "file": "CHN230GF-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/CH250GFT_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHN230GF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e6cc8c3399669999",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CHN230GF",
+  "nsku": "CHN230GF",
+  "type": "G",
+  "file": "CHN230GF-G-01.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/CH250GFT_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHN230GF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b496c3699b12cfc1",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CHN230GF",
+  "nsku": "CHN230GF",
+  "type": "G",
+  "file": "CHN230GF-G-02.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/CH250GFT_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHN230GF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e3ca94359cc896b6",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PDG23M0030TFFL",
+  "nsku": "PDG23M0030TFFL",
+  "type": "V",
+  "file": "PDG23M0030TFFL-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/PDG23P0225TFFN_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.PDG23M0030TFFL.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b099cd6786989a67",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PDG23M0030TFFL",
+  "nsku": "PDG23M0030TFFL",
+  "type": "G",
+  "file": "PDG23M0030TFFL-G-01.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/PDG23P0225TFFN_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.PDG23M0030TFFL.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e96a9631968eda91",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PDG23M0030TFFL",
+  "nsku": "PDG23M0030TFFL",
+  "type": "G",
+  "file": "PDG23M0030TFFL-G-02.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/PDG23P0225TFFN_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.PDG23M0030TFFL.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bc32c364c39b9ec4",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "PDG23M0030TFFL",
+  "nsku": "PDG23M0030TFFL",
+  "type": "G",
+  "file": "PDG23M0030TFFL-G-03.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/PDG23P0225TFFN_BK?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.PDG23M0030TFFL.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e1829e219e9a9e9e",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CHT2020",
+  "nsku": "CHT2020",
+  "type": "V",
+  "file": "CHT2020-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHT2020_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHT2020.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b399cc66cccccc26",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CHT2020",
+  "nsku": "CHT2020",
+  "type": "G",
+  "file": "CHT2020-G-01.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHT2020_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHT2020.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e4999e499b12cd66",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CHT2020",
+  "nsku": "CHT2020",
+  "type": "G",
+  "file": "CHT2020-G-02.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHT2020_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHT2020.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b3cccc64cc933933",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BW2200",
+  "nsku": "BW2200",
+  "type": "V",
+  "file": "BW2200-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BW2200_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BW2200.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "f96186da99947a46",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "DNBA2020",
+  "nsku": "DNBA2020",
+  "type": "V",
+  "file": "DNBA2020-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/DNBA2020_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.DNBA2020.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b2cdc966643333cc",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "DNBA2020",
+  "nsku": "DNBA2020",
+  "type": "G",
+  "file": "DNBA2020-G-01.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/DNBA2020_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.DNBA2020.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e4989a339b666563",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "DNBA2020",
+  "nsku": "DNBA2020",
+  "type": "G",
+  "file": "DNBA2020-G-02.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/DNBA2020_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.DNBA2020.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e1989e679e313166",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRN120EP",
+  "nsku": "BRN120EP",
+  "type": "V",
+  "file": "BRN120EP-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN115EP_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN120EP.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b993c7ccc630c738",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRN120EP",
+  "nsku": "BRN120EP",
+  "type": "G",
+  "file": "BRN120EP-G-01.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN115EP_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN120EP.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e419939a9e659a66",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRN120EP",
+  "nsku": "BRN120EP",
+  "type": "G",
+  "file": "BRN120EP-G-02.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN115EP_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN120EP.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be85c266c91bcd1a",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "QBGFT2030",
+  "nsku": "QBGFT2030",
+  "type": "V",
+  "file": "QBGFT2030-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/QBGFT2020_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.QBGFT2030.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ea94956b95646aca",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "QBGFEP2020",
+  "nsku": "QBGFEP2020",
+  "type": "V",
+  "file": "QBGFEP2020-V.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/UE_SKUS_QBGFEP2020_1_8e0828f1-0b46-41da-89ff-8cbb8ba40e1e.jpg",
+  "page": "https://breakeroutlet.com/products/qbgfep2020-eaton-gfi-ground-fault-equipment-protection-breaker",
+  "origin": "breakeroutlet.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "bdc7c238cd3066c3",
+   "q": 88,
+   "src_px": [
+    800,
+    800
+   ],
+   "scale": 1.0,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "QBGFEP2020",
+  "nsku": "QBGFEP2020",
+  "type": "G",
+  "file": "QBGFEP2020-G-01.jpg",
+  "url": "https://cdn.shopify.com/s/files/1/0962/6347/1384/files/UE_SKUS_QBGFEP2020_2_3e0e2293-a98f-4ffe-a260-68f51247812c.jpg",
+  "page": "https://breakeroutlet.com/products/qbgfep2020-eaton-gfi-ground-fault-equipment-protection-breaker",
+  "origin": "breakeroutlet.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b064cec7189b9b69",
+   "q": 88,
+   "src_px": [
+    800,
+    800
+   ],
+   "scale": 1.0,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CH270",
+  "nsku": "CH270",
+  "type": "V",
+  "file": "CH270-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/CH270_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CH270.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "f1369e99cc663192",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRPSF225",
+  "nsku": "BRPSF225",
+  "type": "V",
+  "file": "BRPSF225-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRPSF225_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRPSF225.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "a13896cfcb24cb36",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRPSF225",
+  "nsku": "BRPSF225",
+  "type": "G",
+  "file": "BRPSF225-G-01.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRPSF225_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRPSF225.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be659598c263cb92",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRPSF225",
+  "nsku": "BRPSF225",
+  "type": "G",
+  "file": "BRPSF225-G-02.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRPSF225_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRPSF225.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ba30c197962c9e4f",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BR250",
+  "nsku": "BR250",
+  "type": "V",
+  "file": "BR250-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BR250_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BR250.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e13692499acbcd99",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BD1520",
+  "nsku": "BD1520",
+  "type": "V",
+  "file": "BD1520-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BD1520_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BD1520.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e7329a4399cccccc",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BD1515",
+  "nsku": "BD1515",
+  "type": "V",
+  "file": "BD1515-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BD1515_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BD1515.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e7329a4399cccccc",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BR230",
+  "nsku": "BR230",
+  "type": "V",
+  "file": "BR230-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BR230_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BR230.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e13692499acbcd99",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BR230",
+  "nsku": "BR230",
+  "type": "G",
+  "file": "BR230-G-01.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BR230_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BR230.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ec90936d9339c693",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BR230",
+  "nsku": "BR230",
+  "type": "G",
+  "file": "BR230-G-02.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BR230_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BR230.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "eb1f94c99466d078",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CHFP120DF",
+  "nsku": "CHFP120DF",
+  "type": "V",
+  "file": "CHFP120DF-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHFP120DF_360-C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHFP120DF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e666993399999926",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CHFP120DF",
+  "nsku": "CHFP120DF",
+  "type": "G",
+  "file": "CHFP120DF-G-01.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHFP120DF_360-L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHFP120DF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e6329864999bcd33",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CHFP120DF",
+  "nsku": "CHFP120DF",
+  "type": "G",
+  "file": "CHFP120DF-G-02.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHFP120DF_360-LS?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHFP120DF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e1388e679a9999a6",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CHFP120DF",
+  "nsku": "CHFP120DF",
+  "type": "G",
+  "file": "CHFP120DF-G-03.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHFP120DF_360-BK?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHFP120DF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e6339966998c9999",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CHFP120DF",
+  "nsku": "CHFP120DF",
+  "type": "G",
+  "file": "CHFP120DF-G-04.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/CHFP120DF_360-RS?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CHFP120DF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e5cd9a32cccc9833",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRH250",
+  "nsku": "BRH250",
+  "type": "V",
+  "file": "BRH250-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRH250_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRH250.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b84bc6e19334d8f2",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRN115DF",
+  "nsku": "BRN115DF",
+  "type": "V",
+  "file": "BRN115DF-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN115DF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN115DF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b89bc764c739c630",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRN115DF",
+  "nsku": "BRN115DF",
+  "type": "G",
+  "file": "BRN115DF-G-01.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN115DF_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN115DF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e419939a8e659e66",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRN115DF",
+  "nsku": "BRN115DF",
+  "type": "G",
+  "file": "BRN115DF-G-02.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN115DF_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN115DF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "be97c362c91bc419",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRP115AF",
+  "nsku": "BRP115AF",
+  "type": "V",
+  "file": "BRP115AF-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP120AF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRP115AF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e69998cc99669c33",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRP115AF",
+  "nsku": "BRP115AF",
+  "type": "G",
+  "file": "BRP115AF-G-01.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP120AF_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRP115AF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e439939e9e619a64",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRP115AF",
+  "nsku": "BRP115AF",
+  "type": "G",
+  "file": "BRP115AF-G-02.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP120AF_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRP115AF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b06ec6ecd392cb30",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRP115DF",
+  "nsku": "BRP115DF",
+  "type": "V",
+  "file": "BRP115DF-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP115DF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRP115DF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b39998999966cc66",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRP115DF",
+  "nsku": "BRP115DF",
+  "type": "G",
+  "file": "BRP115DF-G-01.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP115DF_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRP115DF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e499939e86619e65",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRP115DF",
+  "nsku": "BRP115DF",
+  "type": "G",
+  "file": "BRP115DF-G-02.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP115DF_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRP115DF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b1cf866dd330cb30",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRP115DF",
+  "nsku": "BRP115DF",
+  "type": "G",
+  "file": "BRP115DF-G-03.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP115DF_D?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRP115DF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e0ccce369b32cc93",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRN120GF",
+  "nsku": "BRN120GF",
+  "type": "V",
+  "file": "BRN120GF-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN120GF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN120GF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "edc792389269916e",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRN120GF",
+  "nsku": "BRN120GF",
+  "type": "G",
+  "file": "BRN120GF-G-01.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN120GF_D?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN120GF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e4ccce369b32cc19",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRN120GF",
+  "nsku": "BRN120GF",
+  "type": "G",
+  "file": "BRN120GF-G-02.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN120GF_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN120GF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ebb0969c9c6a914b",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRN120GF",
+  "nsku": "BRN120GF",
+  "type": "G",
+  "file": "BRN120GF-G-03.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN120GF_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN120GF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b1cf966cc330cb32",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BR120",
+  "nsku": "BR120",
+  "type": "V",
+  "file": "BR120-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BR120_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BR120.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "a418db929a679cc7",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BR120",
+  "nsku": "BR120",
+  "type": "G",
+  "file": "BR120-G-01.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BR120_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BR120.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b336ccc9cc669938",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BR120",
+  "nsku": "BR120",
+  "type": "G",
+  "file": "BR120-G-02.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BR120_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BR120.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b0cdce86cf324d32",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRN115AF",
+  "nsku": "BRN115AF",
+  "type": "V",
+  "file": "BRN115AF-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP120AF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN115AF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e69998cc99669c33",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CH2100",
+  "nsku": "CH2100",
+  "type": "V",
+  "file": "CH2100-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/CH2100_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CH2100.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "f1369e99cc663192",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRP120DF",
+  "nsku": "BRP120DF",
+  "type": "V",
+  "file": "BRP120DF-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP120DF_360-C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRP120DF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e699992399669999",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRP120DF",
+  "nsku": "BRP120DF",
+  "type": "G",
+  "file": "BRP120DF-G-01.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP120DF_360-L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRP120DF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b1ccce989b31cc33",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRP120DF",
+  "nsku": "BRP120DF",
+  "type": "G",
+  "file": "BRP120DF-G-02.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP120DF_360-LS?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRP120DF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b98dc6d99b264e30",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRP120DF",
+  "nsku": "BRP120DF",
+  "type": "G",
+  "file": "BRP120DF-G-03.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP120DF_360-BK?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRP120DF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b366cc99cc33cc64",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRP120DF",
+  "nsku": "BRP120DF",
+  "type": "G",
+  "file": "BRP120DF-G-04.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP120DF_360-RS?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRP120DF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "ec32938dca729b61",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BR2125",
+  "nsku": "BR2125",
+  "type": "V",
+  "file": "BR2125-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BR2125_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BR2125.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e13692499acbcd99",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRP120AF",
+  "nsku": "BRP120AF",
+  "type": "V",
+  "file": "BRP120AF-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP120AF_L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRP120AF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e439939e9e619a64",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRP120AF",
+  "nsku": "BRP120AF",
+  "type": "G",
+  "file": "BRP120AF-G-01.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP120AF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRP120AF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e69998cc99669c33",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRP120AF",
+  "nsku": "BRP120AF",
+  "type": "G",
+  "file": "BRP120AF-G-02.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP120AF_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRP120AF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b06ec6ecd392cb30",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRN120AF",
+  "nsku": "BRN120AF",
+  "type": "V",
+  "file": "BRN120AF-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRP120AF_C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN120AF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e69998cc99669c33",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "CH2125",
+  "nsku": "CH2125",
+  "type": "V",
+  "file": "CH2125-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/CH2125_R?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.CH2125.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "f1369e99cc663192",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRN120DF",
+  "nsku": "BRN120DF",
+  "type": "V",
+  "file": "BRN120DF-V.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN120DF_360-C?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN120DF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e699996699332699",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRN120DF",
+  "nsku": "BRN120DF",
+  "type": "G",
+  "file": "BRN120DF-G-01.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN120DF_360-L?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN120DF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b3cecc31993326c6",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRN120DF",
+  "nsku": "BRN120DF",
+  "type": "G",
+  "file": "BRN120DF-G-02.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN120DF_360-LS?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN120DF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b09ecb699c3632cc",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRN120DF",
+  "nsku": "BRN120DF",
+  "type": "G",
+  "file": "BRN120DF-G-03.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN120DF_360-BK?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN120DF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "b326cc99cc333366",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ },
+ {
+  "list": "List_2",
+  "sku": "BRN120DF",
+  "nsku": "BRN120DF",
+  "type": "G",
+  "file": "BRN120DF-G-04.jpg",
+  "url": "https://dynamicmedia.eaton.com/is/image/eaton/BRN120DF_360-RS?wid=1000&hei=1000&fmt=jpg&qlt=95",
+  "page": "https://www.eaton.com/us/en-us/skuPage.BRN120DF.html",
+  "origin": "eaton.com",
+  "info": {
+   "status": "OK",
+   "cls": 1,
+   "phash": "e5839e9cc9666499",
+   "q": 88,
+   "src_px": [
+    1000,
+    1000
+   ],
+   "scale": 0.8,
+   "notes": []
+  }
+ }
+]

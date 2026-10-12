@@ -1,4 +1,4 @@
 {
  "shared_v_check": true,
- "extra_bad_name_regex": "^RESIGROUP"
+ "extra_bad_name_regex": "^RESIGROUP|_FM$"
 }
