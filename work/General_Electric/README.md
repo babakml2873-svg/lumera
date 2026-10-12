@@ -9,7 +9,7 @@ Brand General Electric: 160 SKUs in the product lists. Variant images were deliv
 | List_3 | 0 | 0 | 0 |
 | List_4 | 0 | 0 | 0 |
 
-* 1 of the variant images are Medium confidence (`OK-REVIEW-RECOMMENDED`), see `Reports/review_queue.csv`.
+* 111 of the variant images are Medium confidence (`OK-REVIEW-RECOMMENDED`), see `Reports/review_queue.csv`.
 * Every file was checked by script: 800×800 px JPG, ≤ 100,000 bytes, `SKU-V.jpg` / `SKU-G-NN.jpg`.
 * Image sources (files): superbreakers.com (464), breakeroutlet.com (2). No Lumera Electric source was used.
 
@@ -30,6 +30,11 @@ geindustrial.com fails (certificate error); the official ABB eCatalog (empower.a
 |---|---|
 | Source product has no images | 6 |
 | No exact SKU match in the harvested source catalog(s) | 4 |
+
+## Brand-specific notes
+
+* Circuit breakers: the reseller often re-uses one series photo for several ampere ratings/poles. Variant images whose identical photo is also used for a different product are marked Medium (OK-REVIEW-RECOMMENDED) with the other SKUs named in Notes - the rating printed on the handle in the photo may differ from the SKU.
+* Some Breaker Outlet photos carry a faint 'BREAKEROUTLET' watermark; they were kept (no image editing was allowed) and should be replaced if watermark-free images are required.
 
 ## Folder structure
 
