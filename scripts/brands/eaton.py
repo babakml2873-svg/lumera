@@ -2,7 +2,7 @@
 names from the page's mdmfiles links -> full-size images from Eaton's Scene7 server dynamicmedia.eaton.com.
 robots.txt Crawl-delay 20 s is respected for eaton.com pages. Resumable (raw pages cached).
 usage: eaton.py "<Brand>" [...more brands]"""
-import json, re, sys, time
+import json, re, subprocess, sys, time
 from pathlib import Path
 import requests
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "pipeline"))
@@ -23,13 +23,17 @@ for brand in sys.argv[1:]:
         if not f.exists():
             body = b""
             for attempt in range(2):
-                try:
-                    r = requests.get(url, headers=H, timeout=60)
-                    body = r.content if r.status_code == 200 else f"HTTP {r.status_code}".encode()
+                cmd = ["curl", "-sS", "-m", "60", "--compressed", "-o", "-", "-w", "\n__HTTP__%{http_code}"]
+                for k_, v_ in H.items():
+                    cmd += ["-H", f"{k_}: {v_}"]
+                r = subprocess.run(cmd + [url], capture_output=True)
+                body, _, code = r.stdout.rpartition(b"\n__HTTP__")
+                if code == b"200":
                     break
-                except Exception as e:
-                    body = f"ERR {e}".encode()
-                    time.sleep(20)
+                body = f"HTTP {code.decode()} {r.stderr.decode()[:100]}".encode()
+                time.sleep(20)
+            if body.startswith(b"HTTP 000") or body.startswith(b"HTTP 5"):
+                print("transient fail", s, body[:80], flush=True); time.sleep(20); continue
             f.write_bytes(body)
             time.sleep(20)
         t = f.read_text("utf-8", "replace")
