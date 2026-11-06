@@ -1,20 +1,20 @@
 {
-  "products_reviewed": 168,
-  "images_generated": 77,
-  "needs_reference_review": 91,
-  "unusable_until_corrected": 19,
+  "target_products": 1000,
+  "target_completed": false,
+  "products_reviewed_unique": 168,
+  "part_report_rows_including_rechecks": 178,
+  "images_generated": 79,
+  "needs_reference_review_unique": 89,
+  "unusable_until_corrected": 20,
   "all_generated_require_qc_approval": true,
   "excluded_sku_count": 184,
   "excluded_sku_overlap": 0,
   "all_images_800x800_jpeg_under_100000_bytes": true,
   "maximum_output_bytes": 99951,
   "original_repository_files_changed": 0,
-  "target_100_completed": false,
   "shopify_uploads": 0,
-  "reference_inventory": {
-    "missing_image_target_rows_without_same_product_reference": 16680,
-    "missing_image_target_rows_with_same_product_reference": 303,
-    "qc_missing_but_existing_variant_photo_rows": 216,
-    "unprocessed_matched_products": 0
-  }
+  "queue_generated": 79,
+  "queue_unverified_future_candidates": 921,
+  "current_download_blocker": "Executor proxy denies www.lumeraelectric.com and lumeraelectric.com (403). Browser initialization also failed. Web text lookup works for some product pages.",
+  "source_policy_update": "User authorized use of product links in the QC sheet; Lumera pages may now supply references and target specifications."
 }
