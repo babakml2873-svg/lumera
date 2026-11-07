@@ -15,6 +15,6 @@
   "shopify_uploads": 0,
   "queue_generated": 79,
   "queue_unverified_future_candidates": 921,
-  "current_download_blocker": "Executor proxy denies www.lumeraelectric.com and lumeraelectric.com (403). Browser initialization also failed. Web text lookup works for some product pages.",
-  "source_policy_update": "User authorized use of product links in the QC sheet; Lumera pages may now supply references and target specifications."
+  "current_production_blocker": "Additional qualified same-product reference images in GitHub and verified target SKU specifications are required; Lumera image downloads are neither authorized nor required.",
+  "source_policy_update": "User clarified: reference images must come only from the GitHub repository. Sheet product links are for target SKU specification lookup only. All 79 generated images used GitHub repository reference files."
 }
