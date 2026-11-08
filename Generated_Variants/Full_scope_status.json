@@ -1,0 +1,15 @@
+{
+  "generated_catalog_products": 1200,
+  "second_1000_generated": 200,
+  "second_1000_remaining": 800,
+  "remaining_distinct_new_catalog_product_urls": 11191,
+  "remaining_missing_variant_skus_including_other_variants_of_generated_products": 15984,
+  "new_product_candidates_with_github_candidate_reference": 2704,
+  "new_product_candidates_without_matched_reference": 8487,
+  "queue_is_generated_images": false,
+  "excluded_sku_count": 184,
+  "excluded_sku_overlap": 0,
+  "uncertain_existing_variant_rows_require_separate_review": 11659,
+  "selection_definition": "Missing queue includes workbook statuses starting بله or فقط عکس گالری; products deduplicated by sheet product URL; variants deduplicated by exact SKU. Existing V images of uncertain match require separate review. Candidate reference availability is not model/quality verification.",
+  "updated_user_scope": "All remaining missing-image products/variants, in parts of 100; lack of reference does not remove candidates. Images without sufficient reference must remain explicitly approximate and unusable until matched."
+}
