@@ -1,0 +1,16 @@
+{
+  "batch": "Fourth 1000",
+  "parts": "159–168",
+  "generated_files": 1000,
+  "unique_QC_sheet_product_URLs": 1000,
+  "completed_AI_master_groups": 811,
+  "additional_render_retries": 2,
+  "files_sharing_a_generated_master": 325,
+  "all_require_QC_approval": true,
+  "QC_approved": 0,
+  "unusable_until_corrected": 987,
+  "reviewed_but_not_generated": 0,
+  "count_definition": "1000 unique product URLs in the QC sheet, one target SKU file per URL; not 1000 independently verified physical designs. Shared generated masters are disclosed in AI_generation_groups_Parts_159_168.csv.",
+  "without_reference": "Unrelated placeholder references are discarded. Any unreferenced generation is an unverified concept, explicitly unusable until matched to the real SKU.",
+  "shopify_uploads": 0
+}

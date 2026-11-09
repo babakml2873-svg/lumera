@@ -1,0 +1,13 @@
+{
+  "fourth_batch_unique_sheet_products": 1000,
+  "exact_workbook_rows_matched": 1000,
+  "new_unique_target_SKUs": 1000,
+  "overlap_with_previous_3000_SKUs": 0,
+  "overlap_with_previous_3000_product_URLs": 0,
+  "excluded_184_overlap": 0,
+  "distinct_original_github_reference_paths": 210,
+  "original_reference_bytes_verified_against_git_baseline": true,
+  "unreferenced_concepts_explicitly_unusable": 78,
+  "reference_source": "GitHub repository baseline only; no Lumera image downloads",
+  "all_AI_outputs_require_QC_approval": true
+}
