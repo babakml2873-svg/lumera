@@ -1,0 +1,22 @@
+{
+  "batch": "Third 1000",
+  "parts": "149–158",
+  "generated_files": 1000,
+  "unique_QC_sheet_product_URLs": 1000,
+  "successful_AI_generation_edit_operations": 680,
+  "files_sharing_a_generated_master": 449,
+  "all_require_QC_approval": true,
+  "QC_approved": 0,
+  "unusable_until_corrected": 833,
+  "reviewed_but_not_generated": 1,
+  "count_definition": "1000 unique product URLs in the QC sheet, one target SKU file per URL; not 1000 independently verified physical designs. Shared generated masters are disclosed in AI_generation_groups_Parts_149_158.csv.",
+  "without_reference": "Unrelated placeholder references are discarded. Any unreferenced generation is an unverified concept, explicitly unusable until matched to the real SKU.",
+  "shopify_uploads": 0,
+  "unique_generated_masters_visually_inspected": 680,
+  "visual_inspection_is_SKU_approval": false,
+  "unreferenced_concept_outputs": 1,
+  "technical_drawing_and_family_reference_outputs": "Marked individually in source provenance and QC notes; unsuitable outputs are explicitly flagged.",
+  "maximum_output_dimensions": "800 x 800",
+  "format": "JPEG .jpg",
+  "maximum_file_bytes": 99891
+}
