@@ -1,0 +1,10 @@
+{
+  "catalog_products": 1000,
+  "first_part": 139,
+  "last_part": 148,
+  "all_require_qc_approval": true,
+  "unusable_until_corrected": 794,
+  "approved": 0,
+  "count_is_unique_sheet_product_urls_not_unique_physical_designs": true,
+  "parts144_148_have_500_files_shared_from_6_approximate_ai_masters": true
+}

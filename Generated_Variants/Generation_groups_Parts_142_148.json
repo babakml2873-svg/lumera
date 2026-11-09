@@ -1,0 +1,10 @@
+{
+  "scope": "Parts 142 through 148 only",
+  "catalog_sku_files": 700,
+  "final_ai_visual_masters": 142,
+  "additional_ai_correction_operations": 4,
+  "housing_sku_files": 500,
+  "housing_final_ai_visual_masters": 6,
+  "counting_definition": "Product count is unique QC-sheet product URL. SKU files are not unique physical designs or independent image edits.",
+  "qc_approved": 0
+}
