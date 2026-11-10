@@ -1,0 +1,15 @@
+{
+  "part": 169,
+  "part_size": 100,
+  "unique_workbook_product_URLs": 100,
+  "unique_target_SKUs": 100,
+  "previous_generated_SKU_overlap": 0,
+  "previous_generated_product_URL_overlap": 0,
+  "excluded_184_overlap": 0,
+  "workbook_missing_image_status_verified": true,
+  "exact_workbook_rows_verified": 100,
+  "original_GitHub_reference_bytes_verified": 14,
+  "unreferenced_concepts_planned": 86,
+  "existing_high_confidence_image_conflicts_excluded": 216,
+  "AI_QC_approval": "required for every output; no QC-approved images"
+}
