@@ -1,0 +1,29 @@
+{
+  "exported_UTC": "2026-11-11T12:36:45.551369+00:00",
+  "workbook_hyperlinks_total": 13557,
+  "review_sheet_links_checked_against_QC_identity_and_file_SHA256": 11672,
+  "review_sheet_link_metadata_errors": 0,
+  "duplicate_group_links": 1885,
+  "duplicate_group_pixel_hashes_not_present_in_review_sheet_links": 0,
+  "candidate_previously_unreferenced_target_SKUs": 342,
+  "unique_relevant_sources_visually_reviewed_including_alternatives": 72,
+  "structural_sources_rejected": 22,
+  "target_SKUs_with_visually_screened_structural_reference": 256,
+  "future_target_SKUs_identified_at_reference_audit": 239,
+  "reference_target_SKUs_not_yet_generated": 239,
+  "saved_drafts_rebuilt_from_reference": 17,
+  "previously_published_images_rebuilt": 16,
+  "current_unpublished_Part_265_draft_rebuilt": 1,
+  "corrections_add_to_new_SKU_image_count": false,
+  "all_AI_images_require_QC_approval": true,
+  "QC_approved": 0,
+  "source_match_warning": "Workbook marks these source V matches as uncertain; visual screening establishes usable visible structure only, not exact-SKU finish, dimensions or electrical configuration. Known output errors remain explicitly unusable.",
+  "metadata_lookup": {
+    "attempted_metadata_only": true,
+    "image_downloads": 0,
+    "SKU": "NT-312W",
+    "result": "Proxy denied destination: tunnel 403 Forbidden",
+    "fallback": "Only documented cached Git metadata; unknown appearance remains unverified. No network-policy bypass attempted."
+  },
+  "source_images": "GitHub only; all selected files match workbook hashes and immutable source Git blobs."
+}
