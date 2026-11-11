@@ -1,0 +1,55 @@
+{
+  "identity": "brand plus canonical SKU; exclusion CSV is global SKU-only",
+  "additional_missing_brand_SKU_jobs": 23,
+  "eligible_confirmed_missing_brand_SKUs": 16983,
+  "generated_eligible_confirmed_missing_brand_SKUs": 13892,
+  "eligible_brand_SKUs_not_yet_generated": 3091,
+  "eligible_brand_SKUs_not_planned": 0,
+  "target_generated_image_files": 16991,
+  "current_generated_image_files": 13900,
+  "earlier_generated_images_from_uncertain_V_rows": [
+    {
+      "brand": "Lutron",
+      "SKU": "RRD-HN1RLD-BL",
+      "product_URL": "https://www.lumeraelectric.com/products/lutron-seetouch-keypad-100-w-rrd-hn1rld"
+    },
+    {
+      "brand": "Lutron",
+      "SKU": "RRD-HN3S-BL",
+      "product_URL": "https://www.lumeraelectric.com/products/lutron-seetouch-3-button-keypad-100-w-rrd-hn3s"
+    },
+    {
+      "brand": "Lutron",
+      "SKU": "RRD-HN4S-BL",
+      "product_URL": "https://www.lumeraelectric.com/products/lutron-seetouch-4-button-keypad-100-w-rrd-hn4s"
+    },
+    {
+      "brand": "Lutron",
+      "SKU": "RRD-HN5BRL-BL",
+      "product_URL": "https://www.lumeraelectric.com/products/lutron-seetouch-5-button-keypad-100-w-rrd-hn5brl"
+    },
+    {
+      "brand": "Lutron",
+      "SKU": "RRD-HN6BRL-BR",
+      "product_URL": "https://www.lumeraelectric.com/products/lutron-seetouch-6-button-keypad-100-w-rrd-hn6brl"
+    },
+    {
+      "brand": "Lutron",
+      "SKU": "RRD-W4S-BL",
+      "product_URL": "https://www.lumeraelectric.com/products/lutron-seetouch-4-button-keypad-120-v-rrd-w4s"
+    },
+    {
+      "brand": "Lutron",
+      "SKU": "RRD-W5BRL-BL",
+      "product_URL": "https://www.lumeraelectric.com/products/lutron-seetouch-5-button-keypad-120-v-rrd-w5brl"
+    },
+    {
+      "brand": "Leviton",
+      "SKU": "16A31-UR",
+      "product_URL": "https://www.lumeraelectric.com/products/leviton-16a31-ub-multi"
+    }
+  ],
+  "QC_approved": 0,
+  "all_AI_outputs_require_QC_approval": true,
+  "same_SKU_string_is_not_proof_of_same_product_across_manufacturers": true
+}

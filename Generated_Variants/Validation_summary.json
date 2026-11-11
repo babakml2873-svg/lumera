@@ -17,7 +17,7 @@
   "original_repository_files_changed": 0,
   "shopify_uploads": 0,
   "queue_generated": 13900,
-  "queue_unverified_future_candidates": 3068,
+  "queue_unverified_future_candidates": 3091,
   "production_status": "In progress, 100 SKU images per part; final remainder may be smaller. All AI outputs require exact-SKU QC.",
   "source_policy": "Reference assets were obtained only from the GitHub repository, including technical drawings and family photos. Missing, blank or unrelated references are explicitly discarded; images generated without adequate reference are unverified concepts and unusable until matched to the actual SKU. Sheet links identify target product specifications.",
   "expanded_candidate_product_count_before_current_parts": 3815,
@@ -33,8 +33,8 @@
   "current_part_size": 100,
   "reference_policy_note": "Per updated user request, missing references do not exclude products from the queue. Any image generated without an adequate reference must be identified as an unverified approximation unusable until matched against the actual product.",
   "target_completed_definition": "All eligible selected missing-SKU jobs saved; unique product URLs counted separately from variant files, with no QC approval implied.",
-  "remaining_planned_products": 0,
+  "remaining_planned_products": 22,
   "existing_image_conflicts_requiring_separate_review": 216,
   "target_variant_images": 16991,
-  "remaining_planned_variant_images": 3068
+  "remaining_planned_variant_images": 3091
 }
