@@ -1,15 +1,15 @@
 {
-  "generated_catalog_products": 10600,
+  "generated_catalog_products": 10700,
   "second_1000_generated": 1000,
   "third_1000_generated": 1000,
   "fourth_1000_generated": 1000,
   "fourth_1000_remaining": 0,
   "third_1000_remaining": 0,
   "second_1000_remaining": 0,
-  "remaining_distinct_new_catalog_product_urls": 1791,
-  "remaining_missing_variant_skus_including_other_variants_of_generated_products": 6584,
+  "remaining_distinct_new_catalog_product_urls": 1691,
+  "remaining_missing_variant_skus_including_other_variants_of_generated_products": 6484,
   "new_product_candidates_with_github_candidate_reference": 0,
-  "new_product_candidates_without_matched_reference": 1791,
+  "new_product_candidates_without_matched_reference": 1691,
   "queue_is_generated_images": false,
   "excluded_sku_count": 184,
   "excluded_sku_overlap": 0,
@@ -20,6 +20,6 @@
   "existing_image_conflicts_requiring_separate_review": 216,
   "active_generation_queue_file": "Remaining_100_product_batches.csv",
   "QC_triage_queue_file": "All_remaining_products_queue.csv",
-  "planned_eligible_new_products_remaining": 1575,
+  "planned_eligible_new_products_remaining": 1475,
   "queue_note": "The QC triage queue includes 216 existing-V-image conflicts held for separate review. The active generation queue excludes those conflicts."
 }
