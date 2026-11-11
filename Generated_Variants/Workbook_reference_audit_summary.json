@@ -1,5 +1,5 @@
 {
-  "exported_UTC": "2026-11-11T22:08:32.597153+00:00",
+  "exported_UTC": "2026-11-11T22:42:31.464136+00:00",
   "workbook_hyperlinks_total": 13557,
   "review_sheet_links_checked_against_QC_identity_and_file_SHA256": 11672,
   "review_sheet_link_metadata_errors": 0,
@@ -10,7 +10,7 @@
   "structural_sources_rejected": 22,
   "target_SKUs_with_visually_screened_structural_reference": 256,
   "future_target_SKUs_identified_at_reference_audit": 239,
-  "reference_target_SKUs_not_yet_generated": 125,
+  "reference_target_SKUs_not_yet_generated": 79,
   "saved_drafts_rebuilt_from_reference": 17,
   "previously_published_images_rebuilt": 16,
   "current_unpublished_Part_265_draft_rebuilt": 1,
