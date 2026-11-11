@@ -1,9 +1,9 @@
 {
   "generated_catalog_products": 12175,
-  "generated_variant_images": 13900,
+  "generated_variant_images": 14000,
   "remaining_distinct_new_catalog_product_urls": 238,
-  "remaining_missing_variant_skus_including_other_variants_of_generated_products": 3307,
-  "eligible_remaining_variant_generation_jobs": 3091,
+  "remaining_missing_variant_skus_including_other_variants_of_generated_products": 3207,
+  "eligible_remaining_variant_generation_jobs": 2991,
   "existing_V_conflicts_pending_review": 216,
   "queue_is_generated_images": false,
   "excluded_sku_count": 184,
@@ -15,7 +15,7 @@
   "existing_image_conflicts_requiring_separate_review": 216,
   "active_generation_queue_file": "Remaining_100_product_batches.csv",
   "QC_triage_queue_file": "All_remaining_products_queue.csv",
-  "planned_eligible_variant_images_remaining": 3091,
+  "planned_eligible_variant_images_remaining": 2991,
   "planned_eligible_new_products_remaining": 22,
-  "queue_note": "Active generation uses brand plus SKU. The separate review queue includes 216 existing-V conflicts. Exclusion CSV remains global SKU-only."
+  "queue_note": "The QC triage queue includes 216 existing-V-image conflicts held for separate review. The active generation queue excludes those conflicts."
 }
