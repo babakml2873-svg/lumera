@@ -2,11 +2,11 @@
   "identity": "brand plus canonical SKU; exclusion CSV is global SKU-only",
   "additional_missing_brand_SKU_jobs": 23,
   "eligible_confirmed_missing_brand_SKUs": 16983,
-  "generated_eligible_confirmed_missing_brand_SKUs": 15092,
-  "eligible_brand_SKUs_not_yet_generated": 1891,
+  "generated_eligible_confirmed_missing_brand_SKUs": 15192,
+  "eligible_brand_SKUs_not_yet_generated": 1791,
   "eligible_brand_SKUs_not_planned": 0,
   "target_generated_image_files": 16991,
-  "current_generated_image_files": 15100,
+  "current_generated_image_files": 15200,
   "earlier_generated_images_from_uncertain_V_rows": [
     {
       "brand": "Lutron",
