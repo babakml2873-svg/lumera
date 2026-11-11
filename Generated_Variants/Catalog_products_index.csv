@@ -1,24 +1,24 @@
 ﻿ردیف,لینک محصول یکتای شیت,نام محصول,SKU آخرین تصویر,تعداد SKU دارای فایل,پارت آخرین تصویر,وضعیت QC
-1,https://www.lumeraelectric.com/products/lutron-ay-10p-al-multi,"Lutron Ariadni Dimmer Switch 1000 W, (AY-10P-AL)",AY-10P-IV,1,Part_001,نیازمند تأیید QC
+1,https://www.lumeraelectric.com/products/lutron-ay-10p-al-multi,"Lutron Ariadni Dimmer Switch 1000 W, (AY-10P-AL)",AY-10P-WH,2,Part_251,نیازمند تأیید QC
 2,https://www.lumeraelectric.com/products/lutron-c-2000,"Lutron Centurion Dimmer Switch 2000 W, (C-2000-BE)",C-2000-WH,1,Part_001,نیازمند تأیید QC
 3,https://www.lumeraelectric.com/products/lutron-dv-103p-al-multi,"Lutron Diva Dimmer Switch 1000 W, (DV-103P-AL)",DV-103P-WH,1,Part_001,نیازمند تأیید QC
-4,https://www.lumeraelectric.com/products/lutron-maestro-dimmer-switch-120-v-rd-rd,Lutron Maestro Dimmer Switch 120 V RD-RD,RD-RD-BL,1,Part_001,نیازمند تأیید QC
-5,https://www.lumeraelectric.com/products/lutron-maestro-dimmer-switch-150-w-rrd-10nd,Lutron Maestro Dimmer Switch 150 W RRD-10ND,RRD-10ND-BL,1,Part_001,نیازمند تأیید QC
+4,https://www.lumeraelectric.com/products/lutron-maestro-dimmer-switch-120-v-rd-rd,Lutron Maestro Dimmer Switch 120 V RD-RD,RD-RD-TP,6,Part_251,نیازمند تأیید QC
+5,https://www.lumeraelectric.com/products/lutron-maestro-dimmer-switch-150-w-rrd-10nd,Lutron Maestro Dimmer Switch 150 W RRD-10ND,RRD-10ND-TP,8,Part_251,نیازمند تأیید QC
 6,https://www.lumeraelectric.com/products/lutron-nt-1000-al-multi,"Lutron Nova T Dimmer Switch 1000 W, (NT-1000-AL)",NT-1000-IV,1,Part_168,نیازمند تأیید QC
 7,https://www.lumeraelectric.com/products/lutron-nt-1500-al-multi,"Lutron Nova T Dimmer Switch 1500 W, (NT-1500-AL)",NT-1500-WH,1,Part_168,نیازمند تأیید QC
 8,https://www.lumeraelectric.com/products/lutron-nt-2000-al-multi,"Lutron Nova T Dimmer Switch 2000 W, (NT-2000-AL)",NT-2000-WH,1,Part_001,نیازمند تأیید QC
 9,https://www.lumeraelectric.com/products/lutron-maestro-dimmer-switch-150-w-mrf2s-6nd-120,Lutron Maestro Dimmer Switch 150 W MRF2S-6ND-120,MRF2S-6ND-120-HT,1,Part_001,نیازمند تأیید QC
 10,https://www.lumeraelectric.com/products/lutron-maestro-led-dimmer-switch-150-w-mrf2s-6cl,Lutron Maestro LED+ Dimmer Switch 150 W MRF2S-6CL,MRF2S-6CL-HT,1,Part_001,نیازمند تأیید QC
-11,https://www.lumeraelectric.com/products/enerlites-in-wall-pir-occupancy-vacancy-sensor-single-pole-120v-hmos,Enerlites In Wall PIR Occupancy/Vacancy Sensor Single Pole 120V HMOS,HMOS-I,1,Part_002,نیازمند تأیید QC
-12,https://www.lumeraelectric.com/products/enerlites-in-wall-pir-occupancy-vacancy-sensor-single-pole-ground-required-120-277v-hmos-j,Enerlites In Wall PIR Occupancy/Vacancy Sensor Single Pole Ground Required 120/277V HMOS-J,HMOS-J-I,1,Part_002,نیازمند تأیید QC
-13,https://www.lumeraelectric.com/products/enerlites-in-wall-pir-vac-sensor-single-pole-120-277v-hmvs-j,Enerlites In Wall PIR VAC Sensor Single Pole 120/277V HMVS-J,HMVS-J-I,1,Part_002,نیازمند تأیید QC
-14,https://www.lumeraelectric.com/products/enerlites-in-wall-pir-vac-sensor-single-pole-120v-hmvs,Enerlites In Wall PIR VAC Sensor Single Pole 120V HMVS,HMVS-I,1,Part_002,نیازمند تأیید QC
-15,https://www.lumeraelectric.com/products/enerlites-enerlites-led-decorator-dimmer-single-pole-3-way,Enerlites LED Decorator Dimmer Single Pole/3-Way,57300-GY,1,Part_002,نیازمند تأیید QC
+11,https://www.lumeraelectric.com/products/enerlites-in-wall-pir-occupancy-vacancy-sensor-single-pole-120v-hmos,Enerlites In Wall PIR Occupancy/Vacancy Sensor Single Pole 120V HMOS,HMOS-LA,2,Part_251,نیازمند تأیید QC
+12,https://www.lumeraelectric.com/products/enerlites-in-wall-pir-occupancy-vacancy-sensor-single-pole-ground-required-120-277v-hmos-j,Enerlites In Wall PIR Occupancy/Vacancy Sensor Single Pole Ground Required 120/277V HMOS-J,HMOS-J-LA,2,Part_251,نیازمند تأیید QC
+13,https://www.lumeraelectric.com/products/enerlites-in-wall-pir-vac-sensor-single-pole-120-277v-hmvs-j,Enerlites In Wall PIR VAC Sensor Single Pole 120/277V HMVS-J,HMVS-J-LA,2,Part_251,نیازمند تأیید QC
+14,https://www.lumeraelectric.com/products/enerlites-in-wall-pir-vac-sensor-single-pole-120v-hmvs,Enerlites In Wall PIR VAC Sensor Single Pole 120V HMVS,HMVS-LA,2,Part_251,نیازمند تأیید QC
+15,https://www.lumeraelectric.com/products/enerlites-enerlites-led-decorator-dimmer-single-pole-3-way,Enerlites LED Decorator Dimmer Single Pole/3-Way,57300-I,2,Part_251,نیازمند تأیید QC
 16,https://www.lumeraelectric.com/products/lutron-maestro-3-wire-dimmer-switch-6-a-mrf2-f6an-dv-series-1,Lutron Maestro 3-Wire Dimmer Switch 6 A MRF2-F6AN-DV Series 1,MRF2-F6AN-DV-HT,1,Part_168,نیازمند تأیید QC
 17,https://www.lumeraelectric.com/products/lutron-maestro-switch-120-v-rd-rs,Lutron Maestro Switch 120 V RD-RS,RD-RS-BL,1,Part_002,نیازمند تأیید QC
 18,https://www.lumeraelectric.com/products/lutron-maestro-switch-6-a-mrf2s-6ans,Lutron Maestro Switch 6 A MRF2S-6ANS,MRF2S-6ANS-HT,1,Part_002,نیازمند تأیید QC
 19,https://www.lumeraelectric.com/products/lutron-maestro-switch-8-a-mrf2s-8s-dv,Lutron Maestro Switch 8 A MRF2S-8S-DV,MRF2S-8S-DV-HT,1,Part_002,نیازمند تأیید QC
-20,https://www.lumeraelectric.com/products/lutron-maestro-switch-8-a-rrd-8ans,Lutron Maestro Switch 8 A RRD-8ANS,RRD-8ANS-BR,1,Part_002,نیازمند تأیید QC
+20,https://www.lumeraelectric.com/products/lutron-maestro-switch-8-a-rrd-8ans,Lutron Maestro Switch 8 A RRD-8ANS,RRD-8ANS-HT,3,Part_251,نیازمند تأیید QC
 21,https://www.lumeraelectric.com/products/abba-lighting-landscape-lighting-accessory-brl2,ABBA Lighting Landscape Lighting Accessory BRL2,BRL2-NB,2,Part_250,نیازمند تأیید QC
 22,https://www.lumeraelectric.com/products/abba-lighting-led-step-light-stb15,ABBA Lighting LED Step Light STB15,STB15-NB,2,Part_250,نیازمند تأیید QC
 23,https://www.lumeraelectric.com/products/abba-lighting-led-well-light-unb06,ABBA Lighting LED Well Light UNB06,UNB06-Bk,1,Part_003,نیازمند تأیید QC
@@ -55,15 +55,15 @@
 54,https://www.lumeraelectric.com/products/elco-lighting-el2993b-led-baffle-engine-multi,"ELCO Lighting EL2993B 4"" Line Voltage Baffle Square Trim",EL2993BZ,1,Part_006,نیازمند تأیید QC
 55,https://www.lumeraelectric.com/products/elco-lighting-2-inch-round-led-baffle-light-engine-9w-120v-600-lm-36-degree-e214c06,ELCO Lighting 2 Inch Round LED Baffle Light Engine 9W 120V 600 lm 36 Degree E214C06,E214C0640W,1,Part_006,نیازمند تأیید QC
 56,https://www.lumeraelectric.com/products/elco-lighting-el511ct5bz-led-baffle-engine-multi,"ELCO Lighting EL511CT5BZ 5"" Slp Baffle Insert 1050 lm Gmbl 5Cct",EL511CT5W,1,Part_024,نیازمند تأیید QC
-57,https://www.lumeraelectric.com/products/elco-lighting-round-oak-led-downlight-e1l02,ELCO Lighting Round Oak LED Downlight E1L02,E1L02NF27BB,1,Part_163,نیازمند تأیید QC
-58,https://www.lumeraelectric.com/products/elco-lighting-square-oak-led-downlight-e1l12,ELCO Lighting Square Oak LED Downlight E1L12,E1L12NF27BB,1,Part_163,نیازمند تأیید QC
-59,https://www.lumeraelectric.com/products/elco-lighting-round-oak-led-downlight-e1l61,ELCO Lighting Round Oak LED Downlight E1L61,E1L61F40BB,1,Part_006,نیازمند تأیید QC
-60,https://www.lumeraelectric.com/products/elco-lighting-round-oak-led-downlight-e1ak61,ELCO Lighting Round Oak LED Downlight E1AK61,E1AK61F35BB,1,Part_163,نیازمند تأیید QC
-61,https://www.lumeraelectric.com/products/lutron-seetouch-3-button-keypad-120-v-rrd-w3bd,Lutron SeeTouch 3-Button Keypad 120 V RRD-W3BD,RRD-W3BD-AL,1,Part_168,نیازمند تأیید QC
-62,https://www.lumeraelectric.com/products/lutron-seetouch-6-button-keypad-120-v-rrd-w6brl,Lutron SeeTouch 6-Button Keypad 120 V RRD-W6BRL,RRD-W6BRL-BL,1,Part_007,نیازمند تأیید QC
-63,https://www.lumeraelectric.com/products/lutron-seetouch-7-button-keypad-120-v-rrd-w7b,Lutron SeeTouch 7-Button Keypad 120 V RRD-W7B,RRD-W7B-BL,1,Part_007,نیازمند تأیید QC
-64,https://www.lumeraelectric.com/products/lutron-seetouch-keypad-120-v-rrd-w1rld,Lutron SeeTouch Keypad 120 V RRD-W1RLD,RRD-W1RLD-AL,1,Part_168,نیازمند تأیید QC
-65,https://www.lumeraelectric.com/products/lutron-seetouch-keypad-120-v-rrd-w2rld,Lutron SeeTouch Keypad 120 V RRD-W2RLD,RRD-W2RLD-AL,1,Part_168,نیازمند تأیید QC
+57,https://www.lumeraelectric.com/products/elco-lighting-round-oak-led-downlight-e1l02,ELCO Lighting Round Oak LED Downlight E1L02,E1L02WFSDW,26,Part_251,نیازمند تأیید QC
+58,https://www.lumeraelectric.com/products/elco-lighting-square-oak-led-downlight-e1l12,ELCO Lighting Square Oak LED Downlight E1L12,E1L12NF27BZ,2,Part_251,نیازمند تأیید QC
+59,https://www.lumeraelectric.com/products/elco-lighting-round-oak-led-downlight-e1l61,ELCO Lighting Round Oak LED Downlight E1L61,E1L61WFSDBB,8,Part_251,نیازمند تأیید QC
+60,https://www.lumeraelectric.com/products/elco-lighting-round-oak-led-downlight-e1ak61,ELCO Lighting Round Oak LED Downlight E1AK61,E1AK61WF40BB,10,Part_251,نیازمند تأیید QC
+61,https://www.lumeraelectric.com/products/lutron-seetouch-3-button-keypad-120-v-rrd-w3bd,Lutron SeeTouch 3-Button Keypad 120 V RRD-W3BD,RRD-W3BD-TP,9,Part_251,نیازمند تأیید QC
+62,https://www.lumeraelectric.com/products/lutron-seetouch-6-button-keypad-120-v-rrd-w6brl,Lutron SeeTouch 6-Button Keypad 120 V RRD-W6BRL,RRD-W6BRL-TP,7,Part_251,نیازمند تأیید QC
+63,https://www.lumeraelectric.com/products/lutron-seetouch-7-button-keypad-120-v-rrd-w7b,Lutron SeeTouch 7-Button Keypad 120 V RRD-W7B,RRD-W7B-TP,7,Part_251,نیازمند تأیید QC
+64,https://www.lumeraelectric.com/products/lutron-seetouch-keypad-120-v-rrd-w1rld,Lutron SeeTouch Keypad 120 V RRD-W1RLD,RRD-W1RLD-TP,9,Part_251,نیازمند تأیید QC
+65,https://www.lumeraelectric.com/products/lutron-seetouch-keypad-120-v-rrd-w2rld,Lutron SeeTouch Keypad 120 V RRD-W2RLD,RRD-W2RLD-TP,9,Part_251,نیازمند تأیید QC
 66,https://www.lumeraelectric.com/products/enerlites-enerlites-commercial-duplex-15a-125v-5-15r,Enerlites Commercial Duplex 15A 125V 5-15R,61540-I,1,Part_159,نیازمند تأیید QC
 67,https://www.lumeraelectric.com/products/enerlites-enerlites-commercial-single-receptacle-20a-125v-5-20r,Enerlites Commercial Single Receptacle 20A 125V 5-20R,61200-I,1,Part_007,نیازمند تأیید QC
 68,https://www.lumeraelectric.com/products/enerlites-61580-tr,Enerlites Residential Duplex Tamper-Resistant Receptacle Self-Grounding 15A 125V 5-15R 61580-TR-GD,61580-TR-NK,1,Part_007,نیازمند تأیید QC
@@ -97,7 +97,7 @@
 96,https://www.lumeraelectric.com/products/envision-pc-twl,EnVision PC-TWL-HV – Twistlock Photocell for TWL-RC,PC-TWL-HV,1,Part_168,نیازمند تأیید QC
 97,https://www.lumeraelectric.com/products/westgate-wax-90-120w-mctp-lighting-accessory,Westgate 90W/105W/120W 30K/40K/50K LED Wall Pack WAX-90-120W-MCTP-BK,WAX-90-120W-MCTP-SIL,1,Part_010,نیازمند تأیید QC
 98,https://www.lumeraelectric.com/products/westgate-6w-led-wall-step-light-wms-s,Westgate 6W LED Wall Step Light WMS-S,WMS-S-50K-WH,1,Part_010,نیازمند تأیید QC
-99,https://www.lumeraelectric.com/products/westgate-12w-6-in-square-led-slim-panel-lps-s6,Westgate 12W 6 in Square LED Slim Panel LPS-S6,LPS-S6-40K-D,2,Part_250,نیازمند تأیید QC
+99,https://www.lumeraelectric.com/products/westgate-12w-6-in-square-led-slim-panel-lps-s6,Westgate 12W 6 in Square LED Slim Panel LPS-S6,LPS-S6-50K-D,3,Part_251,نیازمند تأیید QC
 100,https://www.lumeraelectric.com/products/envision-smooth-trim-1,"EnVision – Smooth Trim 1""",DLJBX-1-TRIM-BLK-SQ,1,Part_010,نیازمند تأیید QC
 101,https://www.lumeraelectric.com/products/lutron-maestro-fan-control-2-a-rrd-2anf,Lutron Maestro Fan Control 2 A RRD-2ANF,RRD-2ANF-TP,8,Part_250,نیازمند تأیید QC
 102,https://www.lumeraelectric.com/products/lutron-ayfsq-f-al-multi,"Lutron Ariadni 3-Speed Fan Control 1.5 A, (AYFSQ-F-AL)",AYFSQ-F-IV,1,Part_011,نیازمند تأیید QC
@@ -126,7 +126,7 @@
 125,https://www.lumeraelectric.com/products/elco-lighting-ela99h-led-reflector-engine,"ELCO Lighting ELA99H 6"" Clear Reflector Cone, Haze",ELA99H,1,Part_163,نیازمند تأیید QC
 126,https://www.lumeraelectric.com/products/elco-lighting-2-inch-koto-sylo-wall-mount-e25a03-03,ELCO Lighting 2 Inch Koto Sylo Wall Mount E25A03-03,E25AB03-0330,1,Part_160,نیازمند تأیید QC
 127,https://www.lumeraelectric.com/products/elco-lighting-2-inch-koto-sylo-wall-mount-e25a07n-07t,ELCO Lighting 2 Inch Koto Sylo Wall Mount E25A07N-07T,E25AB07N-07T30,2,Part_250,نیازمند تأیید QC
-128,https://www.lumeraelectric.com/products/envision-smooth-trim-2,"EnVision – Smooth trim 2""",DLJBX-2-TRIM-BN-S,1,Part_164,نیازمند تأیید QC
+128,https://www.lumeraelectric.com/products/envision-smooth-trim-2,"EnVision – Smooth trim 2""",DLJBX-2-TRIM-CH-S,2,Part_251,نیازمند تأیید QC
 129,https://www.lumeraelectric.com/products/diode-led-linaire-flex-linear-led-light-24v-3-7w-ft-tube-360-16-4-ft-spool,Diode LED LINAIRE Flex Linear LED Light 24V 3 7W ft Tube 360 16 4 ft Spool,DI-24V-360-LIN-24-016,1,Part_164,نیازمند تأیید QC
 130,https://www.lumeraelectric.com/products/high-output-tape-light-ip54-100ft,High Output Tape Light IP54 100Ft,HTL-NW-100,1,Part_164,نیازمند تأیید QC
 131,https://www.lumeraelectric.com/products/arlington-industries-cedh1-wall-plate,Arlington Industries CEDH1 Wall Plate,CEDH1BL,1,Part_018,نیازمند تأیید QC
