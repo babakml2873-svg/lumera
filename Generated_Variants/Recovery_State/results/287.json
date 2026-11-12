@@ -1,0 +1,25 @@
+{
+  "index": 287,
+  "row": {
+    "نام محصول": "Orbit PVC NM Connector, 3/4 in NM75",
+    "برند": "Orbit",
+    "دسته‌بندی": "Electrical",
+    "زیردسته": "Conduit & Fittings",
+    "SKU هدف": "NM75",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/orbit-nm75-connector",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Part_298/Electrical/Conduit-Fittings/Orbit-PVC-NM-Connector,-3-4-in-NM75/NM75-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 53226,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: NM75 | Orbit PVC NM Connector, 3/4 in NM75 | https://www.lumeraelectric.com/products/orbit-nm75-connector",
+    "SHA-256 خروجی": "20529f5156a36868fdb9fbb51fda6f3529e0a320fd22b9441805074202f698f2",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-b6423ef1-615e-46cb-82b4-273a0fcfc4b8.png",
+  "reference_sha256": null
+}

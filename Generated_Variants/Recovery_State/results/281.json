@@ -1,0 +1,25 @@
+{
+  "index": 281,
+  "row": {
+    "نام محصول": "Orbit 3-1/2 in Liquid Tight Connector LT350",
+    "برند": "Orbit",
+    "دسته‌بندی": "Electrical",
+    "زیردسته": "Conduit & Fittings",
+    "SKU هدف": "LT350",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/orbit-lt350-connector",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Part_298/Electrical/Conduit-Fittings/Orbit-3-1-2-in-Liquid-Tight-Connector-LT350/LT350-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 67614,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: LT350 | Orbit 3-1/2 in Liquid Tight Connector LT350 | https://www.lumeraelectric.com/products/orbit-lt350-connector",
+    "SHA-256 خروجی": "cc325094eda4037ea1754e66e508d75abfd18c1100faadd58b601d0daddb0a91",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-1a1d338b-8fe7-4a2b-b3e7-4e5f734f9939.png",
+  "reference_sha256": null
+}
