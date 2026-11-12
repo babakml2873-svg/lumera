@@ -2,11 +2,15 @@
   "part": "Part_298",
   "part_size": 100,
   "planned_variant_SKUs": 91,
+  "planned_unique_QC_sheet_product_URLs": 67,
   "generated_files": 91,
   "not_generated": 0,
+  "generation_errors": 0,
   "complete": true,
-  "checkpoint_only": true,
   "QC_approved": 0,
-  "all_AI_QC_pending": true,
+  "unusable_until_exact_SKU_verification": 91,
+  "reference_based_images": 1,
+  "unreferenced_concepts": 90,
+  "source": "Immutable original GitHub reference files only; unreferenced concepts are unusable pending a real exact-SKU photograph.",
   "shopify_uploads": 0
 }
