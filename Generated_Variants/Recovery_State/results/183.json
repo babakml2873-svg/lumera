@@ -1,0 +1,25 @@
+{
+  "index": 183,
+  "row": {
+    "نام محصول": "Westgate LED Slim Recessed Light WF-DC-216-RC-6B-60-BK",
+    "برند": "Westgate",
+    "دسته‌بندی": "Lighting",
+    "زیردسته": "Recessed & Downlights / Retrofit & Canless Downlights",
+    "SKU هدف": "WF-DC-216-RC-6B-60-WH",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/westgate-wf-dc-216-rc-6b-60-led-slim-recessed-light",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Part_297/Lighting/Recessed-Downlights/Retrofit-Canless-Downlights/Westgate-LED-Slim-Recessed-Light-WF-DC-216-RC-6B-60-BK/WF-DC-216-RC-6B-60-WH-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 51792,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: WF-DC-216-RC-6B-60-WH | Westgate LED Slim Recessed Light WF-DC-216-RC-6B-60-BK | https://www.lumeraelectric.com/products/westgate-wf-dc-216-rc-6b-60-led-slim-recessed-light",
+    "SHA-256 خروجی": "1e8c26a470e31ee1d9384d172eace562ed4f50d29e46f6fb574b8783bd519627",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-f1968e95-cb41-4e62-832e-c45540b17886.png",
+  "reference_sha256": null
+}
