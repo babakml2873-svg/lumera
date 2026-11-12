@@ -1,0 +1,25 @@
+{
+  "index": 285,
+  "row": {
+    "نام محصول": "Orbit 3/8 in NM Liquid Tight Connector NMLT38",
+    "برند": "Orbit",
+    "دسته‌بندی": "Electrical",
+    "زیردسته": "Conduit & Fittings",
+    "SKU هدف": "NMLT38",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/orbit-nmlt38-connector",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Part_298/Electrical/Conduit-Fittings/Orbit-3-8-in-NM-Liquid-Tight-Connector-NMLT38/NMLT38-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 81969,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: NMLT38 | Orbit 3/8 in NM Liquid Tight Connector NMLT38 | https://www.lumeraelectric.com/products/orbit-nmlt38-connector",
+    "SHA-256 خروجی": "730f3cc325f8e9ef18b3a36b853a9d3ccf77911861c2dd09e106d7eadf55ec06",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-51d79de2-d028-4cf7-8688-512577de24d8.png",
+  "reference_sha256": null
+}

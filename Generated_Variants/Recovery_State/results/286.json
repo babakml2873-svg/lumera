@@ -1,0 +1,25 @@
+{
+  "index": 286,
+  "row": {
+    "نام محصول": "Orbit Grounding Locknut 3-1/2 in GL350",
+    "برند": "Orbit",
+    "دسته‌بندی": "Electrical",
+    "زیردسته": "Conduit & Fittings",
+    "SKU هدف": "GL350",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/orbit-gl350-locknut",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Part_298/Electrical/Conduit-Fittings/Orbit-Grounding-Locknut-3-1-2-in-GL350/GL350-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 88393,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: GL350 | Orbit Grounding Locknut 3-1/2 in GL350 | https://www.lumeraelectric.com/products/orbit-gl350-locknut",
+    "SHA-256 خروجی": "5b66225a504e1f71325f4286afde2af8a1995c8abd9a5a33fe2cdc9f236f496b",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-e9ef0f1c-3b1d-4a9d-b465-c51b1a4fdc6a.png",
+  "reference_sha256": null
+}
