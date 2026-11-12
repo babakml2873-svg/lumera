@@ -1,0 +1,25 @@
+{
+  "index": 103,
+  "row": {
+    "نام محصول": "Nora Lighting NPR-4RNB30XBB 4\" Pearl LED Round Bullnose Retrofit, 1000lm / 12W, 3000K, Finish",
+    "برند": "Nora Lighting",
+    "دسته‌بندی": "Lighting",
+    "زیردسته": "Recessed & Downlights / Retrofit & Canless Downlights",
+    "SKU هدف": "NPR-4RNB30XWW",
+    "ویژگی یا رنگ واریانت هدف": "رنگ/پرداخت هدف مستند نشد؛ حفظ رنگ مرجع",
+    "لینک محصول": "https://www.lumeraelectric.com/products/nora-lighting-npr-4rnb30xbb-led-retrofit-downlight-multi",
+    "SKU مرجع": "NPR-4RNB30XBB",
+    "لینک تصویر مرجع گیت‌هاب": "https://github.com/babakml2873-svg/lumera/blob/22d81bfc2b60b79cea477ebd0c7b4f90d8faec42/Output/List_1/Nora_Lighting/NPR-4RNB30XBB-G-01.jpg",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Part_297/Lighting/Recessed-Downlights/Retrofit-Canless-Downlights/Nora-Lighting-NPR-4RNB30XBB-4\"-Pearl-LED-Round-Bullnose-Retrofit,-1000lm-12W,-3000K,-Finish/NPR-4RNB30XWW-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 80965,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. مرجع ساختاری از فایل اصلی گیت‌هاب و همان خانواده محصول در داده‌های QC بررسی شد. رنگ هدف مستند نیست؛ رنگ واقعی مرجع حفظ می‌شود و از کد SKU حدس زده نمی‌شود. Complete rendered round silver reflector with black finned engine, side pale mounting tab, red/blue wires and visible fasteners. Preserve exact visible assembly and finish.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: NPR-4RNB30XWW | Nora Lighting NPR-4RNB30XBB 4\" Pearl LED Round Bullnose Retrofit, 1000lm / 12W, 3000K, Finish | https://www.lumeraelectric.com/products/nora-lighting-npr-4rnb30xbb-led-retrofit-downlight-multi | Source immutable GitHub SHA256 dcee4100a2c17bcbef13843236ccddfd6fd29310d6503177430242d358e9e9b6",
+    "SHA-256 خروجی": "c05329f8ef2d13943ede3514ad5a9d829730268549146f97b77fe79e87d0ecd0",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-56c692ac-f13f-4fe6-a037-d4db23600f22.png",
+  "reference_sha256": "dcee4100a2c17bcbef13843236ccddfd6fd29310d6503177430242d358e9e9b6"
+}
