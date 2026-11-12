@@ -1,0 +1,25 @@
+{
+  "index": 143,
+  "row": {
+    "نام محصول": "Nora Lighting NPRLV-4RGCDXBB 4\" Pearl Low Voltage LED Round Adjustable Gimbal Retrofit, 600lm / 11W, Comfort Dim, Finish",
+    "برند": "Nora Lighting",
+    "دسته‌بندی": "Lighting",
+    "زیردسته": "Recessed & Downlights / Retrofit & Canless Downlights",
+    "SKU هدف": "NPRLV-4RGCDXBZ",
+    "ویژگی یا رنگ واریانت هدف": "رنگ/پرداخت هدف مستند نشد؛ حفظ رنگ مرجع",
+    "لینک محصول": "https://www.lumeraelectric.com/products/nora-lighting-nprlv-4rgcdxbb-led-retrofit-downlight-multi",
+    "SKU مرجع": "NPRLV-4RGCDXBB",
+    "لینک تصویر مرجع گیت‌هاب": "https://github.com/babakml2873-svg/lumera/blob/22d81bfc2b60b79cea477ebd0c7b4f90d8faec42/Output/List_1/Nora_Lighting/NPRLV-4RGCDXBB-G-01.jpg",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Part_297/Lighting/Recessed-Downlights/Retrofit-Canless-Downlights/Nora-Lighting-NPRLV-4RGCDXBB-4\"-Pearl-Low-Voltage-LED-Round-Adjustable-Gimbal-Retrofit,-600lm-11W,-Comfort-Dim,-Finish/NPRLV-4RGCDXBZ-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 90352,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. مرجع ساختاری از فایل اصلی گیت‌هاب و همان خانواده محصول در داده‌های QC بررسی شد. رنگ هدف مستند نیست؛ رنگ واقعی مرجع حفظ می‌شود و از کد SKU حدس زده نمی‌شود. Complete rendered round silver gimbal, black finned engine, side tabs, red loop and two long pale/dark leads ending at a small pale connector with visible pins. Preserve every wire, pin and connector location.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: NPRLV-4RGCDXBZ | Nora Lighting NPRLV-4RGCDXBB 4\" Pearl Low Voltage LED Round Adjustable Gimbal Retrofit, 600lm / 11W, Comfort Dim, Finish | https://www.lumeraelectric.com/products/nora-lighting-nprlv-4rgcdxbb-led-retrofit-downlight-multi | Source immutable GitHub SHA256 3b72706f858d6cb3fe724ea267db1ecaad9a351214f335105954b2ac3291224e",
+    "SHA-256 خروجی": "ad791290d3e6117ee6bad24ccbd61c3b415c631b1136003b2a2fc5a1a3ab10c4",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-c7e2b081-b10f-4251-9c17-d9c84a4abcf8.png",
+  "reference_sha256": "3b72706f858d6cb3fe724ea267db1ecaad9a351214f335105954b2ac3291224e"
+}
