@@ -1,0 +1,25 @@
+{
+  "index": 184,
+  "row": {
+    "نام محصول": "Flexbrite 1 2in 150ft Reel with Conkit",
+    "برند": "American Lighting",
+    "دسته‌بندی": "Lighting",
+    "زیردسته": "Tape, Rope & Ribbon",
+    "SKU هدف": "ULRL-LED-WW-KIT",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/flexbrite-1-2in-150ft-reel-with-conkit",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Lighting/Tape,-Rope-Ribbon/American_Lighting/ULRL-LED-WW-KIT-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 71724,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: ULRL-LED-WW-KIT | Flexbrite 1 2in 150ft Reel with Conkit | https://www.lumeraelectric.com/products/flexbrite-1-2in-150ft-reel-with-conkit",
+    "SHA-256 خروجی": "c65a82f2bd8acc695ad4379fdc9a3a59060555083e441c32f106cb8b91a0968a",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-77942d6c-04b6-416e-8a77-6d3497984ea7.png",
+  "reference_sha256": null
+}

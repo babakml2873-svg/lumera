@@ -1,0 +1,12 @@
+{
+  "active_part": "Part_298",
+  "saved_images_in_active_part": 91,
+  "target_images_in_active_part": 91,
+  "complete": true,
+  "all_AI_QC_pending": true,
+  "purpose": "Recovery state; per-part status records completion and all AI outputs still require QC.",
+  "bootstrap": "Generated_Variants/Reports/Recovery_State/bootstrap.zip",
+  "result_metadata": "Generated_Variants/Reports/Recovery_State/results/",
+  "generation_finished": true,
+  "archive_notice": "Generation recovery snapshot predates category/brand reorganization; current output paths are in Reports/Overall_report.csv. Do not restart the archived batch generator."
+}

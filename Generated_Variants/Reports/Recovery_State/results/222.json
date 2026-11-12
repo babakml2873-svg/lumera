@@ -1,0 +1,25 @@
+{
+  "index": 222,
+  "row": {
+    "نام محصول": "Orbit 20A Duplex Receptacle Sg R20",
+    "برند": "Orbit",
+    "دسته‌بندی": "Receptacle",
+    "زیردسته": "",
+    "SKU هدف": "R20SW",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/orbit-20a-duplex-receptacle-sg-r20",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Receptacle/Orbit/R20SW-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 58413,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: R20SW | Orbit 20A Duplex Receptacle Sg R20 | https://www.lumeraelectric.com/products/orbit-20a-duplex-receptacle-sg-r20",
+    "SHA-256 خروجی": "b91ca2e159a5a22c9a03d12d4997266bf2f16edfb695e914b2e89d94d7c3cdcd",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-b0843e4d-32ad-4915-9347-71c54ab4f161.png",
+  "reference_sha256": null
+}

@@ -1,0 +1,25 @@
+{
+  "index": 193,
+  "row": {
+    "نام محصول": "Lighting Spot 26 65.6ft. 24V LED Tape Light LS-TPC463W-24V-20M",
+    "برند": "Lighting Spot 26",
+    "دسته‌بندی": "Lighting",
+    "زیردسته": "Tape, Rope & Ribbon / Tape Light",
+    "SKU هدف": "LS-TPC463W-24V-20M-5K",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/lighting-spot-26-65-6ft-24v-led-tape-light-ls-tpc463w-24v-20m",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Lighting/Tape,-Rope-Ribbon/Tape-Light/Lighting_Spot_26/LS-TPC463W-24V-20M-5K-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 99518,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: LS-TPC463W-24V-20M-5K | Lighting Spot 26 65.6ft. 24V LED Tape Light LS-TPC463W-24V-20M | https://www.lumeraelectric.com/products/lighting-spot-26-65-6ft-24v-led-tape-light-ls-tpc463w-24v-20m",
+    "SHA-256 خروجی": "ecdc56afa1ce9e148195f1596db8a1e4c91e3b6095125f8dfdc85736d7b7d5c2",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-7be6d962-cb72-4c81-9b80-0977f02853c1.png",
+  "reference_sha256": null
+}

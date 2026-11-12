@@ -1,0 +1,25 @@
+{
+  "index": 256,
+  "row": {
+    "نام محصول": "Enerlites Residential Lighted Toggle Switch 15A 120/277V",
+    "برند": "Enerlites",
+    "دسته‌بندی": "Switches",
+    "زیردسته": "",
+    "SKU هدف": "88115L-W",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/enerlites-enerlites-residential-lighted-toggle-switch-15a-120-277v",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Switches/Enerlites/88115L-W-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 62071,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: 88115L-W | Enerlites Residential Lighted Toggle Switch 15A 120/277V | https://www.lumeraelectric.com/products/enerlites-enerlites-residential-lighted-toggle-switch-15a-120-277v",
+    "SHA-256 خروجی": "ba542038515159d0dab1680ea5fe9151c1ec54103f36dd86bcec1c915b2e2936",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-a37354d6-e1bd-486e-a98a-ebb55ee3e183.png",
+  "reference_sha256": null
+}

@@ -1,0 +1,25 @@
+{
+  "index": 275,
+  "row": {
+    "نام محصول": "Orbit 4S 1/2 in Raised Toggle Switch Industrial Cover 4401",
+    "برند": "Orbit",
+    "دسته‌بندی": "Electrical",
+    "زیردسته": "Boxes & Enclosures / Electrical Box Covers and Rings",
+    "SKU هدف": "'4401",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/orbit-4401-4s-industrial-cover",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Electrical/Boxes-Enclosures/Electrical-Box-Covers-and-Rings/Orbit/'4401-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 72267,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: '4401 | Orbit 4S 1/2 in Raised Toggle Switch Industrial Cover 4401 | https://www.lumeraelectric.com/products/orbit-4401-4s-industrial-cover",
+    "SHA-256 خروجی": "20c8d16d5ef0572662fafc3fd6483524b8ffce91a895890582ee03c3a57d76a5",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-8523adb0-1460-43ef-b22c-c6fb91aec482.png",
+  "reference_sha256": null
+}

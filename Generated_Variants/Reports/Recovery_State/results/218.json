@@ -1,0 +1,25 @@
+{
+  "index": 218,
+  "row": {
+    "نام محصول": "Orbit 15A 250V Single Receptacle SR15250",
+    "برند": "Orbit",
+    "دسته‌بندی": "Receptacle",
+    "زیردسته": "",
+    "SKU هدف": "SR15250W",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/orbit-15a-250v-single-receptacle-sr15250",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Receptacle/Orbit/SR15250W-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 61113,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: SR15250W | Orbit 15A 250V Single Receptacle SR15250 | https://www.lumeraelectric.com/products/orbit-15a-250v-single-receptacle-sr15250",
+    "SHA-256 خروجی": "93abaa8ccbe4fe5205b76207ce3eaec2bb8d863f22e3895af2631a0b1b35e7c3",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-5896ccdd-970b-4ca4-8a24-644c1551a556.png",
+  "reference_sha256": null
+}

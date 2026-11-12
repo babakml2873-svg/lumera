@@ -1,0 +1,25 @@
+{
+  "index": 279,
+  "row": {
+    "نام محصول": "Orbit 1-1/4 in NM Str Liquid Tight Connector NMLT125",
+    "برند": "Orbit",
+    "دسته‌بندی": "Electrical",
+    "زیردسته": "Conduit & Fittings",
+    "SKU هدف": "NMLT125",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/orbit-nmlt125-connector",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Electrical/Conduit-Fittings/Orbit/NMLT125-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 93301,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: NMLT125 | Orbit 1-1/4 in NM Str Liquid Tight Connector NMLT125 | https://www.lumeraelectric.com/products/orbit-nmlt125-connector",
+    "SHA-256 خروجی": "3ad2a1611ca626ecee6635e65785ecfe67b324e6726fbf3093eb061f1eb7fa8b",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-e30704ce-4b9e-4834-9b4f-e6114c308772.png",
+  "reference_sha256": null
+}

@@ -1,0 +1,25 @@
+{
+  "index": 252,
+  "row": {
+    "نام محصول": "Orbit 6G Wall Plate Switch OP6",
+    "برند": "Orbit",
+    "دسته‌بندی": "Switch",
+    "زیردسته": "",
+    "SKU هدف": "OP6W",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/orbit-6g-wall-plate-switch-op6",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Switch/Orbit/OP6W-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 51378,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: OP6W | Orbit 6G Wall Plate Switch OP6 | https://www.lumeraelectric.com/products/orbit-6g-wall-plate-switch-op6",
+    "SHA-256 خروجی": "c0084c19cc9c4134c7d19ff09b39c3da94290079ad94c638f30507ade6020a71",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-7dfa3a7e-717e-4c66-8021-b5eb8ee53e85.png",
+  "reference_sha256": null
+}

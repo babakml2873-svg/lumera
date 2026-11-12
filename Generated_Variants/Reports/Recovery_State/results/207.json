@@ -1,0 +1,25 @@
+{
+  "index": 207,
+  "row": {
+    "نام محصول": "Enerlites Commercial Heavy-Duty Antimicrobial Toggle Switch Single Pole 20A 120/277V 81201A",
+    "برند": "Enerlites",
+    "دسته‌بندی": "Lighting Controls",
+    "زیردسته": "Switches / Standard Switches",
+    "SKU هدف": "81201A-W",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/enerlites-commercial-heavy-duty-antimicrobial-toggle-switch-single-pole-20a-120-277v-81201a",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Lighting-Controls/Switches/Standard-Switches/Enerlites/81201A-W-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 58362,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: 81201A-W | Enerlites Commercial Heavy-Duty Antimicrobial Toggle Switch Single Pole 20A 120/277V 81201A | https://www.lumeraelectric.com/products/enerlites-commercial-heavy-duty-antimicrobial-toggle-switch-single-pole-20a-120-277v-81201a",
+    "SHA-256 خروجی": "f903d51c2776756ba645914906c71a6a2ffba3839b99878346952eed589b393e",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-a6de1095-26a6-42a3-be67-19b64a1c380f.png",
+  "reference_sha256": null
+}

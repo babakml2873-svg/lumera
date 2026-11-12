@@ -1,0 +1,25 @@
+{
+  "index": 209,
+  "row": {
+    "نام محصول": "Orbit 600W Timer Ready 12V Lighting Transformer TRT600",
+    "برند": "Orbit",
+    "دسته‌بندی": "Lighting Transformer",
+    "زیردسته": "",
+    "SKU هدف": "TRT600SS",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/orbit-600w-timer-ready-12v-lighting-transformer-trt600",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Lighting-Transformer/Orbit/TRT600SS-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 54439,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: TRT600SS | Orbit 600W Timer Ready 12V Lighting Transformer TRT600 | https://www.lumeraelectric.com/products/orbit-600w-timer-ready-12v-lighting-transformer-trt600",
+    "SHA-256 خروجی": "b87bc14c399e1e16a09803db91c89f521822fa283cf407f96173eddd069690b1",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-d45990eb-9efd-439e-85be-e19bbc8ed22f.png",
+  "reference_sha256": null
+}

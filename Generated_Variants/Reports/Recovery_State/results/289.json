@@ -1,0 +1,25 @@
+{
+  "index": 289,
+  "row": {
+    "نام محصول": "Lew Electric 504 Brass Floor Box Cover",
+    "برند": "Lew Electric",
+    "دسته‌بندی": "Electrical",
+    "زیردسته": "Wiring Devices / Floor Boxes",
+    "SKU هدف": "'504",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/lew-electric-504",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Electrical/Wiring-Devices/Floor-Boxes/Lew_Electric/'504-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 84776,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: '504 | Lew Electric 504 Brass Floor Box Cover | https://www.lumeraelectric.com/products/lew-electric-504",
+    "SHA-256 خروجی": "d3e19b288b11d07ea93985a5d253d4aaa6aa9dd57e767adb80e6f744072abd8c",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-cab1078c-ac56-478d-ae1a-e842787159a6.png",
+  "reference_sha256": null
+}

@@ -1,0 +1,25 @@
+{
+  "index": 134,
+  "row": {
+    "نام محصول": "Nora Lighting NPR-4SNBCDXBB 4\" Pearl LED Square Bullnose Retrofit, 800lm / 12W, Comfort Dim, Finish",
+    "برند": "Nora Lighting",
+    "دسته‌بندی": "Lighting",
+    "زیردسته": "Recessed & Downlights / Retrofit & Canless Downlights",
+    "SKU هدف": "NPR-4SNBCDXWW",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/nora-lighting-npr-4snbcdxbb-led-retrofit-downlight-multi",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Lighting/Recessed-Downlights/Retrofit-Canless-Downlights/Nora_Lighting/NPR-4SNBCDXWW-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 43736,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست. نامزدهای بررسی‌شده: https://github.com/babakml2873-svg/lumera/blob/22d81bfc2b60b79cea477ebd0c7b4f90d8faec42/Output/List_1/Nora_Lighting/NPR-4SNBCDXBB-G-01.jpg [White lower aperture is not defined clearly enough to establish its geometry.] | https://github.com/babakml2873-svg/lumera/blob/22d81bfc2b60b79cea477ebd0c7b4f90d8faec42/Output/List_1/Nora_Lighting/NPR-4SNBCDXBB-G-02.jpg [White lower aperture is not defined clearly enough to establish its geometry.] | https://github.com/babakml2873-svg/lumera/blob/22d81bfc2b60b79cea477ebd0c7b4f90d8faec42/Output/List_1/Nora_Lighting/NPR-4SNBCDXBZ-G-01.jpg [White lower aperture is not defined clearly enough to establish its geometry.]",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: NPR-4SNBCDXWW | Nora Lighting NPR-4SNBCDXBB 4\" Pearl LED Square Bullnose Retrofit, 800lm / 12W, Comfort Dim, Finish | https://www.lumeraelectric.com/products/nora-lighting-npr-4snbcdxbb-led-retrofit-downlight-multi",
+    "SHA-256 خروجی": "14d1d50641bb75e43720378cab5bd996b9f595b1dfce168c67e6e603cb5468c9",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-5b6e7d55-96e9-4c6d-9719-0f7d76e92a3e.png",
+  "reference_sha256": null
+}

@@ -1,0 +1,23 @@
+{
+  "images_reorganized": 16991,
+  "brands": 41,
+  "category_brand_groups": 455,
+  "image_bytes_changed": 0,
+  "images_lost_or_overwritten": 0,
+  "QC_status_changes": 0,
+  "original_reference_files_changed": 0,
+  "new_images_generated": 0,
+  "part_wrappers_removed_from_image_paths": true,
+  "category_source": "Exact supplied QC category for the same brand/SKU and product URL; no category guessed",
+  "brand_folder_source": "Original reference folder spelling when an exact normalized brand match exists, otherwise sanitized QC brand",
+  "metadata_files_preserved": 763,
+  "report_files_updated": {
+    "csv": 326,
+    "json": 436
+  },
+  "source_branch": "generated-variants-20261106",
+  "source_commit": "24d92821957e3001728949f1a81c21d810bcb91d",
+  "new_branch": "generated-variants-category-brand-20261112",
+  "archived_recovery_zip_unchanged": true,
+  "all_AI_outputs_still_require_QC": true
+}

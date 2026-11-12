@@ -1,0 +1,25 @@
+{
+  "index": 257,
+  "row": {
+    "نام محصول": "Enerlites Residential Toggle Switch Lighted 3-Way 15A 120/277V",
+    "برند": "Enerlites",
+    "دسته‌بندی": "Switches",
+    "زیردسته": "",
+    "SKU هدف": "83150L-W",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/enerlites-enerlites-residential-toggle-switch-lighted-3-way-15a-120-277v",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Switches/Enerlites/83150L-W-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 60313,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: 83150L-W | Enerlites Residential Toggle Switch Lighted 3-Way 15A 120/277V | https://www.lumeraelectric.com/products/enerlites-enerlites-residential-toggle-switch-lighted-3-way-15a-120-277v",
+    "SHA-256 خروجی": "a952cea0bd41a91800a8c900dd18867b57583811b1be82da91ce59089b694e68",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-b0e479c3-f703-41c4-9dc1-e28488dd53d5.png",
+  "reference_sha256": null
+}

@@ -1,0 +1,25 @@
+{
+  "index": 267,
+  "row": {
+    "نام محصول": "Orbit Midi 2G Wall Plate Swdplx OPM18",
+    "برند": "Orbit",
+    "دسته‌بندی": "Wallplate",
+    "زیردسته": "",
+    "SKU هدف": "OPM18W",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/orbit-midi-2g-wall-plate-swdplx-opm18",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Wallplate/Orbit/OPM18W-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 42201,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: OPM18W | Orbit Midi 2G Wall Plate Swdplx OPM18 | https://www.lumeraelectric.com/products/orbit-midi-2g-wall-plate-swdplx-opm18",
+    "SHA-256 خروجی": "8711f677813e35cf5cbd20222b5f0268df2d33d236dd4739959cb5563e6f7bf5",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-d9bd2f9d-efd0-4009-8b29-420f88285c1a.png",
+  "reference_sha256": null
+}

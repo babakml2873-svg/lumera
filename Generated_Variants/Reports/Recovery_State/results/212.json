@@ -1,0 +1,25 @@
+{
+  "index": 212,
+  "row": {
+    "نام محصول": "Orbit Opt Visor for PAR38 Bullet W Glass",
+    "برند": "Orbit",
+    "دسته‌بندی": "Opt Visor for PAR38 Bullet with Glass",
+    "زیردسته": "",
+    "SKU هدف": "38VBR",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/orbit-orbit-opt-visor-for-par38-bullet-w-glass",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Opt-Visor-for-PAR38-Bullet-with-Glass/Orbit/38VBR-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 65055,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: 38VBR | Orbit Opt Visor for PAR38 Bullet W Glass | https://www.lumeraelectric.com/products/orbit-orbit-opt-visor-for-par38-bullet-w-glass",
+    "SHA-256 خروجی": "1839e7321e22cbb398e71b50b5b7194c5cfe473d351b17a8e08c7b92a130df1c",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-cd71724c-29f9-4a7e-beea-b8137ea064eb.png",
+  "reference_sha256": null
+}

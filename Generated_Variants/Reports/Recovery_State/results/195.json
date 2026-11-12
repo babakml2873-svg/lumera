@@ -1,0 +1,25 @@
+{
+  "index": 195,
+  "row": {
+    "نام محصول": "Lighting Spot 26 2 in. 50W 6250lm Lighting Accessory LSH-FL50W-A-3CCT",
+    "برند": "Lighting Spot 26",
+    "دسته‌بندی": "Lighting Accessory",
+    "زیردسته": "",
+    "SKU هدف": "LSH-FL50W-A-3CCT-WH",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/lighting-spot-26-2-in-50w-6250lm-lighting-accessory-lsh-fl50w-a-3cct",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Lighting-Accessory/Lighting_Spot_26/LSH-FL50W-A-3CCT-WH-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 57495,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: LSH-FL50W-A-3CCT-WH | Lighting Spot 26 2 in. 50W 6250lm Lighting Accessory LSH-FL50W-A-3CCT | https://www.lumeraelectric.com/products/lighting-spot-26-2-in-50w-6250lm-lighting-accessory-lsh-fl50w-a-3cct",
+    "SHA-256 خروجی": "1df3df40eb55b6b724aef7a89492aa71b736f3a567997b24a254115dcd78993b",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-1e0cdb3d-3ad5-4070-8924-37ce5bbe2bd1.png",
+  "reference_sha256": null
+}

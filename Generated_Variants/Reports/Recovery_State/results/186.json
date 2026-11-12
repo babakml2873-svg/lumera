@@ -1,0 +1,25 @@
+{
+  "index": 186,
+  "row": {
+    "نام محصول": "Lighting Spot 26 16.4ft. 24V LED Tape Light LS-TPC2.5W-24V-5M",
+    "برند": "Lighting Spot 26",
+    "دسته‌بندی": "Lighting",
+    "زیردسته": "Tape, Rope & Ribbon / Tape Light",
+    "SKU هدف": "LS-TPC2.5W-24V-5M-5K",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/lighting-spot-26-16-4ft-24v-led-tape-light-ls-tpc2-5w-24v-5m",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Lighting/Tape,-Rope-Ribbon/Tape-Light/Lighting_Spot_26/LS-TPC2.5W-24V-5M-5K-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 83622,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: LS-TPC2.5W-24V-5M-5K | Lighting Spot 26 16.4ft. 24V LED Tape Light LS-TPC2.5W-24V-5M | https://www.lumeraelectric.com/products/lighting-spot-26-16-4ft-24v-led-tape-light-ls-tpc2-5w-24v-5m",
+    "SHA-256 خروجی": "f9fd0bd8ff8f5952fc21adccb3ab7f1ffab26d83f331355b33dd99a3090bf306",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-2b026bcf-73bb-425e-9b93-e46c9098ee57.png",
+  "reference_sha256": null
+}
