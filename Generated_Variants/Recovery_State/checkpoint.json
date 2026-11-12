@@ -1,9 +1,10 @@
 {
   "active_part": "Part_296",
-  "saved_images_in_active_part": 69,
+  "saved_images_in_active_part": 83,
   "target_images_in_active_part": 100,
+  "complete": false,
   "all_AI_QC_pending": true,
-  "purpose": "Recovery checkpoint; partial part is not announced as completed.",
+  "purpose": "Recovery state; per-part status records completion and all AI outputs still require QC.",
   "bootstrap": "Recovery_State/bootstrap.zip",
   "result_metadata": "Recovery_State/results/"
 }

@@ -1,0 +1,25 @@
+{
+  "index": 72,
+  "row": {
+    "نام محصول": "Nora Lighting NLCBC2-65335BZBZ/ALE4 6\" Cobalt Click Square Retrofit Reflector with Round Aperture, 750lm / 10W, 3500K, Reflector / Flange, 120-277V input; Phase or 0-10V dimming",
+    "برند": "Nora Lighting",
+    "دسته‌بندی": "Lighting",
+    "زیردسته": "Recessed & Downlights / Retrofit & Canless Downlights",
+    "SKU هدف": "NLCBC2-65335WW/ALE4",
+    "ویژگی یا رنگ واریانت هدف": "رنگ/پرداخت هدف مستند نشد؛ حفظ رنگ مرجع",
+    "لینک محصول": "https://www.lumeraelectric.com/products/nora-lighting-nlcbc2-65335bzbz-ale4-led-retrofit-reflector-multi",
+    "SKU مرجع": "NLCBC2-65335BZBZ/ALE4",
+    "لینک تصویر مرجع گیت‌هاب": "https://github.com/babakml2873-svg/lumera/blob/22d81bfc2b60b79cea477ebd0c7b4f90d8faec42/Output/List_1/Nora_Lighting/NLCBC2-65335BZBZ-ALE4-G-01.jpg",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Part_296/Lighting/Recessed-Downlights/Retrofit-Canless-Downlights/Nora-Lighting-NLCBC2-65335BZBZ-ALE4-6\"-Cobalt-Click-Square-Retrofit-Reflector-with-Round-Aperture,-750lm-10W,-3500K,-Reflector-Flange,-120-277V-input;-Phase-or-0-10V-dimming/NLCBC2-65335WW-ALE4-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 81170,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. مرجع ساختاری از فایل اصلی گیت‌هاب و همان خانواده محصول در داده‌های QC بررسی شد. رنگ هدف مستند نیست؛ رنگ واقعی مرجع حفظ می‌شود و از کد SKU حدس زده نمی‌شود. Square pale flange with round pale opening, shallow rear body/fins and visible side spring arm. Preserve only visible hardware; do not invent hidden additional arms.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: NLCBC2-65335WW/ALE4 | Nora Lighting NLCBC2-65335BZBZ/ALE4 6\" Cobalt Click Square Retrofit Reflector with Round Aperture, 750lm / 10W, 3500K, Reflector / Flange, 120-277V input; Phase or 0-10V dimming | https://www.lumeraelectric.com/products/nora-lighting-nlcbc2-65335bzbz-ale4-led-retrofit-reflector-multi | Source immutable GitHub SHA256 f6bddf93d8be9e54eb04fe62e76190e56284be2a388602294e4d75ac15f03b4d",
+    "SHA-256 خروجی": "3d0a675740c49d01ccb506c81dd9e75d9728d8912087ac41ac643a45912b0fae",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-060d300a-063b-4e0e-a591-687ebf919575.png",
+  "reference_sha256": "f6bddf93d8be9e54eb04fe62e76190e56284be2a388602294e4d75ac15f03b4d"
+}
