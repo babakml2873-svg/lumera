@@ -1,0 +1,15 @@
+{
+  "part": "Part_288",
+  "part_size": 100,
+  "planned_variant_SKUs": 100,
+  "planned_unique_QC_sheet_product_URLs": 31,
+  "generated_files": 100,
+  "not_generated": 0,
+  "generation_errors": 0,
+  "complete": true,
+  "QC_approved": 0,
+  "unusable_until_exact_SKU_verification": 100,
+  "source": "GitHub reference files only; unreferenced concepts have blank reference links and are unusable pending an actual product photo.",
+  "count_definition": "One file per brand/SKU identity; additional variants do not inflate unique product-URL counts.",
+  "shopify_uploads": 0
+}
