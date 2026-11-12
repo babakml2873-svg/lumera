@@ -1,0 +1,25 @@
+{
+  "index": 264,
+  "row": {
+    "نام محصول": "Orbit 4G Wall Plate Duplex OP84",
+    "برند": "Orbit",
+    "دسته‌بندی": "Wallplate",
+    "زیردسته": "",
+    "SKU هدف": "OP84W",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/orbit-4g-wall-plate-duplex-op84",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Part_298/Wallplate/Orbit-4G-Wall-Plate-Duplex-OP84/OP84W-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 40574,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: OP84W | Orbit 4G Wall Plate Duplex OP84 | https://www.lumeraelectric.com/products/orbit-4g-wall-plate-duplex-op84",
+    "SHA-256 خروجی": "22ca8839b1b5df76cc24a584f44a9a8b4956aba1481fe5872c9e626f4879ad47",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-98fcbc84-0487-48c9-8091-c4a1f6a3f786.png",
+  "reference_sha256": null
+}

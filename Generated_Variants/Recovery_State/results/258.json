@@ -1,0 +1,25 @@
+{
+  "index": 258,
+  "row": {
+    "نام محصول": "Orbit 1G Screwless Wall Plate OPS26",
+    "برند": "Orbit",
+    "دسته‌بندی": "Wallplate",
+    "زیردسته": "",
+    "SKU هدف": "OPS26BK",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/orbit-1g-screwless-wall-plate-ops26",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Part_298/Wallplate/Orbit-1G-Screwless-Wall-Plate-OPS26/OPS26BK-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 43257,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: OPS26BK | Orbit 1G Screwless Wall Plate OPS26 | https://www.lumeraelectric.com/products/orbit-1g-screwless-wall-plate-ops26",
+    "SHA-256 خروجی": "018a9d6dcfdc6dc323e48b624c5c47e3eb6866fae637775e145324507a614f06",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-2dc676cf-91e7-4277-9ee8-98c46a1f14e1.png",
+  "reference_sha256": null
+}
