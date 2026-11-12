@@ -1,0 +1,25 @@
+{
+  "index": 220,
+  "row": {
+    "نام محصول": "Orbit 20A 125V Single Receptacle Tamper Resistant SR20",
+    "برند": "Orbit",
+    "دسته‌بندی": "Receptacle",
+    "زیردسته": "",
+    "SKU هدف": "SR20TRW",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/orbit-20a-125v-single-receptacle-tamper-resistant-sr20",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Part_298/Receptacle/Orbit-20A-125V-Single-Receptacle-Tamper-Resistant-SR20/SR20TRW-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 56005,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: SR20TRW | Orbit 20A 125V Single Receptacle Tamper Resistant SR20 | https://www.lumeraelectric.com/products/orbit-20a-125v-single-receptacle-tamper-resistant-sr20",
+    "SHA-256 خروجی": "7a65a8f3188cd2ee6d30a7bf4aae77b02d81e626a6082f7839389bb24a50a5ec",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-f76e306a-640c-42b3-9039-7eee7a143bf5.png",
+  "reference_sha256": null
+}
