@@ -1,0 +1,309 @@
+{
+  "all_groups_thumbnail_screened": 1885,
+  "not_a_per_SKU_approval": true,
+  "findings_by_screen_index": {
+    "6": [
+      "multiple_views_or_swatch_or_diagram_detail: full reference review required; no composite replacement"
+    ],
+    "28": [
+      "multiple_views_or_swatch_or_diagram_detail: full reference review required; no composite replacement"
+    ],
+    "31": [
+      "multiple_views_or_swatch_or_diagram_detail: full reference review required; no composite replacement"
+    ],
+    "104": [
+      "multiple_views_or_swatch_or_diagram_detail: full reference review required; no composite replacement"
+    ],
+    "118": [
+      "multiple_views_or_swatch_or_diagram_detail: full reference review required; no composite replacement"
+    ],
+    "214": [
+      "multiple_views_or_swatch_or_diagram_detail: full reference review required; no composite replacement"
+    ],
+    "287": [
+      "multiple_views_or_swatch_or_diagram_detail: full reference review required; no composite replacement"
+    ],
+    "302": [
+      "multiple_views_or_swatch_or_diagram_detail: full reference review required; no composite replacement"
+    ],
+    "321": [
+      "multiple_views_or_swatch_or_diagram_detail: full reference review required; no composite replacement"
+    ],
+    "485": [
+      "multiple_views_or_swatch_or_diagram_detail: full reference review required; no composite replacement"
+    ],
+    "696": [
+      "multiple_views_or_swatch_or_diagram_detail: full reference review required; no composite replacement"
+    ],
+    "835": [
+      "multiple_views_or_swatch_or_diagram_detail: full reference review required; no composite replacement"
+    ],
+    "860": [
+      "multiple_views_or_swatch_or_diagram_detail: full reference review required; no composite replacement"
+    ],
+    "873": [
+      "multiple_views_or_swatch_or_diagram_detail: full reference review required; no composite replacement"
+    ],
+    "934": [
+      "multiple_views_or_swatch_or_diagram_detail: full reference review required; no composite replacement"
+    ],
+    "962": [
+      "multiple_views_or_swatch_or_diagram_detail: full reference review required; no composite replacement"
+    ],
+    "971": [
+      "multiple_views_or_swatch_or_diagram_detail: full reference review required; no composite replacement"
+    ],
+    "1046": [
+      "multiple_views_or_swatch_or_diagram_detail: full reference review required; no composite replacement"
+    ],
+    "1229": [
+      "multiple_views_or_swatch_or_diagram_detail: full reference review required; no composite replacement"
+    ],
+    "1261": [
+      "multiple_views_or_swatch_or_diagram_detail: full reference review required; no composite replacement"
+    ],
+    "1276": [
+      "multiple_views_or_swatch_or_diagram_detail: full reference review required; no composite replacement"
+    ],
+    "1282": [
+      "multiple_views_or_swatch_or_diagram_detail: full reference review required; no composite replacement"
+    ],
+    "1303": [
+      "multiple_views_or_swatch_or_diagram_detail: full reference review required; no composite replacement"
+    ],
+    "1336": [
+      "multiple_views_or_swatch_or_diagram_detail: full reference review required; no composite replacement"
+    ],
+    "1567": [
+      "multiple_views_or_swatch_or_diagram_detail: full reference review required; no composite replacement"
+    ],
+    "1693": [
+      "multiple_views_or_swatch_or_diagram_detail: full reference review required; no composite replacement"
+    ],
+    "1831": [
+      "multiple_views_or_swatch_or_diagram_detail: full reference review required; no composite replacement"
+    ],
+    "1844": [
+      "multiple_views_or_swatch_or_diagram_detail: full reference review required; no composite replacement"
+    ],
+    "73": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "158": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "170": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "254": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "257": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "415": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "419": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "477": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "540": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "617": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "649": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "722": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "727": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "731": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "734": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "781": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "827": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "916": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "945": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "967": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "972": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "1325": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "1346": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "1426": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "1501": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "1618": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "1639": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "1646": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "1701": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "1705": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "1707": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "1725": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "1730": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "1745": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "1755": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "1771": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "1865": [
+      "environment_or_installed_crop: isolate only if complete structure and SKU configuration verified"
+    ],
+    "175": [
+      "line_drawing_reference: photographic structure insufficient; do not invent details"
+    ],
+    "552": [
+      "line_drawing_reference: photographic structure insufficient; do not invent details"
+    ],
+    "796": [
+      "line_drawing_reference: photographic structure insufficient; do not invent details"
+    ],
+    "940": [
+      "line_drawing_reference: photographic structure insufficient; do not invent details"
+    ],
+    "1337": [
+      "line_drawing_reference: photographic structure insufficient; do not invent details"
+    ],
+    "1638": [
+      "line_drawing_reference: photographic structure insufficient; do not invent details"
+    ],
+    "1390": [
+      "placeholder_Product_Image_Not_Available: unusable reference"
+    ],
+    "1882": [
+      "visible_label_model_rating_requires_exact_SKU_verification: do not synthesize label or electrical ratings"
+    ],
+    "65": [
+      "possible_finish_or_component_mismatch: verify exact catalog attribute and full image before editing"
+    ],
+    "291": [
+      "possible_finish_or_component_mismatch: verify exact catalog attribute and full image before editing"
+    ],
+    "448": [
+      "possible_finish_or_component_mismatch: verify exact catalog attribute and full image before editing"
+    ],
+    "449": [
+      "possible_finish_or_component_mismatch: verify exact catalog attribute and full image before editing"
+    ],
+    "496": [
+      "possible_finish_or_component_mismatch: verify exact catalog attribute and full image before editing"
+    ],
+    "525": [
+      "possible_finish_or_component_mismatch: verify exact catalog attribute and full image before editing"
+    ],
+    "631": [
+      "possible_finish_or_component_mismatch: verify exact catalog attribute and full image before editing"
+    ],
+    "651": [
+      "possible_finish_or_component_mismatch: verify exact catalog attribute and full image before editing"
+    ],
+    "705": [
+      "possible_finish_or_component_mismatch: verify exact catalog attribute and full image before editing"
+    ],
+    "847": [
+      "possible_finish_or_component_mismatch: verify exact catalog attribute and full image before editing"
+    ],
+    "995": [
+      "possible_finish_or_component_mismatch: verify exact catalog attribute and full image before editing"
+    ],
+    "1036": [
+      "possible_finish_or_component_mismatch: verify exact catalog attribute and full image before editing"
+    ],
+    "1080": [
+      "possible_finish_or_component_mismatch: verify exact catalog attribute and full image before editing"
+    ],
+    "1138": [
+      "possible_finish_or_component_mismatch: verify exact catalog attribute and full image before editing"
+    ],
+    "1189": [
+      "possible_finish_or_component_mismatch: verify exact catalog attribute and full image before editing"
+    ],
+    "1228": [
+      "possible_finish_or_component_mismatch: verify exact catalog attribute and full image before editing"
+    ],
+    "1289": [
+      "possible_finish_or_component_mismatch: verify exact catalog attribute and full image before editing"
+    ],
+    "1333": [
+      "possible_finish_or_component_mismatch: verify exact catalog attribute and full image before editing"
+    ],
+    "1381": [
+      "possible_finish_or_component_mismatch: verify exact catalog attribute and full image before editing"
+    ],
+    "1409": [
+      "possible_finish_or_component_mismatch: verify exact catalog attribute and full image before editing"
+    ],
+    "1497": [
+      "possible_finish_or_component_mismatch: verify exact catalog attribute and full image before editing"
+    ],
+    "1536": [
+      "possible_finish_or_component_mismatch: verify exact catalog attribute and full image before editing"
+    ],
+    "1588": [
+      "possible_finish_or_component_mismatch: verify exact catalog attribute and full image before editing"
+    ],
+    "1625": [
+      "possible_finish_or_component_mismatch: verify exact catalog attribute and full image before editing"
+    ],
+    "1764": [
+      "possible_finish_or_component_mismatch: verify exact catalog attribute and full image before editing"
+    ],
+    "1791": [
+      "possible_finish_or_component_mismatch: verify exact catalog attribute and full image before editing"
+    ],
+    "1840": [
+      "possible_finish_or_component_mismatch: verify exact catalog attribute and full image before editing"
+    ],
+    "1841": [
+      "possible_finish_or_component_mismatch: verify exact catalog attribute and full image before editing"
+    ]
+  }
+}
