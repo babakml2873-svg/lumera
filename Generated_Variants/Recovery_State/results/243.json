@@ -1,0 +1,25 @@
+{
+  "index": 243,
+  "row": {
+    "نام محصول": "Orbit 15A Sp Stack Switch Rec. RTS15",
+    "برند": "Orbit",
+    "دسته‌بندی": "Switch",
+    "زیردسته": "",
+    "SKU هدف": "RTS15W",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/orbit-15a-sp-stack-switch-rec-rts15",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Part_298/Switch/Orbit-15A-Sp-Stack-Switch-Rec.-RTS15/RTS15W-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 52215,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: RTS15W | Orbit 15A Sp Stack Switch Rec. RTS15 | https://www.lumeraelectric.com/products/orbit-15a-sp-stack-switch-rec-rts15",
+    "SHA-256 خروجی": "ad19ea89e14512885813c16ff30eb6f3f0ade794224e451eeb78c10589f60df0",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-d89fda59-5f10-4b11-8a59-61a39a14e5cc.png",
+  "reference_sha256": null
+}
