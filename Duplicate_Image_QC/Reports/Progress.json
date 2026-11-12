@@ -4,19 +4,19 @@
   "excluded_sku_matches": 0,
   "source_sha256_verified": true,
   "visual_review": {
-    "thumbnail_screened_exact_SKU_validation_pending": 6596,
-    "full_reference_and_candidate_reviewed": 23,
+    "thumbnail_screened_exact_SKU_validation_pending": 6581,
+    "full_reference_and_candidate_reviewed": 38,
     "full_reference_reviewed": 3
   },
   "decisions": {
-    "pending": 6596,
-    "AI_replacement_candidate": 19,
-    "unusable_generated_candidate": 4,
+    "pending": 6581,
+    "AI_replacement_candidate": 33,
+    "unusable_generated_candidate": 5,
     "needs_reference_review": 3
   },
   "thumbnail_screened_groups": 1885,
   "thumbnail_screening_is_not_SKU_approval": true,
-  "generated_candidates": 23,
+  "generated_candidates": 38,
   "approved": 0,
   "complete": false,
   "original_base": "22d81bfc2b60b79cea477ebd0c7b4f90d8faec42",
