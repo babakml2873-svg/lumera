@@ -1,0 +1,25 @@
+{
+  "index": 210,
+  "row": {
+    "نام محصول": "Westgate 3W 300LM Low Voltage LED Replacement Lamp GZ-JC-300L",
+    "برند": "Westgate",
+    "دسته‌بندی": "Low Voltage LED Replacement Lamp",
+    "زیردسته": "",
+    "SKU هدف": "GZ-JC-300L-30K",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/westgate-3w-300lm-low-voltage-led-replacement-lamp-gz-jc-300l",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Part_298/Low-Voltage-LED-Replacement-Lamp/Westgate-3W-300LM-Low-Voltage-LED-Replacement-Lamp-GZ-JC-300L/GZ-JC-300L-30K-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 48957,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: GZ-JC-300L-30K | Westgate 3W 300LM Low Voltage LED Replacement Lamp GZ-JC-300L | https://www.lumeraelectric.com/products/westgate-3w-300lm-low-voltage-led-replacement-lamp-gz-jc-300l",
+    "SHA-256 خروجی": "aa49bd051d58ea382d4119d93ec146b05374ace0f3dcbc4b262b07a02f6a2193",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-306cb35c-d05e-4da6-b76a-ac0d8a4829a2.png",
+  "reference_sha256": null
+}

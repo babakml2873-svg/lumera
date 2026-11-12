@@ -1,0 +1,25 @@
+{
+  "index": 221,
+  "row": {
+    "نام محصول": "Orbit 20A 250V Single Receptacle SR20250",
+    "برند": "Orbit",
+    "دسته‌بندی": "Receptacle",
+    "زیردسته": "",
+    "SKU هدف": "SR20250W",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/orbit-20a-250v-single-receptacle-sr20250",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Part_298/Receptacle/Orbit-20A-250V-Single-Receptacle-SR20250/SR20250W-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 58666,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: SR20250W | Orbit 20A 250V Single Receptacle SR20250 | https://www.lumeraelectric.com/products/orbit-20a-250v-single-receptacle-sr20250",
+    "SHA-256 خروجی": "fde6a4f42a4cee701cdf05c45dbc3704d18b21412f47093848e278f85a167033",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-23ae2ffd-cb39-4f81-a2fa-43cf583b972e.png",
+  "reference_sha256": null
+}
