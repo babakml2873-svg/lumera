@@ -4,12 +4,15 @@
   "excluded_sku_matches": 0,
   "source_sha256_verified": true,
   "visual_review": {
-    "pending": 6622
+    "pending": 6617,
+    "full_reference_and_candidate_reviewed": 5
   },
   "decisions": {
-    "pending": 6622
+    "pending": 6617,
+    "AI_replacement_candidate": 4,
+    "unusable_generated_candidate": 1
   },
-  "generated_candidates": 0,
+  "generated_candidates": 5,
   "approved": 0,
   "complete": false,
   "original_base": "22d81bfc2b60b79cea477ebd0c7b4f90d8faec42",

@@ -830,7 +830,7 @@ Output/List_3/ELCO_Lighting/E36FS-1530-V.jpg
 Output/List_3/ELCO_Lighting/E36FS-1535-V.jpg
 Output/List_3/ELCO_Lighting/E36FS-1540-V.jpg","{""pending"": 10}","{""pending"": 10}"
 DUP-17A5A09EC0,17a5a09ec0d5a7aded6b4dbff7e362f1b1ec4a00801d3327ea605b2ca5a32e41,2,"Output/List_1/Lutron/RRD-HN2RLD-BL-V.jpg
-Output/List_1/Lutron/RRD-HN2RLD-BR-V.jpg","{""pending"": 2}","{""pending"": 2}"
+Output/List_1/Lutron/RRD-HN2RLD-BR-V.jpg","{""full_reference_and_candidate_reviewed"": 2}","{""AI_replacement_candidate"": 2}"
 DUP-18739B7079,18739b70799cdc519a9e557e2b3b03bf3c6ea45b747ddfa219c0b4a7b0103c6a,1,"Output/List_1/Alora_Mood/PD531515AGOP-UNV-V.jpg
 Output/List_1/Alora_Mood/PD531515AGOP-V.jpg","{""pending"": 1}","{""pending"": 1}"
 DUP-187593B063,187593b063710b6f29900d96c45a11120a17d4a46ccc881a7e99a3a9c474eebf,2,"Output/List_1/ELCO_Lighting/E261-27B-V.jpg
@@ -1266,7 +1266,7 @@ Output/List_1/Lutron/RRD-HN5BRL-LA-V.jpg
 Output/List_1/Lutron/RRD-HN5BRL-SW-V.jpg
 Output/List_1/Lutron/RRD-HN5BRL-TP-V.jpg
 Output/List_2/Lutron/RRD-HN5BRL-BI-V.jpg
-Output/List_2/Lutron/RRD-HN5BRL-MN-V.jpg","{""pending"": 10}","{""pending"": 10}"
+Output/List_2/Lutron/RRD-HN5BRL-MN-V.jpg","{""pending"": 9, ""full_reference_and_candidate_reviewed"": 1}","{""pending"": 9, ""AI_replacement_candidate"": 1}"
 DUP-25D177B680,25d177b6801b649c11b430dc8b34295506dc7d211606d83ab06b294721e84cfa,7,"Output/List_2/Morris/15532-V.jpg
 Output/List_2/Morris/15534-V.jpg
 Output/List_2/Morris/15535-V.jpg
@@ -1915,7 +1915,7 @@ Output/List_1/Nora_Lighting/NLCBC2-55240WW-A-V.jpg
 Output/List_1/Nora_Lighting/NLCBC2-55240WW-ALE4-V.jpg
 Output/List_3/Nora_Lighting/NLCBC2-55235WW-10EM-V.jpg","{""pending"": 16}","{""pending"": 16}"
 DUP-391390D1E4,391390d1e4ae2297610e7e26199a91010a9e15470c1df0a5296b248fc2635b34,2,"Output/List_1/Lutron/RRD-HN6BRL-BR-V.jpg
-Output/List_1/Lutron/RRD-HN6BRL-GR-V.jpg","{""pending"": 2}","{""pending"": 2}"
+Output/List_1/Lutron/RRD-HN6BRL-GR-V.jpg","{""full_reference_and_candidate_reviewed"": 1, ""pending"": 1}","{""unusable_generated_candidate"": 1, ""pending"": 1}"
 DUP-393C59E1CE,393c59e1ce2f889dffd9bc200dad403ce55b79e88e0551cb09ae5ce67ae476f1,7,"Output/List_1/Westgate/LVB-12-MCT-PC-V.jpg
 Output/List_1/Westgate/LVB-18-MCT-BN-V.jpg
 Output/List_1/Westgate/LVB-18-MCT-PC-V.jpg
@@ -3604,7 +3604,7 @@ Output/List_1/Lutron/RRD-W4S-TP-V.jpg
 Output/List_1/Lutron/RRD-W4S-WH-V.jpg
 Output/List_2/Lutron/RRD-W4S-BI-V.jpg
 Output/List_2/Lutron/RRD-W4S-MN-V.jpg
-Output/List_2/Lutron/RRD-W4S-PD-V.jpg","{""pending"": 12}","{""pending"": 12}"
+Output/List_2/Lutron/RRD-W4S-PD-V.jpg","{""pending"": 11, ""full_reference_and_candidate_reviewed"": 1}","{""pending"": 11, ""AI_replacement_candidate"": 1}"
 DUP-6351F59940,6351f599400812e92354b31ae4695bd8ea8da7e23cbbba9377c5eaaa829d3e71,1,"Output/List_1/Kuzco/PD52732-WT-UNV-V.jpg
 Output/List_1/Kuzco/PD52732-WT-V.jpg","{""pending"": 1}","{""pending"": 1}"
 DUP-636114EB6B,636114eb6b7f5c234410a8f755acab7597e47870bd5a07050c90907b994069a3,1,"Output/List_1/Kuzco/LP18648-BK-UNV-V.jpg
