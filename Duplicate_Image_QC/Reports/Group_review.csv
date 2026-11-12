@@ -330,7 +330,7 @@ Output/List_2/Lutron/ELDHCF-1K40-24-V.jpg","{""thumbnail_screened_exact_SKU_vali
 DUP-07F8F236B1,07f8f236b1ce60d4a2a1f7d4417b898badfd8be42d98b22aae50ce4e5174b8cc,4,"Output/List_1/ELCO_Lighting/EP817B-V.jpg
 Output/List_1/ELCO_Lighting/EP817BZ-V.jpg
 Output/List_1/ELCO_Lighting/EP817W-V.jpg
-Output/List_3/ELCO_Lighting/EP817N-V.jpg","{""full_reference_and_candidate_reviewed"": 3, ""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""unusable_generated_candidate"": 1, ""AI_replacement_candidate"": 2, ""pending"": 1}"
+Output/List_3/ELCO_Lighting/EP817N-V.jpg","{""full_reference_and_candidate_reviewed"": 3, ""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""AI_replacement_candidate"": 3, ""pending"": 1}"
 DUP-08220AECA8,08220aeca818497dc6272b4f9ae80b4ac908004ff6920e1922ffa99e80c67c02,2,"Output/List_2/Utopia_Lighting/Cube2-HC90Surface-V.jpg
 Output/List_2/Utopia_Lighting/Cube4-HC90Surface-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
 DUP-082892BF09,082892bf09e1ea7827c28689499562a8912dc76e7ae5bc798cc3ce5997667259,1,"Output/List_1/Kuzco/PD70615-CL-BG-UNV-V.jpg
@@ -1470,7 +1470,7 @@ Output/List_1/ELCO_Lighting/E1L02WF40BZ-V.jpg
 Output/List_1/ELCO_Lighting/E1L02WF40H-V.jpg
 Output/List_1/ELCO_Lighting/E1L02WFSDB-V.jpg
 Output/List_1/ELCO_Lighting/E1L02WFSDBB-V.jpg
-Output/List_1/ELCO_Lighting/E1L02WFSDH-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 20}","{""pending"": 20}"
+Output/List_1/ELCO_Lighting/E1L02WFSDH-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 13, ""full_reference_and_candidate_reviewed"": 4, ""full_reference_finish_reviewed_technical_QC_pending"": 3}","{""pending"": 13, ""AI_replacement_candidate"": 4, ""no_confirmed_finish_mismatch"": 3}"
 DUP-2E6DF695AF,2e6df695af3e714dbf784c8cf5b0bd3f67d0ad16ce4cea41c2654aa0ef6dcb16,2,"Output/List_3/ELCO_Lighting/E36PW-0327-V.jpg
 Output/List_3/ELCO_Lighting/E36PW-0330-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
 DUP-2E8D88E8FA,2e8d88e8fa1d77ce72c77fad6abd195c635d074d51d76061dd94c8bb72aae212,1,"Output/List_1/Kuzco/PD22332-BG-UNV-V.jpg
@@ -6352,7 +6352,7 @@ Output/List_2/Morris/14117-V.jpg
 Output/List_2/Morris/14118-V.jpg
 Output/List_2/Morris/14119-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 8}","{""pending"": 8}"
 DUP-B494D953E8,b494d953e8f707e8cf7d1d205209af324f767c9c94fe837fe0b264ac70dca761,2,"Output/List_1/ELCO_Lighting/EP2025B-V.jpg
-Output/List_1/ELCO_Lighting/EP2025W-V.jpg","{""full_reference_and_candidate_reviewed"": 1, ""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""unusable_generated_candidate"": 1, ""pending"": 1}"
+Output/List_1/ELCO_Lighting/EP2025W-V.jpg","{""full_reference_and_candidate_reviewed"": 1, ""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""AI_replacement_candidate"": 1, ""pending"": 1}"
 DUP-B4DFAADCF2,b4dfaadcf258ab34dd5ccd118a5317502dda5a23c9d6e23ac0fd6497f63c117a,3,"Output/List_3/Focus_Industries/RXA022TL12COP-V.jpg
 Output/List_3/Focus_Industries/RXA02FL12COP-V.jpg
 Output/List_3/Focus_Industries/RXA02L12COP-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 3}","{""pending"": 3}"

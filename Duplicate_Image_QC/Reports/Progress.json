@@ -4,20 +4,24 @@
   "excluded_sku_matches": 0,
   "source_sha256_verified": true,
   "visual_review": {
-    "thumbnail_screened_exact_SKU_validation_pending": 6542,
-    "full_reference_and_candidate_reviewed": 73,
+    "thumbnail_screened_exact_SKU_validation_pending": 6535,
+    "full_reference_and_candidate_reviewed": 77,
+    "full_reference_finish_reviewed_technical_QC_pending": 3,
     "full_reference_reviewed": 7
   },
   "decisions": {
-    "pending": 6542,
-    "AI_replacement_candidate": 68,
-    "unusable_generated_candidate": 5,
-    "needs_reference_review": 6,
-    "no_confirmed_finish_mismatch": 1
+    "pending": 6535,
+    "AI_replacement_candidate": 74,
+    "unusable_generated_candidate": 3,
+    "no_confirmed_finish_mismatch": 4,
+    "needs_reference_review": 6
   },
   "thumbnail_screened_groups": 1885,
   "thumbnail_screening_is_not_SKU_approval": true,
-  "generated_candidates": 73,
+  "generated_candidates": 77,
+  "candidate_files_including_rejected_attempts": 79,
+  "current_replacement_candidates": 74,
+  "rejected_attempt_files": 5,
   "approved": 0,
   "complete": false,
   "original_base": "22d81bfc2b60b79cea477ebd0c7b4f90d8faec42",
