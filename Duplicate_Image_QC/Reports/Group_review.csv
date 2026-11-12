@@ -25,7 +25,7 @@ Output/List_1/ELCO_Lighting/E1AK32NF30B-V.jpg
 Output/List_1/ELCO_Lighting/E1AK32WF27B-V.jpg
 Output/List_1/ELCO_Lighting/E1AK32WF30B-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 6}","{""pending"": 6}"
 DUP-00C02D0372,00c02d03726bb9d4658027d0fdedc5eb176a70dc07e57ae01dffc87557e5f421,1,"Output/List_1/Kuzco/LP18260-WH-UNV-V.jpg
-Output/List_1/Kuzco/LP18260-WH-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
+Output/List_1/Kuzco/LP18260-WH-V.jpg","{""full_reference_reviewed"": 1}","{""no_confirmed_finish_mismatch"": 1}"
 DUP-00D5ECE2B7,00d5ece2b739b200d060ee45a2a8374b6aad7f248d8d72f4adff05a8a958799e,1,"Output/List_1/Alora/PD336507VB-UNV-V.jpg
 Output/List_1/Alora/PD336507VB-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
 DUP-014EA72098,014ea72098c76fb9ab2b67f4ce8f14f73426ae184d89322e3e4578e1ff26a09b,1,"Output/List_1/Kuzco/FM10605-BK-UNV-V.jpg
@@ -855,7 +855,7 @@ DUP-1981E2F57C,1981e2f57c74d97e7fffc0a6ebe3b804f844a171ff5af31e2a4352df6bae92c6,
 Output/List_3/Nora_Lighting/NATL-SWEX60-12A-V.jpg
 Output/List_3/Nora_Lighting/NATL-SWEX60-24A-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 3}","{""pending"": 3}"
 DUP-19BB977B2A,19bb977b2a73e17c94da073b1b510fc0e754fea9b7db17e7091775b1cc38b1c9,2,"Output/List_1/Lutron/CAR2S-15-DTR-BL-V.jpg
-Output/List_1/Lutron/CAR2S-15-DTR-LA-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_1/Lutron/CAR2S-15-DTR-LA-V.jpg","{""full_reference_and_candidate_reviewed"": 2}","{""AI_replacement_candidate"": 2}"
 DUP-19C1C0B225,19c1c0b225d16f24895e7d9ef731c09c9e98b04c935cce22217c7a297a810190,7,"Output/List_3/ELCO_Lighting/E6CKT07DX-V.jpg
 Output/List_3/ELCO_Lighting/E6CKT10DX-V.jpg
 Output/List_3/ELCO_Lighting/E6CKT12DX-V.jpg
@@ -1098,7 +1098,7 @@ Output/List_2/Morris/14456-V.jpg","{""thumbnail_screened_exact_SKU_validation_pe
 DUP-1FD50CFF2B,1fd50cff2be1e8198068667a136114948fad4baa45674c06e9228e7d1bc86f84,2,"Output/List_1/ELCO_Lighting/ELSF11CT5B-V.jpg
 Output/List_1/ELCO_Lighting/ELSF11CT5BZ-V.jpg","{""full_reference_and_candidate_reviewed"": 1, ""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""AI_replacement_candidate"": 1, ""pending"": 1}"
 DUP-1FD8EFCA34,1fd8efca342457bdfb147a01808d73f487c2d798301bd59b512fb143750b42f3,2,"Output/List_3/Westgate/BOL-502-32-MCT-BK-V.jpg
-Output/List_3/Westgate/BOL-502-32-MCT-BR-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_3/Westgate/BOL-502-32-MCT-BR-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1, ""full_reference_and_candidate_reviewed"": 1}","{""pending"": 1, ""AI_replacement_candidate"": 1}"
 DUP-1FF1D44764,1ff1d4476457922fe7734dc77504cf9dcf56267817466028effc15414cde23dc,4,"Output/List_1/Nora_Lighting/NLCBC2-45630WW-10EM-V.jpg
 Output/List_1/Nora_Lighting/NLCBC2-45635WW-10LE4EM-V.jpg
 Output/List_3/Nora_Lighting/NLCBC2-45630WW-AEM-V.jpg
@@ -1252,7 +1252,7 @@ Output/List_3/ELCO_Lighting/E36MW-1530D-W-12-V.jpg
 Output/List_3/ELCO_Lighting/E36MW-1535-V.jpg
 Output/List_3/ELCO_Lighting/E36MW-1540-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 11}","{""pending"": 11}"
 DUP-254F125D1B,254f125d1b4e41556538d7532b4eb867f27acc725a499b656bd0e3dfdca08d8f,2,"Output/List_1/Lutron/CAR2S-15-STR-LA-V.jpg
-Output/List_1/Lutron/CAR2S-15-STR-WH-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_1/Lutron/CAR2S-15-STR-WH-V.jpg","{""full_reference_and_candidate_reviewed"": 1, ""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""AI_replacement_candidate"": 1, ""pending"": 1}"
 DUP-2567BC5A3D,2567bc5a3d768fe11ec7efcaebf45d72d0ee7dafa250cf68e84a0c1ffa6d3a45,2,"Output/List_2/Lutron/ELD4T5H-1M50-1-V.jpg
 Output/List_2/Lutron/ELD4T5H-1M50-24-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
 DUP-256E87BD8B,256e87bd8bcbbb99e0d0f27b6f893fe24f1776ace914385e06c8adbd7618715b,2,"Output/List_2/Leviton/16D33-BUH-V.jpg
@@ -1266,7 +1266,7 @@ Output/List_1/Lutron/RRD-HN5BRL-LA-V.jpg
 Output/List_1/Lutron/RRD-HN5BRL-SW-V.jpg
 Output/List_1/Lutron/RRD-HN5BRL-TP-V.jpg
 Output/List_2/Lutron/RRD-HN5BRL-BI-V.jpg
-Output/List_2/Lutron/RRD-HN5BRL-MN-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 7, ""full_reference_and_candidate_reviewed"": 3}","{""pending"": 7, ""AI_replacement_candidate"": 3}"
+Output/List_2/Lutron/RRD-HN5BRL-MN-V.jpg","{""full_reference_and_candidate_reviewed"": 6, ""thumbnail_screened_exact_SKU_validation_pending"": 4}","{""AI_replacement_candidate"": 6, ""pending"": 4}"
 DUP-25D177B680,25d177b6801b649c11b430dc8b34295506dc7d211606d83ab06b294721e84cfa,7,"Output/List_2/Morris/15532-V.jpg
 Output/List_2/Morris/15534-V.jpg
 Output/List_2/Morris/15535-V.jpg
@@ -3604,7 +3604,7 @@ Output/List_1/Lutron/RRD-W4S-TP-V.jpg
 Output/List_1/Lutron/RRD-W4S-WH-V.jpg
 Output/List_2/Lutron/RRD-W4S-BI-V.jpg
 Output/List_2/Lutron/RRD-W4S-MN-V.jpg
-Output/List_2/Lutron/RRD-W4S-PD-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 10, ""full_reference_and_candidate_reviewed"": 2}","{""pending"": 10, ""AI_replacement_candidate"": 2}"
+Output/List_2/Lutron/RRD-W4S-PD-V.jpg","{""full_reference_and_candidate_reviewed"": 3, ""thumbnail_screened_exact_SKU_validation_pending"": 9}","{""AI_replacement_candidate"": 3, ""pending"": 9}"
 DUP-6351F59940,6351f599400812e92354b31ae4695bd8ea8da7e23cbbba9377c5eaaa829d3e71,1,"Output/List_1/Kuzco/PD52732-WT-UNV-V.jpg
 Output/List_1/Kuzco/PD52732-WT-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
 DUP-636114EB6B,636114eb6b7f5c234410a8f755acab7597e47870bd5a07050c90907b994069a3,1,"Output/List_1/Kuzco/LP18648-BK-UNV-V.jpg
@@ -4629,7 +4629,7 @@ DUP-82F1D365E0,82f1d365e04138534e85b4a96b9bdf7e34c0b568858c1e02b45bb0afdc75623a,
 Output/List_2/Square_D/HOM120DF-V.jpg
 Output/List_2/Square_D/HOM120PCAFI-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 3}","{""pending"": 3}"
 DUP-831CB3B6B5,831cb3b6b521992ce0f5b4fc0e32fa4dabc510876ea3c8c38f23947b66903e44,2,"Output/List_3/Westgate/BOL-505-26-MCT-BK-V.jpg
-Output/List_3/Westgate/BOL-505-26-MCT-BR-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_3/Westgate/BOL-505-26-MCT-BR-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1, ""full_reference_and_candidate_reviewed"": 1}","{""pending"": 1, ""AI_replacement_candidate"": 1}"
 DUP-8334AD9881,8334ad9881756c6b0d360385940bfa036ff38276cd509f1bae5a1dc910f934ab,3,"Output/List_3/ELCO_Lighting/EPD685L3CT5BB-12-V.jpg
 Output/List_3/ELCO_Lighting/EPD685L3CT5BB-24-V.jpg
 Output/List_3/ELCO_Lighting/EPD685L3CT5BB-36-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 3}","{""pending"": 3}"
@@ -7375,7 +7375,7 @@ Output/List_1/Nora_Lighting/NTLE-860L94010B-V.jpg
 Output/List_1/Nora_Lighting/NTLE-860L94010W-G-01.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 4}","{""pending"": 4}"
 DUP-D25500CDC4,d25500cdc4a53ebe05d215ee1861c3199853d7ff23473a0d692b46cd4069f23d,3,"Output/List_1/Lutron/CAR2S-20-DTR-BL-V.jpg
 Output/List_1/Lutron/CAR2S-20-DTR-LA-V.jpg
-Output/List_1/Lutron/CAR2S-20-DTR-WH-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 3}","{""pending"": 3}"
+Output/List_1/Lutron/CAR2S-20-DTR-WH-V.jpg","{""full_reference_reviewed"": 3}","{""needs_reference_review"": 3}"
 DUP-D255719D29,d255719d29a59514e887d831f5693d67b497a0066147264675511c3d845fca00,3,"Output/List_1/Leviton/54504-2W-V.jpg
 Output/List_1/Leviton/54524-2W-V.jpg
 Output/List_2/Leviton/54522-2W-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 3}","{""pending"": 3}"
