@@ -1,9 +1,9 @@
 {
   "generated_catalog_products": 12175,
-  "generated_variant_images": 16769,
+  "generated_variant_images": 16783,
   "remaining_distinct_new_catalog_product_urls": 238,
-  "remaining_missing_variant_skus_including_other_variants_of_generated_products": 438,
-  "eligible_remaining_variant_generation_jobs": 222,
+  "remaining_missing_variant_skus_including_other_variants_of_generated_products": 424,
+  "eligible_remaining_variant_generation_jobs": 208,
   "existing_V_conflicts_pending_review": 216,
   "queue_is_generated_images": false,
   "excluded_sku_count": 184,
@@ -15,10 +15,10 @@
   "existing_image_conflicts_requiring_separate_review": 216,
   "active_generation_queue_file": "Remaining_100_product_batches.csv",
   "QC_triage_queue_file": "All_remaining_products_queue.csv",
-  "planned_eligible_variant_images_remaining": 222,
+  "planned_eligible_variant_images_remaining": 208,
   "planned_eligible_new_products_remaining": 22,
   "queue_note": "The QC triage queue includes 216 existing-V-image conflicts held for separate review. The active generation queue excludes those conflicts.",
   "remaining_planned_products": 22,
-  "remaining_planned_variant_images": 222,
+  "remaining_planned_variant_images": 208,
   "all_AI_QC_pending": true
 }
