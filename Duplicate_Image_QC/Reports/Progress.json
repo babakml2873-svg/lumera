@@ -1,0 +1,17 @@
+{
+  "scope_rows": 6622,
+  "scope_groups": 1885,
+  "excluded_sku_matches": 0,
+  "source_sha256_verified": true,
+  "visual_review": {
+    "pending": 6622
+  },
+  "decisions": {
+    "pending": 6622
+  },
+  "generated_candidates": 0,
+  "approved": 0,
+  "complete": false,
+  "original_base": "22d81bfc2b60b79cea477ebd0c7b4f90d8faec42",
+  "layout_base": "99dd49fc9eb8541261df129f4641c20a8e5dd1cd"
+}
