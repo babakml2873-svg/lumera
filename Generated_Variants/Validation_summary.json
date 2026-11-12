@@ -5,10 +5,10 @@
   "distinct_sheet_products_with_generated_images": 12175,
   "duplicate_counted_product_urls": 0,
   "products_reviewed_unique": 12177,
-  "part_report_rows_including_rechecks": 17073,
-  "images_generated": 16700,
+  "part_report_rows_including_rechecks": 17142,
+  "images_generated": 16769,
   "needs_reference_review_unique": 12397,
-  "unusable_until_corrected": 15414,
+  "unusable_until_corrected": 15483,
   "all_generated_require_qc_approval": true,
   "excluded_sku_count": 184,
   "excluded_sku_overlap": 0,
@@ -16,8 +16,8 @@
   "maximum_output_bytes": 99996,
   "original_repository_files_changed": 0,
   "shopify_uploads": 0,
-  "queue_generated": 16700,
-  "queue_unverified_future_candidates": 291,
+  "queue_generated": 16769,
+  "queue_unverified_future_candidates": 222,
   "production_status": "In progress, 100 SKU images per part; final remainder may be smaller. All AI outputs require exact-SKU QC.",
   "source_policy": "Reference assets were obtained only from the GitHub repository, including technical drawings and family photos. Missing, blank or unrelated references are explicitly discarded; images generated without adequate reference are unverified concepts and unusable until matched to the actual SKU. Sheet links identify target product specifications.",
   "expanded_candidate_product_count_before_current_parts": 3815,
@@ -36,5 +36,6 @@
   "remaining_planned_products": 22,
   "existing_image_conflicts_requiring_separate_review": 216,
   "target_variant_images": 16991,
-  "remaining_planned_variant_images": 291
+  "remaining_planned_variant_images": 222,
+  "recovery_reference_source_screening": "Recovery_reference_screening.csv"
 }

@@ -1,5 +1,5 @@
 {
-  "exported_UTC": "2026-11-12T06:52:20.426892+00:00",
+  "exported_UTC": "2026-11-12T08:05:58.559983+00:00",
   "workbook_hyperlinks_total": 13557,
   "review_sheet_links_checked_against_QC_identity_and_file_SHA256": 11672,
   "review_sheet_link_metadata_errors": 0,
@@ -25,5 +25,6 @@
     "result": "Proxy denied destination: tunnel 403 Forbidden",
     "fallback": "Only documented cached Git metadata; unknown appearance remains unverified. No network-policy bypass attempted."
   },
-  "source_images": "GitHub only; all selected files match workbook hashes and immutable source Git blobs."
+  "source_images": "GitHub only; all selected files match workbook hashes and immutable source Git blobs.",
+  "additional_Git_gallery_sources_screened_after_workspace_recovery": 48
 }
