@@ -1,0 +1,25 @@
+{
+  "index": 251,
+  "row": {
+    "نام محصول": "Orbit 5G Wall Plate Switch OPS265",
+    "برند": "Orbit",
+    "دسته‌بندی": "Switch",
+    "زیردسته": "",
+    "SKU هدف": "OPS265W",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/orbit-5g-wall-plate-switch-ops265",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Part_298/Switch/Orbit-5G-Wall-Plate-Switch-OPS265/OPS265W-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 48815,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: OPS265W | Orbit 5G Wall Plate Switch OPS265 | https://www.lumeraelectric.com/products/orbit-5g-wall-plate-switch-ops265",
+    "SHA-256 خروجی": "6d80177a9c1158baeab28e843854199ca414365955f99a2d58d3556b1c9e30e7",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-24367be5-002f-4f9d-a1fb-0e0a939d4935.png",
+  "reference_sha256": null
+}

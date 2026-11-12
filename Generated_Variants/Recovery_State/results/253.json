@@ -1,0 +1,25 @@
+{
+  "index": 253,
+  "row": {
+    "نام محصول": "Orbit Vs Single Pole, Decorator Wall Switch Pir, T24",
+    "برند": "Orbit",
+    "دسته‌بندی": "Switch",
+    "زیردسته": "",
+    "SKU هدف": "T24VSDSI",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/orbit-vs-single-pole-decorator-wall-switch-pir-t24",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Part_298/Switch/Orbit-Vs-Single-Pole,-Decorator-Wall-Switch-Pir,-T24/T24VSDSI-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 51895,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: T24VSDSI | Orbit Vs Single Pole, Decorator Wall Switch Pir, T24 | https://www.lumeraelectric.com/products/orbit-vs-single-pole-decorator-wall-switch-pir-t24",
+    "SHA-256 خروجی": "375a130c50a81ed2e709a0283810ca5566b0f54aa6a99011350d32ae96306be2",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-208eef03-142f-412b-920b-f09d14b0b691.png",
+  "reference_sha256": null
+}
