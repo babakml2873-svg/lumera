@@ -1,0 +1,25 @@
+{
+  "index": 205,
+  "row": {
+    "نام محصول": "Enerlites Commercial Heavy-Duty Antimicrobial Toggle Switch 3-Way 20A 120/277V 83201A",
+    "برند": "Enerlites",
+    "دسته‌بندی": "Lighting Controls",
+    "زیردسته": "Switches / Standard Switches",
+    "SKU هدف": "83201A-W",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/enerlites-commercial-heavy-duty-antimicrobial-toggle-switch-3-way-20a-120-277v-83201a",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Part_298/Lighting-Controls/Switches/Standard-Switches/Enerlites-Commercial-Heavy-Duty-Antimicrobial-Toggle-Switch-3-Way-20A-120-277V-83201A/83201A-W-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 58041,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: 83201A-W | Enerlites Commercial Heavy-Duty Antimicrobial Toggle Switch 3-Way 20A 120/277V 83201A | https://www.lumeraelectric.com/products/enerlites-commercial-heavy-duty-antimicrobial-toggle-switch-3-way-20a-120-277v-83201a",
+    "SHA-256 خروجی": "fe808a242a090d1ce701fa459cd0e9cc2a39832b50f3904697cf82b32d6ce1c8",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-9b65c93c-c99b-48bb-a283-711bfbd2091a.png",
+  "reference_sha256": null
+}
