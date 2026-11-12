@@ -1,0 +1,25 @@
+{
+  "index": 198,
+  "row": {
+    "نام محصول": "Lutron Maestro Dimmer Switch 1000 W RRD-10D",
+    "برند": "Lutron",
+    "دسته‌بندی": "Lighting Controls",
+    "زیردسته": "Dimmers",
+    "SKU هدف": "RRD-10D-GR",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/lutron-maestro-dimmer-switch-1000-w-rrd-10d",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Part_297/Lighting-Controls/Dimmers/Lutron-Maestro-Dimmer-Switch-1000-W-RRD-10D/RRD-10D-GR-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 44293,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: RRD-10D-GR | Lutron Maestro Dimmer Switch 1000 W RRD-10D | https://www.lumeraelectric.com/products/lutron-maestro-dimmer-switch-1000-w-rrd-10d",
+    "SHA-256 خروجی": "6d4946778f87d1c78b5599d628321463676cec471f29a1dfced1ffb1ec37354a",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-eb4e8090-6c36-453d-a46a-b97d89133ef1.png",
+  "reference_sha256": null
+}
