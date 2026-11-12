@@ -1,0 +1,25 @@
+{
+  "index": 266,
+  "row": {
+    "نام محصول": "Orbit 6G Wall Plate Duplex OP86",
+    "برند": "Orbit",
+    "دسته‌بندی": "Wallplate",
+    "زیردسته": "",
+    "SKU هدف": "OP86W",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/orbit-6g-wall-plate-duplex-op86",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Part_298/Wallplate/Orbit-6G-Wall-Plate-Duplex-OP86/OP86W-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 58083,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: OP86W | Orbit 6G Wall Plate Duplex OP86 | https://www.lumeraelectric.com/products/orbit-6g-wall-plate-duplex-op86",
+    "SHA-256 خروجی": "9dee9b73df6ef324c9a571d6414e8e08dda8783671830e5966ef9443303cc40d",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-969abc65-0121-4612-89a5-93a9358bd7bb.png",
+  "reference_sha256": null
+}

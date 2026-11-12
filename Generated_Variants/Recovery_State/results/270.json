@@ -1,0 +1,25 @@
+{
+  "index": 270,
+  "row": {
+    "نام محصول": "Orbit 4S 1/2 in Raised Blank Cover Industrial Cover 4400",
+    "برند": "Orbit",
+    "دسته‌بندی": "Electrical",
+    "زیردسته": "Boxes & Enclosures / Electrical Box Covers and Rings",
+    "SKU هدف": "'4400",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/orbit-4400-4s-industrial-cover",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Part_298/Electrical/Boxes-Enclosures/Electrical-Box-Covers-and-Rings/Orbit-4S-1-2-in-Raised-Blank-Cover-Industrial-Cover-4400/'4400-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 99406,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: '4400 | Orbit 4S 1/2 in Raised Blank Cover Industrial Cover 4400 | https://www.lumeraelectric.com/products/orbit-4400-4s-industrial-cover",
+    "SHA-256 خروجی": "1c83fb06d6af14e72b98f84eae62c99b47be1423a16b53f6b926b152b67dfff2",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-1f94efeb-8ef7-4f77-9e08-6b227641b999.png",
+  "reference_sha256": null
+}

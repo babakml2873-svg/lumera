@@ -1,0 +1,25 @@
+{
+  "index": 265,
+  "row": {
+    "نام محصول": "Orbit 5G Wall Plate Duplex OP85",
+    "برند": "Orbit",
+    "دسته‌بندی": "Wallplate",
+    "زیردسته": "",
+    "SKU هدف": "OP85W",
+    "ویژگی یا رنگ واریانت هدف": "ویژگی‌های نام محصول؛ رنگ تأییدنشده",
+    "لینک محصول": "https://www.lumeraelectric.com/products/orbit-5g-wall-plate-duplex-op85",
+    "SKU مرجع": "بدون مرجع معتبر محصول",
+    "لینک تصویر مرجع گیت‌هاب": "",
+    "مسیر فایل خروجی در مخزن": "Generated_Variants/Part_298/Wallplate/Orbit-5G-Wall-Plate-Duplex-OP85/OP85W-V.jpg",
+    "ابعاد فایل خروجی": "800 x 800",
+    "حجم فایل خروجی (بایت)": 44031,
+    "وضعیت تولید": "تولید شد؛ غیرقابل استفاده تا تطبیق SKU و تأیید QC",
+    "وضعیت QC": "نیازمند تأیید QC",
+    "توضیح مشکل یا دلیل نیاز به بررسی": "نیازمند تأیید QC؛ تطبیق رنگ، ابعاد، نوشته‌ها و پیکربندی فنی SKU هدف تأیید نشده؛ غیرقابل استفاده تا تطبیق با اطلاعات معتبر همان SKU. نیازمند بررسی مرجع؛ هیچ مرجع ساختاری کافی برای این SKU در بررسی انجام‌شده تأیید نشد. تصویر مفهومی و تقریبی است؛ قابل استفاده نیست.",
+    "منبع مشخصات هدف": "Supplied QC workbook exact row: OP85W | Orbit 5G Wall Plate Duplex OP85 | https://www.lumeraelectric.com/products/orbit-5g-wall-plate-duplex-op85",
+    "SHA-256 خروجی": "ce1e224553b1238c177c4b3515753cea6c18dcb69bb227042a76a696706728bb",
+    "وضعیت بررسی بصری": "pending"
+  },
+  "raw_path": "/workspace/generated_images/exec-dc6f073d-b3cb-455f-81c0-f31ef766366e.png",
+  "reference_sha256": null
+}
