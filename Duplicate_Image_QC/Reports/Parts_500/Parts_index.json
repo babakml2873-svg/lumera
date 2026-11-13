@@ -2,7 +2,7 @@
   "scope_rows": 6622,
   "part_size_rows": 500,
   "total_parts": 14,
-  "initial_pass_rows": 6000,
+  "initial_pass_rows": 6500,
   "all_issues_resolved": false,
   "parts": [
     {
@@ -313,24 +313,24 @@
       "scope_rows": 500,
       "first_scope_position": 6001,
       "last_scope_position": 6500,
-      "reviewed_in_this_pass": 0,
-      "initial_group_and_metadata_review_pass_complete": false,
+      "reviewed_in_this_pass": 500,
+      "initial_group_and_metadata_review_pass_complete": true,
       "all_issues_resolved": false,
       "detailed_technical_QC_complete": false,
       "decisions": {
-        "needs_reference_review": 411,
-        "pending": 85,
+        "needs_reference_review": 478,
+        "screened_no_obvious_mismatch": 15,
         "no_confirmed_finish_mismatch": 2,
-        "AI_replacement_candidate": 2
+        "AI_replacement_candidate": 5
       },
-      "new_rendered_SKUs_in_this_part": 0,
-      "new_rendered_files_in_this_part": 0,
-      "current_AI_candidate_rows_in_part": 2,
-      "needs_reference_rows": 411,
+      "new_rendered_SKUs_in_this_part": 3,
+      "new_rendered_files_in_this_part": 4,
+      "current_AI_candidate_rows_in_part": 5,
+      "needs_reference_rows": 478,
       "rejected_current_candidate_rows": 0,
-      "screening_only_no_obvious_mismatch_rows": 0,
-      "unreviewed_in_this_500_pass": 500,
-      "unique_current_generated_sources_in_this_part": 0,
+      "screening_only_no_obvious_mismatch_rows": 15,
+      "unreviewed_in_this_500_pass": 0,
+      "unique_current_generated_sources_in_this_part": 3,
       "shared_render_note": "SKU file count can exceed unique AI render count when only unlit CCT differs; see row review_note."
     },
     {
