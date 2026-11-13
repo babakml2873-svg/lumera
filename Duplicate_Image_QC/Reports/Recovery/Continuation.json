@@ -27,11 +27,11 @@
     "Part 003 includes three rejected 84-inch renders; two black variants were retried and still failed the length/body proportion. Their same-family Git dimension drawing gives body height 8 inches and outer diameter 3.5 inches, with standard 120-inch field-cuttable cable. Do not count these files as usable or dimension-correct.",
     "Part 004 rejected the 60-inch suspension render for unreliable ratio; E612R12SDBZ initial label lettering was invented, was rejected, and its retry restores blurred label texture but technical writing remains unverified. Two E614R background-artifact cleanups retain low source resolution."
   ],
-  "last_500_pass_completed": "Part_008",
-  "next_500_pass": "Part_009",
-  "initial_500_pass_rows": 4000,
+  "last_500_pass_completed": "Part_009",
+  "next_500_pass": "Part_010",
+  "initial_500_pass_rows": 4500,
   "total_500_parts": 14,
-  "current_AI_candidate_rows": 149,
+  "current_AI_candidate_rows": 150,
   "rejected_file_attempts": 20,
   "all_issues_resolved": false
 }
