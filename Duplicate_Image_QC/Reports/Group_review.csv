@@ -17,7 +17,7 @@ DUP-009EBF49F9,009ebf49f99218d65ca71a9639af262463b8c99a2468a96f374f21f64a57f72d,
 Output/List_3/ELCO_Lighting/E36MS-0730-FC-V.jpg
 Output/List_3/ELCO_Lighting/E36MS-0735-FC-V.jpg
 Output/List_3/ELCO_Lighting/E36MS-0740-FC-V.jpg
-Output/List_3/ELCO_Lighting/E36MS-07SD-FC-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1, ""thumbnail_screened_exact_SKU_validation_pending"": 4}","{""screened_no_obvious_mismatch"": 1, ""pending"": 4}"
+Output/List_3/ELCO_Lighting/E36MS-07SD-FC-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 5}","{""screened_no_obvious_mismatch"": 5}"
 DUP-00B5E610C8,00b5e610c8dac78146ba69f1d4eda417c877db55f3550e1bb6d7dcbaa0bd5b94,6,"Output/List_1/ELCO_Lighting/E1AK32F27B-V.jpg
 Output/List_1/ELCO_Lighting/E1AK32F30B-V.jpg
 Output/List_1/ELCO_Lighting/E1AK32NF27B-V.jpg
@@ -215,7 +215,7 @@ Output/List_3/ELCO_Lighting/E42FW-1527-V.jpg
 Output/List_3/ELCO_Lighting/E42FW-1530-V.jpg
 Output/List_3/ELCO_Lighting/E42FW-1535-V.jpg
 Output/List_3/ELCO_Lighting/E42FW-1540-V.jpg
-Output/List_3/ELCO_Lighting/E42FW-15SD-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 11}","{""pending"": 11}"
+Output/List_3/ELCO_Lighting/E42FW-15SD-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1, ""thumbnail_screened_exact_SKU_validation_pending"": 10}","{""screened_no_obvious_mismatch"": 1, ""pending"": 10}"
 DUP-04FABE6FA3,04fabe6fa32c352633ecacc4a8f13d635025d2f73bbbff9b612aca8bf6ee952e,1,"Output/List_1/Kuzco/FM7916-BE-5CCT-V.jpg
 Output/List_1/Kuzco/FM7916-BE-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
 DUP-05087A30D9,05087a30d94d21bd91a4dea0b8bbda07b01d43e522022cc0ef539de9435cf633,5,"Output/List_4/ELCO_Lighting/E1LF1ICAJ-7-V.jpg
@@ -279,7 +279,7 @@ Output/List_3/ELCO_Lighting/E36TS-1524-V.jpg
 Output/List_3/ELCO_Lighting/E36TS-1527-V.jpg
 Output/List_3/ELCO_Lighting/E36TS-1530-V.jpg
 Output/List_3/ELCO_Lighting/E36TS-1535-V.jpg
-Output/List_3/ELCO_Lighting/E36TS-1540-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 10}","{""pending"": 10}"
+Output/List_3/ELCO_Lighting/E36TS-1540-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 10}","{""screened_no_obvious_mismatch"": 10}"
 DUP-066BD2AF16,066bd2af167da635b1b23c9e138db40f33b58b5f0892f2099cc396f4b3d46000,2,"Output/List_1/Leviton/GFNT2-HFR-V.jpg
 Output/List_1/Leviton/GFNT2-HGR-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
 DUP-06822DA94B,06822da94be4b1a4a58377beca51508cf65835085996940bb643c023fb6c05c4,4,"Output/List_3/Westgate/WXB50-4-V.jpg
@@ -321,7 +321,7 @@ Output/List_2/Morris/14175-V.jpg","{""metadata_and_thumbnail_triage_reference_in
 DUP-07994ED404,07994ed404ff5fb921fafa73794d1148a543649a7e5c85a6d87ad58342c4546e,2,"Output/List_3/ELCO_Lighting/EKCL2127D-E-V.jpg
 Output/List_3/ELCO_Lighting/EKCL2130D-E-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
 DUP-07C68DB5AA,07c68db5aa4fb2233bfabd43c30d566c269eb812a0166451988e727670919a1f,2,"Output/List_3/ELCO_Lighting/E42FW-0327-V.jpg
-Output/List_3/ELCO_Lighting/E42FW-0330-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_3/ELCO_Lighting/E42FW-0330-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 2}","{""screened_no_obvious_mismatch"": 2}"
 DUP-07D01E06F6,07d01e06f640d41bcfef0409efa570f155a7322cef27dc8977cf25292fca7e12,2,"Output/List_1/Nora_Lighting/NLCBC2-55627BW-A-V.jpg
 Output/List_3/Nora_Lighting/NLCBC2-55635BW-ALE4-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
 DUP-07ED25ADF3,07ed25adf355f2ac902ee75ee668dccc61fc1fb2fa8bf993bc1ecad3e7c119a2,3,"Output/List_2/Lutron/ELDHCF-1K30-24-V.jpg
@@ -363,7 +363,7 @@ DUP-09A52A1F02,09a52a1f02126f0d61ee90f7b40697725def0d7ca202da56244d46e0e386ca2e,
 Output/List_3/ELCO_Lighting/E42FS-0730-FC-V.jpg
 Output/List_3/ELCO_Lighting/E42FS-0735-FC-V.jpg
 Output/List_3/ELCO_Lighting/E42FS-0740-FC-V.jpg
-Output/List_3/ELCO_Lighting/E42FS-07SD-FC-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 5}","{""pending"": 5}"
+Output/List_3/ELCO_Lighting/E42FS-07SD-FC-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 5}","{""screened_no_obvious_mismatch"": 5}"
 DUP-09ED8707D3,09ed8707d372000e0c9de15d8694ff691b785e8ceaece03c5c1d3f112f038968,2,"Output/List_2/Morris/22566-V.jpg
 Output/List_2/Morris/22568-V.jpg","{""metadata_and_thumbnail_triage_reference_insufficient"": 2}","{""needs_reference_review"": 2}"
 DUP-0A570F4A8B,0a570f4a8b25330b1eba767d1b5d1c56309c914f1b2fdd1118a6be7a2711a0fd,3,"Output/List_1/ELCO_Lighting/E614C2027W2-V.jpg
@@ -379,7 +379,7 @@ Output/List_3/ELCO_Lighting/E36TW-1124-V.jpg
 Output/List_3/ELCO_Lighting/E36TW-11HC-V.jpg
 Output/List_3/ELCO_Lighting/E36TW-1524-V.jpg
 Output/List_3/ELCO_Lighting/E36TW-1535-V.jpg
-Output/List_3/ELCO_Lighting/E36TW-1540-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 9}","{""pending"": 9}"
+Output/List_3/ELCO_Lighting/E36TW-1540-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 8, ""full_reference_and_candidate_reviewed"": 1}","{""screened_no_obvious_mismatch"": 8, ""AI_replacement_candidate"": 1}"
 DUP-0AEAC0C08F,0aeac0c08fb098e4029522eefb00319a51dd6356ba2d4b96470fe272e6002d89,1,"Output/List_1/Alora/PD302002MBBG-UNV-V.jpg
 Output/List_1/Alora/PD302002MBBG-V.jpg","{""group_finish_screen_and_ordering_suffix_evidence_reviewed"": 1}","{""shared_image_consistent_with_documented_ordering_suffix"": 1}"
 DUP-0B057F6563,0b057f65638283d9f8d9a037d765238ce8791d525b67e316fc9c5e5c9b01fde8,1,"Output/List_1/Kuzco/PD76312-BK-OP-UNV-V.jpg
@@ -468,7 +468,7 @@ Output/List_3/ELCO_Lighting/E36TB-1330-V.jpg
 Output/List_3/ELCO_Lighting/E36TB-1330-W-V.jpg
 Output/List_3/ELCO_Lighting/E36TB-13SD-V.jpg
 Output/List_3/ELCO_Lighting/E36TB-1540-W-V.jpg
-Output/List_3/ELCO_Lighting/E36TB-1830-W-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 12}","{""pending"": 12}"
+Output/List_3/ELCO_Lighting/E36TB-1830-W-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 10, ""full_reference_and_candidate_reviewed"": 2}","{""screened_no_obvious_mismatch"": 10, ""AI_replacement_candidate"": 2}"
 DUP-0D43FA35E6,0d43fa35e665c7c73aab3ac0a4591c8674feda1e5c25e536e970e79bf83182c7,3,"Output/List_2/Square_D/HOM215-V.jpg
 Output/List_2/Square_D/HOM240-V.jpg
 Output/List_2/Square_D/HOM250-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 3}","{""pending"": 3}"
@@ -681,7 +681,7 @@ Output/List_3/ELCO_Lighting/E42FS-1127-V.jpg
 Output/List_3/ELCO_Lighting/E42FS-1130-V.jpg
 Output/List_3/ELCO_Lighting/E42FS-1135-V.jpg
 Output/List_3/ELCO_Lighting/E42FS-1140-V.jpg
-Output/List_3/ELCO_Lighting/E42FS-11SD-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 15}","{""pending"": 15}"
+Output/List_3/ELCO_Lighting/E42FS-11SD-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 15}","{""screened_no_obvious_mismatch"": 15}"
 DUP-13147449DE,13147449dec416286dede235b2ebeda81fca407773ec18d9c658f5ad0c0268ef,2,"Output/List_3/ELCO_Lighting/ET620CT3DB-V.jpg
 Output/List_3/ELCO_Lighting/ET621CT3DB-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
 DUP-13218DEF84,13218def84970bbb927a60edacf2317a270e83efc59b214da9af0400570bfa51,1,"Output/List_1/Kuzco/FM7920-WOR-5CCT-V.jpg
@@ -787,7 +787,7 @@ Output/List_3/Nora_Lighting/NLCBS-4W518540WW-G-02.jpg","{""thumbnail_screened_ex
 DUP-168674F438,168674f438d2e81beacd16f31ba14c6fe878c055e41ea487bbb4a647a90a1b55,4,"Output/List_3/ELCO_Lighting/E36PW-0727-FC-V.jpg
 Output/List_3/ELCO_Lighting/E36PW-0730-FC-V.jpg
 Output/List_3/ELCO_Lighting/E36PW-0735-FC-V.jpg
-Output/List_3/ELCO_Lighting/E36PW-0740-FC-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 4}","{""pending"": 4}"
+Output/List_3/ELCO_Lighting/E36PW-0740-FC-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 4}","{""screened_no_obvious_mismatch"": 4}"
 DUP-16A8178C3A,16a8178c3a71440f1e19e136a7d8faf64f1f98511a54845b440c066ff61a0177,2,"Output/List_2/ELCO_Lighting/EP2204W-V.jpg
 Output/List_2/ELCO_Lighting/EP2208W-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 2}","{""screened_no_obvious_mismatch"": 2}"
 DUP-16B3CE3ED5,16b3ce3ed562c7f489e57122a87e86a790c1a590ae620949e55ee1ce6c48f5a6,1,"Output/List_1/Kuzco/PD87732-BG-UNV-010-V.jpg
@@ -810,7 +810,7 @@ Output/List_3/ELCO_Lighting/E36TB-10CT5-W-V.jpg
 Output/List_3/ELCO_Lighting/E36TB-1140-S-V.jpg
 Output/List_3/ELCO_Lighting/E36TB-1140-V.jpg
 Output/List_3/ELCO_Lighting/E36TB-11SD-N-V.jpg
-Output/List_3/ELCO_Lighting/E36TB-11SD-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 17}","{""pending"": 17}"
+Output/List_3/ELCO_Lighting/E36TB-11SD-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 17}","{""screened_no_obvious_mismatch"": 17}"
 DUP-16FC2BFC2F,16fc2bfc2f45604185f9c5cd3f2c593fdbec2a3580e09795ae93133f241e7356,2,"Output/List_1/ELCO_Lighting/EP727C-V.jpg
 Output/List_3/ELCO_Lighting/EP726C-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 2}","{""screened_no_obvious_mismatch"": 2}"
 DUP-1703422A50,1703422a50dd1515a00b042feabc8be699c61b8ae8beb60228534b790f3c0b1f,2,"Output/List_2/Leviton/CSB1-15-V.jpg
@@ -985,7 +985,7 @@ Output/List_3/ELCO_Lighting/E42FB-11HCD-V.jpg
 Output/List_3/ELCO_Lighting/E42FB-1530D-V.jpg
 Output/List_3/ELCO_Lighting/E42FB-1530D-W-V.jpg
 Output/List_3/ELCO_Lighting/E42FB-3030D-W-V.jpg
-Output/List_3/ELCO_Lighting/E42FS-0730D-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 14}","{""pending"": 14}"
+Output/List_3/ELCO_Lighting/E42FS-0730D-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 14}","{""screened_no_obvious_mismatch"": 14}"
 DUP-1C438C774A,1c438c774a077a4e2eb1c450d6da1a7d58e9db01e10b3bea0d62320b41b13cb3,1,"Output/List_1/Kuzco/PD82536-BK-UNV-010-V.jpg
 Output/List_1/Kuzco/PD82536-BK-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
 DUP-1CB74386FF,1cb74386ffaa2dda5020d8005479af7b605bd64e774b00638fbcc24bb8ce4743,14,"Output/List_1/Nora_Lighting/NLCBC2-55327WW-10-V.jpg
@@ -1048,7 +1048,7 @@ DUP-1E9594D45D,1e9594d45d4cea2f580feca69a19aa39427747fb923eac073b6428b1708f75fe,
 Output/List_3/ELCO_Lighting/E42FB-0730-FC-V.jpg
 Output/List_3/ELCO_Lighting/E42FB-0735-FC-V.jpg
 Output/List_3/ELCO_Lighting/E42FB-0740-FC-V.jpg
-Output/List_3/ELCO_Lighting/E42FB-07SD-FC-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 5}","{""pending"": 5}"
+Output/List_3/ELCO_Lighting/E42FB-07SD-FC-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 5}","{""screened_no_obvious_mismatch"": 5}"
 DUP-1EDD2F7347,1edd2f73473c3d90ace1b3e0f331232d6e556c2457d2b7db1164b2093133bba9,1,"Output/List_1/Alora/PD302003MBBG-UNV-V.jpg
 Output/List_1/Alora/PD302003MBBG-V.jpg","{""group_finish_screen_and_ordering_suffix_evidence_reviewed"": 1}","{""shared_image_consistent_with_documented_ordering_suffix"": 1}"
 DUP-1EDDE3B9AC,1edde3b9ac894aa3976f9fc248ff9245c92c8a64f5879fa8d172916bbca1943a,4,"Output/List_1/ELCO_Lighting/E60-2427-V.jpg
@@ -1112,7 +1112,7 @@ Output/List_1/Kuzco/WS14947-BK-V.jpg","{""thumbnail_screened_exact_SKU_validatio
 DUP-214F37D2A7,214f37d2a7cf6ea44da0b0bd2c83052c90121f9faba0c15917bb3ba22456865c,4,"Output/List_3/ELCO_Lighting/E36TB-0730-FC-V.jpg
 Output/List_3/ELCO_Lighting/E36TB-0735-FC-V.jpg
 Output/List_3/ELCO_Lighting/E36TB-0740-FC-V.jpg
-Output/List_3/ELCO_Lighting/E36TB-07SD-FC-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 4}","{""pending"": 4}"
+Output/List_3/ELCO_Lighting/E36TB-07SD-FC-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 4}","{""screened_no_obvious_mismatch"": 4}"
 DUP-216B472FAD,216b472fad77b0ce24994ba23cf5ef2e0eb86e8510a06ca31432f4dd0f5fcd4e,4,"Output/List_1/UMAGE/2250_2250-2_4007-V.jpg
 Output/List_1/UMAGE/2250_2250-2_4008-V.jpg
 Output/List_1/UMAGE/2250_2250-2_4009-V.jpg
@@ -1250,7 +1250,7 @@ Output/List_3/ELCO_Lighting/E36MW-1530-S-V.jpg
 Output/List_3/ELCO_Lighting/E36MW-1530-V.jpg
 Output/List_3/ELCO_Lighting/E36MW-1530D-W-12-V.jpg
 Output/List_3/ELCO_Lighting/E36MW-1535-V.jpg
-Output/List_3/ELCO_Lighting/E36MW-1540-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 11}","{""pending"": 11}"
+Output/List_3/ELCO_Lighting/E36MW-1540-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 10, ""full_reference_and_candidate_reviewed"": 1}","{""screened_no_obvious_mismatch"": 10, ""AI_replacement_candidate"": 1}"
 DUP-254F125D1B,254f125d1b4e41556538d7532b4eb867f27acc725a499b656bd0e3dfdca08d8f,2,"Output/List_1/Lutron/CAR2S-15-STR-LA-V.jpg
 Output/List_1/Lutron/CAR2S-15-STR-WH-V.jpg","{""full_reference_and_candidate_reviewed"": 1, ""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""AI_replacement_candidate"": 1, ""pending"": 1}"
 DUP-2567BC5A3D,2567bc5a3d768fe11ec7efcaebf45d72d0ee7dafa250cf68e84a0c1ffa6d3a45,2,"Output/List_2/Lutron/ELD4T5H-1M50-1-V.jpg
@@ -1472,7 +1472,7 @@ Output/List_1/ELCO_Lighting/E1L02WFSDB-V.jpg
 Output/List_1/ELCO_Lighting/E1L02WFSDBB-V.jpg
 Output/List_1/ELCO_Lighting/E1L02WFSDH-V.jpg","{""full_reference_and_candidate_reviewed"": 14, ""full_reference_finish_reviewed_technical_QC_pending"": 6}","{""AI_replacement_candidate"": 10, ""no_confirmed_finish_mismatch"": 3, ""unusable_generated_candidate"": 4, ""needs_reference_review"": 3}"
 DUP-2E6DF695AF,2e6df695af3e714dbf784c8cf5b0bd3f67d0ad16ce4cea41c2654aa0ef6dcb16,2,"Output/List_3/ELCO_Lighting/E36PW-0327-V.jpg
-Output/List_3/ELCO_Lighting/E36PW-0330-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_3/ELCO_Lighting/E36PW-0330-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 2}","{""screened_no_obvious_mismatch"": 2}"
 DUP-2E8D88E8FA,2e8d88e8fa1d77ce72c77fad6abd195c635d074d51d76061dd94c8bb72aae212,1,"Output/List_1/Kuzco/PD22332-BG-UNV-V.jpg
 Output/List_1/Kuzco/PD22332-BG-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
 DUP-2EC498B4E4,2ec498b4e4a3c31370c4c916a18fdec1de44a5038eb97a74ecac2fc4558017cc,2,"Output/List_1/ELCO_Lighting/ELST66W-V.jpg
@@ -1540,7 +1540,7 @@ Output/List_3/ELCO_Lighting/E429PW-1130-V.jpg
 Output/List_3/ELCO_Lighting/E429PW-1135-V.jpg
 Output/List_3/ELCO_Lighting/E429PW-1140-V.jpg
 Output/List_3/ELCO_Lighting/E429PW-11HC-V.jpg
-Output/List_3/ELCO_Lighting/E429PW-11SD-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 24}","{""pending"": 24}"
+Output/List_3/ELCO_Lighting/E429PW-11SD-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 24}","{""screened_no_obvious_mismatch"": 24}"
 DUP-3169D25755,3169d257552b49c52383d72b90c2d4fb2398e6bdf8c0af3a26d20b4d2c7bce3e,2,"Output/List_4/Westgate/PC-1-V.jpg
 Output/List_4/Westgate/PC-1H-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
 DUP-3174E9F0E6,3174e9f0e6b4b22f29ae5a5e0e032e6f9801200e98386be768dcf64c4b2e28c4,1,"Output/List_1/Alora_Mood/PD530341MBOP-UNV-V.jpg
@@ -1727,7 +1727,7 @@ DUP-3582CAA2FA,3582caa2faa1b82de7d83c2e8ac8015d80b4af1eec6d2fc9b88449306b439219,
 Output/List_1/Kuzco/LP14840-BK-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
 DUP-35A13C7879,35a13c78796d1b28d26cf584e7ab818de370bfffd45533d5aa30b72086530a1c,3,"Output/List_3/ELCO_Lighting/E36TB-0327-V.jpg
 Output/List_3/ELCO_Lighting/E36TB-0330-V.jpg
-Output/List_3/ELCO_Lighting/E36TB-1530-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 3}","{""pending"": 3}"
+Output/List_3/ELCO_Lighting/E36TB-1530-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 3}","{""screened_no_obvious_mismatch"": 3}"
 DUP-35AAC3B17A,35aac3b17af4539bc1667e2549efe7eea6f6c4c5a2e2cce4699f7cfb7c130337,1,"Output/List_1/Kuzco/WS25125-BN-UNV-V.jpg
 Output/List_1/Kuzco/WS25125-BN-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
 DUP-35FB5E4AD8,35fb5e4ad840505cb7802230816755d3a8789dc8e60df9e13a821e7ea8edca4d,3,"Output/List_3/ELCO_Lighting/E6LRC08ICAD2-V.jpg
@@ -1862,7 +1862,7 @@ Output/List_3/ELCO_Lighting/E429FS-1130-V.jpg
 Output/List_3/ELCO_Lighting/E429FS-1135-V.jpg
 Output/List_3/ELCO_Lighting/E429FS-1140-V.jpg
 Output/List_3/ELCO_Lighting/E429FS-11HC-V.jpg
-Output/List_3/ELCO_Lighting/E429FS-11SD-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 17}","{""pending"": 17}"
+Output/List_3/ELCO_Lighting/E429FS-11SD-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 17}","{""screened_no_obvious_mismatch"": 17}"
 DUP-38C6BADADA,38c6badadaa0dad768d0a785635385a44cc53f053021c335b54c97240da39d89,9,"Output/List_3/ELCO_Lighting/E648FW-0324-V.jpg
 Output/List_3/ELCO_Lighting/E648FW-0724-V.jpg
 Output/List_3/ELCO_Lighting/E648FW-0924-V.jpg
@@ -1974,7 +1974,7 @@ Output/List_1/Nora_Lighting/NS-76W-V.jpg","{""thumbnail_screened_exact_SKU_valid
 DUP-3AFF55856A,3aff55856a3f2d143bf106528a9d84edb86b1c4aa4306e7183cd84a4accbc1ce,1,"Output/List_2/EnVision/ARL3-T-II-450-V.jpg
 Output/List_2/EnVision/ARL3-T-IV-450-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
 DUP-3B2528B645,3b2528b645d06d15c8d4fd208b77964fd3cf7cf4c12c75b86e67b40ff7563524,2,"Output/List_3/ELCO_Lighting/E42FB-0327-V.jpg
-Output/List_3/ELCO_Lighting/E42FB-0330-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_3/ELCO_Lighting/E42FB-0330-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 2}","{""screened_no_obvious_mismatch"": 2}"
 DUP-3B30F7EE39,3b30f7ee39b1d111f512137c12679feffae3f7f3312eb24e215326aa1f9407f3,4,"Output/List_2/Utopia_Lighting/Cube4-RGBWWall-V.jpg
 Output/List_2/Utopia_Lighting/Cube4-TWAthenaWall-V.jpg
 Output/List_2/Utopia_Lighting/Cube4-TWWall-V.jpg
@@ -2620,7 +2620,7 @@ Output/List_3/ELCO_Lighting/E36PS-1127-V.jpg
 Output/List_3/ELCO_Lighting/E36PS-1130-V.jpg
 Output/List_3/ELCO_Lighting/E36PS-1135-V.jpg
 Output/List_3/ELCO_Lighting/E36PS-1140-V.jpg
-Output/List_3/ELCO_Lighting/E36PS-11SD-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 15}","{""pending"": 15}"
+Output/List_3/ELCO_Lighting/E36PS-11SD-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 15}","{""screened_no_obvious_mismatch"": 15}"
 DUP-4E731BDBEC,4e731bdbec04a66fdd71bffe84793e930d0185185d271bc4d1fbf46e684d79fe,1,"Output/List_1/Kuzco/PD88548-BK-UNV-010-V.jpg
 Output/List_1/Kuzco/PD88548-BK-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
 DUP-4E849CB989,4e849cb989536338f8e88ef8e651cf320b805db3dae14568c98d3712e9727f89,2,"Output/List_1/Kuzco/AT6606-BN-UNV-V.jpg
@@ -2707,7 +2707,7 @@ Output/List_1/Nora_Lighting/NTRT-13W-V.jpg","{""thumbnail_screened_exact_SKU_val
 DUP-4F7FA19242,4f7fa19242b619a89c0f0a5099259849fc275c9b60b7d7d826238be71d354101,2,"Output/List_4/Lighting_Spot_26/LS2-RWP02A1-25W-5K-V.jpg
 Output/List_4/Lighting_Spot_26/LS2-RWP02A1-60W-5K-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
 DUP-4F8ECFA945,4f8ecfa9457a4279db4b7f11a52a31f3b7bed7c9d00f4d0ff5da6f2ef16e9e73,2,"Output/List_3/ELCO_Lighting/E36TW-0327-V.jpg
-Output/List_3/ELCO_Lighting/E36TW-0330-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_3/ELCO_Lighting/E36TW-0330-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 2}","{""screened_no_obvious_mismatch"": 2}"
 DUP-4F9A57A04B,4f9a57a04b1bc600188ae4017436d61e54425261574e7fa34f95a11ef250f231,1,"Output/List_1/Nora_Lighting/NLCBC2-45630BB-10EM-G-01.jpg
 Output/List_1/Nora_Lighting/NLCBC2-45630WW-10EM-G-01.jpg
 Output/List_1/Nora_Lighting/NLCBC2-45635BB-10LE4EM-G-01.jpg
@@ -3184,7 +3184,7 @@ Output/List_1/ELCO_Lighting/E1AK12WFSDBB-V.jpg","{""thumbnail_screened_exact_SKU
 DUP-5ADF01CBF6,5adf01cbf621625449dd03167f6c82a6a027224512e6a98038cd6e792d367662,2,"Output/List_3/ELCO_Lighting/EFPC61-V.jpg
 Output/List_3/ELCO_Lighting/EFPC62-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
 DUP-5B21A726B5,5b21a726b5d33823cd0863f64f52828287dac8b1466f96394b9b8a91f8e8cda2,2,"Output/List_1/ELCO_Lighting/E420C1630W2-V.jpg
-Output/List_3/ELCO_Lighting/E420C1235W2-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1, ""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""screened_no_obvious_mismatch"": 1, ""pending"": 1}"
+Output/List_3/ELCO_Lighting/E420C1235W2-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 2}","{""screened_no_obvious_mismatch"": 2}"
 DUP-5B562BCE03,5b562bce034340d2dddc1f6e876bbec2d85fdb3092a14150251d408aa11ddde6,1,"Output/List_1/Kuzco/FM9304-BK-UNV-V.jpg
 Output/List_1/Kuzco/FM9304-BK-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
 DUP-5B894CAD4B,5b894cad4b4bb2ee6a7b8c654852f8eb68ca3ad184010d2e0da371d4af113989,1,"Output/List_3/Orbit/LTSR100-V.jpg
@@ -3216,7 +3216,7 @@ Output/List_3/ELCO_Lighting/E42FB-1535-V.jpg
 Output/List_3/ELCO_Lighting/E42FB-1535D-W-V.jpg
 Output/List_3/ELCO_Lighting/E42FB-1540-V.jpg
 Output/List_3/ELCO_Lighting/E42FB-1540-W-V.jpg
-Output/List_3/ELCO_Lighting/E42FB-15SD-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 13}","{""pending"": 13}"
+Output/List_3/ELCO_Lighting/E42FB-15SD-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 13}","{""screened_no_obvious_mismatch"": 13}"
 DUP-5BEDD040E1,5bedd040e1b05b6ddd911e7c5e3e6c9bee33eefb8951b519cc12425a4f5f8085,6,"Output/List_2/Morris/90360-V.jpg
 Output/List_2/Morris/90362-V.jpg
 Output/List_2/Morris/90364-V.jpg
@@ -3386,7 +3386,7 @@ Output/List_3/ELCO_Lighting/ELK1340-W-V.jpg","{""thumbnail_screened_exact_SKU_va
 DUP-603AAB5FFF,603aab5fff62285ed3eb8f72ca656421ecbc0ae8f93a6c0119bae4fcf23f8961,2,"Output/List_1/Lighting_Spot_26/LS2-LV4SN-3K-V.jpg
 Output/List_1/Lighting_Spot_26/LS2-LV4SN-4K-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
 DUP-605F8A3552,605f8a3552eb1c0658cf92d927353203f9c3c40027cc6da91b92e5a6eed7a23e,2,"Output/List_3/ELCO_Lighting/E36PS-0327-V.jpg
-Output/List_3/ELCO_Lighting/E36PS-0330-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_3/ELCO_Lighting/E36PS-0330-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 2}","{""screened_no_obvious_mismatch"": 2}"
 DUP-60A1990D6B,60a1990d6bdf79520ae9d1db32ae25918e43697f176e3ec9b0cb9d887469c873,4,"Output/List_1/UMAGE/3041-V.jpg
 Output/List_1/UMAGE/3041_4007-V.jpg
 Output/List_1/UMAGE/3041_4008-V.jpg
@@ -3483,7 +3483,7 @@ Output/List_3/ELCO_Lighting/E36TW-10CT5-W-V.jpg
 Output/List_3/ELCO_Lighting/E36TW-1130-V.jpg
 Output/List_3/ELCO_Lighting/E36TW-1140-N-V.jpg
 Output/List_3/ELCO_Lighting/E36TW-1140-V.jpg
-Output/List_3/ELCO_Lighting/E36TW-11SD-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 20}","{""pending"": 20}"
+Output/List_3/ELCO_Lighting/E36TW-11SD-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 20}","{""screened_no_obvious_mismatch"": 20}"
 DUP-620FE58D45,620fe58d4593fda6636c6b9181568a73f737e74b7b4aa1db5074517a7cd2be89,2,"Output/List_1/ELCO_Lighting/ELST65W-V.jpg
 Output/List_1/ELCO_Lighting/ELST75W-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 2}","{""screened_no_obvious_mismatch"": 2}"
 DUP-6211F442D4,6211f442d4d780148f1a62d38f4011cf96af100182a18f319c1451e62b8b5a65,4,"Output/List_1/UMAGE/2251_2251-1_4007-V.jpg
@@ -3514,7 +3514,7 @@ Output/List_3/ELCO_Lighting/E42FB-1140-S-V.jpg
 Output/List_3/ELCO_Lighting/E42FB-1140-V.jpg
 Output/List_3/ELCO_Lighting/E42FB-11SD-V.jpg
 Output/List_3/ELCO_Lighting/E42FB-1527-V.jpg
-Output/List_3/ELCO_Lighting/E42FB-15SDD-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 24}","{""pending"": 24}"
+Output/List_3/ELCO_Lighting/E42FB-15SDD-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 24}","{""screened_no_obvious_mismatch"": 24}"
 DUP-622288F508,622288f508bc3a5e648b5008a76a9c34af3ecbf1287e6397db42500ace36ad23,1,"Output/List_1/Kuzco/PD52724-BN-UNV-V.jpg
 Output/List_1/Kuzco/PD52724-BN-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
 DUP-6242C258D1,6242c258d1015933b6cc0c12980640e2a2ec785094aef0f1ca98c23f03b2e7f9,2,"Output/List_2/Morris/36090-V.jpg
@@ -3709,7 +3709,7 @@ Output/List_3/ELCO_Lighting/E36PB-11SD-S-V.jpg
 Output/List_3/ELCO_Lighting/E36PB-11SD-V.jpg
 Output/List_3/ELCO_Lighting/E36PB-1327-V.jpg
 Output/List_3/ELCO_Lighting/E36PB-1330-V.jpg
-Output/List_3/ELCO_Lighting/E36PB-1830-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 23}","{""pending"": 23}"
+Output/List_3/ELCO_Lighting/E36PB-1830-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 20, ""full_reference_and_candidate_reviewed"": 3}","{""screened_no_obvious_mismatch"": 20, ""AI_replacement_candidate"": 1, ""unusable_generated_candidate"": 2}"
 DUP-6627BF05F3,6627bf05f319bff1c98499a97578d1adebf0386d18060e3b88564022b93e370a,2,"Output/List_3/Nora_Lighting/NM2-2R2705027BB-V.jpg
 Output/List_3/Nora_Lighting/NM2-2R2705027MPW-G-01.jpg
 Output/List_3/Nora_Lighting/NM2-2R2705030BB-V.jpg
@@ -3994,7 +3994,7 @@ Output/List_3/ELCO_Lighting/E36TB-1124-V.jpg
 Output/List_3/ELCO_Lighting/E36TB-11HC-V.jpg
 Output/List_3/ELCO_Lighting/E36TB-1524-V.jpg
 Output/List_3/ELCO_Lighting/E36TB-1535-V.jpg
-Output/List_3/ELCO_Lighting/E36TB-1540-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 8}","{""pending"": 8}"
+Output/List_3/ELCO_Lighting/E36TB-1540-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 8}","{""screened_no_obvious_mismatch"": 8}"
 DUP-700307E510,700307e51080b94ed2a1865a0571cee3cc56684d3f40fd448f2bf5a1788d0cf9,13,"Output/List_1/ELCO_Lighting/E440L2040H2-V.jpg
 Output/List_3/ELCO_Lighting/E440L1230H2-V.jpg
 Output/List_3/ELCO_Lighting/E440L1235H2-V.jpg
@@ -4607,7 +4607,7 @@ Output/List_1/Lighting_Spot_26/LS2-WMB-301-5K-V.jpg","{""thumbnail_screened_exac
 DUP-8227348996,82273489963740b0d68b8538cf3928a4ee88f815175d0b0bb2b42f7f71d18116,4,"Output/List_3/ELCO_Lighting/E36PB-0727-FC-V.jpg
 Output/List_3/ELCO_Lighting/E36PB-0730-FC-V.jpg
 Output/List_3/ELCO_Lighting/E36PB-0735-FC-V.jpg
-Output/List_3/ELCO_Lighting/E36PB-0740-FC-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 4}","{""pending"": 4}"
+Output/List_3/ELCO_Lighting/E36PB-0740-FC-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 4}","{""screened_no_obvious_mismatch"": 4}"
 DUP-824CEE1AF0,824cee1af04fe38984d67b98ff7e29099a1b68e38a89eb77644eb8915011a7c3,1,"Output/List_1/Alora/PD320313VBAR-UNV-V.jpg
 Output/List_1/Alora/PD320313VBAR-V.jpg","{""group_finish_screen_and_ordering_suffix_evidence_reviewed"": 1}","{""shared_image_consistent_with_documented_ordering_suffix"": 1}"
 DUP-8260DF8FCA,8260df8fca2650b0c7dc8a79bad6ec99fdff7ef530dc36ccbc123b38adedc4ee,8,"Output/List_3/ELCO_Lighting/ECKTRM07DX-V.jpg
@@ -4723,7 +4723,7 @@ Output/List_3/Orbit/LL400-V.jpg","{""thumbnail_screened_exact_SKU_validation_pen
 DUP-869750A2C5,869750a2c52c50608e9edc25b263affddc35f7f9907a29156c7896985a62a700,2,"Output/List_1/Lighting_Spot_26/LS2-LV4BZ-3K-V.jpg
 Output/List_1/Lighting_Spot_26/LS2-LV4BZ-4K-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
 DUP-86C05912F1,86c05912f17c997425b761e935ef94737fc1df648cf7c54852d315b08eca812a,2,"Output/List_3/ELCO_Lighting/E42FS-0327-V.jpg
-Output/List_3/ELCO_Lighting/E42FS-0330-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_3/ELCO_Lighting/E42FS-0330-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 2}","{""screened_no_obvious_mismatch"": 2}"
 DUP-86C4004246,86c4004246dd353674aa42e4427f4f6ed3ecb6e6a8addd8bc5d4e826f76280eb,2,"Output/List_3/ELCO_Lighting/EKCL4357B-V.jpg
 Output/List_3/ELCO_Lighting/EKCL4357H-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
 DUP-86DCA5B79F,86dca5b79f5d9438ae3a172257668afd7eb759e4f2ef849b08b52e8c76d13e8a,6,"Output/List_1/ELCO_Lighting/E261-27W-V.jpg
@@ -4821,7 +4821,7 @@ DUP-8A2D41E831,8a2d41e8312120cc2dbdc946a37e426d167ae8687ebac453fd3d7dcc8c176706,
 Output/List_3/ELCO_Lighting/E36TS-0730-FC-V.jpg
 Output/List_3/ELCO_Lighting/E36TS-0735-FC-V.jpg
 Output/List_3/ELCO_Lighting/E36TS-0740-FC-V.jpg
-Output/List_3/ELCO_Lighting/E36TS-07SD-FC-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 5}","{""pending"": 5}"
+Output/List_3/ELCO_Lighting/E36TS-07SD-FC-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 5}","{""screened_no_obvious_mismatch"": 5}"
 DUP-8A2DB3784C,8a2db3784c394b40cfa759d3e3b2d17e542e46182059260b17f76b66d7a6eb81,20,"Output/List_3/ELCO_Lighting/E648FW-0327-V.jpg
 Output/List_3/ELCO_Lighting/E648FW-0330-V.jpg
 Output/List_3/ELCO_Lighting/E648FW-0727-V.jpg
@@ -4920,7 +4920,7 @@ Output/List_3/ELCO_Lighting/E42FS-1527-V.jpg
 Output/List_3/ELCO_Lighting/E42FS-1530-V.jpg
 Output/List_3/ELCO_Lighting/E42FS-1535-V.jpg
 Output/List_3/ELCO_Lighting/E42FS-1540-V.jpg
-Output/List_3/ELCO_Lighting/E42FS-15SD-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 11}","{""pending"": 11}"
+Output/List_3/ELCO_Lighting/E42FS-15SD-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 11}","{""screened_no_obvious_mismatch"": 11}"
 DUP-8C75119BF5,8c75119bf516cf535dc87573f722bb1d60fb7fc793522243fcedce6506f310c5,2,"Output/List_2/Morris/14423-V.jpg
 Output/List_2/Morris/14424-V.jpg
 Output/List_2/Morris/14425-V.jpg","{""metadata_and_thumbnail_triage_reference_insufficient"": 2}","{""needs_reference_review"": 2}"
@@ -5112,7 +5112,7 @@ DUP-9076136067,907613606742d4266c6017a42fd813d737a9343680c89bf4c8f94d5aa655732e,
 Output/List_3/ELCO_Lighting/E36TW-0730-FC-V.jpg
 Output/List_3/ELCO_Lighting/E36TW-0735-FC-V.jpg
 Output/List_3/ELCO_Lighting/E36TW-0740-FC-V.jpg
-Output/List_3/ELCO_Lighting/E36TW-07SD-FC-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 5}","{""pending"": 5}"
+Output/List_3/ELCO_Lighting/E36TW-07SD-FC-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 5}","{""screened_no_obvious_mismatch"": 5}"
 DUP-9091F1BA36,9091f1ba369d135b4fd3c17d03c598cddd078263426f744bcc453bee36d6ac88,1,"Output/List_1/Kuzco/PD87172-BK-UNV-010-V.jpg
 Output/List_1/Kuzco/PD87172-BK-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
 DUP-90930BBF08,90930bbf08226c5021005e27fc57a56fcdefbb4040c8594c30232c5c8ec6d609,2,"Output/List_2/Morris/91603-V.jpg
@@ -5242,7 +5242,7 @@ Output/List_3/ELCO_Lighting/E36PW-1127-V.jpg
 Output/List_3/ELCO_Lighting/E36PW-1130-V.jpg
 Output/List_3/ELCO_Lighting/E36PW-1130D-V.jpg
 Output/List_3/ELCO_Lighting/E36PW-1140-V.jpg
-Output/List_3/ELCO_Lighting/E36PW-11SD-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 19}","{""pending"": 19}"
+Output/List_3/ELCO_Lighting/E36PW-11SD-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 18, ""full_reference_and_candidate_reviewed"": 1}","{""screened_no_obvious_mismatch"": 18, ""AI_replacement_candidate"": 1}"
 DUP-929482F5F0,929482f5f0cfeb5ae29837d874faa8afc6820d78072218229d7af0787b12202d,6,"Output/List_1/ELCO_Lighting/E415C1230W2-V.jpg
 Output/List_1/ELCO_Lighting/E415C1235W2-V.jpg
 Output/List_1/ELCO_Lighting/E415C1627W2-V.jpg
@@ -5312,7 +5312,7 @@ Output/List_1/Nora_Lighting/NTLE-870940B-G-02.jpg
 Output/List_1/Nora_Lighting/NTLE-870940S-G-02.jpg
 Output/List_1/Nora_Lighting/NTLE-870940W-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 4}","{""pending"": 4}"
 DUP-96017CCEBF,96017ccebf8669629d0549986a4119fa75b5fe0b601d816fd746fbb7ed0a329b,2,"Output/List_3/ELCO_Lighting/E36MW-0327-V.jpg
-Output/List_3/ELCO_Lighting/E36MW-0330-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_3/ELCO_Lighting/E36MW-0330-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 2}","{""screened_no_obvious_mismatch"": 2}"
 DUP-963E583E1B,963e583e1b49537e72074e57e8471c03c3592246983530309b6d2855a1cd5f19,2,"Output/List_1/Westgate/LVB-48-MCT-BN-V.jpg
 Output/List_1/Westgate/LVB-48-MCT-PC-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
 DUP-9685F518CB,9685f518cba0e0fc2131c67dd00e31924cba37582c3b49b84ffbb0c60490da4b,1,"Output/List_2/EnVision/S-CM-PIR-LV-BT-V.jpg
@@ -5361,7 +5361,7 @@ Output/List_3/ELCO_Lighting/E36MS-1524-V.jpg
 Output/List_3/ELCO_Lighting/E36MS-1527-V.jpg
 Output/List_3/ELCO_Lighting/E36MS-1530-V.jpg
 Output/List_3/ELCO_Lighting/E36MS-1535-V.jpg
-Output/List_3/ELCO_Lighting/E36MS-1540-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 2, ""thumbnail_screened_exact_SKU_validation_pending"": 8}","{""screened_no_obvious_mismatch"": 2, ""pending"": 8}"
+Output/List_3/ELCO_Lighting/E36MS-1540-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 10}","{""screened_no_obvious_mismatch"": 10}"
 DUP-97CA18E8E5,97ca18e8e57884fa3c1510cb43a4b74a134bebfd55b816bc7620da1c7cb03563,4,"Output/List_1/ELCO_Lighting/ELST9330BZ-V.jpg
 Output/List_1/ELCO_Lighting/ELST9340BZ-V.jpg
 Output/List_1/ELCO_Lighting/ELST9730BZ-V.jpg
@@ -5477,7 +5477,7 @@ Output/List_3/ELCO_Lighting/E36MS-1127-V.jpg
 Output/List_3/ELCO_Lighting/E36MS-1130-V.jpg
 Output/List_3/ELCO_Lighting/E36MS-1135-V.jpg
 Output/List_3/ELCO_Lighting/E36MS-1140-V.jpg
-Output/List_3/ELCO_Lighting/E36MS-11SD-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1, ""thumbnail_screened_exact_SKU_validation_pending"": 15}","{""screened_no_obvious_mismatch"": 1, ""pending"": 15}"
+Output/List_3/ELCO_Lighting/E36MS-11SD-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 16}","{""screened_no_obvious_mismatch"": 16}"
 DUP-9B4ACAF6A2,9b4acaf6a2ba750d160c5a581303bf7b2015efe44e3071d51ee9230bc6faa80b,7,"Output/List_1/Lutron/RRD-HN4S-AL-V.jpg
 Output/List_1/Lutron/RRD-HN4S-BL-V.jpg
 Output/List_1/Lutron/RRD-HN4S-BR-V.jpg
@@ -5501,7 +5501,7 @@ DUP-9BDEE779C7,9bdee779c7852a9b7052be7a0f1167006c6b077a8799ecc6eb1aa294fedaa18e,
 Output/List_3/ELCO_Lighting/E36MW-0730-FC-V.jpg
 Output/List_3/ELCO_Lighting/E36MW-0735-FC-V.jpg
 Output/List_3/ELCO_Lighting/E36MW-0740-FC-V.jpg
-Output/List_3/ELCO_Lighting/E36MW-07SD-FC-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 5}","{""pending"": 5}"
+Output/List_3/ELCO_Lighting/E36MW-07SD-FC-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 5}","{""screened_no_obvious_mismatch"": 5}"
 DUP-9BF168D4D9,9bf168d4d9a7a25367471bd8ff3750554db496789a92a740bb2799b7596d14bb,2,"Output/List_1/Leviton/GFNT1-HFE-V.jpg
 Output/List_1/Leviton/GFNT1-HGE-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
 DUP-9BF8F30873,9bf8f308735bca47550cdf075d3e745ead0731bbd138c5bd371966149ffa60f7,1,"Output/List_1/Kuzco/PD88148-BK-UNV-010-V.jpg
@@ -5837,7 +5837,7 @@ Output/List_3/ELCO_Lighting/E36PS-1524-V.jpg
 Output/List_3/ELCO_Lighting/E36PS-1527-V.jpg
 Output/List_3/ELCO_Lighting/E36PS-1530-V.jpg
 Output/List_3/ELCO_Lighting/E36PS-1535-V.jpg
-Output/List_3/ELCO_Lighting/E36PS-15SD-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 10}","{""pending"": 10}"
+Output/List_3/ELCO_Lighting/E36PS-15SD-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 10}","{""screened_no_obvious_mismatch"": 10}"
 DUP-A1CF6ACB5F,a1cf6acb5f30107e4fb906b0698cabf27108a4a13c312c1d0b38331acee3b712,2,"Output/List_3/ELCO_Lighting/E25MB-0927-W-V.jpg
 Output/List_3/ELCO_Lighting/E25MB-0930-W-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 2}","{""screened_no_obvious_mismatch"": 2}"
 DUP-A1E3C204A8,a1e3c204a8416cefd85130f3a98a8c9435bcd85502d102dbdaf3982fa91f8541,1,"Output/List_3/Focus_Industries/PGL02L12BLT-V.jpg
@@ -6000,7 +6000,7 @@ Output/List_3/Nora_Lighting/NLCBC2-45135BZBZ-ALE4-V.jpg
 Output/List_3/Nora_Lighting/NLCBC2-45140BZBZ-ALE4-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 7}","{""pending"": 7}"
 DUP-A755186009,a75518600963f2d844639f859355cfaed9b0e73acc47988c53730d18087c5cff,3,"Output/List_3/ELCO_Lighting/E36PB-0327-N-V.jpg
 Output/List_3/ELCO_Lighting/E36PB-0327-V.jpg
-Output/List_3/ELCO_Lighting/E36PB-0330-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 3}","{""pending"": 3}"
+Output/List_3/ELCO_Lighting/E36PB-0330-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 3}","{""screened_no_obvious_mismatch"": 3}"
 DUP-A76160BC39,a76160bc39e243dc307081b3afb7fd50e32b557cec8df99ea1070e83e8279731,1,"Output/List_1/Alora_Mood/FM554015AG-5CCT-V.jpg
 Output/List_1/Alora_Mood/FM554015AG-V.jpg","{""group_finish_screen_and_ordering_suffix_evidence_reviewed"": 1}","{""shared_image_consistent_with_documented_ordering_suffix"": 1}"
 DUP-A7710ED13E,a7710ed13e2263701542f7a5c4c087754ff9e8966f5df78589fba5f0360c5533,2,"Output/List_3/ELCO_Lighting/ESF6371L3CT5HW-V.jpg
@@ -6092,7 +6092,7 @@ Output/List_3/ELCO_Lighting/E429PB-1130D-V.jpg
 Output/List_3/ELCO_Lighting/E429PB-1135-V.jpg
 Output/List_3/ELCO_Lighting/E429PB-1140-V.jpg
 Output/List_3/ELCO_Lighting/E429PB-11HC-V.jpg
-Output/List_3/ELCO_Lighting/E429PB-11SD-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 25}","{""pending"": 25}"
+Output/List_3/ELCO_Lighting/E429PB-11SD-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 24, ""full_reference_and_candidate_reviewed"": 1}","{""screened_no_obvious_mismatch"": 24, ""AI_replacement_candidate"": 1}"
 DUP-AA57F661CB,aa57f661cb0178fb0230b62a2c7eef9d3ea3b519f8a5a05fca62deb36476fb4e,2,"Output/List_1/Leviton/5252-E-V.jpg
 Output/List_1/Leviton/5262-SE-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
 DUP-AA7A031376,aa7a031376a93f967468f3bbba2eae1fe4b62e2f53936feda657267a2db813d7,11,"Output/List_3/ELCO_Lighting/E36FW-0324-V.jpg
@@ -6678,7 +6678,7 @@ Output/List_3/ELCO_Lighting/E429FW-1135-V.jpg
 Output/List_3/ELCO_Lighting/E429FW-1140-V.jpg
 Output/List_3/ELCO_Lighting/E429FW-11HC-V.jpg
 Output/List_3/ELCO_Lighting/E429FW-11SD-V.jpg
-Output/List_3/ELCO_Lighting/E429FW-11SDD-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 23}","{""pending"": 23}"
+Output/List_3/ELCO_Lighting/E429FW-11SDD-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 23}","{""screened_no_obvious_mismatch"": 23}"
 DUP-BC047FFF13,bc047fff136b736dbf2603d85f48261dce5e796c01f498af06505db28b639800,1,"Output/List_1/Kuzco/PD76716-BG-UNV-V.jpg
 Output/List_1/Kuzco/PD76716-BG-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
 DUP-BC131C3839,bc131c3839a9abbdaa0b0ddd5fcf85f845ef2efd1fce80665674470aca135a44,1,"Output/List_1/Kuzco/PD87124-WH-UNV-010-V.jpg
@@ -6913,7 +6913,7 @@ Output/List_3/ELCO_Lighting/E36TS-10CT5-V.jpg
 Output/List_3/ELCO_Lighting/E36TS-1127-V.jpg
 Output/List_3/ELCO_Lighting/E36TS-1135-V.jpg
 Output/List_3/ELCO_Lighting/E36TS-1140-V.jpg
-Output/List_3/ELCO_Lighting/E36TS-11SD-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 15}","{""pending"": 15}"
+Output/List_3/ELCO_Lighting/E36TS-11SD-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 15}","{""screened_no_obvious_mismatch"": 15}"
 DUP-C2D94DE059,c2d94de059bc3dddba5140ddfdf6e3e3361daafcbdca4c7add7565ef2845f2d9,2,"Output/List_3/ELCO_Lighting/E610R08SDW-F-V.jpg
 Output/List_3/ELCO_Lighting/E610R08SDW-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
 DUP-C2EF6D8C85,c2ef6d8c854d751b1da1071661303dc5c7cd3bd80cacb036ecf71afad9849bba,2,"Output/List_1/Leviton/5352-W-V.jpg
@@ -7095,7 +7095,7 @@ DUP-CAFD0CC743,cafd0cc7439a0e969df17fa68d2212513fadb75edccd1ffa7adad0023ed6b110,
 Output/List_2/Leviton/GFTR1-HGG-V.jpg","{""metadata_and_thumbnail_triage_reference_insufficient"": 2}","{""needs_reference_review"": 2}"
 DUP-CB16B1E08E,cb16b1e08e5805828dd19ae57cddef7e925db7715e557ec9f6b6e920b31a8d2a,3,"Output/List_3/ELCO_Lighting/E429FW-0730-W-V.jpg
 Output/List_3/ELCO_Lighting/E429FW-1127D-V.jpg
-Output/List_3/ELCO_Lighting/E429FW-15SD-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 3}","{""pending"": 3}"
+Output/List_3/ELCO_Lighting/E429FW-15SD-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 3}","{""screened_no_obvious_mismatch"": 3}"
 DUP-CB2C922172,cb2c92217247e57e8348e6356c375e64ee3b2ed2b54f23fb8eb9d8b4aad68cdd,2,"Output/List_1/Leviton/CS315-2T-V.jpg
 Output/List_1/Leviton/CS320-2T-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
 DUP-CB44FCEFE9,cb44fcefe9445cc47c296b2d261a213cfbc729718f538ca1b9a98686b3019512,8,"Output/List_2/Morris/14072-V.jpg
@@ -7903,7 +7903,7 @@ Output/List_3/ELCO_Lighting/E25TS-0330-V.jpg","{""batch_group_visual_and_metadat
 DUP-E0EECE6FF9,e0eece6ff9ff2ba51d8ebe6fa0a9bed15f431e2f49feb41a7a22873a968dd9ef,1,"Output/List_1/Kuzco/WS18236-BK-UNV-V.jpg
 Output/List_1/Kuzco/WS18236-BK-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
 DUP-E110C19103,e110c19103ddea8109b404905cd2adf62e0a098fafc56819e338256348514aa8,2,"Output/List_3/ELCO_Lighting/E36TS-0327-V.jpg
-Output/List_3/ELCO_Lighting/E36TS-0330-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_3/ELCO_Lighting/E36TS-0330-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 2}","{""screened_no_obvious_mismatch"": 2}"
 DUP-E125621B0D,e125621b0d55aa27ed659252fa93e4fd84de1304a8d68fe9b6f903076a4928a8,2,"Output/List_2/Morris/15540-V.jpg
 Output/List_2/Morris/15541-V.jpg
 Output/List_2/Morris/15542-V.jpg","{""metadata_and_thumbnail_triage_reference_insufficient"": 2}","{""needs_reference_review"": 2}"
@@ -7986,7 +7986,7 @@ Output/List_3/ELCO_Lighting/E36PW-1530-W-V.jpg
 Output/List_3/ELCO_Lighting/E36PW-1535-V.jpg
 Output/List_3/ELCO_Lighting/E36PW-1535D-V.jpg
 Output/List_3/ELCO_Lighting/E36PW-1540-V.jpg
-Output/List_3/ELCO_Lighting/E36PW-1540D-W-84-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 15}","{""pending"": 15}"
+Output/List_3/ELCO_Lighting/E36PW-1540D-W-84-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 14, ""full_reference_and_candidate_reviewed"": 1}","{""screened_no_obvious_mismatch"": 14, ""unusable_generated_candidate"": 1}"
 DUP-E2D82E3A7B,e2d82e3a7bbed5e2482cedd05b04606ca5e0a17b5e2aac70f4e7261217b83663,2,"Output/List_1/Nora_Lighting/NLCBS-4W521230BZ-G-01.jpg
 Output/List_1/Nora_Lighting/NLCBS-4W521240BZ-G-01.jpg
 Output/List_1/Nora_Lighting/NLCBS-4W528527BZ-G-01.jpg
@@ -8080,7 +8080,7 @@ Output/List_3/ELCO_Lighting/E429PS-1130-V.jpg
 Output/List_3/ELCO_Lighting/E429PS-1135-V.jpg
 Output/List_3/ELCO_Lighting/E429PS-1140-V.jpg
 Output/List_3/ELCO_Lighting/E429PS-11HC-V.jpg
-Output/List_3/ELCO_Lighting/E429PS-11SD-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 23}","{""pending"": 23}"
+Output/List_3/ELCO_Lighting/E429PS-11SD-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 23}","{""screened_no_obvious_mismatch"": 23}"
 DUP-E4D83AB6F2,e4d83ab6f2f18f49c696bb45729bac8f332df5073cea7ef9b64ae963525d4d90,1,"Output/List_1/Kuzco/PD78019-VB-UNV-V.jpg
 Output/List_1/Kuzco/PD78019-VB-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
 DUP-E4DE37F356,e4de37f356bddc78d5bfaaaf8bb1d1dede4198a12dcce47d7650e34311cace91,2,"Output/List_3/ELCO_Lighting/EUD34-8-V.jpg
@@ -8381,7 +8381,7 @@ Output/List_3/ELCO_Lighting/E36PB-1527-V.jpg
 Output/List_3/ELCO_Lighting/E36PB-1527D-N-V.jpg
 Output/List_3/ELCO_Lighting/E36PB-1530-V.jpg
 Output/List_3/ELCO_Lighting/E36PB-1535-V.jpg
-Output/List_3/ELCO_Lighting/E36PB-1540-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 11}","{""pending"": 11}"
+Output/List_3/ELCO_Lighting/E36PB-1540-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 11}","{""screened_no_obvious_mismatch"": 11}"
 DUP-EC52C5E17A,ec52c5e17a36cd705c022c8db7de6b64e318a642e9a4f7e9c6c1ffaac6820c83,1,"Output/List_1/ELCO_Lighting/E1L02FSDB-V.jpg
 Output/List_1/ELCO_Lighting/E1L02WF27B-G-01.jpg
 Output/List_1/ELCO_Lighting/E1L02WF30B-G-01.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
@@ -8490,7 +8490,7 @@ Output/List_2/Morris/36024-V.jpg","{""metadata_and_thumbnail_triage_reference_in
 DUP-EF74EF86D5,ef74ef86d5038764ef9afe2f167c6dcbc3e9deb103de822cc9a8080ef7062a75,1,"Output/List_1/Kuzco/LP95354-BK-UNV-V.jpg
 Output/List_1/Kuzco/LP95354-BK-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
 DUP-EF86C5F0DD,ef86c5f0dd71f075a6878d9d6892640a983b1a91400b190ecd302a07c23a97b8,2,"Output/List_3/ELCO_Lighting/E3LC08ICA2-V.jpg
-Output/List_3/ELCO_Lighting/E3LC08ICAD2-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_3/ELCO_Lighting/E3LC08ICAD2-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 2}","{""screened_no_obvious_mismatch"": 2}"
 DUP-EF8EC3517D,ef8ec3517d758bf3f59ccc266e8ef326de7507f55132b6c9a78f79a56bc5e563,3,"Output/List_3/ELCO_Lighting/ELWB-V.jpg
 Output/List_3/ELCO_Lighting/ELWN-V.jpg
 Output/List_3/ELCO_Lighting/ELWW-V.jpg","{""full_reference_and_candidate_reviewed"": 2, ""contact_sheet_finish_reviewed_technical_QC_pending"": 1}","{""AI_replacement_candidate"": 2, ""no_confirmed_finish_mismatch"": 1}"
@@ -8519,7 +8519,7 @@ DUP-F130EF2428,f130ef2428213195dbb146c83e292c4d173550c8290b1328ce041a12a1c8f16e,
 Output/List_3/ELCO_Lighting/E36PS-0730-FC-V.jpg
 Output/List_3/ELCO_Lighting/E36PS-0735-FC-V.jpg
 Output/List_3/ELCO_Lighting/E36PS-0740-FC-V.jpg
-Output/List_3/ELCO_Lighting/E36PS-07SD-FC-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 5}","{""pending"": 5}"
+Output/List_3/ELCO_Lighting/E36PS-07SD-FC-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 5}","{""screened_no_obvious_mismatch"": 5}"
 DUP-F185317D87,f185317d8796b92fafc9e2ec4021dc32bfca2ac0e52c8271890d33a89af0f7e1,6,"Output/List_1/UMAGE/3051-V.jpg
 Output/List_1/UMAGE/3051_4007-V.jpg
 Output/List_1/UMAGE/3051_4008-V.jpg
@@ -8811,7 +8811,7 @@ Output/List_3/ELCO_Lighting/E36MW-1130-V.jpg
 Output/List_3/ELCO_Lighting/E36MW-1130-W-V.jpg
 Output/List_3/ELCO_Lighting/E36MW-1135-V.jpg
 Output/List_3/ELCO_Lighting/E36MW-1140-V.jpg
-Output/List_3/ELCO_Lighting/E36MW-11SD-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 18}","{""pending"": 18}"
+Output/List_3/ELCO_Lighting/E36MW-11SD-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 18}","{""screened_no_obvious_mismatch"": 18}"
 DUP-F9CCBA14A6,f9ccba14a67507a9a8f5078cc19973040029db4238573a2b6788ff008fba3d0e,3,"Output/List_3/Westgate/CRLC-TRM-4S-V.jpg
 Output/List_3/Westgate/CRLC-TRM-4S-WH-V.jpg
 Output/List_3/Westgate/CRLC-TRM-6S-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 3}","{""pending"": 3}"

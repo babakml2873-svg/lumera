@@ -23,13 +23,14 @@
     "Most pending rows still require exact-SKU reference/metadata comparison.",
     "Reference-insufficient decisions based on metadata and thumbnail triage explicitly retain that review level.",
     "All render candidates are unapproved; full technical QC remains outstanding.",
-    "The 500-row passes are group image and catalog screening, not complete per-SKU technical QC. screened_no_obvious_mismatch is not approval. Long-stem renders have high dimension/proportion uncertainty and need actual manufacturer drawing validation."
+    "The 500-row passes are group image and catalog screening, not complete per-SKU technical QC. screened_no_obvious_mismatch is not approval. Long-stem renders have high dimension/proportion uncertainty and need actual manufacturer drawing validation.",
+    "Part 003 includes three rejected 84-inch renders; two black variants were retried and still failed the length/body proportion. Their same-family Git dimension drawing gives body height 8 inches and outer diameter 3.5 inches, with standard 120-inch field-cuttable cable. Do not count these files as usable or dimension-correct."
   ],
-  "last_500_pass_completed": "Part_002",
-  "next_500_pass": "Part_003",
-  "initial_500_pass_rows": 1000,
+  "last_500_pass_completed": "Part_003",
+  "next_500_pass": "Part_004",
+  "initial_500_pass_rows": 1500,
   "total_500_parts": 14,
-  "current_AI_candidate_rows": 108,
-  "rejected_file_attempts": 12,
+  "current_AI_candidate_rows": 115,
+  "rejected_file_attempts": 17,
   "all_issues_resolved": false
 }

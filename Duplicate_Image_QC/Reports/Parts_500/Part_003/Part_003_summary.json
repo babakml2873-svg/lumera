@@ -1,0 +1,23 @@
+{
+  "part": "Part_003",
+  "item_unit": "workbook SKU review row; not 500 generated images or 500 distinct products",
+  "scope_rows": 500,
+  "first_scope_position": 1001,
+  "last_scope_position": 1500,
+  "reviewed_in_this_pass": 500,
+  "initial_group_and_metadata_review_pass_complete": true,
+  "all_issues_resolved": false,
+  "detailed_technical_QC_complete": false,
+  "decisions": {
+    "screened_no_obvious_mismatch": 490,
+    "AI_replacement_candidate": 7,
+    "unusable_generated_candidate": 3
+  },
+  "new_rendered_SKUs_in_this_part": 10,
+  "new_rendered_files_in_this_part": 12,
+  "current_AI_candidate_rows_in_part": 7,
+  "needs_reference_rows": 0,
+  "rejected_current_candidate_rows": 3,
+  "screening_only_no_obvious_mismatch_rows": 490,
+  "unreviewed_in_this_500_pass": 0
+}
