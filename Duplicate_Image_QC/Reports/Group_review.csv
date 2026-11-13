@@ -101,14 +101,14 @@ Output/List_3/Westgate/XD-TH-1RBBEM-V.jpg
 Output/List_3/Westgate/XD-TH-1RWWEM-V.jpg
 Output/List_3/Westgate/XD-TH-2RAAEM-V.jpg
 Output/List_3/Westgate/XD-TH-2RBBEM-V.jpg
-Output/List_3/Westgate/XD-TH-2RWWEM-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 6}","{""pending"": 6}"
+Output/List_3/Westgate/XD-TH-2RWWEM-V.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 6}","{""needs_reference_review"": 6}"
 DUP-0308538D48,0308538d48c8f2cbb1d3c2fe724b7904ae35f66e36f57caf72b5e3a8ad14a2fd,7,"Output/List_3/Westgate/C-100CG-V.jpg
 Output/List_3/Westgate/C-125CG-V.jpg
 Output/List_3/Westgate/C-150CG-V.jpg
 Output/List_3/Westgate/C-200CG-V.jpg
 Output/List_3/Westgate/C-250CG-V.jpg
 Output/List_3/Westgate/C-300CG-V.jpg
-Output/List_3/Westgate/C-400CG-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 7}","{""pending"": 7}"
+Output/List_3/Westgate/C-400CG-V.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 7}","{""needs_reference_review"": 7}"
 DUP-032B0764E3,032b0764e32df4538473fdc265b7df0e32812ee0846ee4723d765dbde120a938,13,"Output/List_1/Lutron/AY-103P-LA-V.jpg
 Output/List_1/Lutron/AY-103PNL-LA-V.jpg
 Output/List_1/Lutron/AY-10P-LA-V.jpg
@@ -285,7 +285,7 @@ Output/List_1/Leviton/GFNT2-HGR-V.jpg","{""batch_group_visual_and_metadata_scree
 DUP-06822DA94B,06822da94be4b1a4a58377beca51508cf65835085996940bb643c023fb6c05c4,4,"Output/List_3/Westgate/WXB50-4-V.jpg
 Output/List_3/Westgate/WXB50-6-V.jpg
 Output/List_3/Westgate/WXB75-4-V.jpg
-Output/List_3/Westgate/WXB75-6-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 4}","{""pending"": 4}"
+Output/List_3/Westgate/WXB75-6-V.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 4}","{""needs_reference_review"": 4}"
 DUP-069EDD12F5,069edd12f5b036e7c54becfd7cbf1a33edd869339a6b4867fc0e70e077f7480b,10,"Output/List_3/ELCO_Lighting/E25MW-0727-S-V.jpg
 Output/List_3/ELCO_Lighting/E25MW-0727-W-V.jpg
 Output/List_3/ELCO_Lighting/E25MW-0735-V.jpg
@@ -527,7 +527,7 @@ Output/List_3/ELCO_Lighting/E629FW-1524-V.jpg
 Output/List_3/ELCO_Lighting/E629FW-15SD-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 9}","{""screened_no_obvious_mismatch"": 9}"
 DUP-0E58926C39,0e58926c393d554c67aabbc35a59756baac846954e517f66425e296d10676c00,3,"Output/List_4/Westgate/MR16-500L-C90-30K-D-V.jpg
 Output/List_4/Westgate/MR16-500L-C90-40K-D-V.jpg
-Output/List_4/Westgate/MR16-500L-C90-50K-D-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 3}","{""pending"": 3}"
+Output/List_4/Westgate/MR16-500L-C90-50K-D-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 3}","{""screened_no_obvious_mismatch"": 3}"
 DUP-0E995C842F,0e995c842f4a77dfbe8b62aec057780a58c1fab33d2b9c9bb7fb2bb7e5f1c58c,1,"Output/List_1/Kuzco/VL72221-BK-UNV-V.jpg
 Output/List_1/Kuzco/VL72221-BK-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1}","{""screened_no_obvious_mismatch"": 1}"
 DUP-0EF9BA6964,0ef9ba696403b49f1581bff8cf94ab1746a9572ec75e96f758a2a946625897ee,6,"Output/List_3/ELCO_Lighting/E25FS-0327-V.jpg
@@ -740,7 +740,7 @@ Output/List_3/Westgate/T-200CG-V.jpg
 Output/List_3/Westgate/T-250CG-V.jpg
 Output/List_3/Westgate/T-300CG-V.jpg
 Output/List_3/Westgate/T-350CG-V.jpg
-Output/List_3/Westgate/T-400CG-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 8}","{""pending"": 8}"
+Output/List_3/Westgate/T-400CG-V.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 8}","{""needs_reference_review"": 8}"
 DUP-15BE1A195B,15be1a195b702308280f557b3da351137498890eb7c44994c77a386ef395bdd4,6,"Output/List_4/Intermatic/FM1D14-AV-U-V.jpg
 Output/List_4/Intermatic/FM1D14-LV-U-V.jpg
 Output/List_4/Intermatic/FM1D20-AV-U-V.jpg
@@ -1128,7 +1128,7 @@ Output/List_2/UMAGE/3005-V.jpg","{""metadata_and_thumbnail_triage_reference_insu
 DUP-21CAEA668D,21caea668d2e61389fc1929684e00498ff477df1e458e8b9206e4db5c56c1319,2,"Output/List_1/ELCO_Lighting/EP444B-V.jpg
 Output/List_3/ELCO_Lighting/EP222B-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 2}","{""screened_no_obvious_mismatch"": 2}"
 DUP-21D78BA789,21d78ba789610e3b2f668aeaf14a8ee33a2000b570401d50b1c45fbb16a46571,2,"Output/List_2/Westgate/SCX1.5-L1FT-UD-MCTP5-BK-V.jpg
-Output/List_2/Westgate/SCX1.5-L2FT-UD-MCTP5-BK-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_2/Westgate/SCX1.5-L2FT-UD-MCTP5-BK-V.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 2}","{""needs_reference_review"": 2}"
 DUP-21F8FD7149,21f8fd7149856d2f13dc49ccaf727d2dbc56ffdc6efefb34861527469b89b80e,15,"Output/List_1/ELCO_Lighting/E1AK12F27BZ-V.jpg
 Output/List_1/ELCO_Lighting/E1AK12F30BZ-V.jpg
 Output/List_1/ELCO_Lighting/E1AK12F35BZ-V.jpg
@@ -1179,7 +1179,7 @@ DUP-23063629F6,23063629f6f0c445271d27d56ee801cc5d2d3bf2c73b219bd38783aec9c4adaf,
 Output/List_1/Leviton/TCR15-T-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 2}","{""screened_no_obvious_mismatch"": 2}"
 DUP-235F70E3C6,235f70e3c685fcbd15b36d46e9408dd4eebbed78aa0d4db7076b0bd931d328db,3,"Output/List_3/Westgate/XD-TH-1GAAEM-V.jpg
 Output/List_3/Westgate/XD-TH-1GBBEM-V.jpg
-Output/List_3/Westgate/XD-TH-1GWWEM-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 3}","{""pending"": 3}"
+Output/List_3/Westgate/XD-TH-1GWWEM-V.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 3}","{""needs_reference_review"": 3}"
 DUP-23746238AE,23746238ae5739621cfce27ba411d2751657ffac808814f585cd229cf0c5e9eb,3,"Output/List_1/Lighting_Spot_26/LS2-WP-L45-WH-V.jpg
 Output/List_1/Lighting_Spot_26/LS2-WP-L65-WH-V.jpg
 Output/List_1/Lighting_Spot_26/LS2-WP-L90-WH-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 3}","{""screened_no_obvious_mismatch"": 3}"
@@ -1219,7 +1219,7 @@ Output/List_1/UMAGE/3025_4009-V.jpg
 Output/List_1/UMAGE/3025_4010-V.jpg","{""metadata_and_thumbnail_triage_reference_insufficient"": 4}","{""needs_reference_review"": 4}"
 DUP-2448E0F824,2448e0f824ee93859531f282febe6de5a347e444b622be0469af8912c7c5a4ee,3,"Output/List_3/Westgate/W2XB50-6-V.jpg
 Output/List_3/Westgate/W2XB50-8-V.jpg
-Output/List_3/Westgate/W2XB75-6-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 3}","{""pending"": 3}"
+Output/List_3/Westgate/W2XB75-6-V.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 3}","{""needs_reference_review"": 3}"
 DUP-24C494332B,24c494332b6ff06f759132691698388218f13c23c564dc87aa79f2b814b2730f,1,"Output/List_3/Focus_Industries/PL14L12BAR-G-01.jpg
 Output/List_3/Focus_Industries/PL14L12BAT-G-01.jpg
 Output/List_3/Focus_Industries/PL14L12BAV-G-01.jpg
@@ -1499,7 +1499,7 @@ Output/List_2/Leviton/CS420-2-V.jpg","{""metadata_and_thumbnail_triage_reference
 DUP-3033842EC0,3033842ec09d2b438036177a16d47470fd51915da57c841e908462d9ac99848b,1,"Output/List_1/Kuzco/VL63736-BK-UNV-V.jpg
 Output/List_1/Kuzco/VL63736-BK-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1}","{""screened_no_obvious_mismatch"": 1}"
 DUP-309453A0E1,309453a0e1301b26daf9d610519f2f94b6b8dfa9797ac140d36fb73eb46feea3,2,"Output/List_4/Westgate/G10-600L-30K-D-V.jpg
-Output/List_4/Westgate/G10-600L-50K-D-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_4/Westgate/G10-600L-50K-D-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 2}","{""screened_no_obvious_mismatch"": 2}"
 DUP-30D6732102,30d673210273d38b3ee53b69e47f766275f9ff11966045741c9869dc791d834f,3,"Output/List_2/Eaton/BRN115AF-V.jpg
 Output/List_2/Eaton/BRN120AF-V.jpg
 Output/List_2/Eaton/BRP115AF-V.jpg
@@ -1542,7 +1542,7 @@ Output/List_3/ELCO_Lighting/E429PW-1140-V.jpg
 Output/List_3/ELCO_Lighting/E429PW-11HC-V.jpg
 Output/List_3/ELCO_Lighting/E429PW-11SD-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 24}","{""screened_no_obvious_mismatch"": 24}"
 DUP-3169D25755,3169d257552b49c52383d72b90c2d4fb2398e6bdf8c0af3a26d20b4d2c7bce3e,2,"Output/List_4/Westgate/PC-1-V.jpg
-Output/List_4/Westgate/PC-1H-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_4/Westgate/PC-1H-V.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 2}","{""needs_reference_review"": 2}"
 DUP-3174E9F0E6,3174e9f0e6b4b22f29ae5a5e0e032e6f9801200e98386be768dcf64c4b2e28c4,1,"Output/List_1/Alora_Mood/PD530341MBOP-UNV-V.jpg
 Output/List_1/Alora_Mood/PD530341MBOP-V.jpg","{""group_finish_screen_and_ordering_suffix_evidence_reviewed"": 1}","{""shared_image_consistent_with_documented_ordering_suffix"": 1}"
 DUP-3194EF6077,3194ef6077396125e170b3393d635ce98c3247dbd866a9ab0c896d8ca44a5f0f,15,"Output/List_1/Nora_Lighting/NLCBC2-55327BZBZ-10-G-02.jpg
@@ -1644,7 +1644,7 @@ Output/List_1/Leviton/16352-W-V.jpg","{""batch_group_visual_and_metadata_screene
 DUP-34089BD7A7,34089bd7a752bd88418fd835487f824d7b9a5e05f446f5f309bc039143369f89,1,"Output/List_1/Kuzco/FM43419-BK-GD-5CCT-V.jpg
 Output/List_1/Kuzco/FM43419-BK-GD-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1}","{""screened_no_obvious_mismatch"": 1}"
 DUP-3418110711,3418110711e46e9f5d92c9f51f96bb2faba21033811a05e477dbc6ef2ae86d3b,2,"Output/List_3/Westgate/WEC-2MDBTH-36-V.jpg
-Output/List_4/Westgate/WEC-2MDRH-35-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_4/Westgate/WEC-2MDRH-35-V.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 2}","{""needs_reference_review"": 2}"
 DUP-341F013982,341f0139820a89ec3b74dc15434b548eb5c67497a0245e88765437916b8f1117,2,"Output/List_2/Morris/37150-V.jpg
 Output/List_2/Morris/37160-V.jpg","{""metadata_and_thumbnail_triage_reference_insufficient"": 2}","{""needs_reference_review"": 2}"
 DUP-3430E93B0D,3430e93b0d35a0bd2e597d29b92b4d6203e2581aaf7de220416cb14cea83a686,4,"Output/List_1/ELCO_Lighting/ELST9430N-V.jpg
@@ -1922,7 +1922,7 @@ Output/List_1/Westgate/LVB-18-MCT-PC-V.jpg
 Output/List_1/Westgate/LVB-24-MCT-BN-V.jpg
 Output/List_1/Westgate/LVB-24-MCT-PC-V.jpg
 Output/List_1/Westgate/LVB-36-MCT-BN-V.jpg
-Output/List_1/Westgate/LVB-36-MCT-PC-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1, ""full_reference_and_candidate_reviewed"": 1, ""batch_group_visual_and_metadata_review_reference_insufficient"": 2, ""thumbnail_screened_exact_SKU_validation_pending"": 3}","{""screened_no_obvious_mismatch"": 1, ""AI_replacement_candidate"": 1, ""needs_reference_review"": 2, ""pending"": 3}"
+Output/List_1/Westgate/LVB-36-MCT-PC-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1, ""full_reference_and_candidate_reviewed"": 1, ""batch_group_visual_and_metadata_review_reference_insufficient"": 5}","{""screened_no_obvious_mismatch"": 1, ""AI_replacement_candidate"": 1, ""needs_reference_review"": 5}"
 DUP-3963694987,3963694987278e06f1015614ccfc0212d558be5f1ba1c01ce85453e56cee2156,1,"Output/List_3/Nora_Lighting/NTS-615-45W-G-01.jpg
 Output/List_3/Nora_Lighting/NTS-615W-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1}","{""screened_no_obvious_mismatch"": 1}"
 DUP-396F0BC927,396f0bc927d24b3d78427a6bc87a63096209bf555063dcbdb05acd6b19ade52b,1,"Output/List_1/Alora_Mood/FM417604BGCR-UNV-V.jpg
@@ -2306,7 +2306,7 @@ Output/List_3/ELCO_Lighting/E30-2430-V.jpg","{""batch_group_visual_and_metadata_
 DUP-4574EACF07,4574eacf0762bb3bd7fd86fee5b93011063e5d318c75c270c323f70fd6f9e707,1,"Output/List_1/Kuzco/VL23532-BK-UNV-V.jpg
 Output/List_1/Kuzco/VL23532-BK-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1}","{""screened_no_obvious_mismatch"": 1}"
 DUP-45ED377E37,45ed377e376b2913ba026fe2cd0db0dc7f688dffe6b5889d204a65ba2a99f045,2,"Output/List_3/Westgate/LFX-SM-10-30W-30K-TR-V.jpg
-Output/List_3/Westgate/LFX-SM-10-30W-50K-TR-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_3/Westgate/LFX-SM-10-30W-50K-TR-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 2}","{""screened_no_obvious_mismatch"": 2}"
 DUP-45ED7B9647,45ed7b964771c89cd9dc95d06a3ba594d18eb96d16896053ba55b3147d34e1c3,2,"Output/List_3/ELCO_Lighting/E25MW-08CT5-V.jpg
 Output/List_3/ELCO_Lighting/E25MW-08CT5W-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 2}","{""screened_no_obvious_mismatch"": 2}"
 DUP-45F1E6F92B,45f1e6f92b6d43dd32069878bef60b4c5f5bcb7d44b4cad6bd7d1d82f55cac4c,2,"Output/List_1/ELCO_Lighting/EL615W-V.jpg
@@ -2593,7 +2593,7 @@ Output/List_3/Westgate/LB-250CG-V.jpg
 Output/List_3/Westgate/LB-300CG-V.jpg
 Output/List_3/Westgate/LB-400CG-V.jpg
 Output/List_3/Westgate/LB-50CG-V.jpg
-Output/List_3/Westgate/LB-75CG-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 9}","{""pending"": 9}"
+Output/List_3/Westgate/LB-75CG-V.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 9}","{""needs_reference_review"": 9}"
 DUP-4D32FAA81C,4d32faa81cd6291f75aad24bd936f880a9506c692a2d07bca3363db22ebf8cce,4,"Output/List_1/UMAGE/2071-V.jpg
 Output/List_1/UMAGE/2071_4011-V.jpg
 Output/List_1/UMAGE/2071_4012-V.jpg
@@ -2940,7 +2940,7 @@ Output/List_1/UMAGE/3050_4010-V.jpg
 Output/List_1/UMAGE/3050_4011-V.jpg
 Output/List_1/UMAGE/3050_4012-V.jpg","{""metadata_and_thumbnail_triage_reference_insufficient"": 6}","{""needs_reference_review"": 6}"
 DUP-54CE335185,54ce335185af83f5f9d53ab9085bf1d877617ee00c2a850a25edb49e4b69ae44,2,"Output/List_1/Westgate/BOL-700-20-MCTP-BK-V.jpg
-Output/List_1/Westgate/BOL-700-37-MCTP-BK-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1, ""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""screened_no_obvious_mismatch"": 1, ""pending"": 1}"
+Output/List_1/Westgate/BOL-700-37-MCTP-BK-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1, ""batch_group_visual_and_metadata_review_reference_insufficient"": 1}","{""screened_no_obvious_mismatch"": 1, ""needs_reference_review"": 1}"
 DUP-54E5EBEC1B,54e5ebec1b376ca833684014fd8bb5f2c0414009a7990c6f64a178090bb759e4,18,"Output/List_3/ELCO_Lighting/E36FW-0727-V.jpg
 Output/List_3/ELCO_Lighting/E36FW-0730-V.jpg
 Output/List_3/ELCO_Lighting/E36FW-0735-V.jpg
@@ -3672,7 +3672,7 @@ DUP-64DE4730A9,64de4730a929c1596d50ebabb4707bd3bc8915397a46257f6ab38dd468cbe636,
 Output/List_1/Kuzco/CH14348-BG-V.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 1}","{""needs_reference_review"": 1}"
 DUP-653C6528D2,653c6528d26d98f1cc4dbc777f15703526443e4029a56550253a52c8184fdc45,3,"Output/List_3/Westgate/XD-TH-2GAAEM-V.jpg
 Output/List_3/Westgate/XD-TH-2GBBEM-V.jpg
-Output/List_3/Westgate/XD-TH-2GWWEM-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 3}","{""pending"": 3}"
+Output/List_3/Westgate/XD-TH-2GWWEM-V.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 3}","{""needs_reference_review"": 3}"
 DUP-65729D6F4A,65729d6f4a24428fff3f15cf44f6a474e8ba1d42a33dcb66fefb5836017fbbbd,1,"Output/List_1/Alora_Mood/FM503611AG-5CCT-V.jpg
 Output/List_1/Alora_Mood/FM503611AG-V.jpg","{""group_finish_screen_and_ordering_suffix_evidence_reviewed"": 1}","{""shared_image_consistent_with_documented_ordering_suffix"": 1}"
 DUP-658E14B84D,658e14b84d843dc2b3862d6b4c21a995cad5da77c62a5b229b0664e8012f44f0,1,"Output/List_1/Kuzco/CH97358-BK-UNV-V.jpg
@@ -3742,7 +3742,7 @@ Output/List_2/Morris/36260-V.jpg","{""metadata_and_thumbnail_triage_reference_in
 DUP-6826601778,6826601778eadc8713531b8390f56121ac4128faf90640f84c95b0d55a5da93c,4,"Output/List_3/Westgate/TC-FML-10-17W-RGBW-WIFI-V.jpg
 Output/List_3/Westgate/TC-FML-12-22W-RGBW-WIFI-V.jpg
 Output/List_3/Westgate/TC-FML-14-26W-RGBW-WIFI-V.jpg
-Output/List_3/Westgate/TC-FML-8-14W-RGBW-WIFI-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1, ""thumbnail_screened_exact_SKU_validation_pending"": 3}","{""screened_no_obvious_mismatch"": 1, ""pending"": 3}"
+Output/List_3/Westgate/TC-FML-8-14W-RGBW-WIFI-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 4}","{""screened_no_obvious_mismatch"": 4}"
 DUP-686ECB361B,686ecb361b09cc2e54b25834966991c79c4369037da3a51e4dafcbbdce43ad74,1,"Output/List_1/Kuzco/MP14932-WH-UNV-010-V.jpg
 Output/List_1/Kuzco/MP14932-WH-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1}","{""screened_no_obvious_mismatch"": 1}"
 DUP-68AAA8E9B4,68aaa8e9b41f7fe29b1063a35ea4868df205c39a093b38b95d0d17d9a4adc6af,2,"Output/List_1/Leviton/M5362-GY-V.jpg
@@ -3833,7 +3833,7 @@ Output/List_3/ELCO_Lighting/E617R1230W-V.jpg","{""batch_group_visual_and_metadat
 DUP-6B38F69DC0,6b38f69dc0cf20879559d7ff0a0e989d5e8775ea83e9126486a8ab4b7fc3491d,1,"Output/List_1/Kuzco/PD80324-WH-UNV-V.jpg
 Output/List_1/Kuzco/PD80324-WH-V.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 1}","{""needs_reference_review"": 1}"
 DUP-6B9F46DBBD,6b9f46dbbde0149c9427e1dbe3af457b32a47ceeb8dcfc55bde9e186121b778c,2,"Output/List_3/Westgate/MS507C-UL-V.jpg
-Output/List_3/Westgate/MS507CW-UL-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_3/Westgate/MS507CW-UL-V.jpg","{""full_reference_and_candidate_reviewed"": 2}","{""AI_replacement_candidate"": 2}"
 DUP-6BC49F9714,6bc49f97144f9c976844cc79c673efd0d1b0e444633269c47af0c517d2ba0985,2,"Output/List_2/Euri_Lighting/EPL-2100Hv-V.jpg
 Output/List_2/Euri_Lighting/EPL-2140Hv-V.jpg
 Output/List_2/Euri_Lighting/EPL-2150Hv-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 2}","{""screened_no_obvious_mismatch"": 2}"
@@ -3935,7 +3935,7 @@ Output/List_3/ELCO_Lighting/EP850N-G-01.jpg","{""full_reference_and_candidate_re
 DUP-6E090E633F,6e090e633f857be642c27cb51633efec5aa90694ea47d242e85434657592d75a,1,"Output/List_1/Nora_Lighting/NLINSW-X334B-G-01.jpg
 Output/List_1/Nora_Lighting/NLINSW-X334W-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1}","{""screened_no_obvious_mismatch"": 1}"
 DUP-6E31883A93,6e31883a93091be007661914e7003ee896f81c634ff7c110bf331271b0dd176f,2,"Output/List_4/Westgate/GZ-G9-3W-32K-V.jpg
-Output/List_4/Westgate/GZ-G9-3W-55K-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_4/Westgate/GZ-G9-3W-55K-V.jpg","{""full_reference_and_candidate_reviewed"": 2}","{""AI_replacement_candidate"": 2}"
 DUP-6E3D62297B,6e3d62297bd99b11a6814f78e461b8a1370c22ddd51ed2d1f42e4f92f992ab5c,15,"Output/List_3/ELCO_Lighting/E25MS-0727-V.jpg
 Output/List_3/ELCO_Lighting/E25MS-0730-V.jpg
 Output/List_3/ELCO_Lighting/E25MS-0735-V.jpg
@@ -4181,7 +4181,7 @@ DUP-728775E109,728775e1091afdd191e0297e967e4d6e7c0f2312287b06d0426ad3efa56c191a,
 Output/List_3/ELCO_Lighting/EKCL10RIC-V.jpg
 Output/List_3/ELCO_Lighting/EKCL10RICDX-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 3}","{""screened_no_obvious_mismatch"": 3}"
 DUP-731912596D,731912596d6c59ef8fad22fc1a3302443c1ba702160adf74d14793bf54fdbfe6,2,"Output/List_3/Westgate/BOL-700-20-MCTP-BR-V.jpg
-Output/List_3/Westgate/BOL-700-37-MCTP-BR-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1, ""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""screened_no_obvious_mismatch"": 1, ""pending"": 1}"
+Output/List_3/Westgate/BOL-700-37-MCTP-BR-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1, ""batch_group_visual_and_metadata_review_reference_insufficient"": 1}","{""screened_no_obvious_mismatch"": 1, ""needs_reference_review"": 1}"
 DUP-7339EC3243,7339ec3243528d22b809cb4fe38183698b9bcdf2b3ac8987fe60f9d72f34cfa7,1,"Output/List_1/Kuzco/CH96840-BK-BG-UNV-V.jpg
 Output/List_1/Kuzco/CH96840-BK-BG-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1}","{""screened_no_obvious_mismatch"": 1}"
 DUP-73C2DE731F,73c2de731fe72a58789e61595a149fbe57bc6f4a18a7046cc5e7f33d04dd1121,3,"Output/List_2/Morris/14857-V.jpg
@@ -4543,7 +4543,7 @@ Output/List_1/Alora/WV324114VBGO-V.jpg","{""group_finish_screen_and_ordering_suf
 DUP-7F9A3446B9,7f9a3446b92f6ed06f93260c09f37ecc7b62da3b85668e6b600a33d6fca699dd,4,"Output/List_2/Westgate/SCX-X-30K-V.jpg
 Output/List_2/Westgate/SCX-X-35K-V.jpg
 Output/List_2/Westgate/SCX-X-40K-V.jpg
-Output/List_2/Westgate/SCX-X-MCT4-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 4}","{""pending"": 4}"
+Output/List_2/Westgate/SCX-X-MCT4-V.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 4}","{""needs_reference_review"": 4}"
 DUP-7FD557681C,7fd557681ca6de4202da5700cb7de4f42d4317d913dca3a0c7aa656eda0b13d7,1,"Output/List_3/Focus_Industries/PL02L12BAR-G-01.jpg
 Output/List_3/Focus_Industries/PL02L12BLT-G-01.jpg
 Output/List_3/Focus_Industries/PL02L12BRS-G-01.jpg
@@ -4595,7 +4595,7 @@ Output/List_2/Morris/14087-V.jpg
 Output/List_2/Morris/14088-V.jpg
 Output/List_2/Morris/14089-V.jpg","{""metadata_and_thumbnail_triage_reference_insufficient"": 7}","{""needs_reference_review"": 7}"
 DUP-81E58D5EB2,81e58d5eb2d0f8f9ca254143df2d29a3aaa2fcf7e9ef969c46536820e9770070,2,"Output/List_2/Westgate/SCX1.5-L1FT-UD-MCTP5-V.jpg
-Output/List_2/Westgate/SCX1.5-L2FT-UD-MCTP5-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_2/Westgate/SCX1.5-L2FT-UD-MCTP5-V.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 2}","{""needs_reference_review"": 2}"
 DUP-81FCF33998,81fcf339989ad96267675805747ea1f6d1c1a0efd4afed255a1da60c26233f56,1,"Output/List_2/Utopia_Lighting/Cube2-NRC-T-V.jpg
 Output/List_2/Utopia_Lighting/Cube2-NRC-TSurface-V.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 1}","{""needs_reference_review"": 1}"
 DUP-821EE11C66,821ee11c664d5fa4197cf29469f448502196a6dbef9f76a34e2f1a1c558445bf,2,"Output/List_3/ELCO_Lighting/E25TW-0327-V.jpg
@@ -4699,7 +4699,7 @@ Output/List_1/Kuzco/CF97860-MB-NW-V.jpg","{""batch_group_visual_and_metadata_scr
 DUP-855BBA55E8,855bba55e81d2e87a80cceaa87e63c2c08fd70db3e496df78ef3340221f0ba7b,1,"Output/List_1/Alora_Mood/FM503715MB-5CCT-V.jpg
 Output/List_1/Alora_Mood/FM503715MB-V.jpg","{""group_finish_screen_and_ordering_suffix_evidence_reviewed"": 1}","{""shared_image_consistent_with_documented_ordering_suffix"": 1}"
 DUP-8571502A0E,8571502a0e9ce8acc716e250949d0c94d9711603c3ac818b6c39d93543a95df9,2,"Output/List_2/Westgate/EXPR-100-150W-WGD-V.jpg
-Output/List_2/Westgate/EXPR-30-60W-WGD-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1, ""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""screened_no_obvious_mismatch"": 1, ""pending"": 1}"
+Output/List_2/Westgate/EXPR-30-60W-WGD-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 2}","{""screened_no_obvious_mismatch"": 2}"
 DUP-85B9280840,85b92808405a61350650d02953e6fd621eb71c49b6f2fb2ac074f8436d51ff04,1,"Output/List_1/Kuzco/CH14348-WH-UNV-010-V.jpg
 Output/List_1/Kuzco/CH14348-WH-V.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 1}","{""needs_reference_review"": 1}"
 DUP-85C9507998,85c9507998cff0177956f93f720624cf60d1409866bef9c8d7a068446e15b13b,4,"Output/List_1/Nora_Lighting/NMP-LED27W-V.jpg
@@ -4990,7 +4990,7 @@ Output/List_3/Westgate/LL-250CG-V.jpg
 Output/List_3/Westgate/LL-300CG-V.jpg
 Output/List_3/Westgate/LL-400CG-V.jpg
 Output/List_3/Westgate/LL-50CG-V.jpg
-Output/List_3/Westgate/LL-75CG-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 9}","{""pending"": 9}"
+Output/List_3/Westgate/LL-75CG-V.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 9}","{""needs_reference_review"": 9}"
 DUP-8DD317B5E4,8dd317b5e4984c0373b7ee34996fb6b147bea9689aac17d39b6ecf26a4cccb92,1,"Output/List_1/Kuzco/FM43121-CL-5CCT-V.jpg
 Output/List_1/Kuzco/FM43121-CL-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1}","{""screened_no_obvious_mismatch"": 1}"
 DUP-8DF11FC235,8df11fc235b4b54cb1180f73f7119ef55095c7fd0a20ec4ac3f76413240e7e48,3,"Output/List_2/Siemens/Q1515NC-V.jpg
@@ -5314,7 +5314,7 @@ Output/List_1/Nora_Lighting/NTLE-870940W-V.jpg","{""batch_group_visual_and_metad
 DUP-96017CCEBF,96017ccebf8669629d0549986a4119fa75b5fe0b601d816fd746fbb7ed0a329b,2,"Output/List_3/ELCO_Lighting/E36MW-0327-V.jpg
 Output/List_3/ELCO_Lighting/E36MW-0330-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 2}","{""screened_no_obvious_mismatch"": 2}"
 DUP-963E583E1B,963e583e1b49537e72074e57e8471c03c3592246983530309b6d2855a1cd5f19,2,"Output/List_1/Westgate/LVB-48-MCT-BN-V.jpg
-Output/List_1/Westgate/LVB-48-MCT-PC-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_1/Westgate/LVB-48-MCT-PC-V.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 2}","{""needs_reference_review"": 2}"
 DUP-9685F518CB,9685f518cba0e0fc2131c67dd00e31924cba37582c3b49b84ffbb0c60490da4b,1,"Output/List_2/EnVision/S-CM-PIR-LV-BT-V.jpg
 Output/List_2/EnVision/S-CM-PIR-LV-SL-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1}","{""screened_no_obvious_mismatch"": 1}"
 DUP-968C086EDA,968c086eda475251d187a3bf685263170f5eebaf4abfd6f3926e7a4037b59624,2,"Output/List_3/Nora_Lighting/NTG-4SPH-HC-V.jpg
@@ -5624,7 +5624,7 @@ DUP-9D16950CCF,9d16950ccfef2c624074bedb9de92aec1dffab6d7360e04aa8af51ebde3d8ddd,
 Output/List_1/Kuzco/CH90826-BK-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1}","{""screened_no_obvious_mismatch"": 1}"
 DUP-9D17F3AEEE,9d17f3aeeedef6c652e0684be31f06c2b217cf55a9e848da682ae8bfe6737621,3,"Output/List_4/Westgate/MR16-400L-30K-D-V.jpg
 Output/List_4/Westgate/MR16-400L-41K-D-V.jpg
-Output/List_4/Westgate/MR16-400L-50K-D-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 3}","{""pending"": 3}"
+Output/List_4/Westgate/MR16-400L-50K-D-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 3}","{""screened_no_obvious_mismatch"": 3}"
 DUP-9D3AF14F51,9d3af14f51e48e0c94383bd56ac551678b5001ea596818ff75b3e336ac35452c,2,"Output/List_2/Leviton/TBR15-V.jpg
 Output/List_2/Leviton/TCR15-V.jpg","{""metadata_and_thumbnail_triage_reference_insufficient"": 2}","{""needs_reference_review"": 2}"
 DUP-9D5FBC3C83,9d5fbc3c83a87b18e45a265f549670892e6e4aad48ee4c3ed37b46c7126aa801,3,"Output/List_2/Morris/15455-V.jpg
@@ -6019,7 +6019,7 @@ Output/List_1/UMAGE/3027_4012-V.jpg","{""metadata_and_thumbnail_triage_reference
 DUP-A824F07F6A,a824f07f6a98e978b75eed9706400dd7308c7774de729bdfa69ca25d449ef68f,4,"Output/List_3/Westgate/WXF50-4-V.jpg
 Output/List_3/Westgate/WXF50-6-V.jpg
 Output/List_3/Westgate/WXF75-4-V.jpg
-Output/List_3/Westgate/WXF75-6-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 4}","{""pending"": 4}"
+Output/List_3/Westgate/WXF75-6-V.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 4}","{""needs_reference_review"": 4}"
 DUP-A868480419,a86848041980404f66e921f8fbf5bb246800d6b03c066480caf5bf6d54ffdf9e,1,"Output/List_1/Kuzco/PD87748-BK-UNV-010-V.jpg
 Output/List_1/Kuzco/PD87748-BK-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1}","{""screened_no_obvious_mismatch"": 1}"
 DUP-A874D620BA,a874d620ba88950bd51080a0a3616b874248f64a82a002453e59e8aebb6284da,8,"Output/List_1/Nora_Lighting/NLCBS-4W511227WW-V.jpg
@@ -6054,7 +6054,7 @@ Output/List_3/Westgate/LR-250CG-V.jpg
 Output/List_3/Westgate/LR-300CG-V.jpg
 Output/List_3/Westgate/LR-400CG-V.jpg
 Output/List_3/Westgate/LR-50CG-V.jpg
-Output/List_3/Westgate/LR-75CG-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 9}","{""pending"": 9}"
+Output/List_3/Westgate/LR-75CG-V.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 9}","{""needs_reference_review"": 9}"
 DUP-A9CCA1BBBD,a9cca1bbbd4a200507cfd2824539a8e0901472e9fa07f512041c57e634768b69,8,"Output/List_2/Lutron/3LD4T5-1M30-1-V.jpg
 Output/List_2/Lutron/3LD4T5-1M35-1-V.jpg
 Output/List_2/Lutron/3LD4T5-1M40-1-V.jpg
@@ -6758,7 +6758,7 @@ Output/List_4/Intermatic/UWZ48V-24U-V.jpg","{""batch_group_visual_and_metadata_r
 DUP-BEBA38CEB0,beba38ceb0f1debdde592de75169b5e64e918ed5be085eb7cd1ded7d8675e237,4,"Output/List_3/Westgate/CRLC-TRM-4A-V.jpg
 Output/List_3/Westgate/CRLC-TRM-4A-WH-V.jpg
 Output/List_3/Westgate/CRLC-TRM-6A-V.jpg
-Output/List_3/Westgate/CRLC-TRM-6A-WH-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 4}","{""pending"": 4}"
+Output/List_3/Westgate/CRLC-TRM-6A-WH-V.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 4}","{""needs_reference_review"": 4}"
 DUP-BEBDE500A7,bebde500a78bf48fbe14ee99dac0e0f7564886440d102a9db20c0893582caccc,3,"Output/List_3/Nora_Lighting/NIO-FMMR-1S-V.jpg
 Output/List_3/Nora_Lighting/NIO-FMMR-2S-V.jpg
 Output/List_3/Nora_Lighting/NIO-FMMR-4S-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 3}","{""screened_no_obvious_mismatch"": 3}"
@@ -7018,7 +7018,7 @@ Output/List_1/Kuzco/CH89854-BK-GO-V.jpg","{""batch_group_visual_and_metadata_scr
 DUP-C6AE1BBF13,c6ae1bbf1305b1f1fe9e90cade18ef63fb328b278ba9fda207b601e3eea1a39a,4,"Output/List_3/Westgate/WRB50-5-BRZ-V.jpg
 Output/List_3/Westgate/WRB50-5-V.jpg
 Output/List_3/Westgate/WRB50-5-WH-V.jpg
-Output/List_3/Westgate/WRB75-5-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 4}","{""pending"": 4}"
+Output/List_3/Westgate/WRB75-5-V.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 4}","{""needs_reference_review"": 4}"
 DUP-C6B73C4C34,c6b73c4c34b9a789d35266bf3b784e278708c024352d53cb47a52f70babb95d2,2,"Output/List_1/Leviton/CS315-2I-V.jpg
 Output/List_1/Leviton/CS320-2I-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 2}","{""screened_no_obvious_mismatch"": 2}"
 DUP-C6D1AED283,c6d1aed28396622dfe35a93508f3d44d547dd5f4c86c73aec687d5a3713e61fe,2,"Output/List_1/Nora_Lighting/NM1-PRDCL127BB-G-01.jpg
@@ -7669,7 +7669,7 @@ Output/List_1/UMAGE/2252_4009-V.jpg
 Output/List_1/UMAGE/2252_4010-V.jpg
 Output/List_2/UMAGE/2252-V.jpg","{""metadata_and_thumbnail_triage_reference_insufficient"": 4}","{""needs_reference_review"": 4}"
 DUP-DA8DE72C6C,da8de72c6cc5ec0b28e66b37f283b19ee2bc4941fe68269e6c80baa740c3c580,2,"Output/List_2/Westgate/WEC-3PBT-78-AJ-WH-V.jpg
-Output/List_2/Westgate/WEC-3PR-78-AJ-WH-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_2/Westgate/WEC-3PR-78-AJ-WH-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 2}","{""screened_no_obvious_mismatch"": 2}"
 DUP-DA9271D0AA,da9271d0aadb8d8fbd7ed3ca2bf15919110e5968e8e57df1f842e58c783ac3a2,1,"Output/List_1/EnVision/LED-LHB-1FT-3P165-4CCT-HV-V.jpg
 Output/List_1/EnVision/LED-LHB-1FT-3P165-4CCT-UNV-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1}","{""screened_no_obvious_mismatch"": 1}"
 DUP-DAA0605168,daa06051689504109959d43398f012c3b1bd9d6fbe1646de677c7d683d86a647,6,"Output/List_1/UMAGE/3047-V.jpg
@@ -8365,7 +8365,7 @@ Output/List_1/Westgate/FLV12-24W-50K-V.jpg
 Output/List_1/Westgate/FLV12-32W-30K-V.jpg
 Output/List_1/Westgate/FLV12-32W-50K-V.jpg
 Output/List_1/Westgate/FLV12-6W-30K-V.jpg
-Output/List_1/Westgate/FLV12-6W-50K-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 6}","{""pending"": 6}"
+Output/List_1/Westgate/FLV12-6W-50K-V.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 6}","{""needs_reference_review"": 6}"
 DUP-EC20075B7A,ec20075b7ac219b3e9270af8f0f4b53f22559ca670eeb6171c776df0d58c7637,5,"Output/List_2/Morris/14995-V.jpg
 Output/List_2/Morris/14996-V.jpg
 Output/List_2/Morris/14997-V.jpg
@@ -8814,7 +8814,7 @@ Output/List_3/ELCO_Lighting/E36MW-1140-V.jpg
 Output/List_3/ELCO_Lighting/E36MW-11SD-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 18}","{""screened_no_obvious_mismatch"": 18}"
 DUP-F9CCBA14A6,f9ccba14a67507a9a8f5078cc19973040029db4238573a2b6788ff008fba3d0e,3,"Output/List_3/Westgate/CRLC-TRM-4S-V.jpg
 Output/List_3/Westgate/CRLC-TRM-4S-WH-V.jpg
-Output/List_3/Westgate/CRLC-TRM-6S-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 3}","{""pending"": 3}"
+Output/List_3/Westgate/CRLC-TRM-6S-V.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 3}","{""needs_reference_review"": 3}"
 DUP-F9EEC33733,f9eec337337691d6b344bd7e0c5dece788c436eeb750880a063c689cdab78625,8,"Output/List_1/ELCO_Lighting/EP918B-V.jpg
 Output/List_1/ELCO_Lighting/EP918W-V.jpg
 Output/List_1/ELCO_Lighting/EP924B-V.jpg

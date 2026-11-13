@@ -41,6 +41,8 @@ RRD-W5BRL-BL,Duplicate_Image_QC/Lighting-Controls/Lutron/RRD-W5BRL-BL-V.jpg,4eee
 RRD-W5BRL-BR,Duplicate_Image_QC/Lighting-Controls/Lutron/RRD-W5BRL-BR-V.jpg,7ceb90002288835ab4ed9bf37eea256492d783cb678bade7d4b71821b1db6a4b,800x800,66279,نیازمند تأیید QC,candidate_requires_QC
 RRD-W5BRL-GR,Duplicate_Image_QC/Lighting-Controls/Lutron/RRD-W5BRL-GR-V.jpg,44ac8f82fdfffc0662fa199cd1fad4d13c906fde289dd7df375c6d1df7e39f4d,800x800,62954,نیازمند تأیید QC,candidate_requires_QC
 RRD-W5BRL-LA,Duplicate_Image_QC/Lighting-Controls/Lutron/RRD-W5BRL-LA-V.jpg,2277677a78aef019184e09c13ebfd04c1e736b300b5dd7f3390b2a761acbc90b,800x800,61888,نیازمند تأیید QC,candidate_requires_QC
+GZ-G9-3W-32K,Duplicate_Image_QC/Lighting/Bulbs-Lamps/General-Bulbs/Westgate/GZ-G9-3W-32K-V.jpg,9204b51ca00ad14e29f743e15ccb69f3719a7950eaa98b57789aee2318e1c598,800x800,70309,نیازمند تأیید QC,candidate_requires_QC
+GZ-G9-3W-55K,Duplicate_Image_QC/Lighting/Bulbs-Lamps/General-Bulbs/Westgate/GZ-G9-3W-55K-V.jpg,9204b51ca00ad14e29f743e15ccb69f3719a7950eaa98b57789aee2318e1c598,800x800,70309,نیازمند تأیید QC,candidate_requires_QC
 E25MB-0727-FC-12,Duplicate_Image_QC/Lighting/Commercial-Lighting/Track-Lighting/ELCO_Lighting/E25MB-0727-FC-12-V.jpg,ea52e2e939eb4b4c98d4a06f1de14039e8dd4f4591ea2f84d73ee4846e1c96d3,800x800,56153,نیازمند تأیید QC,candidate_requires_QC
 E25MB-08CT5-24,Duplicate_Image_QC/Lighting/Commercial-Lighting/Track-Lighting/ELCO_Lighting/E25MB-08CT5-24-V.jpg,8b76e1e35512119161874342eedd56e1a4fea995c3b736c65daeba090750d4d9,800x800,53618,نیازمند تأیید QC,candidate_requires_QC
 E25MW-10DX30-12,Duplicate_Image_QC/Lighting/Commercial-Lighting/Track-Lighting/ELCO_Lighting/E25MW-10DX30-12-V.jpg,200aaeb3dad06f4815df8be0ea0145783e8f5800ea00f1e583facaff99b3ba61,800x800,46812,نیازمند تأیید QC,candidate_requires_QC
@@ -106,6 +108,8 @@ EP901B,Duplicate_Image_QC/Lighting/Lighting-Accessories/ELCO_Lighting/EP901B-V.j
 ET634WW,Duplicate_Image_QC/Lighting/Lighting-Accessories/ELCO_Lighting/ET634WW-V.jpg,147662e9b76b6fffbd1fa81573a329af9ee8617a53822b3c2d7f6acb4c49b483,800x800,76439,نیازمند تأیید QC,candidate_requires_QC
 ET638B,Duplicate_Image_QC/Lighting/Lighting-Accessories/ELCO_Lighting/ET638B-V.jpg,56b604b4c2ecbafd692e3dd56fbe5a5ccb687c6cbd40db09151da3a892c1e13f,800x800,64051,نیازمند تأیید QC,candidate_requires_QC
 RM3C,Duplicate_Image_QC/Lighting/Lighting-Accessories/ELCO_Lighting/RM3C-V.jpg,a799a8702779296b6f3574ac28db15099350014ce983294ee97616583d3b9958,800x800,62309,نیازمند تأیید QC,candidate_requires_QC
+MS507C-UL,Duplicate_Image_QC/Lighting/Lighting-Accessories/Westgate/MS507C-UL-V.jpg,74e9a5a2ea5c004c7f12745f9defa9b4b615ec4588c7b785cd00665671a3cf31,800x800,56581,نیازمند تأیید QC,candidate_requires_QC
+MS507CW-UL,Duplicate_Image_QC/Lighting/Lighting-Accessories/Westgate/MS507CW-UL-V.jpg,72d997251e1033e3640a72e85a22673d3ea0b3cafc4095d5992481fcdd4ce1d6,800x800,56409,نیازمند تأیید QC,candidate_requires_QC
 BOL-502-32-MCT-BR,Duplicate_Image_QC/Lighting/Outdoor-Lighting/Westgate/BOL-502-32-MCT-BR-V.jpg,11081678bdecaadfd3d76f46af91cebbacc8e738aa2879d3e11cf40ed841b850,800x800,63174,نیازمند تأیید QC,candidate_requires_QC
 BOL-505-26-MCT-BR,Duplicate_Image_QC/Lighting/Outdoor-Lighting/Westgate/BOL-505-26-MCT-BR-V.jpg,91cef0a7f6d8d01315b0fe6ad87f92cb15d4987a680f97069e7d4fc314a44742,800x800,51654,نیازمند تأیید QC,candidate_requires_QC
 BOL-602-40-S-MCTP-BK,Duplicate_Image_QC/Lighting/Outdoor-Lighting/Westgate/BOL-602-40-S-MCTP-BK-V.jpg,1cd939f92800ec0fb300bfae524aef589459d247f2cac62ae42ffdafe6076167,800x800,55049,نیازمند تأیید QC,candidate_requires_QC
