@@ -1,6 +1,9 @@
 import json,pathlib,re,csv,glob,hashlib,sys
 from PIL import Image
-W=pathlib.Path('/workspace/duplicate_qc_work');d=json.load(open(W/'review.json'));sku=sys.argv[1];src=pathlib.Path(sys.argv[2]);reason=sys.argv[3];t=next(t for t in d['targets'] if t['sku']==sku)
+W=pathlib.Path('/workspace/duplicate_qc_work');d=json.load(open(W/'review.json'));sku=sys.argv[1];src=pathlib.Path(sys.argv[2]);reason=sys.argv[3]
+matches=[t for t in d['targets'] if t['sku']==sku and (len(sys.argv)<5 or t['excel_row']==int(sys.argv[4]))]
+assert len(matches)==1, 'Ambiguous SKU: supply the exact Excel row as the final argument'
+t=matches[0]
 def canon(x):return str(x).strip().lstrip("'").upper()
 ex={canon(r['sku']) for r in csv.DictReader(open(glob.glob('/workspace/attachments/*/*.csv')[0],encoding='utf-8-sig'))};assert canon(sku) not in ex
 safe=lambda s:re.sub(r'[\s/\\:?#&]+','-',s.strip()).strip('-')

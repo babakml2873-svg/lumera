@@ -22,6 +22,14 @@
   "limitations": [
     "Most pending rows still require exact-SKU reference/metadata comparison.",
     "Reference-insufficient decisions based on metadata and thumbnail triage explicitly retain that review level.",
-    "All render candidates are unapproved; full technical QC remains outstanding."
-  ]
+    "All render candidates are unapproved; full technical QC remains outstanding.",
+    "The 500-row passes are group image and catalog screening, not complete per-SKU technical QC. screened_no_obvious_mismatch is not approval. Long-stem renders have high dimension/proportion uncertainty and need actual manufacturer drawing validation."
+  ],
+  "last_500_pass_completed": "Part_002",
+  "next_500_pass": "Part_003",
+  "initial_500_pass_rows": 1000,
+  "total_500_parts": 14,
+  "current_AI_candidate_rows": 108,
+  "rejected_file_attempts": 12,
+  "all_issues_resolved": false
 }

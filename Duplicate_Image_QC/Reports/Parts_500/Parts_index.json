@@ -2,7 +2,7 @@
   "scope_rows": 6622,
   "part_size_rows": 500,
   "total_parts": 14,
-  "initial_pass_rows": 500,
+  "initial_pass_rows": 1000,
   "all_issues_resolved": false,
   "parts": [
     {
@@ -22,6 +22,7 @@
         "AI_replacement_candidate": 17,
         "no_confirmed_finish_mismatch": 5
       },
+      "new_rendered_SKUs_in_this_part": 12,
       "new_rendered_files_in_this_part": 12,
       "current_AI_candidate_rows_in_part": 17,
       "needs_reference_rows": 78,
@@ -35,19 +36,22 @@
       "scope_rows": 500,
       "first_scope_position": 501,
       "last_scope_position": 1000,
-      "reviewed_in_this_pass": 0,
-      "initial_group_and_metadata_review_pass_complete": false,
+      "reviewed_in_this_pass": 500,
+      "initial_group_and_metadata_review_pass_complete": true,
       "all_issues_resolved": false,
       "detailed_technical_QC_complete": false,
       "decisions": {
-        "pending": 500
+        "screened_no_obvious_mismatch": 478,
+        "AI_replacement_candidate": 14,
+        "needs_reference_review": 8
       },
-      "new_rendered_files_in_this_part": 0,
-      "current_AI_candidate_rows_in_part": 0,
-      "needs_reference_rows": 0,
+      "new_rendered_SKUs_in_this_part": 14,
+      "new_rendered_files_in_this_part": 16,
+      "current_AI_candidate_rows_in_part": 14,
+      "needs_reference_rows": 8,
       "rejected_current_candidate_rows": 0,
-      "screening_only_no_obvious_mismatch_rows": 0,
-      "unreviewed_in_this_500_pass": 500
+      "screening_only_no_obvious_mismatch_rows": 478,
+      "unreviewed_in_this_500_pass": 0
     },
     {
       "part": "Part_003",
@@ -62,6 +66,7 @@
       "decisions": {
         "pending": 500
       },
+      "new_rendered_SKUs_in_this_part": 0,
       "new_rendered_files_in_this_part": 0,
       "current_AI_candidate_rows_in_part": 0,
       "needs_reference_rows": 0,
@@ -83,6 +88,7 @@
         "pending": 490,
         "needs_reference_review": 10
       },
+      "new_rendered_SKUs_in_this_part": 0,
       "new_rendered_files_in_this_part": 0,
       "current_AI_candidate_rows_in_part": 0,
       "needs_reference_rows": 10,
@@ -107,6 +113,7 @@
         "unusable_generated_candidate": 3,
         "needs_reference_review": 2
       },
+      "new_rendered_SKUs_in_this_part": 0,
       "new_rendered_files_in_this_part": 0,
       "current_AI_candidate_rows_in_part": 26,
       "needs_reference_rows": 2,
@@ -131,6 +138,7 @@
         "unusable_generated_candidate": 4,
         "needs_reference_review": 4
       },
+      "new_rendered_SKUs_in_this_part": 0,
       "new_rendered_files_in_this_part": 0,
       "current_AI_candidate_rows_in_part": 12,
       "needs_reference_rows": 4,
@@ -153,6 +161,7 @@
         "needs_reference_review": 56,
         "no_confirmed_finish_mismatch": 1
       },
+      "new_rendered_SKUs_in_this_part": 0,
       "new_rendered_files_in_this_part": 0,
       "current_AI_candidate_rows_in_part": 0,
       "needs_reference_rows": 56,
@@ -174,6 +183,7 @@
         "pending": 426,
         "needs_reference_review": 74
       },
+      "new_rendered_SKUs_in_this_part": 0,
       "new_rendered_files_in_this_part": 0,
       "current_AI_candidate_rows_in_part": 0,
       "needs_reference_rows": 74,
@@ -197,6 +207,7 @@
         "unusable_generated_candidate": 1,
         "needs_reference_review": 341
       },
+      "new_rendered_SKUs_in_this_part": 0,
       "new_rendered_files_in_this_part": 0,
       "current_AI_candidate_rows_in_part": 37,
       "needs_reference_rows": 341,
@@ -218,6 +229,7 @@
         "needs_reference_review": 404,
         "pending": 96
       },
+      "new_rendered_SKUs_in_this_part": 0,
       "new_rendered_files_in_this_part": 0,
       "current_AI_candidate_rows_in_part": 0,
       "needs_reference_rows": 404,
@@ -238,6 +250,7 @@
       "decisions": {
         "pending": 500
       },
+      "new_rendered_SKUs_in_this_part": 0,
       "new_rendered_files_in_this_part": 0,
       "current_AI_candidate_rows_in_part": 0,
       "needs_reference_rows": 0,
@@ -259,6 +272,7 @@
         "pending": 490,
         "needs_reference_review": 10
       },
+      "new_rendered_SKUs_in_this_part": 0,
       "new_rendered_files_in_this_part": 0,
       "current_AI_candidate_rows_in_part": 0,
       "needs_reference_rows": 10,
@@ -282,6 +296,7 @@
         "no_confirmed_finish_mismatch": 2,
         "AI_replacement_candidate": 2
       },
+      "new_rendered_SKUs_in_this_part": 0,
       "new_rendered_files_in_this_part": 0,
       "current_AI_candidate_rows_in_part": 2,
       "needs_reference_rows": 411,
@@ -303,6 +318,7 @@
         "pending": 121,
         "needs_reference_review": 1
       },
+      "new_rendered_SKUs_in_this_part": 0,
       "new_rendered_files_in_this_part": 0,
       "current_AI_candidate_rows_in_part": 0,
       "needs_reference_rows": 1,
