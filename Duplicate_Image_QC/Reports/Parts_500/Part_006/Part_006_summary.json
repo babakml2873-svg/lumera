@@ -1,0 +1,27 @@
+{
+  "part": "Part_006",
+  "item_unit": "workbook SKU review row; not 500 generated images or 500 distinct products",
+  "scope_rows": 500,
+  "first_scope_position": 2501,
+  "last_scope_position": 3000,
+  "reviewed_in_this_pass": 500,
+  "initial_group_and_metadata_review_pass_complete": true,
+  "all_issues_resolved": false,
+  "detailed_technical_QC_complete": false,
+  "decisions": {
+    "screened_no_obvious_mismatch": 248,
+    "needs_reference_review": 223,
+    "AI_replacement_candidate": 22,
+    "no_confirmed_finish_mismatch": 3,
+    "unusable_generated_candidate": 4
+  },
+  "new_rendered_SKUs_in_this_part": 10,
+  "new_rendered_files_in_this_part": 10,
+  "current_AI_candidate_rows_in_part": 22,
+  "needs_reference_rows": 223,
+  "rejected_current_candidate_rows": 4,
+  "screening_only_no_obvious_mismatch_rows": 248,
+  "unreviewed_in_this_500_pass": 0,
+  "unique_current_generated_sources_in_this_part": 3,
+  "shared_render_note": "SKU file count can exceed unique AI render count when only unlit CCT differs; see row review_note."
+}

@@ -2,7 +2,7 @@
   "scope_rows": 6622,
   "part_size_rows": 500,
   "total_parts": 14,
-  "initial_pass_rows": 2500,
+  "initial_pass_rows": 3000,
   "all_issues_resolved": false,
   "parts": [
     {
@@ -28,7 +28,9 @@
       "needs_reference_rows": 78,
       "rejected_current_candidate_rows": 0,
       "screening_only_no_obvious_mismatch_rows": 327,
-      "unreviewed_in_this_500_pass": 0
+      "unreviewed_in_this_500_pass": 0,
+      "unique_current_generated_sources_in_this_part": 12,
+      "shared_render_note": "SKU file count can exceed unique AI render count when only unlit CCT differs; see row review_note."
     },
     {
       "part": "Part_002",
@@ -51,7 +53,9 @@
       "needs_reference_rows": 8,
       "rejected_current_candidate_rows": 0,
       "screening_only_no_obvious_mismatch_rows": 478,
-      "unreviewed_in_this_500_pass": 0
+      "unreviewed_in_this_500_pass": 0,
+      "unique_current_generated_sources_in_this_part": 14,
+      "shared_render_note": "SKU file count can exceed unique AI render count when only unlit CCT differs; see row review_note."
     },
     {
       "part": "Part_003",
@@ -74,7 +78,9 @@
       "needs_reference_rows": 0,
       "rejected_current_candidate_rows": 3,
       "screening_only_no_obvious_mismatch_rows": 490,
-      "unreviewed_in_this_500_pass": 0
+      "unreviewed_in_this_500_pass": 0,
+      "unique_current_generated_sources_in_this_part": 10,
+      "shared_render_note": "SKU file count can exceed unique AI render count when only unlit CCT differs; see row review_note."
     },
     {
       "part": "Part_004",
@@ -98,7 +104,9 @@
       "needs_reference_rows": 26,
       "rejected_current_candidate_rows": 1,
       "screening_only_no_obvious_mismatch_rows": 466,
-      "unreviewed_in_this_500_pass": 0
+      "unreviewed_in_this_500_pass": 0,
+      "unique_current_generated_sources_in_this_part": 8,
+      "shared_render_note": "SKU file count can exceed unique AI render count when only unlit CCT differs; see row review_note."
     },
     {
       "part": "Part_005",
@@ -122,7 +130,9 @@
       "needs_reference_rows": 74,
       "rejected_current_candidate_rows": 0,
       "screening_only_no_obvious_mismatch_rows": 363,
-      "unreviewed_in_this_500_pass": 0
+      "unreviewed_in_this_500_pass": 0,
+      "unique_current_generated_sources_in_this_part": 16,
+      "shared_render_note": "SKU file count can exceed unique AI render count when only unlit CCT differs; see row review_note."
     },
     {
       "part": "Part_006",
@@ -130,24 +140,26 @@
       "scope_rows": 500,
       "first_scope_position": 2501,
       "last_scope_position": 3000,
-      "reviewed_in_this_pass": 0,
-      "initial_group_and_metadata_review_pass_complete": false,
+      "reviewed_in_this_pass": 500,
+      "initial_group_and_metadata_review_pass_complete": true,
       "all_issues_resolved": false,
       "detailed_technical_QC_complete": false,
       "decisions": {
-        "pending": 477,
-        "AI_replacement_candidate": 12,
+        "screened_no_obvious_mismatch": 248,
+        "needs_reference_review": 223,
+        "AI_replacement_candidate": 22,
         "no_confirmed_finish_mismatch": 3,
-        "unusable_generated_candidate": 4,
-        "needs_reference_review": 4
+        "unusable_generated_candidate": 4
       },
-      "new_rendered_SKUs_in_this_part": 0,
-      "new_rendered_files_in_this_part": 0,
-      "current_AI_candidate_rows_in_part": 12,
-      "needs_reference_rows": 4,
+      "new_rendered_SKUs_in_this_part": 10,
+      "new_rendered_files_in_this_part": 10,
+      "current_AI_candidate_rows_in_part": 22,
+      "needs_reference_rows": 223,
       "rejected_current_candidate_rows": 4,
-      "screening_only_no_obvious_mismatch_rows": 0,
-      "unreviewed_in_this_500_pass": 500
+      "screening_only_no_obvious_mismatch_rows": 248,
+      "unreviewed_in_this_500_pass": 0,
+      "unique_current_generated_sources_in_this_part": 3,
+      "shared_render_note": "SKU file count can exceed unique AI render count when only unlit CCT differs; see row review_note."
     },
     {
       "part": "Part_007",
@@ -170,7 +182,9 @@
       "needs_reference_rows": 56,
       "rejected_current_candidate_rows": 0,
       "screening_only_no_obvious_mismatch_rows": 0,
-      "unreviewed_in_this_500_pass": 500
+      "unreviewed_in_this_500_pass": 500,
+      "unique_current_generated_sources_in_this_part": 0,
+      "shared_render_note": "SKU file count can exceed unique AI render count when only unlit CCT differs; see row review_note."
     },
     {
       "part": "Part_008",
@@ -192,7 +206,9 @@
       "needs_reference_rows": 74,
       "rejected_current_candidate_rows": 0,
       "screening_only_no_obvious_mismatch_rows": 0,
-      "unreviewed_in_this_500_pass": 500
+      "unreviewed_in_this_500_pass": 500,
+      "unique_current_generated_sources_in_this_part": 0,
+      "shared_render_note": "SKU file count can exceed unique AI render count when only unlit CCT differs; see row review_note."
     },
     {
       "part": "Part_009",
@@ -216,7 +232,9 @@
       "needs_reference_rows": 341,
       "rejected_current_candidate_rows": 1,
       "screening_only_no_obvious_mismatch_rows": 0,
-      "unreviewed_in_this_500_pass": 500
+      "unreviewed_in_this_500_pass": 500,
+      "unique_current_generated_sources_in_this_part": 0,
+      "shared_render_note": "SKU file count can exceed unique AI render count when only unlit CCT differs; see row review_note."
     },
     {
       "part": "Part_010",
@@ -238,7 +256,9 @@
       "needs_reference_rows": 404,
       "rejected_current_candidate_rows": 0,
       "screening_only_no_obvious_mismatch_rows": 0,
-      "unreviewed_in_this_500_pass": 500
+      "unreviewed_in_this_500_pass": 500,
+      "unique_current_generated_sources_in_this_part": 0,
+      "shared_render_note": "SKU file count can exceed unique AI render count when only unlit CCT differs; see row review_note."
     },
     {
       "part": "Part_011",
@@ -259,7 +279,9 @@
       "needs_reference_rows": 0,
       "rejected_current_candidate_rows": 0,
       "screening_only_no_obvious_mismatch_rows": 0,
-      "unreviewed_in_this_500_pass": 500
+      "unreviewed_in_this_500_pass": 500,
+      "unique_current_generated_sources_in_this_part": 0,
+      "shared_render_note": "SKU file count can exceed unique AI render count when only unlit CCT differs; see row review_note."
     },
     {
       "part": "Part_012",
@@ -281,7 +303,9 @@
       "needs_reference_rows": 10,
       "rejected_current_candidate_rows": 0,
       "screening_only_no_obvious_mismatch_rows": 0,
-      "unreviewed_in_this_500_pass": 500
+      "unreviewed_in_this_500_pass": 500,
+      "unique_current_generated_sources_in_this_part": 0,
+      "shared_render_note": "SKU file count can exceed unique AI render count when only unlit CCT differs; see row review_note."
     },
     {
       "part": "Part_013",
@@ -305,7 +329,9 @@
       "needs_reference_rows": 411,
       "rejected_current_candidate_rows": 0,
       "screening_only_no_obvious_mismatch_rows": 0,
-      "unreviewed_in_this_500_pass": 500
+      "unreviewed_in_this_500_pass": 500,
+      "unique_current_generated_sources_in_this_part": 0,
+      "shared_render_note": "SKU file count can exceed unique AI render count when only unlit CCT differs; see row review_note."
     },
     {
       "part": "Part_014",
@@ -327,7 +353,9 @@
       "needs_reference_rows": 1,
       "rejected_current_candidate_rows": 0,
       "screening_only_no_obvious_mismatch_rows": 0,
-      "unreviewed_in_this_500_pass": 122
+      "unreviewed_in_this_500_pass": 122,
+      "unique_current_generated_sources_in_this_part": 0,
+      "shared_render_note": "SKU file count can exceed unique AI render count when only unlit CCT differs; see row review_note."
     }
   ]
 }

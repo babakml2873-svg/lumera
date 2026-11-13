@@ -19,5 +19,7 @@
   "needs_reference_rows": 8,
   "rejected_current_candidate_rows": 0,
   "screening_only_no_obvious_mismatch_rows": 478,
-  "unreviewed_in_this_500_pass": 0
+  "unreviewed_in_this_500_pass": 0,
+  "unique_current_generated_sources_in_this_part": 14,
+  "shared_render_note": "SKU file count can exceed unique AI render count when only unlit CCT differs; see row review_note."
 }
