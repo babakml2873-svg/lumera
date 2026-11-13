@@ -1,0 +1,15 @@
+﻿part,scope_rows,initial_screened_rows,new_SKU_files_in_this_pass,new_files_including_failed_attempts,unique_current_AI_render_sources,current_QC_pending_candidate_rows,needs_reference_rows,current_unusable_rows,screening_only_rows,commit,part_folder_url,all_issues_resolved
+Part_001,500,500,12,12,12,17,78,0,327,34a9db0e4db71b13d88a3705f93c210ed2dd5597,https://github.com/babakml2873-svg/lumera/tree/duplicate-qc-review-20261112/Duplicate_Image_QC/Reports/Parts_500/Part_001,False
+Part_002,500,500,14,16,14,14,8,0,478,e9efe6c3df0efb9c63c29e2255108356d752628d,https://github.com/babakml2873-svg/lumera/tree/duplicate-qc-review-20261112/Duplicate_Image_QC/Reports/Parts_500/Part_002,False
+Part_003,500,500,10,12,10,7,0,3,490,515b3c0e2b4fae0a1922c5c206868b344bdbbba4,https://github.com/babakml2873-svg/lumera/tree/duplicate-qc-review-20261112/Duplicate_Image_QC/Reports/Parts_500/Part_003,False
+Part_004,500,500,8,9,8,7,26,1,466,33e717ad5a75c86ac51235bae3a2e37bd550269f,https://github.com/babakml2873-svg/lumera/tree/duplicate-qc-review-20261112/Duplicate_Image_QC/Reports/Parts_500/Part_004,False
+Part_005,500,500,16,17,16,42,74,0,363,0acbdf042c9aa1d70f06f36624e658004d4a7834,https://github.com/babakml2873-svg/lumera/tree/duplicate-qc-review-20261112/Duplicate_Image_QC/Reports/Parts_500/Part_005,False
+Part_006,500,500,10,10,3,22,223,4,248,37d42bc084c5599f24e5cb4c071be4f56b5a316a,https://github.com/babakml2873-svg/lumera/tree/duplicate-qc-review-20261112/Duplicate_Image_QC/Reports/Parts_500/Part_006,False
+Part_007,500,500,1,1,1,1,162,0,336,82afab3e3da4a48b618190f117a2328926cf93ea,https://github.com/babakml2873-svg/lumera/tree/duplicate-qc-review-20261112/Duplicate_Image_QC/Reports/Parts_500/Part_007,False
+Part_008,500,500,0,0,0,0,210,0,290,abde9eb08f3ff83cbf4871a59b5071e96e1b0e39,https://github.com/babakml2873-svg/lumera/tree/duplicate-qc-review-20261112/Duplicate_Image_QC/Reports/Parts_500/Part_008,False
+Part_009,500,500,1,1,1,38,433,0,29,917c0a084ea2ae8a13a1f52254188b01f01c59f5,https://github.com/babakml2873-svg/lumera/tree/duplicate-qc-review-20261112/Duplicate_Image_QC/Reports/Parts_500/Part_009,False
+Part_010,500,500,0,0,0,0,414,0,86,f957678ccfbe15221258de564efb5a055f712cd9,https://github.com/babakml2873-svg/lumera/tree/duplicate-qc-review-20261112/Duplicate_Image_QC/Reports/Parts_500/Part_010,False
+Part_011,500,500,0,0,0,0,0,0,500,e4390556484269ec4317981c9deb43f787e29898,https://github.com/babakml2873-svg/lumera/tree/duplicate-qc-review-20261112/Duplicate_Image_QC/Reports/Parts_500/Part_011,False
+Part_012,500,500,0,0,0,0,231,0,269,79c14f5af0a0cac63d245afc0a467f235ba483dc,https://github.com/babakml2873-svg/lumera/tree/duplicate-qc-review-20261112/Duplicate_Image_QC/Reports/Parts_500/Part_012,False
+Part_013,500,500,3,4,3,5,478,0,15,56346bc82e285a6eadc8b8be9b7d5fe28d877e00,https://github.com/babakml2873-svg/lumera/tree/duplicate-qc-review-20261112/Duplicate_Image_QC/Reports/Parts_500/Part_013,False
+Part_014,122,122,4,4,3,4,102,0,16,682183cca9bd94c7f01601fae2a51fa9f4eb981d,https://github.com/babakml2873-svg/lumera/tree/duplicate-qc-review-20261112/Duplicate_Image_QC/Reports/Parts_500/Part_014,False
