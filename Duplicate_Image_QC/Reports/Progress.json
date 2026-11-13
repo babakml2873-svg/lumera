@@ -4,25 +4,25 @@
   "excluded_sku_matches": 0,
   "source_sha256_verified": true,
   "visual_review": {
-    "batch_group_visual_and_metadata_screened_technical_QC_pending": 2708,
+    "batch_group_visual_and_metadata_screened_technical_QC_pending": 2998,
     "group_finish_screen_and_ordering_suffix_evidence_reviewed": 73,
-    "batch_group_visual_and_metadata_review_reference_insufficient": 497,
+    "batch_group_visual_and_metadata_review_reference_insufficient": 633,
     "full_reference_and_metadata_conflict_reviewed": 16,
     "full_reference_and_candidate_reviewed": 158,
     "contact_sheet_finish_reviewed_technical_QC_pending": 28,
     "full_reference_finish_reviewed_technical_QC_pending": 6,
     "full_reference_reviewed": 7,
     "metadata_and_thumbnail_triage_reference_insufficient": 1290,
-    "thumbnail_screened_exact_SKU_validation_pending": 1839
+    "thumbnail_screened_exact_SKU_validation_pending": 1413
   },
   "decisions": {
-    "screened_no_obvious_mismatch": 2708,
+    "screened_no_obvious_mismatch": 2998,
     "shared_image_consistent_with_documented_ordering_suffix": 73,
-    "needs_reference_review": 1812,
+    "needs_reference_review": 1948,
     "AI_replacement_candidate": 149,
     "no_confirmed_finish_mismatch": 32,
     "unusable_generated_candidate": 9,
-    "pending": 1839
+    "pending": 1413
   },
   "thumbnail_screened_groups": 1885,
   "thumbnail_screening_is_not_SKU_approval": true,
@@ -32,7 +32,7 @@
   "rejected_attempt_files": 20,
   "approved": 0,
   "complete": false,
-  "review_500_rows_processed": 3500,
+  "review_500_rows_processed": 4000,
   "review_500_initial_pass_complete": false,
   "original_base": "22d81bfc2b60b79cea477ebd0c7b4f90d8faec42",
   "layout_base": "99dd49fc9eb8541261df129f4641c20a8e5dd1cd"
