@@ -370,7 +370,7 @@ DUP-0A570F4A8B,0a570f4a8b25330b1eba767d1b5d1c56309c914f1b2fdd1118a6be7a2711a0fd,
 Output/List_1/ELCO_Lighting/E614C2030W2-V.jpg
 Output/List_1/ELCO_Lighting/E614C2035W2-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 3}","{""screened_no_obvious_mismatch"": 3}"
 DUP-0A9509267D,0a9509267d934c5e3f018bb10e5696a9257d0d8423164c420b6da8799825dc19,1,"Output/List_1/Nora_Lighting/NL-411-G-01.jpg
-Output/List_1/Nora_Lighting/NL-411B-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
+Output/List_1/Nora_Lighting/NL-411B-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1}","{""screened_no_obvious_mismatch"": 1}"
 DUP-0AB9C68F4E,0ab9c68f4e8e32f3b92ae839ddddd202e767d73eb1854601e3b078ab9af23458,9,"Output/List_3/ELCO_Lighting/E36TW-0324-V.jpg
 Output/List_3/ELCO_Lighting/E36TW-0724-S-12-V.jpg
 Output/List_3/ELCO_Lighting/E36TW-0724-V.jpg
@@ -508,7 +508,7 @@ Output/List_3/Nora_Lighting/NLCB2-6532027DW-V.jpg
 Output/List_3/Nora_Lighting/NLCB2-6532030DW-V.jpg
 Output/List_3/Nora_Lighting/NLCB2-6532035DW-V.jpg
 Output/List_3/Nora_Lighting/NLCB2-6532040DW-V.jpg
-Output/List_3/Nora_Lighting/NLCB2-65320CDDW-G-02.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 8}","{""pending"": 8}"
+Output/List_3/Nora_Lighting/NLCB2-65320CDDW-G-02.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 8}","{""screened_no_obvious_mismatch"": 8}"
 DUP-0D764DBE1C,0d764dbe1cb3b1586c9e9a4afca23b35ca8e9779d1a77d572cccc1b694fb18f9,4,"Output/List_1/UMAGE/2510_4037-V.jpg
 Output/List_1/UMAGE/2510_4038-V.jpg
 Output/List_1/UMAGE/2510_4104-V.jpg
@@ -853,7 +853,7 @@ DUP-191D4601E4,191d4601e458da644c2f25e3e80e0d235a622bc22bc27a1bf68755c10687fb64,
 Output/List_2/Morris/69002-V.jpg","{""metadata_and_thumbnail_triage_reference_insufficient"": 1}","{""needs_reference_review"": 1}"
 DUP-1981E2F57C,1981e2f57c74d97e7fffc0a6ebe3b804f844a171ff5af31e2a4352df6bae92c6,3,"Output/List_3/Nora_Lighting/NATL-SWEX100-24A-V.jpg
 Output/List_3/Nora_Lighting/NATL-SWEX60-12A-V.jpg
-Output/List_3/Nora_Lighting/NATL-SWEX60-24A-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 3}","{""pending"": 3}"
+Output/List_3/Nora_Lighting/NATL-SWEX60-24A-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 3}","{""screened_no_obvious_mismatch"": 3}"
 DUP-19BB977B2A,19bb977b2a73e17c94da073b1b510fc0e754fea9b7db17e7091775b1cc38b1c9,2,"Output/List_1/Lutron/CAR2S-15-DTR-BL-V.jpg
 Output/List_1/Lutron/CAR2S-15-DTR-LA-V.jpg","{""full_reference_and_candidate_reviewed"": 2}","{""AI_replacement_candidate"": 2}"
 DUP-19C1C0B225,19c1c0b225d16f24895e7d9ef731c09c9e98b04c935cce22217c7a297a810190,7,"Output/List_3/ELCO_Lighting/E6CKT07DX-V.jpg
@@ -910,7 +910,7 @@ Output/List_1/Nora_Lighting/NRLIN-81030W-V.jpg
 Output/List_1/Nora_Lighting/NRLIN-81035A-G-01.jpg
 Output/List_1/Nora_Lighting/NRLIN-81035W-V.jpg
 Output/List_1/Nora_Lighting/NRLIN-81040A-G-01.jpg
-Output/List_1/Nora_Lighting/NRLIN-81040W-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 3}","{""pending"": 3}"
+Output/List_1/Nora_Lighting/NRLIN-81040W-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 3}","{""screened_no_obvious_mismatch"": 3}"
 DUP-1AB453CB04,1ab453cb04820cf226de80796cce3e988a893511557fc413aa09707120e69e6e,4,"Output/List_1/UMAGE/2253_2253-2_4007-V.jpg
 Output/List_1/UMAGE/2253_2253-2_4008-V.jpg
 Output/List_1/UMAGE/2253_2253-2_4009-V.jpg
@@ -1352,7 +1352,7 @@ Output/List_1/Nora_Lighting/NLUD-8334W-G-02.jpg
 Output/List_1/Nora_Lighting/NLUD-8334W-OS-G-02.jpg
 Output/List_2/Nora_Lighting/NLUD-4334A-G-01.jpg
 Output/List_2/Nora_Lighting/NLUD-4334W-EM-G-01.jpg
-Output/List_2/Nora_Lighting/NLUD-8334A-G-02.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 4}","{""pending"": 4}"
+Output/List_2/Nora_Lighting/NLUD-8334A-G-02.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 3, ""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""screened_no_obvious_mismatch"": 3, ""pending"": 1}"
 DUP-292C5E7BC8,292c5e7bc80696f919b2aed7bd28f4d945b6aba58415d606032560a90b238c72,2,"Output/List_1/ELCO_Lighting/E363B-V.jpg
 Output/List_1/ELCO_Lighting/E366B-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 2}","{""screened_no_obvious_mismatch"": 2}"
 DUP-293A731749,293a731749efbab16992fcd93bf79d54d97a5190cb6084bf41526c4917dc4be6,1,"Output/List_1/Kuzco/PL18234-BK-UNV-V.jpg
@@ -1632,7 +1632,7 @@ Output/List_1/Nora_Lighting/NRLIN-81030W-G-01.jpg
 Output/List_1/Nora_Lighting/NRLIN-81035A-V.jpg
 Output/List_1/Nora_Lighting/NRLIN-81035W-G-01.jpg
 Output/List_1/Nora_Lighting/NRLIN-81040A-V.jpg
-Output/List_1/Nora_Lighting/NRLIN-81040W-G-01.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 3}","{""pending"": 3}"
+Output/List_1/Nora_Lighting/NRLIN-81040W-G-01.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 3}","{""screened_no_obvious_mismatch"": 3}"
 DUP-33720648C0,33720648c03142fccd9a55ba7f4e05ee1aee9fd48de963256ba761dbb70f602c,1,"Output/List_2/Utopia_Lighting/Cube4-RGBWRecessed-V.jpg
 Output/List_2/Utopia_Lighting/Cube4Recessed-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
 DUP-337DDF5AEA,337ddf5aea16115fe0b2947cb5f84f68b19a61871bb058c9dad762800d6290f9,1,"Output/List_1/Kuzco/AT67010-BG-UNV-V.jpg
@@ -1749,7 +1749,7 @@ Output/List_2/UMAGE/2249-V.jpg","{""metadata_and_thumbnail_triage_reference_insu
 DUP-367926A893,367926a893377bc0b88886cd218d2dee6e75e67fa3667eff7fddb22aeee0e6b2,1,"Output/List_3/Nora_Lighting/NL-4857BB-G-02.jpg
 Output/List_3/Nora_Lighting/NL-4857BWW-V.jpg
 Output/List_3/Nora_Lighting/NL-4857HZHZW-G-02.jpg
-Output/List_3/Nora_Lighting/NL-4857WW-G-02.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
+Output/List_3/Nora_Lighting/NL-4857WW-G-02.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1}","{""screened_no_obvious_mismatch"": 1}"
 DUP-369EF5786A,369ef5786a42287658c076d882e0fdcd12dd28f6e2b1b240f3a1daaeebaf276e,16,"Output/List_1/Nora_Lighting/NLCBC2-45327BZBZ-10-G-01.jpg
 Output/List_1/Nora_Lighting/NLCBC2-45327BZBZ-10LE4-G-01.jpg
 Output/List_1/Nora_Lighting/NLCBC2-45327BZBZ-A-G-01.jpg
@@ -1998,7 +1998,7 @@ Output/List_1/Nora_Lighting/NLCB2-6531540WW-V.jpg
 Output/List_1/Nora_Lighting/NLCB2-6532027WW-V.jpg
 Output/List_1/Nora_Lighting/NLCB2-6532030WW-V.jpg
 Output/List_1/Nora_Lighting/NLCB2-6532035WW-V.jpg
-Output/List_1/Nora_Lighting/NLCB2-6532040WW-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 8}","{""pending"": 8}"
+Output/List_1/Nora_Lighting/NLCB2-6532040WW-V.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 8}","{""needs_reference_review"": 8}"
 DUP-3B978DDFFA,3b978ddffa6be499d4609bccb1fd0d9f6bc5f8e1c599ead6a588ddbc30f75bfa,6,"Output/List_1/UMAGE/3032-V.jpg
 Output/List_1/UMAGE/3032_4007-V.jpg
 Output/List_1/UMAGE/3032_4008-V.jpg
@@ -2295,7 +2295,7 @@ Output/List_3/Nora_Lighting/NLCB2-6511540DW-V.jpg
 Output/List_3/Nora_Lighting/NLCB2-6512027DW-V.jpg
 Output/List_3/Nora_Lighting/NLCB2-6512030DW-V.jpg
 Output/List_3/Nora_Lighting/NLCB2-6512035DW-V.jpg
-Output/List_3/Nora_Lighting/NLCB2-6512040DW-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 8}","{""pending"": 8}"
+Output/List_3/Nora_Lighting/NLCB2-6512040DW-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 8}","{""screened_no_obvious_mismatch"": 8}"
 DUP-4544B2EF70,4544b2ef70876299efd9f63d08dc2d5d65a2e5368f23d24b808974fd13f09014,2,"Output/List_1/Nora_Lighting/NM1-PRDCL127BB-V.jpg
 Output/List_1/Nora_Lighting/NM1-PRDCL130BB-V.jpg
 Output/List_3/Nora_Lighting/NM1-PRDCL127MPW-G-01.jpg
@@ -2461,7 +2461,7 @@ Output/List_3/ELCO_Lighting/ELD11630W-V.jpg
 Output/List_3/ELCO_Lighting/ELD11640W-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 6}","{""screened_no_obvious_mismatch"": 6}"
 DUP-48F737FCA7,48f737fca7a021c07ddf287b1bea4815796c159f6010cf5ba2eb27326ebe98f5,1,"Output/List_3/Nora_Lighting/NL-4857BWW-G-01.jpg
 Output/List_3/Nora_Lighting/NL-4857HZHZW-V.jpg
-Output/List_3/Nora_Lighting/NL-4857WW-G-01.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
+Output/List_3/Nora_Lighting/NL-4857WW-G-01.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1}","{""screened_no_obvious_mismatch"": 1}"
 DUP-497D8ECA27,497d8eca271db684d9f521138bcdcffcb0f3777637778c4c9927dc2b5536dfb0,4,"Output/List_3/Focus_Industries/SL1510PS2L24COP-G-01.jpg
 Output/List_3/Focus_Industries/SL1510S2L24BAR-G-01.jpg
 Output/List_3/Focus_Industries/SL1510S2L24BRS-V.jpg
@@ -2584,7 +2584,7 @@ Output/List_1/Nora_Lighting/NRLIN-21030W-G-01.jpg
 Output/List_1/Nora_Lighting/NRLIN-21035A-V.jpg
 Output/List_1/Nora_Lighting/NRLIN-21035W-G-01.jpg
 Output/List_1/Nora_Lighting/NRLIN-21040A-V.jpg
-Output/List_1/Nora_Lighting/NRLIN-21040W-G-01.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 3}","{""pending"": 3}"
+Output/List_1/Nora_Lighting/NRLIN-21040W-G-01.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 3}","{""screened_no_obvious_mismatch"": 3}"
 DUP-4D319AF839,4d319af839d940d16ce69a0a87d748451816b430cc67ac8b61c5e9f19fb97dce,9,"Output/List_3/Westgate/LB-100CG-V.jpg
 Output/List_3/Westgate/LB-125CG-V.jpg
 Output/List_3/Westgate/LB-150CG-V.jpg
@@ -2690,7 +2690,7 @@ Output/List_3/Focus_Industries/AL01L12WIR-G-01.jpg","{""batch_group_visual_and_m
 DUP-4F222A460E,4f222a460e6e68a9dfb239e4833edab399f227165816b01dca584bad1b39428d,1,"Output/List_3/Nora_Lighting/NL-4857BB-G-01.jpg
 Output/List_3/Nora_Lighting/NL-4857BWW-G-02.jpg
 Output/List_3/Nora_Lighting/NL-4857HZHZW-G-01.jpg
-Output/List_3/Nora_Lighting/NL-4857WW-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
+Output/List_3/Nora_Lighting/NL-4857WW-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1}","{""screened_no_obvious_mismatch"": 1}"
 DUP-4F298CC654,4f298cc654d9a18eda6961f5c9ced41dde4d15fa852e0d55e4cdc08e90c94e9b,3,"Output/List_3/ELCO_Lighting/EKCL2140D-W-V.jpg
 Output/List_3/ELCO_Lighting/EKCL21HCD-E-V.jpg
 Output/List_3/ELCO_Lighting/EKCL21HCD-W-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 3}","{""screened_no_obvious_mismatch"": 3}"
@@ -2931,7 +2931,7 @@ Output/List_1/Nora_Lighting/NRLIN-41030W-G-01.jpg
 Output/List_1/Nora_Lighting/NRLIN-41035A-V.jpg
 Output/List_1/Nora_Lighting/NRLIN-41035W-G-01.jpg
 Output/List_1/Nora_Lighting/NRLIN-41040A-V.jpg
-Output/List_1/Nora_Lighting/NRLIN-41040W-G-01.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 3}","{""pending"": 3}"
+Output/List_1/Nora_Lighting/NRLIN-41040W-G-01.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 3}","{""screened_no_obvious_mismatch"": 3}"
 DUP-54CB86DF69,54cb86df691311f857ed04943fe5fc535d253e7c97fe32fc126b6d13853d9802,6,"Output/List_1/UMAGE/3050-V.jpg
 Output/List_1/UMAGE/3050_4007-V.jpg
 Output/List_1/UMAGE/3050_4008-V.jpg
@@ -3098,7 +3098,7 @@ Output/List_1/Nora_Lighting/NLCBS-4568540WW-G-02.jpg","{""thumbnail_screened_exa
 DUP-58516102E0,58516102e0d01f58143c3242a41bfdce9a8a53d9aed140d6a5fca04b86661596,3,"Output/List_1/Nora_Lighting/NELOCAC-16R930B-G-01.jpg
 Output/List_1/Nora_Lighting/NELOCAC-16R930W-V.jpg
 Output/List_3/Nora_Lighting/NELOCAC-16R927W-V.jpg
-Output/List_3/Nora_Lighting/NELOCAC-16R940W-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 3}","{""pending"": 3}"
+Output/List_3/Nora_Lighting/NELOCAC-16R940W-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 3}","{""screened_no_obvious_mismatch"": 3}"
 DUP-58652E5E86,58652e5e8638381d00fd9660ada5edc031be0e3419422f4a24808dae0cfb8837,1,"Output/List_1/Nora_Lighting/NT-319B-G-01.jpg
 Output/List_1/Nora_Lighting/NT-319S-G-01.jpg
 Output/List_1/Nora_Lighting/NT-319W-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
@@ -3266,7 +3266,7 @@ Output/List_1/Nora_Lighting/NLUD-2334B-OS-V.jpg
 Output/List_1/Nora_Lighting/NLUD-2334B-V.jpg
 Output/List_1/Nora_Lighting/NLUD-2334W-G-01.jpg
 Output/List_1/Nora_Lighting/NLUD-2334W-OS-G-01.jpg
-Output/List_2/Nora_Lighting/NLUD-2334A-G-01.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_2/Nora_Lighting/NLUD-2334A-G-01.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1, ""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""screened_no_obvious_mismatch"": 1, ""pending"": 1}"
 DUP-5D611127A7,5d611127a7cbce3d40ba40cfaca4c1af93f7a10f7d76d58b2e30733bd5084b00,1,"Output/List_1/Kuzco/VL63636-BK-UNV-V.jpg
 Output/List_1/Kuzco/VL63636-BK-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1}","{""screened_no_obvious_mismatch"": 1}"
 DUP-5D6B0F5834,5d6b0f5834aeeaaf4f4fd147622ea21ae6d4b08d124f882750b58d86d4cb5200,1,"Output/List_1/Alora_Mood/PD417904MBCR-UNV-V.jpg
@@ -3368,7 +3368,7 @@ Output/List_1/Leviton/M5693-GY-V.jpg","{""batch_group_visual_and_metadata_screen
 DUP-6015BFB436,6015bfb436b85bfd0587a9c26c701e0d0b564ba83e9c5a04707500abe5001da1,2,"Output/List_1/Nora_Lighting/NLUD-T334A-OS-V.jpg
 Output/List_1/Nora_Lighting/NLUD-T334B-G-02.jpg
 Output/List_1/Nora_Lighting/NLUD-T334B-OS-G-02.jpg
-Output/List_2/Nora_Lighting/NLUD-T334A-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_2/Nora_Lighting/NLUD-T334A-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1, ""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""screened_no_obvious_mismatch"": 1, ""pending"": 1}"
 DUP-6023492792,602349279278d03e04315dc87eb5267b7f245a2d66d3615ab02cb5419b323495,14,"Output/List_1/ELCO_Lighting/ELK1327-V.jpg
 Output/List_1/ELCO_Lighting/ELK1330-V.jpg
 Output/List_1/ELCO_Lighting/ELK1335-V.jpg
@@ -3736,7 +3736,7 @@ Output/List_3/Nora_Lighting/NM4-RG30MPW-G-01.jpg","{""thumbnail_screened_exact_S
 DUP-67C2D7CB69,67c2d7cb690d3734014fc1e4d05511c703a96361032968880da44406af77cde6,1,"Output/List_1/Nora_Lighting/NELOCAC-16R930B-V.jpg
 Output/List_1/Nora_Lighting/NELOCAC-16R930W-G-01.jpg
 Output/List_3/Nora_Lighting/NELOCAC-16R927W-G-01.jpg
-Output/List_3/Nora_Lighting/NELOCAC-16R940W-G-01.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
+Output/List_3/Nora_Lighting/NELOCAC-16R940W-G-01.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1}","{""screened_no_obvious_mismatch"": 1}"
 DUP-67DBEE83A4,67dbee83a4555f3b2e4bd19a5feef3bae321a41946995553107f7fec7eadadf3,1,"Output/List_2/Morris/36250-V.jpg
 Output/List_2/Morris/36260-V.jpg","{""metadata_and_thumbnail_triage_reference_insufficient"": 1}","{""needs_reference_review"": 1}"
 DUP-6826601778,6826601778eadc8713531b8390f56121ac4128faf90640f84c95b0d55a5da93c,4,"Output/List_3/Westgate/TC-FML-10-17W-RGBW-WIFI-V.jpg
@@ -4049,9 +4049,9 @@ Output/List_3/ELCO_Lighting/RM3C-V.jpg","{""contact_sheet_finish_reviewed_techni
 DUP-7120D06C06,7120d06c0695622a415c5bfb44908e5837b355e6d2c26bd7ecc6a3a80cd28be6,2,"Output/List_1/Lutron/RRST-RD-BW-V.jpg
 Output/List_1/Lutron/RRST-RD-RW-V.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 2}","{""needs_reference_review"": 2}"
 DUP-71BFB21DBD,71bfb21dbd4f9fcc3d7954575152e9dd7919c62947602f0e1be3ed3a55866cb0,2,"Output/List_1/Nora_Lighting/NLUD-L334A-OS-V.jpg
-Output/List_2/Nora_Lighting/NLUD-L334A-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_2/Nora_Lighting/NLUD-L334A-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1, ""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""screened_no_obvious_mismatch"": 1, ""pending"": 1}"
 DUP-71C76C6AB1,71c76c6ab1cfe64c3189c918c547a0b4c8953cbea4ea0f202c92029d2e497b51,2,"Output/List_1/Nora_Lighting/NLUD-L334B-OS-V.jpg
-Output/List_1/Nora_Lighting/NLUD-L334B-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_1/Nora_Lighting/NLUD-L334B-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1, ""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""screened_no_obvious_mismatch"": 1, ""pending"": 1}"
 DUP-71F32E429C,71f32e429c8c9b4718e0459b1c6832cf6438cad58fe88c624779a9f99bd4b279,5,"Output/List_1/ELCO_Lighting/E261-27BZ-V.jpg
 Output/List_1/ELCO_Lighting/E261-35BZ-V.jpg
 Output/List_1/ELCO_Lighting/E363BZ-V.jpg
@@ -4254,7 +4254,7 @@ Output/List_3/Nora_Lighting/NLCB2-6561540PW-V.jpg
 Output/List_3/Nora_Lighting/NLCB2-6562027PW-V.jpg
 Output/List_3/Nora_Lighting/NLCB2-6562030PW-V.jpg
 Output/List_3/Nora_Lighting/NLCB2-6562035PW-V.jpg
-Output/List_3/Nora_Lighting/NLCB2-6562040PW-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 8}","{""pending"": 8}"
+Output/List_3/Nora_Lighting/NLCB2-6562040PW-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 4, ""thumbnail_screened_exact_SKU_validation_pending"": 4}","{""screened_no_obvious_mismatch"": 4, ""pending"": 4}"
 DUP-75F4A87A47,75f4a87a47c1801f009a53856e4328762acc0b7b19f08e8cb71fa5c44b3c6eee,5,"Output/List_1/ELCO_Lighting/E1AK02F40BB-V.jpg
 Output/List_1/ELCO_Lighting/E1AK02NF27BB-V.jpg
 Output/List_1/ELCO_Lighting/E1AK02NF30BB-V.jpg
@@ -4693,7 +4693,7 @@ Output/List_1/Nora_Lighting/NLOPAC2-R6509T2430B-V.jpg
 Output/List_1/Nora_Lighting/NLOPAC2-R6509T2430W-G-01.jpg
 Output/List_1/Nora_Lighting/NLOPAC2-R6509T2440B-V.jpg
 Output/List_1/Nora_Lighting/NLOPAC2-R6509T2440W-G-01.jpg
-Output/List_3/Nora_Lighting/NLOPAC2-R6509T2450W-G-01.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 3}","{""pending"": 3}"
+Output/List_3/Nora_Lighting/NLOPAC2-R6509T2450W-G-01.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 3}","{""screened_no_obvious_mismatch"": 3}"
 DUP-854FC0AAE5,854fc0aae525e5b31c064f35e211e0be0fafa69a56b6c77ae7e68acaf828136b,1,"Output/List_1/Kuzco/CF97860-MB-NW-5CCT-V.jpg
 Output/List_1/Kuzco/CF97860-MB-NW-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1}","{""screened_no_obvious_mismatch"": 1}"
 DUP-855BBA55E8,855bba55e81d2e87a80cceaa87e63c2c08fd70db3e496df78ef3340221f0ba7b,1,"Output/List_1/Alora_Mood/FM503715MB-5CCT-V.jpg
@@ -4977,7 +4977,7 @@ Output/List_1/Nora_Lighting/NLUD-4334W-EMOS-G-02.jpg
 Output/List_1/Nora_Lighting/NLUD-4334W-G-02.jpg
 Output/List_1/Nora_Lighting/NLUD-4334W-OS-G-02.jpg
 Output/List_2/Nora_Lighting/NLUD-4334A-V.jpg
-Output/List_2/Nora_Lighting/NLUD-4334W-EM-G-02.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 4}","{""pending"": 4}"
+Output/List_2/Nora_Lighting/NLUD-4334W-EM-G-02.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 3, ""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""screened_no_obvious_mismatch"": 3, ""pending"": 1}"
 DUP-8D7A9AD14C,8d7a9ad14c894f1736c8479b047001ceb0ee61eb7f65ef0f3b703581af9a1924,4,"Output/List_1/ELCO_Lighting/E1AK61NFSDBB-V.jpg
 Output/List_1/ELCO_Lighting/E1AK61WF30BZ-V.jpg
 Output/List_1/ELCO_Lighting/E1AK61WFSDBB-V.jpg
@@ -5011,7 +5011,7 @@ Output/List_3/Nora_Lighting/NLCBC2-45240WW-10EM-V.jpg","{""thumbnail_screened_ex
 DUP-8E76D9F7EE,8e76d9f7eec19e8b51cca47f50d824763177d0e733ba9dcc111f065e4d9a3d0a,2,"Output/List_1/Nora_Lighting/NLUD-T334A-OS-G-01.jpg
 Output/List_1/Nora_Lighting/NLUD-T334W-OS-V.jpg
 Output/List_1/Nora_Lighting/NLUD-T334W-V.jpg
-Output/List_2/Nora_Lighting/NLUD-T334A-G-01.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_2/Nora_Lighting/NLUD-T334A-G-01.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1, ""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""screened_no_obvious_mismatch"": 1, ""pending"": 1}"
 DUP-8E7B1D3424,8e7b1d34247e4353bbba12cd97d95075bc7510078cdd4b28ef12f39656100c3b,4,"Output/List_2/Lighting_Spot_26/LS-4FT-2T840W-3CCT-V.jpg
 Output/List_4/Lighting_Spot_26/LS-4FT-2T840W-3CCT-MS-V.jpg
 Output/List_4/Lighting_Spot_26/LS-EM-4FT-2T840W-3CCT-V.jpg
@@ -5288,7 +5288,7 @@ Output/List_3/Nora_Lighting/NM2-MLS2MPW-G-01.jpg","{""thumbnail_screened_exact_S
 DUP-95881D8FF4,95881d8ff4b6869bc0db231b6d01edef95a00fa5b7dec28326f6bf2a4973525f,1,"Output/List_1/Nora_Lighting/NL-465B-G-01.jpg
 Output/List_1/Nora_Lighting/NL-465BZ-G-01.jpg
 Output/List_1/Nora_Lighting/NL-465C-G-01.jpg
-Output/List_1/Nora_Lighting/NL-465W-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
+Output/List_1/Nora_Lighting/NL-465W-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1}","{""screened_no_obvious_mismatch"": 1}"
 DUP-95E03AE0CA,95e03ae0caddf5d5d8cd21533643a57ebfc2d09bed297ce07ba16318616b1c05,4,"Output/List_1/UMAGE/3039-V.jpg
 Output/List_1/UMAGE/3039_4007-V.jpg
 Output/List_1/UMAGE/3039_4008-V.jpg
@@ -5398,7 +5398,7 @@ Output/List_1/Nora_Lighting/NLOPAC2-R6509T2430B-G-01.jpg
 Output/List_1/Nora_Lighting/NLOPAC2-R6509T2430W-V.jpg
 Output/List_1/Nora_Lighting/NLOPAC2-R6509T2440B-G-01.jpg
 Output/List_1/Nora_Lighting/NLOPAC2-R6509T2440W-V.jpg
-Output/List_3/Nora_Lighting/NLOPAC2-R6509T2450W-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 4}","{""pending"": 4}"
+Output/List_3/Nora_Lighting/NLOPAC2-R6509T2450W-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 3, ""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""screened_no_obvious_mismatch"": 3, ""pending"": 1}"
 DUP-98A5795583,98a57955837622efe99c5ecaeed465bb197caccb291385d64c3eb0a68ce82acb,3,"Output/List_4/ELCO_Lighting/DRV30W-10-V.jpg
 Output/List_4/ELCO_Lighting/DRV60W-10-V.jpg
 Output/List_4/ELCO_Lighting/DRV96W-10-V.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 3}","{""needs_reference_review"": 3}"
@@ -5418,7 +5418,7 @@ Output/List_1/Nora_Lighting/NLUD-X334B-G-02.jpg
 Output/List_1/Nora_Lighting/NLUD-X334B-OS-G-02.jpg
 Output/List_1/Nora_Lighting/NLUD-X334W-OS-V.jpg
 Output/List_1/Nora_Lighting/NLUD-X334W-V.jpg
-Output/List_2/Nora_Lighting/NLUD-X334A-G-02.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_2/Nora_Lighting/NLUD-X334A-G-02.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1, ""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""screened_no_obvious_mismatch"": 1, ""pending"": 1}"
 DUP-9951520EB1,9951520eb1b225284a0e07c452115c9bc980427ce2bbd3ef452c2fbff01511b2,6,"Output/List_2/Lutron/ELD2T5H-1M30-1-V.jpg
 Output/List_2/Lutron/ELD2T5H-1M30-24-V.jpg
 Output/List_2/Lutron/ELD2T5H-1M35-1-V.jpg
@@ -5449,7 +5449,7 @@ DUP-9A2A15CA69,9a2a15ca6913fdb316d77fbc03ed9e9cae6eb0a0d0d8edad7753f9cce2b04ce6,
 Output/List_3/ELCO_Lighting/EUDRV60-2-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 2}","{""screened_no_obvious_mismatch"": 2}"
 DUP-9A31ACC63F,9a31acc63f3e2f0fb7847d69c9fa0069d088cb8ebfc0322f4eff1a714089fc11,1,"Output/List_3/Nora_Lighting/NL-432BZ-V.jpg
 Output/List_3/Nora_Lighting/NL-432HZW-G-01.jpg
-Output/List_3/Nora_Lighting/NL-432WW-G-01.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
+Output/List_3/Nora_Lighting/NL-432WW-G-01.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1}","{""screened_no_obvious_mismatch"": 1}"
 DUP-9A75019906,9a75019906e53b27d46cc77536eab1551e1f56d8288a8232b09fe96a9fa4e975,1,"Output/List_1/Kuzco/LP18248-BN-UNV-V.jpg
 Output/List_1/Kuzco/LP18248-BN-V.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 1}","{""needs_reference_review"": 1}"
 DUP-9AA7AD6F35,9aa7ad6f3540ac51928bd386eed2a4dc59fdd9dc47f9dd8caf36e4197f25adcf,2,"Output/List_4/Lighting_Spot_26/LSS-MUDKIT-2-V.jpg
@@ -6253,7 +6253,7 @@ Output/List_1/ELCO_Lighting/EP836W-V.jpg","{""batch_group_visual_and_metadata_sc
 DUP-B018C94564,b018c9456426779d6357d1fcafa39da4cd53836aab767530ccfe7844f4235371,2,"Output/List_3/ELCO_Lighting/EL925KW-V.jpg
 Output/List_3/ELCO_Lighting/EL925W-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 2}","{""screened_no_obvious_mismatch"": 2}"
 DUP-B026220D2C,b026220d2c83aabaa734955a92647083363492269c393d5216652e95dfb863d4,2,"Output/List_1/Nora_Lighting/NLUD-T334B-OS-V.jpg
-Output/List_1/Nora_Lighting/NLUD-T334B-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_1/Nora_Lighting/NLUD-T334B-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1, ""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""screened_no_obvious_mismatch"": 1, ""pending"": 1}"
 DUP-B0302A707E,b0302a707ea34b87933dfd9d933d737c13eda99ce03cd467700935c7d41ab62a,19,"Output/List_3/ELCO_Lighting/E25TBZ-0324-V.jpg
 Output/List_3/ELCO_Lighting/E25TBZ-0327-V.jpg
 Output/List_3/ELCO_Lighting/E25TBZ-0330-V.jpg
@@ -6276,7 +6276,7 @@ Output/List_3/ELCO_Lighting/E25TBZ-11SD-V.jpg","{""batch_group_visual_and_metada
 DUP-B0CA60A2CE,b0ca60a2ce2e40285f7787c5921c563f2976597753c75dbca71449c2b92a81e3,1,"Output/List_3/Nora_Lighting/NM2-MLS2BB-G-01.jpg
 Output/List_3/Nora_Lighting/NM2-MLS2MPW-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
 DUP-B0E65FCD5E,b0e65fcd5e2cfc62667a5f02f6c9604d1e8178b2105b65442be6910da59a614b,2,"Output/List_1/Nora_Lighting/NLUD-2334W-OS-V.jpg
-Output/List_1/Nora_Lighting/NLUD-2334W-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_1/Nora_Lighting/NLUD-2334W-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1, ""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""screened_no_obvious_mismatch"": 1, ""pending"": 1}"
 DUP-B18C44E70C,b18c44e70c682997935e1ad41138712b5ca418c1bfdfff9e308b81e9be3a8f04,5,"Output/List_3/ELCO_Lighting/E36FB-0727-FC-V.jpg
 Output/List_3/ELCO_Lighting/E36FB-0730-FC-V.jpg
 Output/List_3/ELCO_Lighting/E36FB-0735-FC-V.jpg
@@ -6697,7 +6697,7 @@ Output/List_3/ELCO_Lighting/E36FB-1535-V.jpg
 Output/List_3/ELCO_Lighting/E36FB-1535D-W-V.jpg
 Output/List_3/ELCO_Lighting/E36FB-1540-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 11}","{""screened_no_obvious_mismatch"": 11}"
 DUP-BCA81952DE,bca81952dee41275b5aa62973bb29bb556c2c7b0f3be75ea0d853ee890b28cac,1,"Output/List_1/Nora_Lighting/NL-465B-V.jpg
-Output/List_1/Nora_Lighting/NL-465W-G-02.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
+Output/List_1/Nora_Lighting/NL-465W-G-02.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1}","{""screened_no_obvious_mismatch"": 1}"
 DUP-BCB013F55F,bcb013f55f3723aacfbc608265af18874457bb9c9dee0f8cd7f47d32b9977c82,6,"Output/List_2/Square_D/HOM230-V.jpg
 Output/List_2/Square_D/HOM235-V.jpg
 Output/List_2/Square_D/HOM260-V.jpg
@@ -6761,7 +6761,7 @@ Output/List_3/Westgate/CRLC-TRM-6A-V.jpg
 Output/List_3/Westgate/CRLC-TRM-6A-WH-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 4}","{""pending"": 4}"
 DUP-BEBDE500A7,bebde500a78bf48fbe14ee99dac0e0f7564886440d102a9db20c0893582caccc,3,"Output/List_3/Nora_Lighting/NIO-FMMR-1S-V.jpg
 Output/List_3/Nora_Lighting/NIO-FMMR-2S-V.jpg
-Output/List_3/Nora_Lighting/NIO-FMMR-4S-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 3}","{""pending"": 3}"
+Output/List_3/Nora_Lighting/NIO-FMMR-4S-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 3}","{""screened_no_obvious_mismatch"": 3}"
 DUP-BECFB458F5,becfb458f5f455911b35f61833078634e5326638232170cd8b3764dc64f91ec4,8,"Output/List_2/Morris/15283-V.jpg
 Output/List_2/Morris/15284-V.jpg
 Output/List_2/Morris/15285-V.jpg
@@ -7077,7 +7077,7 @@ Output/List_4/ELCO_Lighting/DRV9W-V.jpg","{""batch_group_visual_and_metadata_rev
 DUP-CA9023F33E,ca9023f33e5c926c4f825ec8e63233526f6256ad68dffe9eda9da41283994790,2,"Output/List_1/Nora_Lighting/NTL-151-2H-G-02.jpg
 Output/List_1/Nora_Lighting/NTL-151-G-01.jpg
 Output/List_1/Nora_Lighting/NTL-151B-2H-V.jpg
-Output/List_1/Nora_Lighting/NTL-151B-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_1/Nora_Lighting/NTL-151B-V.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 1, ""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""needs_reference_review"": 1, ""pending"": 1}"
 DUP-CAA1250BBF,caa1250bbf3a4f7adf03a08e93fbf38c1d173ee9fefde8227466798f90b2b4f2,2,"Output/List_2/Morris/36370-V.jpg
 Output/List_2/Morris/36380-V.jpg
 Output/List_2/Morris/36390-V.jpg","{""metadata_and_thumbnail_triage_reference_insufficient"": 2}","{""needs_reference_review"": 2}"
@@ -7246,7 +7246,7 @@ Output/List_1/Nora_Lighting/NRLIN-41030W-V.jpg
 Output/List_1/Nora_Lighting/NRLIN-41035A-G-01.jpg
 Output/List_1/Nora_Lighting/NRLIN-41035W-V.jpg
 Output/List_1/Nora_Lighting/NRLIN-41040A-G-01.jpg
-Output/List_1/Nora_Lighting/NRLIN-41040W-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 3}","{""pending"": 3}"
+Output/List_1/Nora_Lighting/NRLIN-41040W-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 3}","{""screened_no_obvious_mismatch"": 3}"
 DUP-CE2327E03C,ce2327e03c84bac881d3c2550528e9bc2a3dbe62378ff647ed6383eddc657fdf,6,"Output/List_2/Morris/91014-V.jpg
 Output/List_2/Morris/91016-V.jpg
 Output/List_2/Morris/91018-V.jpg
@@ -7459,7 +7459,7 @@ Output/List_1/Nora_Lighting/NLUD-8334W-G-01.jpg
 Output/List_1/Nora_Lighting/NLUD-8334W-OS-G-01.jpg
 Output/List_2/Nora_Lighting/NLUD-4334A-G-02.jpg
 Output/List_2/Nora_Lighting/NLUD-4334W-EM-V.jpg
-Output/List_2/Nora_Lighting/NLUD-8334A-G-01.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 4}","{""pending"": 4}"
+Output/List_2/Nora_Lighting/NLUD-8334A-G-01.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 2, ""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""screened_no_obvious_mismatch"": 2, ""pending"": 2}"
 DUP-D57E283E65,d57e283e651c6cf2489e1715e670b883f608f0b99d07e780c78f6defa2bad9b7,1,"Output/List_2/Morris/90941-V.jpg
 Output/List_2/Morris/90941B-V.jpg","{""metadata_and_thumbnail_triage_reference_insufficient"": 1}","{""needs_reference_review"": 1}"
 DUP-D59044457D,d59044457dcb822aa689037e6f79540c061abb52a0a40f2359597fa87a477abe,2,"Output/List_4/Lighting_Spot_26/LSH-G70-DC-10W3K-V.jpg
@@ -7549,7 +7549,7 @@ Output/List_3/ELCO_Lighting/E42PB-1540-V.jpg
 Output/List_3/ELCO_Lighting/E42PB-15SD-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 11}","{""screened_no_obvious_mismatch"": 11}"
 DUP-D7A57554AB,d7a57554abefab962423bca608a3c278709b51b37dd9f892a92483fa520dfb6e,3,"Output/List_3/Nora_Lighting/NIO-FMMR-1R-V.jpg
 Output/List_3/Nora_Lighting/NIO-FMMR-2R-V.jpg
-Output/List_3/Nora_Lighting/NIO-FMMR-4R-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 3}","{""pending"": 3}"
+Output/List_3/Nora_Lighting/NIO-FMMR-4R-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 3}","{""screened_no_obvious_mismatch"": 3}"
 DUP-D7BB4D4865,d7bb4d486577a652a61312e8de34c67274da0cc6ac1c3877b96f488d77fac73e,1,"Output/List_1/Kuzco/PD30505-BK-CL-UNV-V.jpg
 Output/List_1/Kuzco/PD30505-BK-CL-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1}","{""screened_no_obvious_mismatch"": 1}"
 DUP-D7E46F7EAA,d7e46f7eaaa7f5fe444126345af5a1f0153e912d74e262ca5922eb23cbf3cd78,3,"Output/List_3/Nora_Lighting/NT-341-V.jpg
@@ -8200,7 +8200,7 @@ Output/List_3/Focus_Industries/AL08SMDMS2L74COP-V.jpg
 Output/List_3/Focus_Industries/AL08SML12COP-V.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 4}","{""needs_reference_review"": 4}"
 DUP-E836384B44,e836384b444750a7854a224c6574c8e69e2f66775816413e362554f46616fe65,1,"Output/List_3/Nora_Lighting/NL-432BZ-G-01.jpg
 Output/List_3/Nora_Lighting/NL-432HZW-G-02.jpg
-Output/List_3/Nora_Lighting/NL-432WW-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
+Output/List_3/Nora_Lighting/NL-432WW-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1}","{""screened_no_obvious_mismatch"": 1}"
 DUP-E8363EF8D3,e8363ef8d3562f5b52d6d6adb22de036faa5d61ee101e0c131941c5b9abcbbbf,1,"Output/List_1/Kuzco/VL23524-BG-UNV-V.jpg
 Output/List_1/Kuzco/VL23524-BG-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1}","{""screened_no_obvious_mismatch"": 1}"
 DUP-E8661C2176,e8661c217618fbd15a1ff864612f47a2cea667c9463aaa4e0be1efed0d49ebf8,1,"Output/List_1/Kuzco/FM43518-BK-5CCT-V.jpg
@@ -8272,7 +8272,7 @@ Output/List_1/Nora_Lighting/NTRT-13W-G-01.jpg","{""thumbnail_screened_exact_SKU_
 DUP-E9057CEDF2,e9057cedf2b08ab15915752007b64cae639dc8b6ef614aac9ca40b93f1b6ead9,2,"Output/List_1/Nora_Lighting/NLUD-2334A-OS-V.jpg
 Output/List_1/Nora_Lighting/NLUD-2334B-G-01.jpg
 Output/List_1/Nora_Lighting/NLUD-2334B-OS-G-01.jpg
-Output/List_2/Nora_Lighting/NLUD-2334A-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_2/Nora_Lighting/NLUD-2334A-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1, ""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""screened_no_obvious_mismatch"": 1, ""pending"": 1}"
 DUP-E90D567EE7,e90d567ee77467a51a19a4e9b9f3a6634412e9e0469e3c9dff11b617d9dd760a,2,"Output/List_2/Square_D/QO1515-V.jpg
 Output/List_2/Square_D/QO1520-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
 DUP-E918EB3A72,e918eb3a72b9068665e60238701284fea92fd431db464af40365fe3b0ffb9d7a,1,"Output/List_2/Morris/38914-V.jpg
@@ -8306,7 +8306,7 @@ Output/List_3/Focus_Industries/PL24181L12WBR-G-01.jpg
 Output/List_3/Focus_Industries/PL24182L12BRT-V.jpg
 Output/List_3/Focus_Industries/PL24182L12WBR-G-01.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 2}","{""needs_reference_review"": 2}"
 DUP-E9E8EF2E79,e9e8ef2e79a92cf7b7e1a6fe2d02d7a38b5b025a063f199a9139848d32ca52c2,2,"Output/List_1/Nora_Lighting/NLUD-L334W-OS-V.jpg
-Output/List_1/Nora_Lighting/NLUD-L334W-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_1/Nora_Lighting/NLUD-L334W-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1, ""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""screened_no_obvious_mismatch"": 1, ""pending"": 1}"
 DUP-EA227E2A95,ea227e2a95dc4de2a8c81c62915d707de700146eec145977b5298a15275d24a9,1,"Output/List_2/Utopia_Lighting/Cube2-NRC-HC90-V.jpg
 Output/List_2/Utopia_Lighting/Cube2-NRC-HC90Surface-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
 DUP-EA259CCFA4,ea259ccfa40336b2133c2346c510b693e978dca0982648e2f9812660939e2580,1,"Output/List_1/Alora_Mood/FM503715AG-5CCT-V.jpg
@@ -8534,7 +8534,7 @@ Output/List_1/Alora_Mood/FM479020RB-V.jpg","{""group_finish_screen_and_ordering_
 DUP-F1B877A1B2,f1b877a1b226397b1b979ce5775ca4c72feaf0387f0159405ba0e1dfef8f1018,2,"Output/List_1/Nora_Lighting/NTL-158-G-02.jpg
 Output/List_1/Nora_Lighting/NTL-158B-4H-V.jpg
 Output/List_1/Nora_Lighting/NTL-158B-V.jpg
-Output/List_2/Nora_Lighting/NTL-158N-G-02.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_2/Nora_Lighting/NTL-158N-G-02.jpg","{""batch_group_visual_and_metadata_review_reference_insufficient"": 1, ""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""needs_reference_review"": 1, ""pending"": 1}"
 DUP-F1E586E4FB,f1e586e4fbb4bb0136fd1a616456ba7d66a1e87eb718a4d75d0195e23ec9a97e,4,"Output/List_3/ELCO_Lighting/E25TW-0730-FC-12-V.jpg
 Output/List_3/ELCO_Lighting/E25TW-0730-FC-V.jpg
 Output/List_3/ELCO_Lighting/E25TW-0740-FC-V.jpg
@@ -8553,7 +8553,7 @@ Output/List_1/Nora_Lighting/NLUD-X334B-OS-V.jpg
 Output/List_1/Nora_Lighting/NLUD-X334B-V.jpg
 Output/List_1/Nora_Lighting/NLUD-X334W-G-01.jpg
 Output/List_1/Nora_Lighting/NLUD-X334W-OS-G-01.jpg
-Output/List_2/Nora_Lighting/NLUD-X334A-G-01.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_2/Nora_Lighting/NLUD-X334A-G-01.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1, ""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""screened_no_obvious_mismatch"": 1, ""pending"": 1}"
 DUP-F2842C83BA,f2842c83ba9a0f106c9368119f54e1cc135e841173995279722460076d022ab4,11,"Output/List_1/ELCO_Lighting/E1AK02F27W-V.jpg
 Output/List_1/ELCO_Lighting/E1AK02NF27W-V.jpg
 Output/List_1/ELCO_Lighting/E1AK02NF30W-V.jpg
@@ -8899,7 +8899,7 @@ Output/List_3/ELCO_Lighting/E2L19WF27W-V.jpg
 Output/List_3/ELCO_Lighting/E2L19WF30W-V.jpg
 Output/List_3/ELCO_Lighting/E2L19WF40W-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 5}","{""screened_no_obvious_mismatch"": 5}"
 DUP-FD181E273E,fd181e273ea46c7d2847b122cb170b9c8999604b06e0292d4949ea38b414a9c7,1,"Output/List_3/Nora_Lighting/NL-401AT-1EL-G-01.jpg
-Output/List_3/Nora_Lighting/NL-401QAT-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""pending"": 1}"
+Output/List_3/Nora_Lighting/NL-401QAT-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1}","{""screened_no_obvious_mismatch"": 1}"
 DUP-FD1BB7C379,fd1bb7c37937ed965d6cc34f1e5a27fca94326a643d6e07596c45c251876f590,21,"Output/List_2/Morris/94076-V.jpg
 Output/List_2/Morris/94078-V.jpg
 Output/List_2/Morris/94082-V.jpg
@@ -8956,7 +8956,7 @@ Output/List_1/Nora_Lighting/NRLIN-21030W-V.jpg
 Output/List_1/Nora_Lighting/NRLIN-21035A-G-01.jpg
 Output/List_1/Nora_Lighting/NRLIN-21035W-V.jpg
 Output/List_1/Nora_Lighting/NRLIN-21040A-G-01.jpg
-Output/List_1/Nora_Lighting/NRLIN-21040W-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 3}","{""pending"": 3}"
+Output/List_1/Nora_Lighting/NRLIN-21040W-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 3}","{""screened_no_obvious_mismatch"": 3}"
 DUP-FDA6C62CC5,fda6c62cc5b7b9e96cc7cd224af54bfa55dc7a0204a3405ff2b2c3ae2c9ddc2c,3,"Output/List_2/Utopia_Lighting/Cube4-RGBWSuspended-V.jpg
 Output/List_2/Utopia_Lighting/Cube4-TWAthenaSuspended-V.jpg
 Output/List_2/Utopia_Lighting/Cube4-TWSuspended-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 3}","{""pending"": 3}"
@@ -9020,7 +9020,7 @@ Output/List_1/Nora_Lighting/NLUD-X334B-G-01.jpg
 Output/List_1/Nora_Lighting/NLUD-X334B-OS-G-01.jpg
 Output/List_1/Nora_Lighting/NLUD-X334W-G-02.jpg
 Output/List_1/Nora_Lighting/NLUD-X334W-OS-G-02.jpg
-Output/List_2/Nora_Lighting/NLUD-X334A-V.jpg","{""thumbnail_screened_exact_SKU_validation_pending"": 2}","{""pending"": 2}"
+Output/List_2/Nora_Lighting/NLUD-X334A-V.jpg","{""batch_group_visual_and_metadata_screened_technical_QC_pending"": 1, ""thumbnail_screened_exact_SKU_validation_pending"": 1}","{""screened_no_obvious_mismatch"": 1, ""pending"": 1}"
 DUP-FEDF0DAE3B,fedf0dae3b4e90c47e5bfacf24bd43b484365d56f26a7db6310167d36b95411b,6,"Output/List_3/Focus_Industries/HW1210700120LED-V.jpg
 Output/List_3/Focus_Industries/HW121070012LED-V.jpg
 Output/List_3/Focus_Industries/HW1220700277LED-V.jpg
